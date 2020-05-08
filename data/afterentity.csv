@@ -1,0 +1,487 @@
+,entity,prev,tag,correct
+0,Prantsusmaal,kunstnik,B-LOC,0
+1,Kuldgloobusele,lavastaja,B-ORG,0
+2,Lond,direktor,B-ORG,1
+3,Xy,vennad,B-ORG,1
+4,Väino,direktor,B-ORG,1
+5,Prantsusmaalt Lyoni Kõrgemast Riiklikust,helilooja,B-LOC,2
+6,Eestis Larry W. Guderjohn,juht,B-LOC,2
+7,Eesti Ekspressi,linnapea,B-ORG,0
+8,Eesti,liige,B-LOC,0
+9,Raplamaalt,proua,B-LOC,0
+10,Rastrelli,arhitekt,B-ORG,1
+11,Neeme Kuningast,lavastaja,B-ORG,1
+12,AM-le,ärimees,B-ORG,0
+13,AM,härra,B-ORG,0
+14,Nõmme,liige,B-LOC,0
+15,Reede,Vesta,I-ORG,0
+16,Eesti Vabariigis,president,B-LOC,0
+17,Schumanni,helilooja,B-ORG,1
+18,Järve,hr,B-LOC,1
+19,Meri,hr,I-LOC,1
+20,EEK,8,B-ORG,0
+21,Rein Oja Eesti Näitlejate,liige,B-ORG,2
+22,Kalev Rattus Autorite Ühingust,lisab,B-ORG,2
+23,L. Allingu Politseikolledzhi,direktor,B-ORG,0
+24,Riigikogu,president,B-ORG,0
+25,Kristiine KVH,seletab,B-ORG,0
+26,Venemaa,professor,B-LOC,0
+27,Rein Oselin,hr,B-ORG,1
+28,Carteri,President,B-ORG,1
+29,Zilmer Merimetsa haiglast,dr,B-ORG,2
+30,Q ”,härra,B-ORG,1
+31,Tšernomõrdin,peaminister,B-LOC,1
+32,Euroopa Õlletarvitajate Ühenduse,liige,B-ORG,0
+33,Reest,Vesta,I-PER,2
+34,Mäesalu EEle,dr,B-ORG,2
+35,Saarma,dr,B-ORG,1
+36,S-i,ärimees,B-ORG,1
+37,S,ärimees,B-ORG,1
+38,Eestis,kunstnik,B-LOC,0
+39,Blaadiga,fotograaf,B-ORG,1
+40,Langenhani,proua,B-ORG,1
+41,Lvov,dr,B-LOC,1
+42,Noormets,Lavastaja,I-PER,2
+43,Justiitsministeerium,toimetaja,B-ORG,0
+44,Soome,ajakirjanik,B-LOC,0
+45,Leedu,abikaasa,B-LOC,0
+46,Euroopa Nõukogu Parlamentaarses Assamblees,juht,B-ORG,0
+47,Moskvas,kindral,B-LOC,0
+48,Gordon,isa,I-PER,2
+49,Al Fayed,isa,B-ORG,1
+50,EKP Keskkomitees,juhataja,B-ORG,0
+51,Inglismaalt Isaac Julien,lavastaja,B-LOC,2
+52,Kurkse,poeg,B-LOC,0
+53,Eesti,direktor,B-LOC,0
+54,Keskerakonna,tegevdirektor,B-ORG,0
+55,Venezuelas,liige,B-LOC,0
+56,Q ”,härra,B-ORG,1
+57,Eesti Maapanga,ärimees,B-ORG,0
+58,Olli,peadirektor,B-LOC,1
+59,Pärnale,kindral,B-LOC,1
+60,Per Olov Enquist,kirjanik,B-ORG,1
+61,Strasbourg'ist,abikaasa,B-LOC,0
+62,TK,lisab,B-ORG,2
+63,Siimann,hr,I-PER,1
+64,N riigi,president,B-LOC,0
+65,Lähis-Ida,8,B-LOC,0
+66,Soome,seletab,B-LOC,0
+67,Radeki,kindral,B-LOC,1
+68,Eesti,ajakirjanik,B-LOC,0
+69,Kiiri Vasar,juhataja,B-ORG,1
+70,Roosimaa,esimees,B-ORG,1
+71,Balti-Prantsuse-Põhjamaade,liige,B-LOC,0
+72,Eestil,abilinnapea,B-LOC,0
+73,Alamkolka külas,lavastaja,B-LOC,0
+74,Madridi Eesti,tütar,B-LOC,0
+75,Eesti valitsus,juht,B-ORG,0
+76,Tallinna,kirjanik,B-LOC,0
+77,Q ”,härra,B-ORG,1
+78,Q ”,härra,B-ORG,1
+79,Eesti Turismifirmade Liidu,tegevdirektor,B-ORG,0
+80,Vt EE,president,B-ORG,2
+81,Lepp,hr,B-LOC,1
+82,Q ”,härra,B-ORG,1
+83,Rein Niitsoo Toyota Camry,advokaat,B-ORG,2
+84,"Ph .D. Andrus Saar",direktor,B-LOC,1
+85,Toome,dr,B-LOC,1
+86,Estonia teatrit,juht,B-ORG,0
+87,Silja Kullamaale,dr,B-ORG,1
+88,Kullamaa ega Mustamäe haigla,dr,B-ORG,2
+89,Larka,kindral,B-LOC,1
+90,A. Lepik,Lavastaja,I-PER,1
+91,Hans-Jürgen,abikaasa,B-ORG,1
+92,Vt Kölni,professor,B-ORG,2
+93,Finnegani,kapten,B-ORG,1
+94,Davrose,juhi,B-LOC,1
+95,Aleksander Liivamägi .,direktor,B-ORG,1
+96,Poola,toimetaja,B-LOC,0
+97,Tartust,ajakirjanik,B-LOC,0
+98,Tallinnas,ärimees,B-LOC,0
+99,Tallinn,esimees,B-LOC,0
+100,Pino,hr,I-PER,2
+101,TV,toimetaja,B-ORG,0
+102,Indoneesia,poeg,B-LOC,0
+103,Tallinna,kirjanik,B-LOC,0
+104,V. Viiese,juhataja,B-LOC,1
+105,Vene,toimetaja,B-LOC,2
+106,Eugenia,proua,B-LOC,1
+107,Goldarbeiter Eesti,ärimees,B-ORG,0
+108,Tallinnas,direktor,B-LOC,0
+109,Mal le Aleksius,pressiesindaja,B-ORG,1
+110,VR,direktor,B-ORG,0
+111,R,härra,B-ORG,1
+112,Virginia,abikaasa,B-LOC,1
+113,ELK,lisab,B-ORG,0
+114,Rancoriga,kindral,B-LOC,1
+115,New Yorgis,professor,B-LOC,0
+116,Varesest Aadria merelt,doktor,B-LOC,0
+117,Eesti,juhataja,B-LOC,0
+118,Eestis,ajakirjanik,B-LOC,0
+119,Tallinna,8,B-LOC,0
+120,Eesti Loto,asetäitja,B-ORG,0
+121,Riigikogu,autor,B-ORG,0
+122,Ühendriikide,linnapea,B-LOC,0
+123,Peterburist,abikaasa,B-LOC,0
+124,ÜPId,asetäitja,B-ORG,0
+125,Haldo Oravas,arhitekt,B-LOC,0
+126,J,kirjanik,B-ORG
+127,Mustimetsa,härra,B-ORG
+128,Eestis,liige,B-LOC
+129,Ülemkohtu reformi,president,B-ORG
+130,Lydiaga,abikaasa,B-LOC
+131,New Yorgis,vend,B-ORG
+132,Hiiumaalt,ajakirjanik,B-LOC
+133,Keskkriminaalpolitsei,president,B-ORG
+134,Reest,Vesta,I-PER
+135,Draganil,isa,B-LOC
+136,Lp. Eesti Ekspressi toimetus,esimees,B-ORG
+137,Eesti Politsei,autor,B-ORG
+138,Eestis,president,B-LOC
+139,Riigikogus,juht,B-ORG
+140,Hennoste,härra,B-ORG
+141,Tallinnas,direktor,B-LOC
+142,Eesti Röntgenfilmi,seletab,B-ORG
+143,Hansapanga,lisab,B-ORG
+144,Stockholmi Ülikoolis,seletab,B-ORG
+145,Barcelonast,abikaasa,B-LOC
+146,Rednar Annuse haigla,näitleja,B-ORG
+147,Tartus,kunstnik,B-LOC
+148,Eesti Ekspress Narva mnt,juhataja,B-LOC
+149,NATO,president,B-ORG
+150,Kruuda,härra,B-LOC
+151,Šveitsi,presidendi,B-LOC
+152,Kärmasel,hr,B-LOC
+153,Irnesse Kapitali,lisab,B-ORG
+154,T. H. Varres,fotograaf,B-LOC
+155,ASi Hekate,sõnab,B-ORG
+156,Tammiste haiglasse,hr,B-ORG
+157,Kadriorgu,juhataja,B-ORG
+158,Uus-Meremaa,lisab,B-LOC
+159,Oscari,näitleja,B-LOC
+160,Soomest Peter Tallberg,liige,B-LOC
+161,Gareth Jones,ajakirjanik,B-ORG
+162,Rein Loigu,direktori,B-ORG
+163,Rein Agur,Lavastaja,B-ORG
+164,Ene-Maris Tali,lavastaja,B-ORG
+165,Kink,ärimees,B-LOC
+166,Arvi Kingi,ärimees,B-ORG
+167,Eestis,juhataja,B-LOC
+168,Marita Jonssonile,proua,B-ORG
+169,Eestis,abikaasa,B-LOC
+170,Polaris-Elu,7,B-ORG
+171,Nordika-Elu,8,B-ORG
+172,ametist,linnapea,I-ORG
+173,Ra Luhse,arhitekt,B-ORG
+174,Eesti Telefon,lisab,B-ORG
+175,Masa,rezhissöör,B-LOC
+176,Tartu Ülikooli Naistekliiniku,president,B-ORG
+177,Eestis,juht,B-LOC
+178,Jussi Peitsara,direktor,B-ORG
+179,FC Flora,lisab,B-ORG
+180,Soomes,esimees,B-LOC
+181,Eisenhoweri,kindral,B-LOC
+182,Saksa,seletab,B-LOC
+183,Eesti,peaminister,B-LOC
+184,Põhja- Hispaanias,tütar,B-LOC
+185,Kaumannile,hr,I-ORG
+186,Peipsi Järv,välisminister,B-LOC
+187,Aleksandril,isa,B-LOC
+188,A :,ärimees,B-ORG
+189,Nõukogu AARE URM,president,B-LOC
+190,Soomes,toimetaja,B-LOC
+191,L-i,doktor,B-ORG
+192,Martti Preem,arhitekt,B-ORG
+193,Iisak,poeg,B-LOC
+194,Eesti Panka,advokaat,B-ORG
+195,Eesti,president,B-LOC
+196,Londonisse,professor,B-LOC
+197,RIME Kinnisvara,sõnab,B-ORG
+198,ASi Ühinenud Meiereid,lisab,B-ORG
+199,Kolumbiast,isa,B-LOC
+200,Hansapangast,liige,B-ORG
+201,Eesti Panga,sõnab,B-ORG
+202,Eesti,seletab,B-LOC
+203,Reutersile,esimees,B-ORG
+204,Lennonina,proua,B-LOC
+205,Pariisis,vend,B-LOC
+206,HS,hr,B-ORG
+207,Q ”,härra,B-ORG
+208,Hiiumaa,sõnab,B-LOC
+209,Mõtsküla,doktor,B-LOC
+210,Q Desmond Llewelyniga,härra,B-ORG
+211,Eesti Vabariigi,tütar,B-LOC
+212,Rooma,abikaasa,B-LOC
+213,Platon,isa,B-ORG
+214,Treffneri gümnaasium,direktor,B-ORG
+215,Washingtonis,abikaasa,B-LOC
+216,Kalevi Kulli,professor,B-ORG
+217,NYPD,7,B-ORG
+218,Ungari,7,B-LOC
+219,Tšehhimaa,8,B-LOC
+220,Johan,isa,I-PER
+221,Venemaa,peaminister,B-LOC
+222,Vene,isa,B-LOC
+223,Mehhiko,president,B-LOC
+224,Rein,isa,I-PER
+225,Tallinna,sõnab,B-LOC
+226,ROHELISE maja,seletab,B-ORG
+227,Soome,isa,B-LOC
+228,Tartu,isa,B-LOC
+229,Ameerika Ühendriikides Amhersti linnas,kirjanik,B-LOC
+230,Kalvi Voolaiu büroos,arhitekt,B-ORG
+231,MB ATI Rage,8,B-ORG
+232,MB ATI Rage,8,B-ORG
+233,MB,8,B-ORG
+234,N. Moreido,Lavastaja,I-PER
+235,Laidonerile,kindral,B-LOC
+236,ASi Tartu Autoremonditehas,lisab,B-ORG
+237,Üleliidulise Juriidilise Kaugõppeinstituudi,isa,B-ORG
+238,Vene,härra,B-LOC
+239,Ekspressile,tütar,B-ORG
+240,Tallinna hooldushaiglasse,isa,B-ORG
+241,QTS Kaubanduse,sõnab,B-ORG
+242,Venemaal,ärimees,B-LOC
+243,Tuomikoski,härra,B-LOC
+244,The Sunday Timesile,ärimees,B-ORG
+245,Tamjärve koolile,härra,B-ORG
+246,Lvov,ärimees,B-LOC
+247,AEFi,sõnab,B-ORG
+248,Ameerikast,professor,B-LOC
+249,Thatchergi,proua,B-LOC
+250,DK Matai,tegevdirektor,B-ORG
+251,Iisraelis,toimetaja,B-LOC
+252,MB,8,B-ORG
+253,Eestisse,poeg,B-LOC
+254,Raukas,professor,B-ORG
+255,Eestis,liige,B-LOC
+256,Eesti Telefoni,esimees,B-ORG
+257,Soomest,juhataja,B-LOC
+258,PC,esimees,B-ORG
+259,Rein Niitsoo,advokaat,B-ORG
+260,Christo,kunstnik,B-LOC
+261,Jeanne-Claude'iga,abikaasa,B-LOC
+262,Tunsi,hr,B-LOC
+263,Eensalu,doktor,B-LOC
+264,Tallinnas,juhataja,B-LOC
+265,Tartu Ülikoolis,professor,B-ORG
+266,Meri,hr,B-LOC
+267,Valgevene Venemaaga,president,B-LOC
+268,Pärnu Postimehele,linnapea,B-ORG
+269,Ng Cheng Siong,juhataja,B-ORG
+270,Eestis,juht,B-LOC
+271,Muntersi,välisminister,B-ORG
+272,Rio de Janeiro,8,B-LOC
+273,Tallinna,tütar,B-LOC
+274,Eesti,toimetaja,B-LOC
+275,Stockholmi,liige,B-LOC
+276,Pärnu,8,B-LOC
+277,Z,juhataja,B-ORG
+278,Tšetšeenia,ajakirjanik,B-LOC
+279,Malmerk Alumiiniumi,seletab,B-ORG
+280,Landsbergi vangla,autor,B-ORG
+281,Kosovo,8,B-LOC
+282,Euroopa,juht,B-LOC
+283,Varblase kohvikus,lavastaja,B-ORG
+284,Tamjärve erakoolist,härra,B-ORG
+285,Eestis,president,B-LOC
+286,Pariisis,kunstnik,B-LOC
+287,Pariisis,kunstnik,B-LOC
+288,Montezuma,juhi,B-ORG
+289,Eestis,esimees,B-LOC
+290,Soomes,seletab,B-LOC
+291,Soome ELi,välisminister,B-ORG
+292,Ventspilsi,linnapea,B-LOC
+293,Burgundia,lisab,B-LOC
+294,Eesti Õigusjärgsete Omanike Liidu,sõnab,B-ORG
+295,Pätsi,President,B-LOC
+296,St .,kunstnik,B-ORG
+297,Apananski,hr,B-LOC
+298,Rein Rebase ja kooli,direktori,B-ORG
+299,Eestis,direktor,B-LOC
+300,Eesti,isa,B-LOC
+301,Saksa,autor,B-LOC
+302,H,ärimees,B-ORG
+303,ERA Panga,kunstnik,B-ORG
+304,Bob,isa,I-PER
+305,Reest,Vesta,I-PER
+306,Piirimäe,hr,B-LOC
+307,Tallinna,asetäitja,B-LOC
+308,Põhja-Aafrikasse,juht,B-LOC
+309,Fusiga,hr,B-LOC
+310,Ameerikasse,president,B-LOC
+311,James Maas,autor,B-ORG
+312,Keskküla,kunstnik,B-LOC
+313,Estonian Airi,juhi,B-ORG
+314,Eesti Teadusfondi,sõnab,B-ORG
+315,Holland,7,B-LOC
+316,Eesti,8,B-LOC
+317,Tartus,juht,B-LOC
+318,Eesti,seletab,B-LOC
+319,Lota,tütar,B-LOC
+320,Rein,ärimees,B-ORG
+321,Saksamaal,professor,B-LOC
+322,Venseli,härra,B-LOC
+323,Eestis,professor,B-LOC
+324,Aleksander Lõhmus Tartu Maarjamõisa,doktor,B-ORG
+325,Talv,kindral,B-ORG
+326,Austraalia,isa,B-LOC
+327,Eesti,esimees,B-LOC
+328,Pärnus,juhataja,B-LOC
+329,Võssotskaja,proua,B-ORG
+330,Lu,linnapea,B-ORG
+331,Iisraelis,president,B-LOC
+332,Eesti,direktor,B-LOC
+333,Vaasas,isa,B-LOC
+334,Eesti,8,B-LOC
+335,Eesti Pangale,juht,B-ORG
+336,Uku Põllumaa,arhitekt,B-ORG
+337,Tamjärve kooli,isa,B-ORG
+338,Prommikul,ajakirjanik,B-LOC
+339,Mauritiuse Instituudi,professor,B-ORG
+340,Nõukogude Liidus,toimetaja,B-LOC
+341,Eenmaa,proua,B-LOC
+342,Taanist,ärimees,B-LOC
+343,Pärnale,kindral,B-LOC
+344,Norra,liige,B-LOC
+345,Võrtsjärve limnoloogiajaama,sõnab,B-ORG
+346,Hr Ulusoy,juht,B-ORG
+347,Venemaa,kirjanik,B-LOC
+348,Eestimaa,vend,B-LOC
+349,Ojamaa,kapten,B-LOC
+350,Réserve du Général,vennad,B-ORG
+351,Ilves,proua,B-LOC
+352,Albus Dumbledore'iga,professor,B-LOC
+353,Viljandi politseile,isa,B-ORG
+354,Volgogradi RBP,sõnab,B-ORG
+355,Sulev Kooli,pressiesindaja,B-ORG
+356,Albus Dumbledore,direktor,B-LOC
+357,Eesti,näitleja,B-LOC
+358,WW Passaazh,juhataja,B-ORG
+359,Wu,lisab,B-ORG
+360,Berezovski,härra,I-PER
+361,Delfi,lisab,B-ORG
+362,Emajõel,asetäitja,B-LOC
+363,Valges Majas,isa,B-ORG
+364,Rosina,tütar,B-LOC
+365,Eesti Ekspress,pressiesindaja,B-ORG
+366,Higginsina,professor,B-LOC
+367,Ye Taod,ärimees,B-ORG
+368,New Yorgist,poeg,B-ORG
+369,Arunas,poeg,B-LOC
+370,Wris Toursi,lisab,B-ORG
+371,Nigul Saar Paul Varuli,advokaat,B-LOC
+372,Nigul Saar,advokaat,B-LOC
+373,Moskva,kirjanik,B-LOC
+374,Neivelti,hr,B-LOC
+375,Tartu ülikooli,seletab,B-ORG
+376,Prantsusmaal,advokaat,B-LOC
+377,Vaba maa,arhitekt,B-ORG
+378,Eisenhower,kindral,B-LOC
+379,Rydz-Smigly,kindral,B-LOC
+380,IDEESTUUDIOS,fotograaf,B-ORG
+381,Estoniya'st,ajakirjanik,B-ORG
+382,Kunila Liviko,seletab,B-ORG
+383,Nuu,härra,B-LOC
+384,Hollandi,isa,B-LOC
+385,Piritalt Topi,fotograaf,B-ORG
+386,S,doktor,B-ORG
+387,S,doktor,B-ORG
+388,ENSV Toiduainetetööstuse KTB Reklaamiosakonnas,fotograaf,B-ORG
+389,Tallinna Sadama,ärimees,B-ORG
+390,Ruus,härra,B-LOC
+391,Ruus,härra,B-LOC
+392,Soomet,kunstnik,B-LOC
+393,Jochen Kress,isa,B-ORG
+394,Rõõm,liige,B-LOC
+395,Hansapank,autor,B-ORG
+396,Soome TVs,isa,B-ORG
+397,USA,8,B-LOC
+398,San Diegos haiglasse,isa,B-ORG
+399,Eesti Vabariigil,toimetaja,B-LOC
+400,Tallinnas,poeg,B-LOC
+401,Kaddafi,juhi,B-LOC
+402,Keskkriminaalpolitseis Ralf Palo,asetäitja,B-ORG
+403,Ameerikasse,professor,B-LOC
+404,Linda,proua,B-LOC
+405,Lindal,proua,B-LOC
+406,Linda,proua,B-LOC
+407,Leida,proua,B-LOC
+408,Hollandis,vend,B-LOC
+409,Eestile Liisa Pakosta,president,B-LOC
+410,Kommunistlikus Ülikoolis,juhataja,B-ORG
+411,Leningradi,juhataja,B-LOC
+412,Hanschmidti,härra,B-LOC
+413,Franc Pairon Institut Francais,liige,B-ORG
+414,QB's Finest,7,B-ORG
+415,Ilvese,välisminister,B-LOC
+416,A. Larka,kindral,B-LOC
+417,Lepik,dr,B-LOC
+418,Lepik,dr,B-LOC
+419,Whirlpool Productions,8,B-ORG
+420,Stenbocki,autor,B-ORG
+421,Eesti Kunstiakadeemias,kunstnik,B-ORG
+422,Parbo Juchnewitchi,direktori,B-ORG
+423,EBRD,president,B-ORG
+424,ISPAT International,peadirektor,B-ORG
+425,RZB,esimees,B-ORG
+426,TAAVET KõRKJAS,8,B-ORG
+427,Tartu ülikoolis,lisab,B-ORG
+428,Idas,vennad,B-LOC
+429,Terese,proua,B-ORG
+430,Keskkriminaalpolitseis,asetäitja,B-ORG
+431,Tallinnas,advokaat,B-LOC
+432,Eestis,ärimees,B-LOC
+433,EVs,kunstnik,B-ORG
+434,Heegi,hr,B-LOC
+435,Bordeaux ' messile,direktor,B-ORG
+436,Eesti,isa,B-LOC
+437,Mehhiko,president,B-LOC
+438,Soomest,peadirektor,B-LOC
+439,Ameerikas,autor,B-LOC
+440,Reino,isa,I-PER
+441,Eestist,ajakirjanik,B-LOC
+442,Tiibeti,president,B-LOC
+443,Ojars Arvids Feldbergsiga,kunstnik,B-ORG
+444,Atalja,tütar,B-ORG
+445,Eltoni,lisab,B-ORG
+446,Lätis,advokaat,B-LOC
+447,Ferrari,doktor,B-ORG
+448,Faust,doktor,B-ORG
+449,Sukles,linnapea,B-LOC
+450,Helen Cooper Oxfordi ülikoolist,professor,B-ORG
+451,Octavianus,poeg,B-LOC
+452,Wu,härra,B-ORG
+453,Hu'st,proua,B-LOC
+454,Hu,proua,B-ORG
+455,Hu,proua,B-ORG
+456,Eesti,ajakirjanik,B-LOC
+457,BMW,linnapea,B-ORG
+458,Harju,esimees,B-LOC
+459,Brody,professor,B-ORG
+460,Briti parlamendi,kapten,B-ORG
+461,Sulev Vedler,toimetaja,B-ORG
+462,Rootsi,isa,B-LOC
+463,Varssavi ülikooli,isa,B-ORG
+464,Eesti Ekspress,esimees,B-ORG
+465,Eesti-Araabia Selts,esimees,B-ORG
+466,"Hm .
+Hm .
+Araabia",kunstnik,B-LOC
+467,Eestis,vennad,B-LOC
+468,Soomes,vend,B-LOC
+469,Da Muttz,7,B-ORG
+470,Pärnu,vend,B-LOC
+471,I,esimehe,B-ORG
+472,Tartu vald Harald Raukas,juhataja,B-LOC
+473,Jõgeva,vend,B-LOC
+474,Metsiku Lääne,vend,B-LOC
+475,Brainstorm,näitleja,B-ORG
+476,Ekspressi,poeg,B-ORG
+477,Tallinnas,kirjanik,B-LOC
+478,NATO,seletab,B-ORG
+479,Issidori,vend,B-LOC
+480,Casagrande,kunstnik,B-ORG
+481,Savi,hr,I-PER
+482,I,ajakirjanik,B-ORG
+483,Soome TVs,peaminister,B-ORG

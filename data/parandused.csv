@@ -1,0 +1,570 @@
+,entity,hypotees,margendatud,text,correct
+0,Pirita-Kosel,PER,LOC,ema,1
+1,Eesti Raudtee,LOC,ORG,suurima,2
+2,Lepik,PER,LOC,ütles,1
+3,Sõnumilehes,PER,ORG,kinnitab,2
+4,EE,PER,ORG,ise,2
+5,Keskerakonna,LOC,ORG,linnapea,2
+6,Riigikogu,LOC,ORG,suurima,2
+7,Võrtsjärv,PER,LOC,meenutab,2
+8,Eesti riik,PER,LOC,tunnistab,2
+9,EEle,PER,ORG,ütles,2
+10,Telia,PER,ORG,ise,2
+11,Riigikogu,PER,ORG,kinnitab,2
+12,ArcoVara,ORG,PER,juhatuse,1
+13,Aftenposten,PER,ORG,ütles,2
+14,Dvigateli,ORG,PER,nõukogu,1
+15,Tallinna,ORG,LOC,juhatuse,2
+16,Tallinn,ORG,LOC,liige,2
+17,Tallinna,ORG,LOC,liige,2
+18,Darmody Seene,PER,ORG,sõnul,1
+19,Metsamaa,PER,LOC,ise,1
+20,Jaak Peterson Tartu-Riia,LOC,PER,maanteel,3
+21,PEP,PER,ORG,ise,3
+22,EM,PER,ORG,ise,2
+23,Koonderakond,PER,ORG,ise,2
+24,Koonderakond,PER,ORG,ise,2
+25,Rahumaa Cresco Väärtpaberitest,PER,ORG,ütleb,3
+26,Voldemar Lapin,ORG,PER,peadirektor,2
+27,Eesti,ORG,LOC,peadirektor,2
+28,Eesti Näitlejate Liit,PER,ORG,tunnistab,2
+29,ENL,PER,ORG,tunnistab,2
+30,Riigipank,PER,ORG,ise,2
+31,Tallinna Soojus,PER,ORG,ise,2
+32,Trondheimis,PER,LOC,ema,2
+33,Ko,PER,ORG,kinnitab,2
+34,Norra,PER,LOC,ema,2
+35,Dr Zilmer,PER,ORG,ütleb,1
+36,Kommersant Daily,PER,ORG,ütleb,2
+37,Koonderakond,PER,ORG,ise,2
+38,The Economist,PER,ORG,ütleb,2
+39,Silmeti,ORG,LOC,juhatuse,1
+40,Floridas,LOC,ORG,elav,1
+41,KGBle,PER,ORG,ise,2
+42,KGBle,PER,ORG,rääkis,2
+43,Siimann,LOC,PER,linnapea,2
+44,Saku,PER,LOC,ise,2
+45,Hr Kiisler,PER,ORG,usub,1
+46,ESCO Holdingi,LOC,ORG,suurima,2
+47,Saksamaa,PER,LOC,ise,2
+48,Puiga külast,PER,LOC,rääkis,2
+49,Kapo,PER,ORG,sõnul,2
+50,Vana Kunst,PER,ORG,ise,2
+51,Keskkonnaministeerium,PER,ORG,tunnistab,2
+52,Eesti,PER,LOC,ütles,2
+53,Menšikovidest,LOC,PER,pärit,2
+54,Vaba Lava,LOC,ORG,kesklinnas,2
+55,Price Waterhouse,ORG,PER,nõukogu,1
+56,KTK Overall Haameri,PER,ORG,sõnul,2
+57,Soome politsei,PER,ORG,kinnitab,2
+58,JP,PER,ORG,abikaasa,3
+59,SS,PER,ORG,ise,3
+60,Tallinna Lilleküla Keskkoolist,PER,ORG,ütles,2
+61,Riho Polli,ORG,PER,juhatuse,2
+62,Kuperjanovi,LOC,PER,elav,3
+63,Eesti Pank,PER,ORG,kinnitab,2
+64,Tallinnas Tšekunovi,PER,ORG,abikaasa,3
+65,MacArthuri,LOC,PER,maantee,2
+66,Tallinna politseiprefektuur,PER,ORG,ise,2
+67,Sumoliidust,LOC,ORG,pärit,2
+68,JT,PER,ORG,ise,3
+69,JT,PER,ORG,kinnitab,3
+70,JT,PER,ORG,ise,3
+71,Maarja-Liisi,PER,LOC,ema,1
+72,Pr Eetla,PER,ORG,ise,1
+73,Tallink-Finlandi,ORG,LOC,juhataja,1
+74,Nõukogu,ORG,LOC,esimees,1
+75,Nõukogu,ORG,LOC,esimees,1
+76,SE-Bankeni,ORG,LOC,juhataja,1
+77,Fripp,PER,ORG,ise,1
+78,Piirivalveameti,LOC,ORG,piiri,2
+79,Euroopa,PER,LOC,meenutab,2
+80,QT,PER,ORG,ise,2
+81,Karu,ORG,LOC,juhataja,3
+82,Elina,ORG,PER,juhatuse,2
+83,Elina,ORG,PER,juhataja,2
+84,Kraftist Elina,ORG,PER,nõukogu,3
+85,Nõukogu,ORG,LOC,esimees,1
+86,Nõukogu,ORG,LOC,liige,1
+87,CD,PER,ORG,ise,3
+88,Tammsalust,LOC,PER,pärit,2
+89,Inglismaal Norfolkis Kuningliku,LOC,ORG,armee,2
+90,Elina,ORG,PER,nõukogu,2
+91,Noor-Isamaa,ORG,LOC,esimees,1
+92,Malmsten,LOC,PER,suurima,2
+93,Soome,PER,LOC,meenutab,2
+94,Pärnumaal,PER,LOC,ise,2
+95,Läti,PER,LOC,meenutab,2
+96,Neste,PER,ORG,räägib,2
+97,Kolmapäevases Postimehes,PER,ORG,ütleb,2
+98,Puerto Rico,LOC,ORG,suurima,1
+99,Tallinn,PER,LOC,ise,2
+100,Ivar-Vahur Fuksile,LOC,ORG,sündinud,3
+101,Kaarepere,PER,LOC,rääkis,2
+102,New Yorgis,LOC,ORG,elav,1
+103,Paevooteri,ORG,PER,juhatuse,1
+104,Nõukogude Liit,LOC,ORG,suurima,3
+105,Dalai Laama,PER,ORG,ema,2
+106,Pr Jalviste,PER,ORG,rääkis,1
+107,Tallinna linnavolikogu,LOC,ORG,linnapea,2
+108,E55,LOC,ORG,maantee,1
+109,Scantransi,ORG,PER,juhatuse,1
+110,Eesti Vabariik,ORG,LOC,juhatuse,2
+111,Enebybergs,ORG,LOC,liige,1
+112,Kristini,ORG,PER,juhatuse,2
+113,Air France'i,ORG,PER,juhatuse,1
+114,AL,PER,ORG,ütles,2
+115,Anastasia,LOC,PER,suurima,2
+116,New York Magazine'is,PER,ORG,ütleb,2
+117,Dvigateli,ORG,PER,peadirektor,1
+118,Järva Maakohtus,PER,ORG,ema,2
+119,Heinar,LOC,PER,sündinud,2
+120,Schlesswig-Holsteinis Taani,LOC,PER,piiri,1
+121,Willis,PER,LOC,ise,1
+122,Remedia Monopol Vodka,PER,ORG,ütleb,2
+123,EV,LOC,ORG,kodanik,1
+124,Hitleri,LOC,PER,armee,2
+125,Pauli Lõuna-Eestist,LOC,PER,pärit,3
+126,Ameerika-Ukraina,ORG,LOC,nõukogu,2
+127,EMV,LOC,ORG,suurima,2
+128,Lolita,PER,ORG,ema,1
+129,Iisrael,PER,LOC,ise,2
+130,Kaubandus-Tööstuskoja,ORG,LOC,juhatuse,1
+131,Tallinnas,PER,LOC,ütleb,2
+132,Iidlas,LOC,PER,elav,1
+133,Kasahstan,PER,LOC,ise,2
+134,Maarja-Liis,PER,LOC,ise,1
+135,SS,LOC,ORG,armee,2
+136,Kirovi,ORG,LOC,liige,3
+137,Põltsamaal,PER,LOC,ema,2
+138,Kert Kaitseväe,ORG,PER,juhataja,3
+139,Eesti Pank,PER,ORG,ise,2
+140,Äripäevas,PER,ORG,ütleb,2
+141,Vilja Palm,PER,ORG,ütles,1
+142,R,PER,ORG,ütleb,3
+143,R,PER,ORG,sõnul,3
+144,L,PER,ORG,ütleb,3
+145,Q-GSMi,LOC,ORG,kesklinnas,2
+146,New Yorgis,LOC,ORG,elav,1
+147,Estonia,PER,ORG,ütleb,2
+148,ITC Computers,PER,ORG,ütleb,2
+149,RR,PER,ORG,tunnistab,2
+150,Saksamaa,PER,LOC,ise,2
+151,Eesti Energia,PER,ORG,tunnistab
+152,Saar Tulikast,PER,ORG,ütleb
+153,Ridala,PER,LOC,ise
+154,Walesi,LOC,ORG,päritolu
+155,Nordika,ORG,PER,juhatuse
+156,Leksi,ORG,PER,juhataja
+157,Venemaa,PER,LOC,ise
+158,Eesti Pank,LOC,ORG,krooni
+159,M. V. Wool,ORG,LOC,juhatuse
+160,EPAst,LOC,ORG,pärit
+161,Mesmerin,LOC,PER,piiri
+162,Hansapank,PER,ORG,ise
+163,piirivalveameti,LOC,ORG,piiri
+164,Rääskil,LOC,PER,kesklinna
+165,Jr,PER,ORG,kinnitab
+166,Zypora,PER,ORG,abikaasa
+167,Karismaatiline Loitme,PER,ORG,räägib
+168,ERA Pank Bergmanni,PER,ORG,sõnul
+169,Eesti Tarbijakaitseametist,PER,ORG,ütleb
+170,Euroopa Liidu,LOC,ORG,kodanik
+171,ELi,LOC,ORG,kodanik
+172,N Liidu,LOC,ORG,armee
+173,Kroonika,PER,ORG,räägib
+174,Marine Bunkeri,ORG,PER,juhataja
+175,Soome Näitekirjanduse Liit,PER,ORG,ütles
+176,Sacco & Vanzetti,PER,ORG,ütleb
+177,Babil,PER,ORG,kinnitab
+178,Tarberaua,ORG,PER,juhatuse
+179,Enn-Toivo Annok Tarbijakaitseametist,PER,ORG,ütleb
+180,Nõukogu,ORG,LOC,esimees
+181,DJst,PER,ORG,abikaasa
+182,USA Föderaalreservi,ORG,LOC,esimees
+183,kaitseliidust,LOC,ORG,pärit
+184,Neivelt Hansapank-Eesti,ORG,PER,peadirektor
+185,Sylvesteri,ORG,PER,nõukogu
+186,New Yorgi,LOC,ORG,linnapea
+187,Eesti Näitemänguagentuuri,PER,ORG,sõnul
+188,Brüsselis,PER,LOC,ütles
+189,Eesti,PER,LOC,ütles
+190,Prantsusmaale,PER,LOC,rääkis
+191,Venemaa,PER,LOC,ise
+192,AK,PER,LOC,räägib
+193,Lillel,LOC,PER,sündinud
+194,Tallinna Sadamalt,LOC,ORG,linnapea
+195,Ober Haus,LOC,PER,kesklinna
+196,Haari Päärt,PER,ORG,meenutab
+197,Euroopa,PER,LOC,ise
+198,Roger Kirby St George'i haiglast Londonis,PER,ORG,ütleb
+199,Kalevi,PER,ORG,ema
+200,Helen Mahmastol,PER,ORG,ütleb
+201,Südametunnistuse Hääl,PER,ORG,ise
+202,MT,PER,LOC,ise
+203,Lao-zi,PER,ORG,ütles
+204,Esmofoni,ORG,PER,juhatuse
+205,E.O. Mapi,ORG,LOC,juhatuse
+206,Vare,ORG,PER,juhatuse
+207,Vare,ORG,PER,nõukogu
+208,Falcki,ORG,PER,juhatuse
+209,Dagotari,ORG,PER,juhataja
+210,Edinburghist,PER,LOC,räägib
+211,Trier,PER,LOC,ise
+212,Tallinna linnavolikogust,PER,ORG,räägib
+213,Grossmann-Loot Lastefondist,PER,ORG,kinnitab
+214,Eesti riik,PER,LOC,ise
+215,Koit Randus,PER,ORG,ütleb
+216,N Liidu,LOC,ORG,saatkonna
+217,NSVL,LOC,ORG,armee
+218,Elvis,PER,LOC,ise
+219,Y Gasset,PER,ORG,ütles
+220,Õnnelike Klubi,ORG,PER,liige
+221,Karl Popperilt,LOC,PER,pärit
+222,Ofelia,ORG,PER,peadirektor
+223,EEs,PER,ORG,ütleb
+224,Hamburg,ORG,LOC,juhatuse
+225,TEATER,PER,ORG,ise
+226,Kaplinn,PER,LOC,ise
+227,Isand Pilder,PER,ORG,tunnistab
+228,Ilo Meediumi,ORG,PER,juhataja
+229,Pasport-Ekspress,PER,ORG,ütleb
+230,Viru Rand,PER,ORG,ise
+231,Kosovos,PER,LOC,meenutab
+232,Wiklari,ORG,PER,juhataja
+233,Hellenurme,ORG,PER,nõukogu
+234,Lenini,PER,ORG,abikaasa
+235,Mad Professor,PER,ORG,ise
+236,Raukas,PER,LOC,ise
+237,Aga Economist,PER,ORG,ütleb
+238,Kuu,ORG,LOC,juhatuse
+239,N-Terminaali,ORG,PER,peadirektor
+240,Optiva Pank,PER,ORG,ise
+241,Thrainn,PER,ORG,ütles
+242,Glaxo,ORG,PER,juhatuse
+243,Münchenist,PER,LOC,ütles
+244,Eesti Pank,PER,ORG,tunnistab
+245,LOIT,ORG,PER,esimees
+246,Vlassovi,LOC,PER,armee
+247,PEETER TAMMOJA,LOC,PER,sündinud
+248,Muinsuskaitseinspektsiooni,ORG,PER,juhataja
+249,Tallinna Muinsuskaitseinspektsioon,PER,ORG,kinnitab
+250,Nõukogu,ORG,LOC,esimees
+251,Puškin,PER,LOC,ütles
+252,Claudia Turvasüsteemide,ORG,PER,juhatuse
+253,Euroopa,PER,LOC,ise
+254,Joakim Helenius,ORG,PER,nõukogu
+255,Agro,ORG,PER,juhatuse
+256,Eesti Entsüklopeedia,PER,ORG,ütleb
+257,Peppersi,ORG,LOC,liige
+258,Lutsu,PER,LOC,abikaasa
+259,Eesti Energia,PER,ORG,ise
+260,Microlinki,ORG,PER,juhatuse
+261,Lind,ORG,PER,nõukogu
+262,Judenitši,LOC,PER,armee
+263,A. Le Coq,ORG,PER,juhatuse
+264,Griša,PER,ORG,ütles
+265,Välis-Eesti,LOC,ORG,päritolu
+266,Välis-Eesti,LOC,ORG,päritolu
+267,Politseiamet,PER,ORG,kinnitab
+268,Cibuse,ORG,LOC,juhataja
+269,A. Le Coq,ORG,PER,juhataja
+270,Ober Hausi,LOC,PER,kesklinna
+271,Eestisse,PER,LOC,ema
+272,Cueksi,ORG,LOC,juhataja
+273,Prantsusmaal,PER,LOC,tunnistab
+274,Eesti,ORG,LOC,juhataja
+275,Reinthal,ORG,PER,esimees
+276,Tartusse,PER,LOC,ema
+277,Tallinna Linnavalitsus,PER,ORG,ise
+278,Technique,ORG,PER,liige
+279,N Liidu,LOC,ORG,piiri
+280,Eesti,PER,LOC,ise
+281,Moskva politsei,PER,ORG,sõnul
+282,U-Man Grupp,ORG,PER,juhatuse
+283,Hausi,ORG,PER,juhataja
+284,Allan Martinson Microlinki,ORG,PER,juhatuse
+285,O,PER,ORG,The
+286,Tõrva,LOC,PER,linnapea
+287,Co,PER,ORG,ütleb
+288,Hansapank,PER,ORG,ütleb
+289,Eesti Ekspress,PER,ORG,ütleb
+290,Katkend Ülo Soosteri,PER,ORG,abikaasa
+291,Teabekeskuse,ORG,PER,juhataja
+292,Tuulas,PER,LOC,usub
+293,Hr Kirt,PER,ORG,rääkis
+294,Unt,PER,ORG,ütles
+295,Eluliini,ORG,PER,juhataja
+296,Lukast,LOC,PER,linnapea
+297,Rootsi,PER,LOC,ise
+298,Nõukogu,ORG,LOC,esimees
+299,Savage Garden,ORG,PER,liige
+300,KGBd,PER,ORG,ise
+301,Keegi Hinkus,PER,ORG,kinnitab
+302,Saddam Husseini,LOC,PER,armee
+303,EE-le,PER,ORG,kinnitab
+304,Mart Kukk,ORG,PER,juhatuse
+305,Eesti,ORG,LOC,peadirektor
+306,Munters,PER,ORG,ise
+307,Arho Anttila XXL-ist,PER,ORG,kinnitab
+308,TONY ALLEN-MILLS,PER,ORG,The
+309,Eesti,PER,LOC,meenutab
+310,Ecclestone,LOC,PER,suurima
+311,Heiki Perli Kindlustuseksperdist,PER,ORG,ütleb
+312,Maarjamäe Maja,PER,ORG,ise
+313,Eestis,PER,LOC,meenutab
+314,Isand Jokst,PER,ORG,ise
+315,I Chingist,LOC,ORG,pärit
+316,Alise,ORG,PER,juhatuse
+317,Eesti,ORG,LOC,juhatuse
+318,Padar,LOC,PER,kesklinnas
+319,Kullaliidu,ORG,PER,liige
+320,Karksis,PER,LOC,ise
+321,Endine Nõukogude,LOC,ORG,armee
+322,K,PER,ORG,ütles
+323,K,PER,ORG,ütles
+324,Gantamirov Groznõi,LOC,PER,linnapea
+325,Tuve,PER,ORG,ütleb
+326,Hansapank,PER,ORG,ütleb
+327,Eesti Raudtee,PER,ORG,ütleb
+328,Viper,LOC,PER,pärit
+329,VALENTINA VõSSOTSKAJABakuust,LOC,PER,pärit
+330,NKVD-KGB,PER,ORG,ise
+331,John's College'i,ORG,PER,liige
+332,Kungla,PER,LOC,ema
+333,Eestis,PER,LOC,ema
+334,MARI-ANN KELAMRiigikogu,ORG,PER,liige
+335,Eesti,ORG,LOC,peadirektor
+336,Roy,ORG,PER,juhatuse
+337,Remmel,ORG,PER,juhatuse
+338,Mihkel Muti,LOC,PER,päritolu
+339,HTAS,PER,ORG,ise
+340,Eesti Päevalehes,PER,ORG,rääkis
+341,N Liidust,LOC,ORG,pärit
+342,NCIS,PER,ORG,usub
+343,Eesti Ekspressile,PER,ORG,ütles
+344,Võrdõiguslikkuse Büroost,PER,ORG,ütles
+345,Klubi,PER,ORG,räägib
+346,N Liidust,LOC,ORG,pärit
+347,Coca-Cola Balticu,ORG,PER,peadirektor
+348,Bessonilt,LOC,PER,pärit
+349,In,PER,LOC,The
+350,Arkaadia,PER,LOC,räägib
+351,GO,PER,ORG,ON
+352,RZA,PER,ORG,ise
+353,Eesti Pank,PER,ORG,ise
+354,Uus-Vargamäed,PER,LOC,ise
+355,EE-le,PER,ORG,ütles
+356,Hugo Boss,ORG,PER,juhataja
+357,Hugo Boss,ORG,PER,juhataja
+358,Keskküla,PER,LOC,ise
+359,PRANTSUSMAAL,PER,LOC,ON
+360,Tartus,PER,LOC,rääkis
+361,San Franciscost,LOC,ORG,pärit
+362,Los Angelese,LOC,ORG,kesklinnas
+363,Kurvitsalt,PER,LOC,ise
+364,Nõukogu,PER,LOC,sõnul
+365,Fondi,ORG,PER,nõukogu
+366,Mandatori,ORG,PER,juhatuse
+367,Riigikohus,PER,ORG,tunnistab
+368,Ajtmatov Kirgiisia Brüsseli,LOC,ORG,saatkonna
+369,EESTIT,PER,LOC,ON
+370,New York Timesis,PER,ORG,rääkis
+371,Liivimaa,PER,LOC,ise
+372,Pauligi Grupi,ORG,PER,nõukogu
+373,Latvenergo,ORG,PER,juhatuse
+374,Nõukogu,ORG,LOC,liige
+375,EESTIS,PER,LOC,ON
+376,Harjumaa,PER,LOC,kuum@ekspress.ee
+377,Tallinnas Kalamajas,LOC,ORG,elav
+378,Maksuamet,PER,ORG,ütleb
+379,EÜL,PER,ORG,ütleb
+380,Tom Kirkwood,PER,ORG,ütles
+381,AK,PER,ORG,ise
+382,RAKVERES,PER,LOC,ON
+383,H Luigega,PER,ORG,rääkis
+384,Prike,PER,ORG,kinnitab
+385,Rein Raud,PER,ORG,ise
+386,Seth Sanders,PER,ORG,usub
+387,BBC,LOC,ORG,suurima
+388,New York,PER,ORG,räägib
+389,Eesti Pank,PER,ORG,meenutab
+390,Nõukogu,ORG,LOC,liige
+391,Hillari Pärnu-Jaagupis,LOC,PER,elav
+392,Lillemäe,PER,LOC,sõnul
+393,ELi,LOC,ORG,kodanik
+394,INI,PER,ORG,ON
+395,Piimaliidu,ORG,PER,juhatuse
+396,Eesti Energia,PER,ORG,ise
+397,Uunoga,LOC,PER,suurima
+398,Amalia,PER,LOC,ema
+399,JÜRI MÕIS,LOC,PER,linnapea
+400,Jüri Oti,LOC,PER,kesklinna
+401,Jüri Oti,LOC,PER,kesklinna
+402,Elmar Sepp,LOC,PER,kesklinna
+403,British Telecom,PER,ORG,ütleb
+404,Kristjan Järvi,ORG,PER,juhatuse
+405,Maalehes,PER,ORG,ütleb
+406,Vabariigi President,PER,ORG,ise
+407,Äripäevale,PER,ORG,ütleb
+408,Walesis Llanellis,LOC,ORG,elav
+409,Arvo Pärt,LOC,PER,pärit
+410,EENet,PER,ORG,ütleb
+411,Ida-Euroopasse,PER,LOC,meenutab
+412,Pallas,ORG,PER,esimees
+413,Eestimaa Looduse Fondist,PER,ORG,ütleb
+414,USA Föderaalreservi,ORG,LOC,juhataja
+415,SCIP,PER,ORG,usub
+416,Eesti Ekspress,PER,ORG,kinnitab
+417,Prospekt Media,ORG,PER,juhataja
+418,ESS,PER,ORG,sõnul
+419,Jüri Kasesalu,LOC,PER,linnapea
+420,Marina,PER,LOC,ema
+421,Kersten Soome,LOC,PER,armee
+422,Eesti,ORG,LOC,peadirektor
+423,HETAst,LOC,ORG,pärit
+424,Tallinna Psühhiaatriahaigla patsiendiesindusest,PER,ORG,ütleb
+425,SOOMES,PER,LOC,ON
+426,Mõis,LOC,PER,linnapea
+427,Nõukogu,ORG,LOC,liige
+428,Nigul Saar,PER,LOC,räägib
+429,Tallinna politseiprefektuurist,PER,ORG,kinnitab
+430,TARTUS,PER,LOC,ON
+431,Paul Laasi,LOC,PER,linnapea
+432,Elmar Sepa,ORG,PER,juhatuse
+433,Rein Voogile,LOC,PER,linnapea
+434,Isamaa,PER,ORG,räägib
+435,Savisaared,LOC,PER,linnapea
+436,Eesti Panga,ORG,LOC,nõukogu
+437,Kaubandus-Tööstuskoja,ORG,LOC,juhatuse
+438,Käo,PER,LOC,tunnistab
+439,Keskerakonna,LOC,ORG,suurima
+440,Kruppi,ORG,PER,juhatuse
+441,EESTIS,PER,LOC,ON
+442,RER,PER,ORG,räägib
+443,Venemaa,PER,LOC,ise
+444,Poola,PER,LOC,ise
+445,Eesti,ORG,LOC,peadirektor
+446,Eesti,ORG,LOC,peadirektor
+447,Nokia,PER,LOC,tunnistab
+448,A. Le Coqi,ORG,PER,nõukogu
+449,Eesti Ekspressile,PER,ORG,ütles
+450,Ekholmi,PER,LOC,sõnul
+451,New Musical Express,PER,ORG,ütleb
+452,JOT Kulppi,PER,ORG,sõnul
+453,Euroliit,PER,ORG,ise
+454,USA Neitsisaartel,LOC,ORG,sündinud
+455,Kullamäe,PER,LOC,ema
+456,Soome-Eesti zhürii,ORG,LOC,liige
+457,USA kaitseministeerium,PER,ORG,tunnistab
+458,The Afghan Whigsist,LOC,PER,pärit
+459,Palumäe,PER,LOC,sõnul
+460,Palumäe,PER,LOC,sõnul
+461,Los Angelese,LOC,ORG,linnapea
+462,Palusaar,ORG,PER,juhatuse
+463,Saarma,PER,ORG,ütles
+464,Lennart Meri,LOC,PER,sündinud
+465,Eesti Ekspressile,PER,ORG,rääkis
+466,Anna-Victoria,PER,LOC,ema
+467,Intervjuus Marica Lillemetsale,PER,ORG,ütles
+468,N Liidu Ottawa,LOC,ORG,saatkonna
+469,Siiri Vallner,LOC,PER,sündinud
+470,Jane Tiik,LOC,PER,sündinud
+471,Rail Estonia,ORG,PER,juhatuse
+472,Rail Estonia,ORG,PER,juhataja
+473,Eesti Standardiametist,LOC,ORG,pärit
+474,Tallinna linn,PER,LOC,ise
+475,UKRAINA,PER,LOC,ON
+476,Borise,LOC,PER,päritolu
+477,De Dia,PER,ORG,abikaasa
+478,TTÜ Toiduainete Instituudist,PER,ORG,kinnitab
+479,Tiit Härm,LOC,PER,sündinud
+480,Gildi Antiigist,PER,ORG,meenutab
+481,Hewlett-Packardi,ORG,LOC,juhataja
+482,Mustamäe haiglast,PER,ORG,räägib
+483,Digable Planets,ORG,PER,liige
+484,ELF,PER,ORG,usub
+485,Tõnis Kons Res Publicast,PER,ORG,ütleb
+486,Le Gall,PER,ORG,räägib
+487,Radiolinja,PER,ORG,ütleb
+488,NY,LOC,ORG,linnapea
+489,Keskerakond,PER,ORG,ütleb
+490,Gints Jegermanis,PER,ORG,ütleb
+491,StudioT,PER,ORG,sõnul
+492,Ekspress,LOC,ORG,linnapea
+493,Suurbritannia statistikaameti,PER,ORG,sõnul
+494,Suurbritannia,PER,LOC,ise
+495,URMAS LOIT,ORG,PER,esimees
+496,Palm Developers,ORG,PER,juhataja
+497,Brüssel,PER,LOC,ise
+498,Venemaa,PER,LOC,meenutab
+499,Coca-Cola Balticu,ORG,PER,peadirektor
+500,Tallinna Politseiprefektuurist,PER,ORG,ütleb
+501,ESSist,PER,ORG,kinnitab
+502,Ago-Endriku,PER,ORG,ema
+503,Washingtoni,LOC,PER,kesklinnas
+504,Hollandi riik,PER,LOC,ise
+505,EESTIS,PER,LOC,ON
+506,Noor-Isamaa,ORG,LOC,esimees
+507,Isamaaliit,PER,ORG,meenutab
+508,DDRi,LOC,ORG,päritolu
+509,Viljandi,LOC,PER,linnapea
+510,Kütuste Ümarlaua,ORG,PER,juhataja
+511,Peterburi,PER,LOC,ise
+512,Valgesse Majja,PER,ORG,ise
+513,Rein Raud,PER,ORG,ütleb
+514,Talrandi,ORG,LOC,juhatuse
+515,Philip Morrise,ORG,PER,peadirektor
+516,Observer,PER,ORG,rääkis
+517,Microlinki,ORG,PER,juhatuse
+518,Sonex Grupe,ORG,PER,peadirektor
+519,US Trusti,PER,ORG,sõnul
+520,Preatoni Panga,ORG,PER,nõukogu
+521,Victoria,PER,LOC,abikaasa
+522,DenEesti,PER,ORG,ütleb
+523,Kuremaale,PER,LOC,ise
+524,Sukles,PER,LOC,rääkis
+525,Eesti Ekspressile,PER,ORG,rääkis
+526,Hu,PER,ORG,sõnul
+527,Tartu Ülikooli Nahahaiguste kliinikust,PER,ORG,ütleb
+528,Etazon Lambro,LOC,PER,pärit
+529,Kultuurkapital,PER,ORG,ütles
+530,CV,PER,ORG,ise
+531,Leipzig,PER,LOC,ise
+532,San Diegost,LOC,ORG,pärit
+533,Reformierakond,PER,ORG,ütles
+534,DD,PER,ORG,sõnul
+535,Ameerika,PER,LOC,usub
+536,EE Areen,PER,ORG,ise
+537,Pärnu Postimehele,PER,ORG,ütles
+538,Eesti Ekspress,PER,ORG,rääkis
+539,Eesti,ORG,LOC,peadirektor
+540,Eesti,ORG,LOC,peadirektor
+541,Pärnu politsei,PER,ORG,kinnitab
+542,EBRD,PER,ORG,usub
+543,EBRD,PER,ORG,usub
+544,Dave Bentonilt,LOC,PER,pärit
+545,Lloyd ' si,ORG,PER,juhataja
+546,USA,PER,LOC,ise
+547,Samarkandi Dostomi,LOC,ORG,armee
+548,Päevalehes,PER,ORG,ütles
+549,Gildi Antiigist,PER,ORG,meenutab
+550,NATO,PER,ORG,ise
+551,Nelly,PER,LOC,ise
+552,Eesti Raudtees,PER,ORG,ise
+553,Berliin,PER,LOC,kuum@ekspress.ee
+554,Kadriorus,PER,ORG,ütles
+555,Wiking-Narva,ORG,LOC,esimees
+556,Eesti Toitumisteaduste Seltsist,PER,ORG,ütleb
+557,Tali Tuulelt,PER,ORG,ise
+558,SL Õhtuleht,PER,ORG,räägib
+559,Eestis,PER,LOC,ütles
+560,New Yorgis,LOC,ORG,elav
+561,AT,PER,ORG,ise
+562,USA,PER,LOC,ise
+563,David Parsley,PER,ORG,The
+564,Haanja vald,PER,LOC,kinnitab
+565,New Yorgist,LOC,ORG,pärit
+566,Ammendamatust Wu-vabrikust,LOC,ORG,pärit
+567,Jared Diamond,PER,ORG,ütleb
+568,Läänemeri,PER,LOC,ise

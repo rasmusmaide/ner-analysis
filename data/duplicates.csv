@@ -1,0 +1,6889 @@
+,lemma,tag,0
+48,A,LOC,8
+49,A,ORG,27
+62,A S,LOC,1
+63,A S,ORG,3
+74,A-grupp,LOC,1
+75,A-grupp,ORG,2
+90,A. H. Tammsaare,LOC,2
+91,A. H. Tammsaare,PER,1
+92,A. H. Tammsaare memoriaalmuuseum,ORG,1
+93,A. H. Tammsaare memoriaalmuuseum,PER,1
+118,A. Papulovas,LOC,1
+119,A. Papulovas,PER,1
+145,AA-Trading,ORG,5
+146,AA-Trading,PER,3
+147,AA-Tradingu,LOC,3
+148,AA-Tradingu,ORG,2
+149,AA-Tradingu,PER,2
+158,AB,LOC,5
+159,AB,ORG,11
+195,AEK Ateena,LOC,1
+196,AEK Ateena,ORG,5
+234,AK,LOC,11
+235,AK,ORG,11
+284,AR,LOC,1
+285,AR,ORG,6
+293,AS,ORG,70
+294,AS,PER,2
+895,AS Riina,ORG,12
+896,AS Riina,PER,1
+1259,AUMa Expo,ORG,2
+1260,AUMa Expo,PER,4
+1279,Aadam,ORG,1
+1280,Aadam,PER,3
+1307,Aafrika,LOC,145
+1308,Aafrika,PER,1
+1319,Aalborg,LOC,1
+1320,Aalborg,ORG,2
+1338,Aapo pukk,ORG,1
+1339,Aapo pukk,PER,1
+1341,Aarau,LOC,1
+1342,Aarau,ORG,1
+1404,Aarma,ORG,1
+1405,Aarma,PER,1
+1457,Aas,ORG,1
+1458,Aas,PER,9
+1471,Aava,ORG,1
+1472,Aava,PER,4
+1482,Aavik,LOC,8
+1483,Aavik,ORG,4
+1484,Aavik,PER,26
+1509,Abbas,LOC,1
+1510,Abbas,PER,2
+1531,Abdul-Rauf,LOC,1
+1532,Abdul-Rauf,PER,6
+1556,Aberdeen,LOC,6
+1557,Aberdeen,ORG,1
+1565,Abisheva,LOC,1
+1566,Abisheva,ORG,2
+1567,Abisheva,PER,4
+1570,Abja,LOC,1
+1571,Abja,ORG,1
+1596,Abu Mazen,ORG,3
+1597,Abu Mazen,PER,3
+1645,Adamson-Eric Muuseum,ORG,1
+1646,Adamson-Eric Muuseum,PER,2
+1652,Addis Abeba,ORG,2
+1653,Addis Abeba,PER,1
+1664,Adik Levin,ORG,1
+1665,Adik Levin,PER,3
+1669,Adlas,ORG,1
+1670,Adlas,PER,15
+1707,Adson,ORG,1
+1708,Adson,PER,1
+1716,Aegna,LOC,17
+1717,Aegna,ORG,4
+1726,Aeroflot,LOC,2
+1727,Aeroflot,PER,2
+1729,Aeromet,ORG,11
+1730,Aeromet,PER,3
+1759,Aftonbladet,ORG,4
+1760,Aftonbladet,PER,1
+1762,Agadir,LOC,3
+1763,Agadir,PER,3
+1773,Age,LOC,1
+1774,Age,PER,10
+1798,Agip,ORG,2
+1799,Agip,PER,3
+1841,Ago-Endrik Kerge,ORG,1
+1842,Ago-Endrik Kerge,PER,3
+1847,Agrosif,LOC,2
+1848,Agrosif,ORG,2
+1849,Agrosif,PER,2
+1872,Ahas,ORG,1
+1873,Ahas,PER,2
+1874,Ahas Tii,ORG,3
+1875,Ahas Tii,PER,2
+1884,Ahma Shah Massou,ORG,1
+1885,Ahma Shah Massou,PER,1
+1898,Ahme Porkveli,ORG,4
+1899,Ahme Porkveli,PER,12
+1911,Ahonen,ORG,1
+1912,Ahonen,PER,6
+1918,Ahter,LOC,5
+1919,Ahter,ORG,5
+1965,Aia,ORG,1
+1966,Aia,PER,1
+1970,Aidem Pot,ORG,1
+1971,Aidem Pot,PER,3
+1978,Aidu,LOC,3
+1979,Aidu,ORG,1
+1980,Aiesec,ORG,1
+1981,Aiesec,PER,3
+2052,Aimla,LOC,1
+2053,Aimla,PER,3
+2139,Ainjärv,ORG,1
+2140,Ainjärv,PER,4
+2204,Airbus,ORG,1
+2205,Airbus,PER,1
+2208,Aires,LOC,1
+2209,Aires,PER,1
+2372,Ajax,LOC,1
+2373,Ajax,ORG,7
+2374,Ajax,PER,17
+2376,Ajax Amsterdam,ORG,1
+2377,Ajax Amsterdam,PER,11
+2379,Ajaxi,ORG,1
+2380,Ajaxi,PER,3
+2389,Akadeemia,LOC,3
+2390,Akadeemia,ORG,14
+2420,Akropol,LOC,1
+2421,Akropol,ORG,1
+2422,Akropol,PER,1
+2455,Aktuaalne kaamera,ORG,7
+2456,Aktuaalne kaamera,PER,1
+2460,Al Gore,ORG,4
+2461,Al Gore,PER,3
+2582,Albacete,LOC,1
+2583,Albacete,ORG,2
+2584,Albacete,PER,1
+2585,Albacomp,LOC,10
+2586,Albacomp,ORG,4
+2587,Albacomp,PER,13
+2650,Aldaris,LOC,1
+2651,Aldaris,ORG,2
+2686,Aleksander,LOC,1
+2687,Aleksander,ORG,6
+2688,Aleksander,PER,20
+2703,Aleksander Buzin,ORG,1
+2704,Aleksander Buzin,PER,2
+2709,Aleksander Eelmaa,ORG,3
+2710,Aleksander Eelmaa,PER,2
+2713,Aleksander Eller,ORG,3
+2714,Aleksander Eller,PER,2
+2721,Aleksander I,ORG,1
+2722,Aleksander I,PER,1
+2731,Aleksander Jõgipõld,ORG,1
+2732,Aleksander Jõgipõld,PER,1
+2740,Aleksander Kirm,ORG,8
+2741,Aleksander Kirm,PER,5
+2747,Aleksander Kovaltshuk,ORG,1
+2748,Aleksander Kovaltshuk,PER,1
+2754,Aleksander Kägu,ORG,2
+2755,Aleksander Kägu,PER,8
+2761,Aleksander Lebe,ORG,4
+2762,Aleksander Lebe,PER,2
+2763,Aleksander Lebed,ORG,1
+2764,Aleksander Lebed,PER,2
+2770,Aleksander Lõhmus,ORG,1
+2771,Aleksander Lõhmus,PER,2
+2774,Aleksander Monakov,ORG,2
+2775,Aleksander Monakov,PER,7
+2789,Aleksander Rosenberg,ORG,2
+2790,Aleksander Rosenberg,PER,1
+2805,Aleksander Veingold,ORG,3
+2806,Aleksander Veingold,PER,1
+3077,Alexela,LOC,7
+3078,Alexela,ORG,6
+3079,Alexela,PER,8
+3146,Alhazurovo,LOC,1
+3147,Alhazurovo,ORG,1
+3149,Ali,LOC,2
+3150,Ali,PER,8
+3179,Alina,LOC,1
+3180,Alina,PER,1
+3197,Alke grupp,ORG,1
+3198,Alke grupp,PER,1
+3278,Allikmaa,LOC,1
+3279,Allikmaa,PER,16
+3285,Alliksoo,LOC,1
+3286,Alliksoo,PER,1
+3292,Allsvenskan,LOC,1
+3293,Allsvenskan,PER,2
+3302,Alma-Ata,LOC,4
+3303,Alma-Ata,PER,1
+3310,Almelo,LOC,1
+3311,Almelo,ORG,1
+3369,Alternaria,LOC,1
+3370,Alternaria,PER,8
+3373,Alti Vahkal,ORG,2
+3374,Alti Vahkal,PER,5
+3388,Aluksne,ORG,1
+3389,Aluksne,PER,1
+3409,Alver,ORG,3
+3410,Alver,PER,14
+3419,Alvik,ORG,2
+3420,Alvik,PER,2
+3431,Alzheeria,LOC,29
+3432,Alzheeria,ORG,8
+3433,Alzheeria,PER,1
+3436,Alzheimer,LOC,3
+3437,Alzheimer,ORG,1
+3438,Alzheimer,PER,2
+3440,Alzhiir,LOC,1
+3441,Alzhiir,PER,2
+3450,Amanda,ORG,1
+3451,Amanda,PER,2
+3499,Ameerika mägi,LOC,2
+3500,Ameerika mägi,ORG,1
+3545,Amman,LOC,5
+3546,Amman,PER,3
+3550,Amoco,LOC,2
+3551,Amoco,ORG,1
+3552,Amoco,PER,3
+3565,Amserv,LOC,1
+3566,Amserv,PER,2
+3569,Amserv Grup,ORG,1
+3570,Amserv Grup,PER,2
+3579,Amsterdam,LOC,22
+3580,Amsterdam,ORG,1
+3581,Amsterdam,PER,1
+3583,Amsterdam Ajax,ORG,1
+3584,Amsterdam Ajax,PER,1
+3588,Amstrig,ORG,3
+3589,Amstrig,PER,4
+3606,Anaheim,LOC,15
+3607,Anaheim,ORG,9
+3608,Analüütik,ORG,1
+3609,Analüütik,PER,3
+3613,Anantnag,LOC,1
+3614,Anantnag,PER,1
+3668,Anatoli Shmigun,ORG,4
+3669,Anatoli Shmigun,PER,22
+3700,Anderlecht,ORG,1
+3701,Anderlecht,PER,2
+3720,Anderstorp,ORG,2
+3721,Anderstorp,PER,1
+3723,Andi,ORG,2
+3724,Andi,PER,1
+3727,Andi Meister,ORG,1
+3728,Andi Meister,PER,6
+3738,Ando Keskküla,ORG,1
+3739,Ando Keskküla,PER,19
+4355,Angerja,ORG,1
+4356,Angerja,PER,1
+4362,Angoola,LOC,14
+4363,Angoola,ORG,1
+4364,Angoola,PER,2
+4369,Ani,LOC,16
+4370,Ani,PER,22
+4377,Anil,ORG,1
+4378,Anil,PER,2
+4411,Anna,ORG,1
+4412,Anna,PER,25
+4461,Annan,LOC,1
+4462,Annan,PER,10
+4463,Anne,LOC,4
+4464,Anne,ORG,2
+4465,Anne,PER,75
+4551,Anne-Loore,LOC,3
+4552,Anne-Loore,PER,2
+4566,Anneli,LOC,1
+4567,Anneli,ORG,1
+4568,Anneli,PER,55
+4679,Antarktika,LOC,12
+4680,Antarktika,PER,1
+4713,Anti Järvelaid,ORG,1
+4714,Anti Järvelaid,PER,4
+4745,Anton,ORG,1
+4746,Anton,PER,25
+4942,Anttila,LOC,11
+4943,Anttila,ORG,12
+4944,Anttila,PER,23
+4948,Antverpen,LOC,6
+4949,Antverpen,ORG,1
+4950,Antverpen,PER,6
+5029,Anwar sada,ORG,1
+5030,Anwar sada,PER,2
+5048,Apeland,ORG,1
+5049,Apeland,PER,13
+5052,Apex Racingu,ORG,1
+5053,Apex Racingu,PER,1
+5063,Apollo,ORG,1
+5064,Apollo,PER,3
+5066,Apollon,ORG,2
+5067,Apollon,PER,1
+5082,Aqaba,LOC,1
+5083,Aqaba,PER,1
+5087,Aquatic Centeris,ORG,1
+5088,Aquatic Centeris,PER,1
+5102,Arafa,LOC,1
+5103,Arafa,PER,1
+5104,Arafat,LOC,12
+5105,Arafat,PER,129
+5112,Arafati,LOC,3
+5113,Arafati,PER,4
+5115,Arafatile,LOC,3
+5116,Arafatile,PER,2
+5124,Araka,ORG,1
+5125,Araka,PER,2
+5129,Arantxa Sanchez-Vicario,ORG,1
+5130,Arantxa Sanchez-Vicario,PER,19
+5140,Arbeiter,LOC,2
+5141,Arbeiter,ORG,5
+5142,Arbeiter,PER,12
+5148,Arbil,LOC,2
+5149,Arbil,PER,12
+5152,Arbili,ORG,1
+5153,Arbili,PER,7
+5180,Ardo Ran Varres,ORG,1
+5181,Ardo Ran Varres,PER,1
+5186,Ardu,LOC,2
+5187,Ardu,ORG,1
+5188,Are,LOC,1
+5189,Are,ORG,2
+5190,Are,PER,2
+5194,Are Kaurit,ORG,2
+5195,Are Kaurit,PER,7
+5197,Are Kauritile-Arvo Laksbergile,ORG,1
+5198,Are Kauritile-Arvo Laksbergile,PER,1
+5200,Are Leesik,ORG,1
+5201,Are Leesik,PER,1
+5210,Areto,LOC,1
+5211,Areto,PER,1
+5215,Argentiina,LOC,103
+5216,Argentiina,PER,1
+5220,Argo,LOC,1
+5221,Argo,PER,6
+5261,Ari-Pekka Nikkola,ORG,2
+5262,Ari-Pekka Nikkola,PER,9
+5277,Ariste,ORG,2
+5278,Ariste,PER,3
+5351,Arnau Boetsch,ORG,2
+5352,Arnau Boetsch,PER,7
+5355,Arnau Dautrempuis,ORG,3
+5356,Arnau Dautrempuis,PER,1
+5408,Arno Tali,ORG,1
+5409,Arno Tali,PER,1
+5480,Ars,LOC,2
+5481,Ars,PER,2
+5483,Arsenal,ORG,23
+5484,Arsenal,PER,1
+5498,Arso Rai,ORG,1
+5499,Arso Rai,PER,1
+5579,Aru,LOC,1
+5580,Aru,PER,8
+5583,Aruka,LOC,3
+5584,Aruka,ORG,1
+5604,Arvi,LOC,1
+5605,Arvi,PER,6
+5624,Arvi Vask,ORG,1
+5625,Arvi Vask,PER,2
+5728,Aserbaidzhaan,LOC,32
+5729,Aserbaidzhaan,ORG,6
+5730,Aserbaidzhaan,PER,10
+5733,Aseri,LOC,9
+5734,Aseri,PER,6
+5740,Ash,LOC,1
+5741,Ash,PER,1
+5754,Asiago,LOC,5
+5755,Asiago,ORG,2
+5756,Asiago,PER,1
+5757,Asiagos,ORG,1
+5758,Asiagos,PER,1
+5761,Asif Ali Zardar,ORG,1
+5762,Asif Ali Zardar,PER,1
+5787,Aspek,LOC,1
+5788,Aspek,ORG,1
+5789,Aspek,PER,2
+5791,Assa,ORG,1
+5792,Assa,PER,1
+5825,Astang,LOC,5
+5826,Astang,ORG,2
+5831,Astlanda,LOC,6
+5832,Astlanda,ORG,1
+5869,Atapi,ORG,1
+5870,Atapi,PER,1
+5872,Ateena,LOC,52
+5873,Ateena,ORG,2
+5886,Athens,LOC,1
+5887,Athens,PER,1
+5888,Athletic Bilbao,ORG,3
+5889,Athletic Bilbao,PER,3
+5896,Atlandi,LOC,3
+5897,Atlandi,ORG,7
+5902,Atlanta,LOC,446
+5903,Atlanta,ORG,24
+5904,Atlanta,PER,8
+5912,Atlanta OM,LOC,1
+5913,Atlanta OM,ORG,7
+5929,Atlantis,ORG,10
+5930,Atlantis,PER,1
+5935,Atletico Madrid,ORG,2
+5936,Atletico Madrid,PER,6
+5959,Audak,LOC,1
+5960,Audak,PER,2
+5962,Audi,ORG,3
+5963,Audi,PER,4
+5975,Aug,ORG,4
+5976,Aug,PER,4
+6043,Aurora,ORG,1
+6044,Aurora,PER,1
+6046,Aus,LOC,1
+6047,Aus,PER,2
+6061,Austria,LOC,341
+6062,Austria,ORG,3
+6063,Austria,PER,7
+6079,Austrvegr,ORG,1
+6080,Austrvegr,PER,6
+6081,Austrvegr-Idatee,LOC,1
+6082,Austrvegr-Idatee,ORG,1
+6084,Auta,LOC,4
+6085,Auta,ORG,1
+6086,Auta,PER,1
+6087,Autal,LOC,1
+6088,Autal,ORG,4
+6095,Autodesk,ORG,1
+6096,Autodesk,PER,2
+6103,Autom,LOC,1
+6104,Autom,PER,1
+6112,Auxerre,ORG,5
+6113,Auxerre,PER,3
+6146,Avesta Sheffield,ORG,1
+6147,Avesta Sheffield,PER,3
+6160,Avita,LOC,1
+6161,Avita,ORG,1
+6162,Avita,PER,5
+6222,B,LOC,4
+6223,B,ORG,18
+6232,B-alagrupp,LOC,2
+6233,B-alagrupp,ORG,1
+6272,BBSummer,LOC,2
+6273,BBSummer,PER,1
+6300,BDö,LOC,2
+6301,BDö,PER,2
+6302,BEE,ORG,9
+6303,BEE,PER,9
+6366,Bach,ORG,1
+6367,Bach,PER,4
+6370,Bachmann,ORG,5
+6371,Bachmann,PER,3
+6386,Badghis,LOC,3
+6387,Badghis,ORG,1
+6400,Bahrein,LOC,5
+6401,Bahrein,ORG,2
+6403,Baier,LOC,4
+6404,Baier,ORG,1
+6405,Baier,PER,3
+6436,Balbiino,ORG,8
+6437,Balbiino,PER,6
+6440,Baleno,LOC,1
+6441,Baleno,PER,3
+6457,Ballantines,ORG,4
+6458,Ballantines,PER,1
+6468,Balt Cresco,ORG,3
+6469,Balt Cresco,PER,2
+6507,BaltCom,LOC,1
+6508,BaltCom,ORG,3
+6509,BaltCom,PER,1
+6512,Baltcom,LOC,1
+6513,Baltcom,ORG,5
+6514,Baltcom,PER,2
+6517,Balteco,LOC,1
+6518,Balteco,ORG,1
+6522,Baltic,ORG,1
+6523,Baltic,PER,39
+6524,Baltic Aeroservice,ORG,3
+6525,Baltic Aeroservice,PER,1
+6528,Baltic Beverages Holding,ORG,2
+6529,Baltic Beverages Holding,PER,1
+6531,Baltic Business Software,ORG,2
+6532,Baltic Business Software,PER,1
+6536,Baltic Computer Systems,ORG,5
+6537,Baltic Computer Systems,PER,1
+6552,Baltic Fundi,ORG,1
+6553,Baltic Fundi,PER,1
+6565,Baltic News Service,ORG,1147
+6566,Baltic News Service,PER,6
+6598,Baltic-Tele AB,LOC,1
+6599,Baltic-Tele AB,PER,1
+6600,Baltica,LOC,3
+6601,Baltica,PER,2
+6607,Baltija,LOC,7
+6608,Baltija,ORG,2
+6609,Baltija,PER,1
+6616,Baltika,LOC,31
+6617,Baltika,ORG,50
+6618,Baltika,PER,5
+6641,Baltman,LOC,10
+6642,Baltman,ORG,1
+6643,Baltman,PER,8
+6654,Bambuk,LOC,1
+6655,Bambuk,ORG,1
+6657,Bamut,LOC,5
+6658,Bamut,ORG,1
+6659,Bamut,PER,4
+6670,Bandar,LOC,1
+6671,Bandar,PER,3
+6672,Bandidos,LOC,1
+6673,Bandidos,ORG,1
+6674,Bandidos,PER,1
+6676,Bangalore,LOC,2
+6677,Bangalore,PER,1
+6682,Bangladesh,LOC,19
+6683,Bangladesh,ORG,1
+6696,Bank,ORG,1
+6697,Bank,PER,5
+6700,Bankend,LOC,5
+6701,Bankend,PER,5
+6723,Baranoff,LOC,2
+6724,Baranoff,PER,2
+6752,Barcelona,LOC,184
+6753,Barcelona,ORG,8
+6754,Barcelona,PER,1
+6763,Barclay,ORG,2
+6764,Barclay,PER,2
+6810,Barvihha,LOC,9
+6811,Barvihha,ORG,1
+6812,Barvihha,PER,4
+6815,Barzan,LOC,4
+6816,Barzan,ORG,1
+6817,Barzan,PER,11
+6818,Barzani,ORG,1
+6819,Barzani,PER,8
+6823,Basil Zavoico,ORG,3
+6824,Basil Zavoico,PER,3
+6828,Basis Pank,ORG,2
+6829,Basis Pank,PER,1
+6838,Bastia,LOC,1
+6839,Bastia,ORG,6
+6840,Bastia,PER,1
+6869,Bayern,LOC,17
+6870,Bayern,ORG,3
+6871,Bayern,PER,2
+6882,Bayreuthi Steiner,ORG,2
+6883,Bayreuthi Steiner,PER,8
+6903,Beatrix,LOC,1
+6904,Beatrix,PER,1
+6911,Becker,ORG,1
+6912,Becker,PER,18
+6927,Beethoven,LOC,1
+6928,Beethoven,ORG,22
+6929,Beethoven,PER,18
+6987,Bella,LOC,4
+6988,Bella,PER,8
+6998,Belokon,LOC,2
+6999,Belokon,PER,1
+7003,Belovezhje,LOC,6
+7004,Belovezhje,ORG,3
+7040,Benedikt,ORG,1
+7041,Benedikt,PER,3
+7043,Benelux,LOC,4
+7044,Benelux,PER,3
+7046,Benetton,ORG,4
+7047,Benetton,PER,1
+7051,Benfica,LOC,1
+7052,Benfica,ORG,2
+7053,Benfica,PER,2
+7085,Bent Lillepool,ORG,1
+7086,Bent Lillepool,PER,5
+7098,Berendsen,ORG,1
+7099,Berendsen,PER,40
+7106,Bergen,LOC,5
+7107,Bergen,PER,5
+7151,Berluscon,LOC,1
+7152,Berluscon,PER,2
+7207,Besiktas,ORG,1
+7208,Besiktas,PER,3
+7218,Betsuyaku,LOC,1
+7219,Betsuyaku,PER,2
+7307,Billund,LOC,4
+7308,Billund,PER,1
+7354,Birkavs,LOC,1
+7355,Birkavs,PER,5
+7419,Blatter,LOC,1
+7420,Blatter,ORG,2
+7421,Blatter,PER,1
+7448,Blumenau,LOC,1
+7449,Blumenau,PER,5
+7485,Boban,ORG,1
+7486,Boban,PER,7
+7499,Boca,ORG,1
+7500,Boca,PER,1
+7502,Bochum,LOC,4
+7503,Bochum,ORG,1
+7513,Boeing,LOC,3
+7514,Boeing,ORG,53
+7515,Boeing,PER,2
+7535,Bokshic,LOC,1
+7536,Bokshic,PER,2
+7540,Bolero,LOC,1
+7541,Bolero,PER,1
+7547,Bologna,LOC,13
+7548,Bologna,ORG,1
+7563,Bomber,ORG,4
+7564,Bomber,PER,3
+7568,Bond,LOC,1
+7569,Bond,ORG,1
+7570,Bond,PER,3
+7602,Borealis,LOC,4
+7603,Borealis,ORG,2
+7617,Boris,ORG,1
+7618,Boris,PER,4
+7620,Boris Becker,ORG,1
+7621,Boris Becker,PER,22
+7686,Borissov,ORG,2
+7687,Borissov,PER,10
+7693,Bornhöhe,ORG,1
+7694,Bornhöhe,PER,2
+7699,Borovikule,ORG,2
+7700,Borovikule,PER,2
+7709,Borussia,ORG,3
+7710,Borussia,PER,4
+7711,Borussia Dortmund,ORG,4
+7712,Borussia Dortmund,PER,7
+7713,Borussia Mönchengladbach,ORG,5
+7714,Borussia Mönchengladbach,PER,4
+7717,Bosch,ORG,1
+7718,Bosch,PER,7
+7721,Bosman,LOC,1
+7722,Bosman,PER,4
+7724,Bosnia,LOC,637
+7725,Bosnia,ORG,1
+7740,Bossit,ORG,1
+7741,Bossit,PER,1
+7742,Boston,LOC,3
+7743,Boston,ORG,46
+7744,Boston,PER,2
+7765,Botvinnikule,LOC,1
+7766,Botvinnikule,ORG,1
+7782,Boutros-Ghal,LOC,10
+7783,Boutros-Ghal,PER,17
+7784,Boutros-Ghali,LOC,1
+7785,Boutros-Ghali,PER,14
+7786,Boutros-Ghalile,LOC,2
+7787,Boutros-Ghalile,PER,2
+7788,Boutros-Ghalit,LOC,1
+7789,Boutros-Ghalit,PER,2
+7804,Brackmann,ORG,8
+7805,Brackmann,PER,9
+7806,Brackmanni,ORG,1
+7807,Brackmanni,PER,1
+7814,Brahms,LOC,1
+7815,Brahms,ORG,4
+7816,Brahms,PER,7
+7820,Brajkovic,ORG,1
+7821,Brajkovic,PER,1
+7823,Bramanis,LOC,3
+7824,Bramanis,PER,37
+7832,Brandt,ORG,1
+7833,Brandt,PER,4
+7836,Brann Bergen,ORG,2
+7837,Brann Bergen,PER,1
+7880,Bremen,LOC,8
+7881,Bremen,PER,1
+7942,Brit,LOC,109
+7943,Brit,ORG,2
+7944,Brit,PER,8
+8000,Broken Arrow,ORG,1
+8001,Broken Arrow,PER,1
+8010,Bronto,ORG,2
+8011,Bronto,PER,16
+8022,Browni,LOC,1
+8023,Browni,PER,2
+8043,Brundtland,LOC,1
+8044,Brundtland,ORG,4
+8045,Brundtland,PER,5
+8076,Brøndby,LOC,2
+8077,Brøndby,PER,2
+8096,Buda,ORG,1
+8097,Buda,PER,1
+8113,Budo,LOC,1
+8114,Budo,ORG,9
+8115,Budo,PER,1
+8124,Buenos,LOC,1
+8125,Buenos,PER,1
+8127,Buenos Aires,LOC,1
+8128,Buenos Aires,ORG,10
+8129,Buenos Aires,PER,1
+8130,Buffalo,LOC,10
+8131,Buffalo,ORG,14
+8146,Bukarest,LOC,16
+8147,Bukarest,ORG,1
+8151,Bukavu,LOC,2
+8152,Bukavu,PER,2
+8155,Bukowsk,LOC,1
+8156,Bukowsk,PER,7
+8159,Bukrejev,ORG,1
+8160,Bukrejev,PER,5
+8185,Bulls,LOC,1
+8186,Bulls,PER,23
+8192,Bundesligas,ORG,1
+8193,Bundesligas,PER,1
+8195,Bundesliiga,LOC,7
+8196,Bundesliiga,PER,1
+8197,Bundesrat,LOC,2
+8198,Bundesrat,PER,2
+8199,Bundestag,LOC,1
+8200,Bundestag,PER,2
+8212,Burgsvik,LOC,1
+8213,Burgsvik,PER,2
+8219,Burley,LOC,1
+8220,Burley,PER,1
+8226,Bursa Tofas,ORG,7
+8227,Bursa Tofas,PER,1
+8247,Busquets,LOC,1
+8248,Busquets,PER,1
+8253,Butinges Nafta,ORG,1
+8254,Butinges Nafta,PER,4
+8264,Byron,LOC,1
+8265,Byron,PER,1
+8278,Båstad,LOC,1
+8279,Båstad,ORG,1
+8284,Böckler,ORG,1
+8285,Böckler,PER,1
+8303,C-grupp,LOC,2
+8304,C-grupp,ORG,1
+8322,CCC,LOC,1
+8323,CCC,ORG,1
+8341,CDU,LOC,1
+8342,CDU,ORG,15
+8351,CIA,ORG,26
+8352,CIA,PER,1
+8354,CICR,ORG,4
+8355,CICR,PER,1
+8357,CJD,LOC,1
+8358,CJD,ORG,10
+8369,CO,LOC,3
+8370,CO,ORG,3
+8388,CT,LOC,1
+8389,CT,ORG,1
+8422,Calgary,LOC,8
+8423,Calgary,ORG,20
+8438,Calinya,ORG,5
+8439,Calinya,PER,1
+8450,Cambrinius,LOC,2
+8451,Cambrinius,PER,1
+8466,Caminero,LOC,1
+8467,Caminero,PER,3
+8469,Camp David,ORG,1
+8470,Camp David,PER,1
+8480,Canadiens,LOC,1
+8481,Canadiens,PER,2
+8486,Candlebox,ORG,1
+8487,Candlebox,PER,1
+8491,Canizares,LOC,1
+8492,Canizares,PER,2
+8493,Canmar Miscaroo,ORG,1
+8494,Canmar Miscaroo,PER,3
+8498,Cannes,LOC,2
+8499,Cannes,ORG,1
+8517,Capra,LOC,1
+8518,Capra,PER,8
+8552,Carl Gantois Cup,ORG,2
+8553,Carl Gantois Cup,PER,1
+8648,Carrols,LOC,1
+8649,Carrols,PER,1
+8663,Casiraghi,ORG,3
+8664,Casiraghi,PER,1
+8672,Castaneda,ORG,1
+8673,Castaneda,PER,1
+8675,Castro,LOC,1
+8676,Castro,ORG,1
+8677,Castro,PER,6
+8706,Cefta,ORG,2
+8707,Cefta,PER,2
+8717,Celle Ligure,ORG,1
+8718,Celle Ligure,PER,3
+8725,Celta Vigo,ORG,1
+8726,Celta Vigo,PER,1
+8728,Celtics,ORG,1
+8729,Celtics,PER,4
+8738,Central-Sport,ORG,3
+8739,Central-Sport,PER,3
+8756,Cesis,LOC,5
+8757,Cesis,PER,1
+8799,Chaplin,LOC,3
+8800,Chaplin,ORG,1
+8801,Chaplin,PER,11
+8812,Chargiertenconvent,LOC,1
+8813,Chargiertenconvent,ORG,1
+8814,Charikar,LOC,2
+8815,Charikar,ORG,3
+8874,Chaval,LOC,2
+8875,Chaval,PER,3
+8888,Chelsea,ORG,7
+8889,Chelsea,PER,4
+8892,Chemical,ORG,4
+8893,Chemical,PER,4
+8931,Chicago,LOC,67
+8932,Chicago,ORG,35
+8952,Chiesa,ORG,1
+8953,Chiesa,PER,6
+8972,Chomicius,LOC,1
+8973,Chomicius,PER,2
+8975,Chopin,LOC,1
+8976,Chopin,PER,2
+8979,Chorzowi Ruch,ORG,1
+8980,Chorzowi Ruch,PER,1
+9042,Christina,LOC,2
+9043,Christina,PER,1
+9089,Chrysler,ORG,1
+9090,Chrysler,PER,2
+9095,Chuan,LOC,1
+9096,Chuan,PER,2
+9110,Cibus,ORG,2
+9111,Cibus,PER,2
+9140,Citroën,LOC,1
+9141,Citroën,PER,11
+9156,Citysec,ORG,2
+9157,Citysec,PER,2
+9209,Cleveland,LOC,2
+9210,Cleveland,ORG,16
+9212,Cleveland Cavaliers,ORG,4
+9213,Cleveland Cavaliers,PER,1
+9225,Clinton,ORG,3
+9226,Clinton,PER,206
+9235,Clippers,ORG,6
+9236,Clippers,PER,4
+9242,Club Brügge,ORG,4
+9243,Club Brügge,PER,1
+9249,Coastal,LOC,1
+9250,Coastal,ORG,4
+9251,Coastal,PER,1
+9254,Coastal Baltica,ORG,6
+9255,Coastal Baltica,PER,1
+9256,Coastal Baltica Holding,ORG,15
+9257,Coastal Baltica Holding,PER,3
+9262,Coastal Corporation,ORG,20
+9263,Coastal Corporation,PER,1
+9272,Coca-Cola,LOC,8
+9273,Coca-Cola,ORG,4
+9274,Coca-Cola,PER,2
+9287,Code One,ORG,1
+9288,Code One,PER,1
+9301,Colgate-Palmolive,LOC,1
+9302,Colgate-Palmolive,PER,1
+9326,Colombo,LOC,25
+9327,Colombo,PER,1
+9330,Colorado,LOC,15
+9331,Colorado,ORG,20
+9357,Compostela,LOC,2
+9358,Compostela,ORG,4
+9377,Concordia Klar,ORG,2
+9378,Concordia Klar,PER,1
+9383,Condor,ORG,3
+9384,Condor,PER,3
+9387,Coner Kalev,ORG,1
+9388,Coner Kalev,PER,1
+9407,Consob,ORG,1
+9408,Consob,PER,2
+9419,Conte,ORG,1
+9420,Conte,PER,1
+9425,Cooper & Lybrand,ORG,1
+9426,Cooper & Lybrand,PER,1
+9437,Corbex,ORG,1
+9438,Corbex,PER,3
+9440,Corell,LOC,1
+9441,Corell,PER,1
+9458,Corolla,LOC,2
+9459,Corolla,PER,1
+9461,Corpore,LOC,1
+9462,Corpore,ORG,13
+9470,Cosmopolitan,LOC,1
+9471,Cosmopolitan,ORG,10
+9477,Costa Rica,LOC,2
+9478,Costa Rica,ORG,6
+9521,Creda,ORG,1
+9522,Creda,PER,1
+9528,Crema,LOC,1
+9529,Crema,ORG,1
+9532,Cresco,ORG,2
+9533,Cresco,PER,14
+9551,Crippa,ORG,1
+9552,Crippa,PER,1
+9572,Cropusa,LOC,6
+9573,Cropusa,PER,1
+9578,Crown Agents,ORG,1
+9579,Crown Agents,PER,3
+9602,Curriculum Vitae,ORG,1
+9603,Curriculum Vitae,PER,1
+9611,Cuzco,LOC,1
+9612,Cuzco,ORG,1
+9613,Cuzco,PER,1
+9627,D-alagrupp,LOC,1
+9628,D-alagrupp,ORG,1
+9629,D-grupp,LOC,1
+9630,D-grupp,ORG,1
+9698,DOCOMOMO,ORG,1
+9699,DOCOMOMO,PER,1
+9729,Dagmar Kutsar,ORG,2
+9730,Dagmar Kutsar,PER,6
+9732,Dagmar Saareväli,ORG,1
+9733,Dagmar Saareväli,PER,5
+9737,Dahlin,LOC,2
+9738,Dahlin,PER,2
+9739,Dahomee,LOC,1
+9740,Dahomee,PER,1
+9742,Dahshur,LOC,2
+9743,Dahshur,PER,1
+9763,Daiwa,ORG,1
+9764,Daiwa,PER,2
+9777,Dallas,ORG,63
+9778,Dallas,PER,3
+9788,Damascus,LOC,1
+9789,Damascus,PER,3
+9790,Damaskus,LOC,20
+9791,Damaskus,PER,2
+9818,Dandy,LOC,1
+9819,Dandy,PER,1
+9870,Dannebrog,LOC,1
+9871,Dannebrog,ORG,1
+9872,Dannebrog,PER,1
+9885,Danska,ORG,1
+9886,Danska,PER,1
+9889,Danzig,LOC,1
+9890,Danzig,PER,1
+9893,Daphnis,ORG,1
+9894,Daphnis,PER,4
+9900,Dario Fo,ORG,1
+9901,Dario Fo,PER,1
+9909,Dariusz Zieba,ORG,1
+9910,Dariusz Zieba,PER,1
+9924,Darwin,LOC,1
+9925,Darwin,PER,2
+9958,Davenport,LOC,1
+9959,Davenport,PER,8
+10031,Davis,LOC,3
+10032,Davis,PER,4
+10033,Davis Cup,ORG,15
+10034,Davis Cup,PER,1
+10038,Davis Kamo,ORG,1
+10039,Davis Kamo,PER,1
+10106,Deep Blue,ORG,5
+10107,Deep Blue,PER,5
+10120,Deivil TSERP,ORG,4
+10121,Deivil TSERP,PER,3
+10142,Delhi,LOC,13
+10143,Delhi,PER,1
+10151,Delverde,ORG,1
+10152,Delverde,PER,1
+10160,Demidov,ORG,1
+10161,Demidov,PER,2
+10163,Demokraatia,LOC,5
+10164,Demokraatia,ORG,2
+10165,Demokraatia,PER,4
+10181,Den Bosch,ORG,1
+10182,Den Bosch,PER,1
+10207,Deniv,ORG,1
+10208,Deniv,PER,1
+10228,Denver,LOC,1
+10229,Denver,ORG,21
+10230,Denver,PER,2
+10231,Denver Nuggets,ORG,1
+10232,Denver Nuggets,PER,2
+10243,Deportivo,ORG,1
+10244,Deportivo,PER,1
+10245,Deportivo Coruna,ORG,2
+10246,Deportivo Coruna,PER,6
+10252,Derartu tulu,ORG,2
+10253,Derartu tulu,PER,3
+10283,Desperado,ORG,1
+10284,Desperado,PER,1
+10291,Detroit,LOC,16
+10292,Detroit,ORG,46
+10309,Deutsch-Lettische Banki,ORG,1
+10310,Deutsch-Lettische Banki,PER,1
+10334,Di Centa,ORG,1
+10335,Di Centa,PER,3
+10337,Di Matteo,ORG,1
+10338,Di Matteo,PER,1
+10340,Di donna,ORG,1
+10341,Di donna,PER,1
+10343,Diakooniakeskus,LOC,2
+10344,Diakooniakeskus,ORG,10
+10345,Diakooniakeskus,PER,5
+10348,Diamark,LOC,1
+10349,Diamark,ORG,1
+10350,Diamark,PER,1
+10385,Dida,LOC,1
+10386,Dida,ORG,2
+10436,Dinamo,ORG,4
+10437,Dinamo,PER,6
+10440,Dinamo Minsk,ORG,1
+10441,Dinamo Minsk,PER,2
+10442,Dinamo Moskva,ORG,1
+10443,Dinamo Moskva,PER,1
+10463,Dionysos,LOC,2
+10464,Dionysos,ORG,1
+10471,Dirham,LOC,4
+10472,Dirham,ORG,1
+10473,Dirhami,ORG,1
+10474,Dirhami,PER,1
+10485,Disney,ORG,1
+10486,Disney,PER,9
+10488,Disneyland,LOC,6
+10489,Disneyland,PER,1
+10497,Division,LOC,1
+10498,Division,ORG,1
+10499,Division,PER,2
+10502,Diyarbakir,LOC,2
+10503,Diyarbakir,PER,1
+10521,Dmitri,ORG,1
+10522,Dmitri,PER,6
+10568,Dmitri Sädus,ORG,1
+10569,Dmitri Sädus,PER,1
+10586,Dnepropetrovsk,LOC,2
+10587,Dnepropetrovsk,PER,1
+10593,Dobrinja,LOC,1
+10594,Dobrinja,ORG,1
+10601,Docomomo,LOC,1
+10602,Docomomo,ORG,1
+10603,Docomomo,PER,1
+10610,Doku Zavgajev,ORG,1
+10611,Doku Zavgajev,PER,22
+10620,Dolby B,LOC,1
+10621,Dolby B,ORG,1
+10655,Don Carlo,ORG,1
+10656,Don Carlo,PER,1
+10662,Don Juan,ORG,2
+10663,Don Juan,PER,2
+10668,Don Quijote,ORG,1
+10669,Don Quijote,PER,5
+10703,Donghua Lile,ORG,1
+10704,Donghua Lile,PER,1
+10736,Dortmund,LOC,6
+10737,Dortmund,PER,1
+10744,Dosia,LOC,5
+10745,Dosia,PER,2
+10748,Dostumi,LOC,1
+10749,Dostumi,ORG,1
+10750,Dostumi,PER,2
+10771,Dow Jones,ORG,3
+10772,Dow Jones,PER,3
+10784,Draamateater,LOC,17
+10785,Draamateater,ORG,20
+10786,Draamateater,PER,5
+10803,Dream Team,ORG,3
+10804,Dream Team,PER,12
+10815,Dresdner Bank,ORG,1
+10816,Dresdner Bank,PER,1
+10829,Druzhba,LOC,1
+10830,Druzhba,PER,1
+10838,Dubai,LOC,29
+10839,Dubai,PER,2
+10844,Dublin,LOC,36
+10845,Dublin,PER,2
+10852,Ducati,LOC,1
+10853,Ducati,ORG,1
+10854,Ducati,PER,1
+10856,Dudajev,LOC,3
+10857,Dudajev,ORG,5
+10858,Dudajev,PER,128
+10860,Dudajeva,LOC,1
+10861,Dudajeva,PER,7
+10879,Duloren,ORG,1
+10880,Duloren,PER,2
+10891,Dunkr,LOC,2
+10892,Dunkr,ORG,1
+10907,Dushanbe,LOC,9
+10908,Dushanbe,PER,2
+10913,Dvigatel,LOC,50
+10914,Dvigatel,ORG,9
+10915,Dvigatel,PER,52
+10944,Dzhohhar Dudajev,ORG,3
+10945,Dzhohhar Dudajev,PER,42
+10961,E,ORG,30
+10962,E,PER,1
+11012,E55,LOC,1
+11013,E55,ORG,1
+11035,EBU,LOC,1
+11036,EBU,ORG,5
+11037,ECE,LOC,1
+11038,ECE,ORG,1
+11043,ED,LOC,1
+11044,ED,ORG,4
+11056,EE0090,ORG,1
+11057,EE0090,PER,1
+11083,EENet,LOC,1
+11084,EENet,ORG,1
+11086,EEV,ORG,2
+11087,EEV,PER,1
+11093,EHI,LOC,1
+11094,EHI,ORG,3
+11107,EK,LOC,1
+11108,EK,ORG,194
+11109,EK,PER,4
+11120,EKE Merko,ORG,17
+11121,EKE Merko,PER,1
+11127,EKFü,LOC,1
+11128,EKFü,ORG,1
+11129,EKFü,PER,2
+11130,EKG,ORG,2
+11131,EKG,PER,2
+11152,EKü,ORG,1
+11153,EKü,PER,1
+11154,EL,LOC,55
+11155,EL,ORG,318
+11160,ELK,LOC,9
+11161,ELK,ORG,23
+11162,ELK,PER,1
+11173,ELK-Kristiine,LOC,1
+11174,ELK-Kristiine,ORG,3
+11184,EM,LOC,4
+11185,EM,ORG,225
+11186,EM,PER,3
+11236,ENSV,LOC,6
+11237,ENSV,ORG,26
+11238,ENSV,PER,1
+11255,EOK,ORG,88
+11256,EOK,PER,4
+11268,EPL,LOC,1
+11269,EPL,ORG,239
+11295,EPMü,LOC,1
+11296,EPMü,ORG,3
+11298,EPS,LOC,2
+11299,EPS,ORG,9
+11312,ERM,LOC,1
+11313,ERM,ORG,57
+11341,ESS,LOC,1
+11342,ESS,ORG,13
+11349,ESäü,LOC,1
+11350,ESäü,ORG,2
+11353,ETA,ORG,214
+11354,ETA,PER,1
+11424,EV,LOC,3
+11425,EV,ORG,18
+11433,EVEA,LOC,1
+11434,EVEA,ORG,20
+11441,EVK,LOC,1
+11442,EVK,ORG,26
+11450,EVTV,LOC,1
+11451,EVTV,ORG,30
+11484,Ecopol,ORG,1
+11485,Ecopol,PER,3
+11587,Edinburgh,LOC,6
+11588,Edinburgh,ORG,1
+11593,Edition,ORG,1
+11594,Edition,PER,3
+11600,Edmonton,LOC,9
+11601,Edmonton,ORG,26
+11708,Eedi,LOC,1
+11709,Eedi,PER,1
+11722,Eena,LOC,2
+11723,Eena,ORG,12
+11724,Eena,PER,2
+11736,Eerik Kumar,ORG,2
+11737,Eerik Kumar,PER,2
+11743,Eerik-Juhan Truuväli,ORG,1
+11744,Eerik-Juhan Truuväli,PER,6
+11745,Eerika,LOC,1
+11746,Eerika,PER,8
+11759,Eero Raun,ORG,1
+11760,Eero Raun,PER,3
+11776,Eesti,LOC,16830
+11777,Eesti,ORG,1
+11780,Eesti AS,LOC,1
+11781,Eesti AS,ORG,11
+11907,Eesti Kirjanik Liit,LOC,1
+11908,Eesti Kirjanik Liit,ORG,4
+12001,Eesti NSV,LOC,21
+12002,Eesti NSV,ORG,4
+12027,Eesti Panga,LOC,3
+12028,Eesti Panga,ORG,226
+12434,Eesti loodus,LOC,1
+12435,Eesti loodus,ORG,4
+12445,Eesti maa,LOC,1
+12446,Eesti maa,ORG,4
+12776,Eevi,LOC,1
+12777,Eevi,PER,12
+12786,Eevi alaniit,ORG,2
+12787,Eevi alaniit,PER,2
+12789,Efes pilsen,ORG,1
+12790,Efes pilsen,PER,1
+12807,Egiptus,LOC,177
+12808,Egiptus,PER,9
+12825,Egmont Estonia,ORG,1
+12826,Egmont Estonia,PER,9
+12856,Ehin,LOC,1
+12857,Ehin,PER,4
+12864,Ehlvest,ORG,12
+12865,Ehlvest,PER,137
+12874,Eicher,LOC,1
+12875,Eicher,PER,2
+12880,Eiffel,LOC,1
+12881,Eiffel,ORG,1
+12935,Eindhoven,LOC,1
+12936,Eindhoven,PER,2
+12955,Einojuhani Rautavaar,ORG,1
+12956,Einojuhani Rautavaar,PER,1
+12987,Ekseko,ORG,5
+12988,Ekseko,PER,1
+13002,Ektaco,LOC,1
+13003,Ektaco,ORG,4
+13005,Ekuador,LOC,9
+13006,Ekuador,ORG,2
+13065,Electrolux,LOC,3
+13066,Electrolux,ORG,2
+13067,Electrolux,PER,2
+13144,Elista,LOC,16
+13145,Elista,PER,1
+13148,Elizabeth,LOC,4
+13149,Elizabeth,ORG,1
+13150,Elizabeth,PER,14
+13167,Ellamaa,LOC,3
+13168,Ellamaa,PER,8
+13199,Ellerhein,ORG,2
+13200,Ellerhein,PER,1
+13215,Ello,LOC,2
+13216,Ello,PER,1
+13219,Ellos,LOC,2
+13220,Ellos,PER,9
+13250,Elmatar,LOC,1
+13251,Elmatar,ORG,1
+13252,Elmatar,PER,7
+13275,Elo,ORG,1
+13276,Elo,PER,23
+13291,Els,ORG,1
+13292,Els,PER,1
+13297,Elsa,ORG,1
+13298,Elsa,PER,1
+13313,Elva,LOC,30
+13314,Elva,ORG,5
+13317,Elva SK,LOC,1
+13318,Elva SK,ORG,1
+13326,Elva linn,LOC,2
+13327,Elva linn,ORG,1
+13370,Emex,ORG,4
+13371,Emex,PER,2
+13468,Endel elu,ORG,2
+13469,Endel elu,PER,2
+13479,Endla,LOC,19
+13480,Endla,ORG,8
+13481,Endla,PER,57
+13577,Energoremont,ORG,1
+13578,Energoremont,PER,1
+13581,Engels,ORG,1
+13582,Engels,PER,1
+13591,Engu,LOC,1
+13592,Engu,ORG,1
+13595,Enimex,ORG,3
+13596,Enimex,PER,4
+13754,Enso,LOC,1
+13755,Enso,PER,1
+13756,Ente,ORG,1
+13757,Ente,PER,1
+13777,Epl,ORG,4
+13778,Epl,PER,2104
+13780,Epp,LOC,1
+13781,Epp,ORG,2
+13782,Epp,PER,16
+13789,Epp Käpa,ORG,1
+13790,Epp Käpa,PER,2
+13808,EraVara,ORG,4
+13809,EraVara,PER,1
+13829,Erez,LOC,2
+13830,Erez,PER,1
+13882,Ericsson,LOC,1
+13883,Ericsson,ORG,19
+13884,Ericsson,PER,1
+13931,Erika,LOC,4
+13932,Erika,PER,115
+13962,Erki,LOC,2
+13963,Erki,ORG,2
+13964,Erki,PER,46
+14072,Ernesto Preaton,ORG,1
+14073,Ernesto Preaton,PER,7
+14104,Ertugrul,ORG,1
+14105,Ertugrul,PER,1
+14121,Esa Sievinen,ORG,1
+14122,Esa Sievinen,PER,2
+14167,Esoi,LOC,3
+14168,Esoi,ORG,2
+14169,Esoi,PER,1
+14170,Esoil,LOC,20
+14171,Esoil,ORG,63
+14172,Esoil,PER,60
+14177,Esoili,ORG,1
+14178,Esoili,PER,8
+14179,Esoilile,ORG,1
+14180,Esoilile,PER,8
+14191,Espigor,ORG,1
+14192,Espigor,PER,7
+14202,Esquipulas,LOC,1
+14203,Esquipulas,PER,1
+14205,Esra,ORG,3
+14206,Esra,PER,6
+14208,Esraven,ORG,1
+14209,Esraven,PER,1
+14216,Essen,LOC,5
+14217,Essen,ORG,1
+14222,Est põldmaa,ORG,2
+14223,Est põldmaa,PER,5
+14237,Estam,ORG,1
+14238,Estam,PER,5
+14239,Estart V. K.Co,ORG,1
+14240,Estart V. K.Co,PER,1
+14242,Estel,LOC,1
+14243,Estel,ORG,3
+14244,Estel,PER,16
+14269,Estimpeks,ORG,1
+14270,Estimpeks,PER,3
+14272,Estimpex,LOC,1
+14273,Estimpex,ORG,3
+14285,Estonia,LOC,14
+14286,Estonia,ORG,299
+14328,Estpak Data,ORG,1
+14329,Estpak Data,PER,2
+14332,Estravel,LOC,2
+14333,Estravel,ORG,14
+14357,Eton,LOC,1
+14358,Eton,ORG,3
+14389,Euro-Mastercard,LOC,3
+14390,Euro-Mastercard,ORG,1
+14399,Eurocard,LOC,9
+14400,Eurocard,ORG,1
+14410,Euroglobe,LOC,1
+14411,Euroglobe,ORG,5
+14437,Euroopa Liidu,LOC,2
+14438,Euroopa Liidu,ORG,452
+14439,Euroopa Liidu,PER,1
+14453,Euroopa Liit,LOC,40
+14454,Euroopa Liit,ORG,29
+14510,Euroopa liit,LOC,60
+14511,Euroopa liit,ORG,73
+14548,Europay,LOC,4
+14549,Europay,ORG,8
+14550,Europay,PER,6
+14557,Europol,LOC,1
+14558,Europol,ORG,2
+14564,Eurosteel Group,ORG,2
+14565,Eurosteel Group,PER,4
+14567,Eurovisioon,LOC,3
+14568,Eurovisioon,ORG,4
+14575,Eutour,ORG,1
+14576,Eutour,PER,1
+14578,Eva,ORG,1
+14579,Eva,PER,15
+14704,Everest,LOC,1
+14705,Everest,PER,1
+14708,Evermen,LOC,1
+14709,Evermen,ORG,1
+14710,Evermen,PER,5
+14738,Evora,LOC,3
+14739,Evora,PER,1
+14749,Exiton,ORG,1
+14750,Exiton,PER,1
+14760,Expressen,ORG,4
+14761,Expressen,PER,1
+14763,Extaler,ORG,1
+14764,Extaler,PER,1
+14766,Extremadura,LOC,3
+14767,Extremadura,ORG,1
+14779,EõOL,ORG,4
+14780,EõOL,PER,1
+14794,F. Hybert,LOC,1
+14795,F. Hybert,PER,1
+14813,FC Barcelona,LOC,2
+14814,FC Barcelona,ORG,14
+14832,FC Lantana,ORG,17
+14833,FC Lantana,PER,2
+14869,FIBA,ORG,16
+14870,FIBA,PER,1
+14874,FIDE,ORG,53
+14875,FIDE,PER,1
+14877,FIFA,ORG,105
+14878,FIFA,PER,17
+14886,FIS,ORG,12
+14887,FIS,PER,2
+14939,Falco,LOC,1
+14940,Falco,ORG,21
+14941,Falco,PER,1
+14945,Falg,ORG,2
+14946,Falg,PER,1
+14972,Farooq Ahme Leghari,ORG,1
+14973,Farooq Ahme Leghari,PER,1
+14979,Farret,LOC,2
+14980,Farret,ORG,1
+14981,Farret,PER,3
+15014,Fea,LOC,1
+15015,Fea,ORG,2
+15016,Fea,PER,8
+15071,Fenerbahce,ORG,2
+15072,Fenerbahce,PER,2
+15077,Fenno-Ugria,LOC,18
+15078,Fenno-Ugria,ORG,1
+15080,Fenway Park,ORG,1
+15081,Fenway Park,PER,2
+15096,Ferenc Szirko,ORG,2
+15097,Ferenc Szirko,PER,14
+15099,Ferencvaros Budapest,ORG,1
+15100,Ferencvaros Budapest,PER,1
+15126,Ferrara,LOC,2
+15127,Ferrara,ORG,1
+15128,Ferrara,PER,2
+15131,Ferreira,ORG,1
+15132,Ferreira,PER,5
+15135,Ferris,ORG,1
+15136,Ferris,PER,3
+15146,Fiat,LOC,3
+15147,Fiat,ORG,1
+15148,Fiat,PER,5
+15180,Filipiinid,LOC,15
+15181,Filipiinid,ORG,2
+15182,Filipiinid,PER,1
+15193,Fin Olbyle,ORG,1
+15194,Fin Olbyle,PER,1
+15207,Finest,ORG,2
+15208,Finest,PER,1
+15217,Fing,ORG,1
+15218,Fing,PER,1
+15237,Finnair,LOC,8
+15238,Finnair,ORG,3
+15239,Finnair,PER,32
+15253,Fiorentina,LOC,2
+15254,Fiorentina,ORG,2
+15286,Fix,LOC,2
+15287,Fix,ORG,1
+15321,Fleur,ORG,1
+15322,Fleur,PER,1
+15328,Flexer,ORG,9
+15329,Flexer,PER,1
+15334,Flora,LOC,3
+15335,Flora,ORG,44
+15336,Flora,PER,38
+15344,Florasport,LOC,1
+15345,Florasport,ORG,3
+15364,Florida,LOC,8
+15365,Florida,ORG,41
+15372,Floridians,ORG,1
+15373,Floridians,PER,2
+15375,Flotsam,ORG,1
+15376,Flotsam,PER,1
+15377,Flowers,ORG,1
+15378,Flowers,PER,1
+15387,Focu,LOC,2
+15388,Focu,ORG,1
+15396,Fokker,LOC,1
+15397,Fokker,ORG,1
+15399,Folgers,ORG,1
+15400,Folgers,PER,1
+15401,Folha,LOC,1
+15402,Folha,ORG,1
+15403,Folha,PER,2
+15406,Folklore,ORG,1
+15407,Folklore,PER,1
+15415,Fond,LOC,1
+15416,Fond,ORG,9
+15417,Fond,PER,2
+15429,Foodimpex,LOC,1
+15430,Foodimpex,ORG,1
+15431,Foodimpex,PER,2
+15433,Foods,ORG,3
+15434,Foods,PER,5
+15436,Footwork,ORG,1
+15437,Footwork,PER,1
+15440,Ford Credit,ORG,1
+15441,Ford Credit,PER,1
+15466,Fortuuna Loto,ORG,14
+15467,Fortuuna Loto,PER,2
+15471,Fortuuna-Loto,LOC,2
+15472,Fortuuna-Loto,ORG,1
+15494,France Telecom,ORG,1
+15495,France Telecom,PER,1
+15567,Frank Williams,ORG,1
+15568,Frank Williams,PER,1
+15590,Franten,ORG,1
+15591,Franten,PER,1
+15664,Fredrik Jönsson,ORG,1
+15665,Fredrik Jönsson,PER,3
+15673,Freiburg,LOC,2
+15674,Freiburg,ORG,1
+15678,Freimuth,ORG,1
+15679,Freimuth,PER,19
+15686,Frens,ORG,2
+15687,Frens,PER,2
+15688,Freud,LOC,1
+15689,Freud,ORG,1
+15690,Freud,PER,7
+15692,Freund,ORG,2
+15693,Freund,PER,2
+15702,Friedebert Tuglas,ORG,9
+15703,Friedebert Tuglas,PER,2
+15716,Friedrich Naumanni Fond,ORG,1
+15717,Friedrich Naumanni Fond,PER,2
+15774,Fuser,LOC,1
+15775,Fuser,PER,1
+15801,Fööniks,ORG,1
+15802,Fööniks,PER,1
+15805,G,LOC,1
+15806,G,ORG,2
+15830,G7,LOC,1
+15831,G7,ORG,42
+15838,GAZ,LOC,1
+15839,GAZ,ORG,4
+15853,GIA,ORG,2
+15854,GIA,PER,1
+15859,GLX,ORG,1
+15860,GLX,PER,1
+15884,Gaana,LOC,2
+15885,Gaana,ORG,6
+15886,Gaana,PER,9
+15891,Gaboon,ORG,1
+15892,Gaboon,PER,1
+15930,Gaidis Zeibots,ORG,1
+15931,Gaidis Zeibots,PER,1
+15935,Gailit,LOC,3
+15936,Gailit,ORG,1
+15937,Gailit,PER,12
+15948,Galatasaray,ORG,5
+15949,Galatasaray,PER,2
+15950,Galatasaray Istanbul,ORG,1
+15951,Galatasaray Istanbul,PER,1
+15962,Galina,LOC,1
+15963,Galina,PER,12
+15987,Gallatin,ORG,1
+15988,Gallatin,PER,2
+16003,Gambrinus,LOC,2
+16004,Gambrinus,ORG,1
+16011,Gantvarg,LOC,1
+16012,Gantvarg,PER,2
+16026,Garm,LOC,1
+16027,Garm,PER,1
+16029,Garmarna,LOC,1
+16030,Garmarna,PER,4
+16033,Garmisch-Partenkirchen,LOC,4
+16034,Garmisch-Partenkirchen,ORG,1
+16069,Gata,LOC,1
+16070,Gata,PER,7
+16071,Gata Kamsk,ORG,1
+16072,Gata Kamsk,PER,5
+16074,Gata Kamski,ORG,1
+16075,Gata Kamski,PER,9
+16100,Gazprom,LOC,7
+16101,Gazprom,ORG,4
+16102,Gazprom,PER,11
+16103,Gdansk,LOC,2
+16104,Gdansk,PER,2
+16108,Geant,ORG,1
+16109,Geant,PER,1
+16139,Gelfand,LOC,1
+16140,Gelfand,PER,16
+16144,Gelstein,LOC,1
+16145,Gelstein,ORG,1
+16146,Gelstein,PER,1
+16208,Gent,LOC,7
+16209,Gent,ORG,2
+16213,Genua,LOC,5
+16214,Genua,ORG,1
+16215,Genua,PER,1
+16304,Georgia,LOC,2
+16305,Georgia,PER,2
+16394,Getmansk,LOC,1
+16395,Getmansk,ORG,1
+16400,Gevalia,LOC,1
+16401,Gevalia,ORG,1
+16469,Ginea,LOC,1
+16470,Ginea,PER,3
+16483,Ginter,LOC,1
+16484,Ginter,PER,10
+16528,Glasgow Rangers,ORG,5
+16529,Glasgow Rangers,PER,1
+16533,Glavlit,LOC,1
+16534,Glavlit,PER,1
+16538,Glaxo Wellcome,ORG,2
+16539,Glaxo Wellcome,PER,2
+16544,Glehn,LOC,3
+16545,Glehn,ORG,1
+16546,Glehn,PER,6
+16569,Globus Intur,ORG,1
+16570,Globus Intur,PER,1
+16572,Gloria,LOC,3
+16573,Gloria,PER,4
+16599,Goethe,LOC,1
+16600,Goethe,ORG,3
+16601,Goethe,PER,2
+16607,Goiskoje,LOC,4
+16608,Goiskoje,PER,1
+16623,Golden State,ORG,1
+16624,Golden State,PER,1
+16637,Goldmund,ORG,1
+16638,Goldmund,PER,7
+16640,Goldschmidt AG,ORG,3
+16641,Goldschmidt AG,PER,9
+16657,Gomelsk,LOC,1
+16658,Gomelsk,PER,1
+16661,Gondvana,ORG,2
+16662,Gondvana,PER,1
+16665,Gonsior,LOC,6
+16666,Gonsior,ORG,6
+16667,Gonsior,PER,1
+16670,Gonzales,ORG,1
+16671,Gonzales,PER,5
+16762,Granada Baloncesto,ORG,8
+16763,Granada Baloncesto,PER,1
+16765,Granadaga,ORG,1
+16766,Granadaga,PER,2
+16788,Grasshoppers,ORG,2
+16789,Grasshoppers,PER,1
+16790,Grasshoppers Zürich,ORG,1
+16791,Grasshoppers Zürich,PER,1
+16803,Grazer Wechselseitige,ORG,2
+16804,Grazer Wechselseitige,PER,2
+16808,Grbavica,LOC,2
+16809,Grbavica,PER,1
+16818,Green Bay,LOC,4
+16819,Green Bay,ORG,2
+16865,Grigori Javlinsk,ORG,1
+16866,Grigori Javlinsk,PER,25
+16882,Grinbergs-Linkevics,ORG,1
+16883,Grinbergs-Linkevics,PER,1
+16895,Grolsch,ORG,1
+16896,Grolsch,PER,2
+16909,Groznõi,LOC,391
+16910,Groznõi,ORG,1
+16911,Groznõi,PER,1
+16930,Grupp,LOC,1
+16931,Grupp,ORG,5
+16932,Grupp,PER,7
+16940,Gruzenkin,ORG,1
+16941,Gruzenkin,PER,3
+16965,Guatemaala,LOC,9
+16966,Guatemaala,ORG,1
+16967,Guatemaala,PER,1
+17061,Gundersen,LOC,1
+17062,Gundersen,PER,1
+17107,Guntis Peders,ORG,1
+17108,Guntis Peders,PER,1
+17118,Gustafsson,ORG,1
+17119,Gustafsson,PER,1
+17138,Gustav Mahleri Kaheksas,ORG,1
+17139,Gustav Mahleri Kaheksas,PER,1
+17186,Gyimesi,ORG,1
+17187,Gyimesi,PER,2
+17198,Gällivares,ORG,1
+17199,Gällivares,PER,1
+17227,Götzis,LOC,15
+17228,Götzis,PER,1
+17230,Götzises,ORG,1
+17231,Götzises,PER,4
+17234,Gümnaasium,LOC,1
+17235,Gümnaasium,ORG,3
+17236,Gümnaasium,PER,2
+17250,H. A. Harri,LOC,6
+17251,H. A. Harri,PER,1
+17268,H. Pürkop,LOC,1
+17269,H. Pürkop,PER,2
+17307,HC Kehra,LOC,5
+17308,HC Kehra,ORG,53
+17309,HC Kehra,PER,1
+17337,HLü,LOC,1
+17338,HLü,ORG,1
+17339,HLü,PER,2
+17349,Haabersti,LOC,120
+17350,Haabersti,ORG,3
+17351,Haabersti,PER,2
+17397,Haapsalu,LOC,318
+17398,Haapsalu,PER,2
+17437,Haapsalu-Noarootsi,LOC,1
+17438,Haapsalu-Noarootsi,ORG,1
+17453,Haava,ORG,1
+17454,Haava,PER,2
+17497,Haiglate Liit,LOC,1
+17498,Haiglate Liit,ORG,3
+17509,Hain,LOC,1
+17510,Hain,PER,10
+17521,Haiti,LOC,9
+17522,Haiti,ORG,1
+17523,Haiti,PER,1
+17528,Hajduk Split,ORG,1
+17529,Hajduk Split,PER,1
+17534,Hakan,ORG,2
+17535,Hakan,PER,2
+17575,Hall,LOC,6
+17576,Hall,ORG,6
+17597,Halliste,LOC,7
+17598,Halliste,PER,3
+17605,Hallu,LOC,4
+17606,Hallu,PER,5
+17626,Hamanaka,ORG,1
+17627,Hamanaka,PER,26
+17633,Hamas,ORG,69
+17634,Hamas,PER,3
+17638,Hamasile,ORG,3
+17639,Hamasile,PER,4
+17641,Hamburg,LOC,56
+17642,Hamburg,ORG,2
+17643,Hamburg,PER,35
+17659,Hamilton,ORG,1
+17660,Hamilton,PER,1
+17662,Hamlet,LOC,3
+17663,Hamlet,ORG,2
+17664,Hamlet,PER,1
+17673,Han Pijesak,ORG,2
+17674,Han Pijesak,PER,2
+17687,Hankala,LOC,13
+17688,Hankala,ORG,1
+17703,Hanna heinmaa,ORG,2
+17704,Hanna heinmaa,PER,9
+17717,Hannes,LOC,1
+17718,Hannes,PER,29
+17852,Hansa,ORG,6
+17853,Hansa,PER,1
+17881,Hansabank-Latvija,LOC,5
+17882,Hansabank-Latvija,ORG,2
+17883,Hansabank-Latvija,PER,1
+17915,Hansson,ORG,3
+17916,Hansson,PER,2
+17919,Hanza Lizings,ORG,1
+17920,Hanza Lizings,PER,1
+17931,Hara,LOC,1
+17932,Hara,ORG,3
+17988,Harju,LOC,63
+17989,Harju,PER,1
+18053,Harmaron,ORG,1
+18054,Harmaron,PER,3
+18068,Harri,ORG,1
+18069,Harri,PER,4
+18129,Harry Liivrand,ORG,1
+18130,Harry Liivrand,PER,7
+18153,Hartford,LOC,12
+18154,Hartford,ORG,6
+18163,Harvard,LOC,4
+18164,Harvard,ORG,1
+18165,Harvard,PER,3
+18176,Hasavjurt,LOC,2
+18177,Hasavjurt,ORG,1
+18178,Hasavjurt,PER,1
+18187,Hashimotole,LOC,1
+18188,Hashimotole,ORG,1
+18202,Hassavjurt,LOC,3
+18203,Hassavjurt,PER,1
+18227,Havel,LOC,1
+18228,Havel,PER,19
+18239,Hawks,ORG,1
+18240,Hawks,PER,1
+18244,Haydn,LOC,1
+18245,Haydn,ORG,1
+18246,Haydn,PER,4
+18251,Hazell,ORG,1
+18252,Hazell,PER,1
+18257,Heat,LOC,1
+18258,Heat,PER,7
+18267,Hebron,LOC,38
+18268,Hebron,ORG,5
+18269,Hebron,PER,42
+18312,Heidenheim,LOC,8
+18313,Heidenheim,ORG,1
+18364,Heiki Mätlik,ORG,1
+18365,Heiki Mätlik,PER,5
+18372,Heiki Sorge,ORG,2
+18373,Heiki Sorge,PER,13
+18443,Heineken,LOC,1
+18444,Heineken,ORG,7
+18445,Heineken,PER,1
+18465,Heino Hulgimüük,ORG,1
+18466,Heino Hulgimüük,PER,2
+18509,Heino Sildoja,ORG,1
+18510,Heino Sildoja,PER,6
+18545,Heinz valk,ORG,1
+18546,Heinz valk,PER,1
+18562,Heitti Polli,ORG,1
+18563,Heitti Polli,PER,6
+18595,Hele-Mai,LOC,3
+18596,Hele-Mai,PER,1
+18599,Helen,LOC,3
+18600,Helen,ORG,2
+18601,Helen,PER,10
+18605,Helen Holter,ORG,1
+18606,Helen Holter,PER,4
+18618,Helen Mahmastol,ORG,1
+18619,Helen Mahmastol,PER,4
+18633,Helen Vesik,ORG,1
+18634,Helen Vesik,PER,3
+18639,Helena,LOC,1
+18640,Helena,ORG,1
+18641,Helena,PER,1
+18664,Heleri Saar,LOC,2
+18665,Heleri Saar,PER,1
+18695,Helgi roosmaa,ORG,2
+18696,Helgi roosmaa,PER,1
+18751,Hella,LOC,1
+18752,Hella,PER,4
+18763,Hellas,LOC,1
+18764,Hellas,PER,1
+18815,Helme,LOC,3
+18816,Helme,PER,19
+18832,Helmi Eller,ORG,1
+18833,Helmi Eller,PER,4
+18869,Helsingborg,LOC,6
+18870,Helsingborg,ORG,1
+18872,Helsingi,LOC,543
+18873,Helsingi,PER,3
+18877,Helsingi Dicken,ORG,4
+18878,Helsingi Dicken,PER,2
+18881,Helsingi GP,LOC,1
+18882,Helsingi GP,ORG,1
+18891,Helsingi Kiffen,ORG,4
+18892,Helsingi Kiffen,PER,1
+18925,Helsingin Sanomat,ORG,8
+18926,Helsingin Sanomat,PER,2
+18929,Helsingin Sanomate,ORG,6
+18930,Helsingin Sanomate,PER,3
+18933,Helsinki,LOC,2
+18934,Helsinki,PER,3
+18937,Helsinki Jalkapalloklubi,ORG,1
+18938,Helsinki Jalkapalloklubi,PER,1
+18941,Heltermaa,LOC,12
+18942,Heltermaa,ORG,1
+19011,Henn Pärn,LOC,1
+19012,Henn Pärn,PER,27
+19020,Henn Roode,ORG,1
+19021,Henn Roode,PER,2
+19121,Hense,ORG,1
+19122,Hense,PER,1
+19124,Hensima,ORG,1
+19125,Hensima,PER,1
+19169,Herdmansi,LOC,1
+19170,Herdmansi,PER,5
+19184,Herm,LOC,1
+19185,Herm,PER,2
+19212,Hermes,ORG,2
+19213,Hermes,PER,1
+19229,Herningis,ORG,1
+19230,Herningis,PER,2
+19263,Herzliya,LOC,1
+19264,Herzliya,PER,2
+19267,Hesse,ORG,2
+19268,Hesse,PER,8
+19280,Heureka,LOC,7
+19281,Heureka,PER,7
+19333,Hiiu,LOC,7
+19334,Hiiu,PER,4
+19371,Hilja,LOC,1
+19372,Hilja,PER,1
+19427,Hilton,ORG,1
+19428,Hilton,PER,2
+19449,Hindrey,ORG,1
+19450,Hindrey,PER,7
+19457,Hink,LOC,1
+19458,Hink,PER,3
+19467,Hipp,ORG,1
+19468,Hipp,PER,2
+19481,Hirv,ORG,1
+19482,Hirv,PER,1
+19488,Hisarak,LOC,1
+19489,Hisarak,PER,1
+19511,Hitler,LOC,2
+19512,Hitler,PER,16
+19517,Hizbollah,ORG,2
+19518,Hizbollah,PER,2
+19532,Hobby Hall,ORG,3
+19533,Hobby Hall,PER,5
+19535,Hobby hall,ORG,4
+19536,Hobby hall,PER,2
+19551,Hohlov-Simson,LOC,1
+19552,Hohlov-Simson,ORG,1
+19553,Hohlov-Simson,PER,5
+19560,Hoiupank,LOC,2
+19561,Hoiupank,ORG,180
+19594,Holland,LOC,482
+19595,Holland,ORG,10
+19596,Holland,PER,1
+19620,Holly Hunter,ORG,1
+19621,Holly Hunter,PER,2
+19629,Holm,ORG,2
+19630,Holm,PER,8
+19634,Holmenkollen,LOC,9
+19635,Holmenkollen,PER,1
+19646,Holsten,LOC,1
+19647,Holsten,ORG,1
+19648,Holsten,PER,3
+19649,Holter,ORG,1
+19650,Holter,PER,20
+19671,Honda,LOC,19
+19672,Honda,ORG,2
+19673,Honda,PER,3
+19674,Honda Accord,ORG,1
+19675,Honda Accord,PER,2
+19680,Honduuras,LOC,2
+19681,Honduuras,ORG,3
+19682,Honduuras,PER,1
+19685,Hong Kong,LOC,1
+19686,Hong Kong,ORG,2
+19715,Horisont,ORG,3
+19716,Horisont,PER,1
+19728,Hortus,ORG,2
+19729,Hortus,PER,2
+19731,Hortus Medicus,ORG,2
+19732,Hortus Medicus,PER,1
+19733,Hortus Musicus,ORG,8
+19734,Hortus Musicus,PER,18
+19742,Horvath,LOC,1
+19743,Horvath,PER,1
+19763,Houston,LOC,4
+19764,Houston,ORG,25
+19765,Houston,PER,1
+19771,Houston Rockets,ORG,3
+19772,Houston Rockets,PER,1
+19795,Hracekile,LOC,1
+19796,Hracekile,PER,2
+19858,Hugo boss,ORG,2
+19859,Hugo boss,PER,2
+19865,Huilan Mo,ORG,1
+19866,Huilan Mo,PER,1
+19914,Hussein,ORG,1
+19915,Hussein,PER,26
+19938,Hyundai,LOC,3
+19939,Hyundai,ORG,1
+19940,Hyundai,PER,6
+19958,Hämarik,ORG,3
+19959,Hämarik,PER,1
+19973,Häädemeeste,LOC,2
+19974,Häädemeeste,PER,1
+19993,Høyer,ORG,1
+19994,Høyer,PER,5
+20005,I,ORG,67
+20006,I,PER,1
+20062,IFK Göteborg,LOC,1
+20063,IFK Göteborg,ORG,4
+20067,IFK Norrköping,LOC,1
+20068,IFK Norrköping,ORG,2
+20071,IFOR,LOC,1
+20072,IFOR,ORG,32
+20119,IQ,LOC,1
+20120,IQ,ORG,6
+20123,IRA,LOC,2
+20124,IRA,ORG,8
+20148,ITAR-Tass,LOC,1
+20149,ITAR-Tass,ORG,1
+20159,IVO,ORG,1
+20160,IVO,PER,1
+20180,Ibsen,ORG,2
+20181,Ibsen,PER,4
+20187,Ida,LOC,8
+20188,Ida,PER,1
+20223,Ida-Slavoonia,LOC,1
+20224,Ida-Slavoonia,ORG,1
+20233,Ida-Viru,LOC,45
+20234,Ida-Viru,ORG,4
+20254,Ida-Virumaa haigekassa,LOC,1
+20255,Ida-Virumaa haigekassa,ORG,2
+20283,Iff,ORG,1
+20284,Iff,PER,6
+20286,Iga Boeing,ORG,1
+20287,Iga Boeing,PER,1
+20410,Iisaku,LOC,4
+20411,Iisaku,ORG,1
+20417,Iisrael,LOC,1020
+20418,Iisrael,PER,6
+20475,Ilidza,LOC,1
+20476,Ilidza,PER,1
+20482,Iliescule,LOC,1
+20483,Iliescule,ORG,1
+20502,Iljuhhinile,LOC,1
+20503,Iljuhhinile,PER,1
+20524,Illegaard,LOC,4
+20525,Illegaard,ORG,1
+20526,Illegaard,PER,4
+20532,Illimar,ORG,1
+20533,Illimar,PER,1
+20543,Ilmamaa,LOC,12
+20544,Ilmamaa,ORG,15
+20545,Ilmamaa,PER,7
+20618,Ilmatsalu,LOC,3
+20619,Ilmatsalu,PER,1
+20634,Ilo,ORG,2
+20635,Ilo,PER,11
+20640,Ilona,ORG,1
+20641,Ilona,PER,8
+20652,Ilona Volmer,ORG,1
+20653,Ilona Volmer,PER,1
+20668,Iltalehti,ORG,2
+20669,Iltalehti,PER,1
+20676,Ilves,LOC,9
+20677,Ilves,PER,24
+20728,ImmunoDiagnostics,ORG,3
+20729,ImmunoDiagnostics,PER,1
+20770,Inc,ORG,2
+20771,Inc,PER,1
+20780,Indesiti,LOC,1
+20781,Indesiti,ORG,1
+20782,India,LOC,170
+20783,India,ORG,51
+20784,India,PER,10
+20801,Indiana,LOC,20
+20802,Indiana,ORG,8
+21034,Inglis,LOC,16
+21035,Inglis,PER,1
+21121,Inna,ORG,2
+21122,Inna,PER,2
+21125,Inna Dubinka,ORG,2
+21126,Inna Dubinka,PER,1
+21154,Inorek,ORG,1
+21155,Inorek,PER,2
+21159,Inreko,LOC,13
+21160,Inreko,ORG,12
+21161,Inreko,PER,38
+21171,Inrekol,ORG,1
+21172,Inrekol,PER,3
+21176,Inrestauraator,ORG,1
+21177,Inrestauraator,PER,6
+21184,Instituud,LOC,1
+21185,Instituud,ORG,1
+21186,Instituud,PER,5
+21188,Instituut,LOC,1
+21189,Instituut,ORG,1
+21190,Instituut,PER,1
+21208,Interfax,ORG,242
+21209,Interfax,PER,4
+21247,Internet,ORG,8
+21248,Internet,PER,1
+21291,Ips,ORG,2
+21292,Ips,PER,1
+21293,Ipswich,LOC,6
+21294,Ipswich,PER,4
+21296,Ipswich Town,ORG,5
+21297,Ipswich Town,PER,2
+21301,Ira,LOC,2
+21302,Ira,ORG,7
+21303,Ira,PER,121
+21321,Iraklis,LOC,1
+21322,Iraklis,PER,1
+21388,Iris,ORG,1
+21389,Iris,PER,4
+21393,Iris-Mineral,LOC,1
+21394,Iris-Mineral,ORG,2
+21395,Iris-Mineral,PER,3
+21437,Isamaa,LOC,2
+21438,Isamaa,ORG,13
+21486,Isometsäle,LOC,1
+21487,Isometsäle,PER,2
+21490,Isotamm,LOC,1
+21491,Isotamm,ORG,1
+21492,Isotamm,PER,8
+21495,Israel Military Industries,ORG,2
+21496,Israel Military Industries,PER,1
+21519,Ita Ever,ORG,1
+21520,Ita Ever,PER,3
+21550,Itar-Tass,ORG,17
+21551,Itar-Tass,PER,1
+21560,Itogi,ORG,3
+21561,Itogi,PER,3
+21562,Itshkeeria,LOC,3
+21563,Itshkeeria,ORG,2
+21566,Itum-Kalinsk,LOC,2
+21567,Itum-Kalinsk,ORG,1
+21568,Itäkeskus,LOC,1
+21569,Itäkeskus,ORG,1
+21619,Ivanauskas,ORG,1
+21620,Ivanauskas,PER,1
+21628,Ivanishevic,LOC,2
+21629,Ivanishevic,ORG,1
+21630,Ivanishevic,PER,7
+21631,Ivanov,LOC,1
+21632,Ivanov,PER,18
+21636,Ivantshuk,LOC,3
+21637,Ivantshuk,ORG,1
+21638,Ivantshuk,PER,36
+21785,Izhevsk,LOC,5
+21786,Izhevsk,ORG,1
+21793,Izvestija,ORG,23
+21794,Izvestija,PER,8
+21798,J,ORG,2
+21799,J,PER,1
+21811,J. Johns,LOC,1
+21812,J. Johns,PER,1
+21833,J. S. Bach,LOC,1
+21834,J. S. Bach,PER,4
+22002,Jaam,LOC,19
+22003,Jaam,PER,1
+22005,Jaan,LOC,3
+22006,Jaan,PER,93
+22196,Jaanika,LOC,1
+22197,Jaanika,PER,4
+22292,Jaapan,LOC,651
+22293,Jaapan,PER,8
+22338,Jabal-os-Siraj,LOC,2
+22339,Jabal-os-Siraj,ORG,1
+22342,Jabloko,LOC,19
+22343,Jabloko,ORG,9
+22344,Jabloko,PER,8
+22366,Jackson,ORG,1
+22367,Jackson,PER,16
+22411,Jakk,ORG,1
+22412,Jakk,PER,2
+22460,Jalalabad,LOC,3
+22461,Jalalabad,PER,1
+22463,Jalalabadi,LOC,1
+22464,Jalalabadi,PER,1
+22474,Jamaika,LOC,3
+22475,Jamaika,ORG,22
+22478,James Bond,ORG,1
+22479,James Bond,PER,6
+22575,Jana,ORG,1
+22576,Jana,PER,4
+22601,Jandarbijev,LOC,1
+22602,Jandarbijev,PER,102
+22764,Jap-Auto,LOC,2
+22765,Jap-Auto,ORG,1
+22766,Jap-Auto,PER,1
+22780,Jari,LOC,1
+22781,Jari,PER,1
+22814,Jart,ORG,4
+22815,Jart,PER,24
+22852,Javlinsk,LOC,2
+22853,Javlinsk,ORG,5
+22854,Javlinsk,PER,60
+22861,Jaxy,LOC,1
+22862,Jaxy,PER,10
+22867,Jazz,ORG,2
+22868,Jazz,PER,2
+22895,Jean-Bertrand Aristide,ORG,1
+22896,Jean-Bertrand Aristide,PER,1
+22937,Jeesus,LOC,1
+22938,Jeesus,PER,18
+22939,Jeesus Kristus,ORG,1
+22940,Jeesus Kristus,PER,6
+22967,Jehoova,ORG,2
+22968,Jehoova,PER,18
+22981,Jekaterina Saar,LOC,2
+22982,Jekaterina Saar,PER,3
+23119,Jeremija,LOC,1
+23120,Jeremija,ORG,1
+23126,Jericho,LOC,1
+23127,Jericho,PER,5
+23153,Jeruusalemm,LOC,155
+23154,Jeruusalemm,PER,1
+23252,Jiang,LOC,1
+23253,Jiang,ORG,2
+23254,Jiang,PER,7
+23290,Jimmy Carter,ORG,1
+23291,Jimmy Carter,PER,4
+23315,Joachim Winter,ORG,1
+23316,Joachim Winter,PER,1
+23393,Johan,ORG,2
+23394,Johan,PER,2
+23433,Johanna,ORG,1
+23434,Johanna,PER,3
+23487,Johanson,LOC,1
+23488,Johanson,ORG,1
+23489,Johanson,PER,8
+23590,Johnatan,LOC,1
+23591,Johnatan,PER,1
+23600,Johnsoni,LOC,1
+23601,Johnsoni,PER,5
+23611,Jolly Rancher,ORG,1
+23612,Jolly Rancher,PER,1
+23623,Jon Arnar Magnusson,ORG,2
+23624,Jon Arnar Magnusson,PER,4
+23626,Jon Bon Jov,ORG,1
+23627,Jon Bon Jov,PER,1
+23629,Jon Drummond,ORG,1
+23630,Jon Drummond,PER,3
+23650,Jonathan Stark,ORG,1
+23651,Jonathan Stark,PER,1
+23660,Jonsere,ORG,1
+23661,Jonsere,PER,1
+23665,Jooksuklubi Hermes,ORG,1
+23666,Jooksuklubi Hermes,PER,1
+23688,Jordan,LOC,20
+23689,Jordan,ORG,2
+23690,Jordan,PER,46
+23721,Jose,LOC,1
+23722,Jose,PER,4
+23734,Jose Maria Aznar,ORG,4
+23735,Jose Maria Aznar,PER,2
+23854,Jugandi,ORG,2
+23855,Jugandi,PER,2
+23977,Jukka Tolvanen,ORG,1
+23978,Jukka Tolvanen,PER,1
+23987,Julgeolekunõukogu,LOC,1
+23988,Julgeolekunõukogu,ORG,27
+23989,Julgeolekunõukogu,PER,7
+23992,Julia,LOC,2
+23993,Julia,PER,8
+24026,Juliane,ORG,1
+24027,Juliane,PER,3
+24066,Jungent,ORG,5
+24067,Jungent,PER,3
+24090,Juri,LOC,1
+24091,Juri,PER,3
+24174,Jurmala,LOC,9
+24175,Jurmala,PER,1
+24181,Juss,ORG,1
+24182,Juss,PER,3
+24183,Juss Laansoo,ORG,1
+24184,Juss Laansoo,PER,5
+24186,Juss Ojala,ORG,1
+24187,Juss Ojala,PER,1
+24224,Juve,ORG,1
+24225,Juve,PER,1
+24230,Juventu Rebelde,ORG,1
+24231,Juventu Rebelde,PER,1
+24232,Juventus,LOC,4
+24233,Juventus,ORG,6
+24234,Juventus,PER,3
+24263,Järv,LOC,31
+24264,Järv,PER,27
+24267,Järva,LOC,17
+24268,Järva,PER,1
+24279,Järvakandi,LOC,5
+24280,Järvakandi,PER,1
+24282,Järvakandi Klaas,ORG,1
+24283,Järvakandi Klaas,PER,1
+24288,Järvala,LOC,1
+24289,Järvala,ORG,2
+24290,Järvala,PER,4
+24300,Järve,LOC,6
+24301,Järve,ORG,2
+24302,Järve,PER,23
+24309,Järvele,LOC,1
+24310,Järvele,PER,1
+24319,Järvi,LOC,1
+24320,Järvi,PER,3
+24346,Jõgeva,LOC,104
+24347,Jõgeva,PER,16
+24354,Jõgeva Tähe,ORG,3
+24355,Jõgeva Tähe,PER,1
+24382,Jõhvi,LOC,29
+24383,Jõhvi,ORG,1
+24384,Jõhvi,PER,6
+24388,Jõks,LOC,1
+24389,Jõks,PER,1
+24396,Jõulandia,LOC,1
+24397,Jõulandia,PER,1
+24407,Jönsson,ORG,2
+24408,Jönsson,PER,7
+24442,Jüri,LOC,1
+24443,Jüri,PER,100
+24692,Jüri lina,ORG,1
+24693,Jüri lina,PER,1
+24705,Jüriöö,ORG,1
+24706,Jüriöö,PER,17
+24734,K. Raud,LOC,1
+24735,K. Raud,PER,1
+24752,KEK,LOC,1
+24753,KEK,ORG,8
+24759,KIA,ORG,3
+24760,KIA,PER,2
+24769,KMü,LOC,1
+24770,KMü,PER,1
+24807,Kaarel,LOC,4
+24808,Kaarel,PER,41
+24833,Kaarepere,LOC,25
+24834,Kaarepere,PER,18
+24854,Kaarma,ORG,1
+24855,Kaarma,PER,2
+24860,Kaasik,LOC,4
+24861,Kaasik,PER,17
+24881,Kadaka,LOC,21
+24882,Kadaka,ORG,19
+24883,Kadaka,PER,11
+24899,Kadi Kallas,ORG,1
+24900,Kadi Kallas,PER,6
+24973,Kadriorg,LOC,23
+24974,Kadriorg,ORG,192
+25003,Kaer,LOC,3
+25004,Kaer,PER,1
+25007,Kaevats,LOC,9
+25008,Kaevats,PER,2
+25011,Kafka,LOC,1
+25012,Kafka,PER,34
+25014,Kafkale,LOC,1
+25015,Kafkale,PER,2
+25016,Kafkat,LOC,1
+25017,Kafkat,PER,1
+25168,Kaija,LOC,1
+25169,Kaija,ORG,2
+25170,Kaija,PER,7
+25221,Kairi Saks,ORG,4
+25222,Kairi Saks,PER,6
+25226,Kairi Vilderson,ORG,1
+25227,Kairi Vilderson,PER,4
+25230,Kairo,LOC,15
+25231,Kairo,ORG,4
+25232,Kairo,PER,19
+25233,Kairo Egiptus,LOC,1
+25234,Kairo Egiptus,ORG,1
+25245,Kaiserslautern,LOC,1
+25246,Kaiserslautern,ORG,8
+25271,Kaja,ORG,2
+25272,Kaja,PER,5
+25279,Kaja Kuivjõgi,ORG,2
+25280,Kaja Kuivjõgi,PER,4
+25298,Kaja kell,ORG,2
+25299,Kaja kell,PER,10
+25302,Kajak,ORG,1
+25303,Kajak,PER,9
+25306,Kajaka,LOC,1
+25307,Kajaka,PER,1
+25308,Kajaku,LOC,1
+25309,Kajaku,PER,7
+25314,Kajule,LOC,1
+25315,Kajule,PER,1
+25317,Kakiasvili,LOC,1
+25318,Kakiasvili,PER,1
+25334,Kalda,ORG,2
+25335,Kalda,PER,7
+25346,Kalev,LOC,11
+25347,Kalev,ORG,229
+25348,Kalev,PER,265
+25364,Kalev Kallole,ORG,1
+25365,Kalev Kallole,PER,4
+25410,Kalev Raave,ORG,2
+25411,Kalev Raave,PER,1
+25448,Kalev kull,ORG,1
+25449,Kalev kull,PER,4
+25450,Kalev mäng,ORG,1
+25451,Kalev mäng,PER,1
+25465,Kalevipoeg,LOC,5
+25466,Kalevipoeg,ORG,4
+25467,Kalevipoeg,PER,35
+25475,Kalinin,LOC,1
+25476,Kalinin,PER,2
+25502,Kalju,LOC,1
+25503,Kalju,ORG,1
+25504,Kalju,PER,27
+25511,Kalju Komissarov,ORG,2
+25512,Kalju Komissarov,PER,10
+25541,Kalju Suur,ORG,1
+25542,Kalju Suur,PER,11
+25549,Kalju-Vahur peremees,ORG,1
+25550,Kalju-Vahur peremees,PER,1
+25554,Kaljune,ORG,1
+25555,Kaljune,PER,1
+25557,Kaljuste,LOC,1
+25558,Kaljuste,PER,18
+25572,Kallaste,LOC,3
+25573,Kallaste,PER,4
+25585,Kalle Kalm,ORG,1
+25586,Kalle Kalm,PER,2
+25616,Kalle Rõõmus,ORG,1
+25617,Kalle Rõõmus,PER,1
+25643,Kalmar,LOC,1
+25644,Kalmar,PER,1
+25676,Kambodzha,LOC,6
+25677,Kambodzha,ORG,1
+25680,Kamee / Kristiine,ORG,13
+25681,Kamee / Kristiine,PER,1
+25695,Kaminsk,LOC,1
+25696,Kaminsk,PER,1
+25709,Kamtshatka,LOC,5
+25710,Kamtshatka,PER,1
+25714,Kanaar,LOC,1
+25715,Kanaar,PER,1
+25738,Kanava,LOC,1
+25739,Kanava,ORG,3
+25747,Kangnung,LOC,1
+25748,Kangnung,PER,2
+25754,Kangur,LOC,2
+25755,Kangur,PER,12
+25770,Kantshelskis,LOC,1
+25771,Kantshelskis,PER,8
+25780,Kaohsiung,LOC,1
+25781,Kaohsiung,PER,1
+25782,Kap,ORG,2
+25783,Kap,PER,1
+25804,Karadzic,LOC,1
+25805,Karadzic,PER,64
+25845,Karembeu,ORG,1
+25846,Karembeu,PER,2
+25862,Kari Homanen,ORG,1
+25863,Kari Homanen,PER,2
+25869,Kari Myyryläinen,ORG,1
+25870,Kari Myyryläinen,PER,2
+25873,Kari Rahkamo,ORG,1
+25874,Kari Rahkamo,PER,4
+25884,Kariibi,LOC,1
+25885,Kariibi,ORG,3
+25886,Kariibi,PER,1
+25946,Karjaa,LOC,1
+25947,Karjaa,ORG,1
+25948,Karjaa,PER,9
+25954,Karjalainen,ORG,2
+25955,Karjalainen,PER,3
+25965,Karksi-Nuia,LOC,16
+25966,Karksi-Nuia,ORG,1
+26045,Karl-Erik,LOC,1
+26046,Karl-Erik,PER,1
+26054,Karlova Gümnaasium,ORG,3
+26055,Karlova Gümnaasium,PER,1
+26060,Karlson,ORG,3
+26061,Karlson,PER,25
+26064,Karlsruhe,LOC,7
+26065,Karlsruhe,ORG,6
+26066,Karlsruhe,PER,1
+26070,Karlsson,LOC,1
+26071,Karlsson,ORG,4
+26072,Karlsson,PER,4
+26074,Karme,LOC,1
+26075,Karme,PER,3
+26094,Karnishovas,ORG,1
+26095,Karnishovas,PER,5
+26115,Karotom,ORG,2
+26116,Karotom,PER,11
+26139,Karu,LOC,29
+26140,Karu,PER,27
+26147,Karula rahvuspark,LOC,5
+26148,Karula rahvuspark,ORG,2
+26172,Kase,ORG,1
+26173,Kase,PER,9
+26179,Kaseorg,ORG,1
+26180,Kaseorg,PER,19
+26195,Kask,LOC,3
+26196,Kask,PER,12
+26205,Kasparov,LOC,1
+26206,Kasparov,PER,76
+26218,Kaspiiskis,LOC,1
+26219,Kaspiiskis,PER,1
+26220,Kass,LOC,3
+26221,Kass,PER,1
+26223,Kassari,LOC,30
+26224,Kassari,PER,2
+26256,Katar Brodin,ORG,3
+26257,Katar Brodin,PER,1
+26261,Katariina,LOC,10
+26262,Katariina,PER,12
+26335,Katri Voll,ORG,1
+26336,Katri Voll,PER,2
+26443,Kaubamaja,ORG,2
+26444,Kaubamaja,PER,2
+26447,Kaubandus-Tööstuskoda,LOC,1
+26448,Kaubandus-Tööstuskoda,ORG,3
+26449,Kaubandus-Tööstuskoda,PER,1
+26453,Kaug-Ida,LOC,12
+26454,Kaug-Ida,PER,1
+26460,Kaugver,ORG,1
+26461,Kaugver,PER,4
+26476,Kaunas,LOC,11
+26477,Kaunas,ORG,6
+26478,Kaunas,PER,4
+26479,Kaunas Atletas,ORG,1
+26480,Kaunas Atletas,PER,2
+26485,Kaunas Lushis,ORG,1
+26486,Kaunas Lushis,PER,1
+26506,Kaupo Palmar,ORG,2
+26507,Kaupo Palmar,PER,30
+26509,Kaupo Rai,ORG,1
+26510,Kaupo Rai,PER,1
+26536,Kaustinen,LOC,2
+26537,Kaustinen,ORG,1
+26554,KazAir,LOC,1
+26555,KazAir,ORG,1
+26585,Kebin,LOC,2
+26586,Kebin,PER,11
+26587,Kebina,LOC,2
+26588,Kebina,ORG,1
+26589,Kebina,PER,23
+26614,Kehra,LOC,173
+26615,Kehra,ORG,4
+26616,Kehra,PER,3
+26632,Keila,LOC,58
+26633,Keila,ORG,4
+26636,Keila SOS-Lasteküla,LOC,2
+26637,Keila SOS-Lasteküla,ORG,1
+26638,Keila SOS-Lasteküla,PER,1
+26642,Keila Terko,ORG,4
+26643,Keila Terko,PER,2
+26755,Kent,LOC,1
+26756,Kent,ORG,1
+26757,Kent,PER,2
+26775,Ker,LOC,1
+26776,Ker,PER,1
+26784,Keres,LOC,1
+26785,Keres,ORG,1
+26786,Keres,PER,95
+26891,Kesk,LOC,5
+26892,Kesk,ORG,1
+26902,Kesk-Aasia,LOC,11
+26903,Kesk-Aasia,ORG,1
+26909,Kesk-Ameerika,LOC,11
+26910,Kesk-Ameerika,ORG,1
+26914,Kesk-Eest,LOC,7
+26915,Kesk-Eest,ORG,1
+26924,Kesk-Euroopa,LOC,6
+26925,Kesk-Euroopa,ORG,1
+26936,Kesk-Lääne,LOC,1
+26937,Kesk-Lääne,ORG,1
+26958,Kesklinn,LOC,232
+26959,Kesklinn,ORG,1
+26994,Kesko,ORG,6
+26995,Kesko,PER,1
+27001,Keskturg,LOC,1
+27002,Keskturg,ORG,7
+27006,Kesküla,LOC,1
+27007,Kesküla,ORG,4
+27008,Kesküla,PER,12
+27025,Ketriin,LOC,2
+27026,Ketriin,PER,8
+27070,Kiel,LOC,24
+27071,Kiel,PER,1
+27089,Kiiev,LOC,63
+27090,Kiiev,PER,3
+27091,Kiiev Basket,ORG,3
+27092,Kiiev Basket,PER,1
+27104,Kiil,LOC,4
+27105,Kiil,PER,1
+27111,Kiir,ORG,1
+27112,Kiir,PER,3
+27113,Kiir vasar,ORG,1
+27114,Kiir vasar,PER,1
+27123,Kiisa,LOC,2
+27124,Kiisa,PER,42
+27133,Kiiu Meierei,ORG,1
+27134,Kiiu Meierei,PER,1
+27140,Kikas,LOC,1
+27141,Kikas,PER,5
+27146,Kiko,ORG,1
+27147,Kiko,PER,3
+27157,Kilk,LOC,2
+27158,Kilk,PER,9
+27172,Kim,ORG,1
+27173,Kim,PER,11
+27193,Kim-Erik Küttis,ORG,1
+27194,Kim-Erik Küttis,PER,3
+27222,King-Kong,LOC,1
+27223,King-Kong,PER,1
+27225,Kinger,ORG,1
+27226,Kinger,PER,2
+27230,Kings,LOC,1
+27231,Kings,PER,1
+27236,Kink,LOC,6
+27237,Kink,PER,11
+27243,Kinnevik,ORG,1
+27244,Kinnevik,PER,5
+27245,Kinnisvaraekspert,ORG,1
+27246,Kinnisvaraekspert,PER,2
+27280,Kirile lood,ORG,1
+27281,Kirile lood,PER,4
+27288,Kirjakov,ORG,1
+27289,Kirjakov,PER,3
+27295,Kirjanik Liidu,ORG,12
+27296,Kirjanik Liidu,PER,2
+27308,Kirjastus Ilmamaa,ORG,2
+27309,Kirjastus Ilmamaa,PER,4
+27316,Kirjastus Varrak,ORG,1
+27317,Kirjastus Varrak,PER,2
+27341,Kirs,LOC,2
+27342,Kirs,ORG,1
+27343,Kirs,PER,18
+27371,Kishinjov,LOC,1
+27372,Kishinjov,ORG,1
+27373,Kishinjov,PER,1
+27375,Kislovodsk,LOC,20
+27376,Kislovodsk,PER,1
+27394,Kiv,ORG,1
+27395,Kiv,PER,6
+27399,Kivi,LOC,2
+27400,Kivi,PER,6
+27404,Kivila,LOC,2
+27405,Kivila,ORG,8
+27411,Kivimäe,ORG,1
+27412,Kivimäe,PER,4
+27416,Kivimägi,LOC,9
+27417,Kivimägi,PER,5
+27421,Kivinukk,ORG,1
+27422,Kivinukk,PER,2
+27424,Kivirähu,ORG,2
+27425,Kivirähu,PER,4
+27430,Kivisild,LOC,1
+27431,Kivisild,ORG,4
+27433,Kivisildnik,ORG,3
+27434,Kivisildnik,PER,58
+27436,Kivisildniku,ORG,1
+27437,Kivisildniku,PER,1
+27444,Kiviõli,LOC,26
+27445,Kiviõli,ORG,1
+27454,Kizljar,LOC,5
+27455,Kizljar,ORG,1
+27479,Klaipeda,LOC,15
+27480,Klaipeda,ORG,2
+27481,Klaipeda,PER,4
+27489,Klassikaraadio,LOC,2
+27490,Klassikaraadio,ORG,1
+27514,Klementi,ORG,2
+27515,Klementi,PER,1
+27538,Klooga,LOC,54
+27539,Klooga,PER,1
+27556,Klubi,ORG,11
+27557,Klubi,PER,5
+27568,Knicks,ORG,1
+27569,Knicks,PER,9
+27598,Kobras,ORG,10
+27599,Kobras,PER,1
+27614,Kodaniporg,LOC,1
+27615,Kodaniporg,ORG,2
+27616,Kodaniporg,PER,1
+27624,Kodu-Anttila,LOC,3
+27625,Kodu-Anttila,ORG,3
+27626,Kodu-Anttila,PER,2
+27637,Kodune Viljandi,ORG,3
+27638,Kodune Viljandi,PER,6
+27646,Koeratopis,LOC,1
+27647,Koeratopis,PER,1
+27650,Koff,LOC,2
+27651,Koff,PER,6
+27658,Koger,LOC,6
+27659,Koger,PER,7
+27660,Koger & Sumberg,ORG,15
+27661,Koger & Sumberg,PER,2
+27666,Koger & Sumbergi,ORG,1
+27667,Koger & Sumbergi,PER,1
+27676,Koguva,LOC,1
+27677,Koguva,PER,1
+27721,Koidula,LOC,6
+27722,Koidula,PER,22
+27733,Koit,ORG,4
+27734,Koit,PER,20
+27748,Koiva,LOC,1
+27749,Koiva,ORG,1
+27772,Kolga,LOC,2
+27773,Kolga,PER,16
+27780,Kolgata,LOC,1
+27781,Kolgata,PER,1
+27804,Koltshak,ORG,1
+27805,Koltshak,PER,1
+27808,Kolumbia,LOC,67
+27809,Kolumbia,PER,1
+27830,Komissarov,ORG,1
+27831,Komissarov,PER,3
+27892,Konra Adenauer,ORG,1
+27893,Konra Adenauer,PER,1
+27927,Konstantinoopol,LOC,14
+27928,Konstantinoopol,ORG,3
+27929,Konstantinoopol,PER,1
+27948,Kontuur Disain,ORG,1
+27949,Kontuur Disain,PER,1
+27957,Koolibri,ORG,3
+27958,Koolibri,PER,5
+27974,Koostöö Organisatsiooni,ORG,2
+27975,Koostöö Organisatsiooni,PER,1
+27986,Kopli,LOC,55
+27987,Kopli,ORG,6
+27988,Kopli,PER,68
+28116,Kotka,LOC,2
+28117,Kotka,ORG,1
+28118,Kotka,PER,1
+28121,Kotkas,LOC,11
+28122,Kotkas,PER,1
+28133,Kotzebue,ORG,4
+28134,Kotzebue,PER,2
+28148,Koy Sanjak,ORG,1
+28149,Koy Sanjak,PER,1
+28168,Kraft,ORG,2
+28169,Kraft,PER,35
+28176,Krahv Dracula,ORG,1
+28177,Krahv Dracula,PER,4
+28182,Krajicek,ORG,1
+28183,Krajicek,PER,15
+28206,Krasnojarsk,LOC,10
+28207,Krasnojarsk,PER,1
+28228,Kreeka,LOC,371
+28229,Kreeka,ORG,1
+28233,Kreeka Patras,LOC,1
+28234,Kreeka Patras,ORG,1
+28251,Kreenholm,LOC,43
+28252,Kreenholm,ORG,13
+28253,Kreenholm,PER,17
+28255,Kreenholm Scandinavia,ORG,1
+28256,Kreenholm Scandinavia,PER,1
+28284,Kreml,LOC,8
+28285,Kreml,ORG,152
+28300,Kreutzwald,LOC,3
+28301,Kreutzwald,ORG,9
+28302,Kreutzwald,PER,2
+28306,Krevald,ORG,1
+28307,Krevald,PER,12
+28311,Kriisa,LOC,1
+28312,Kriisa,PER,47
+28319,Krimm,LOC,15
+28320,Krimm,PER,21
+28377,Kristal,LOC,5
+28378,Kristal,ORG,5
+28379,Kristal,PER,4
+28470,Kristiina,LOC,2
+28471,Kristiina,PER,21
+28500,Kristiine,LOC,36
+28501,Kristiine,ORG,10
+28502,Kristiine,PER,45
+28504,Kristiine I,ORG,2
+28505,Kristiine I,PER,2
+28512,Kristiine SK,ORG,4
+28513,Kristiine SK,PER,4
+28517,Kristiine kasiino,ORG,3
+28518,Kristiine kasiino,PER,1
+28535,Kristina,LOC,2
+28536,Kristina,PER,109
+28654,Kristus,LOC,4
+28655,Kristus,PER,43
+28675,Kross,LOC,1
+28676,Kross,PER,21
+28688,Krups,LOC,1
+28689,Krups,PER,1
+28716,Krõlov,LOC,1
+28717,Krõlov,ORG,3
+28718,Krõlov,PER,8
+28719,Krõm,LOC,9
+28720,Krõm,PER,20
+28723,Krõmile,LOC,1
+28724,Krõmile,PER,1
+28725,Krõõt,ORG,1
+28726,Krõõt,PER,2
+28740,Kuala Lumpur,LOC,3
+28741,Kuala Lumpur,ORG,1
+28770,Kuivastu,LOC,8
+28771,Kuivastu,ORG,5
+28778,Kukk,LOC,2
+28779,Kukk,PER,23
+28785,Kukoc,ORG,1
+28786,Kukoc,PER,30
+28793,Kuku tv,ORG,2
+28794,Kuku tv,PER,1
+28795,Kuku-Raadio,LOC,1
+28796,Kuku-Raadio,ORG,1
+28797,Kuku-Raadio,PER,1
+28858,Kullo,ORG,3
+28859,Kullo,PER,25
+28895,Kunda,LOC,54
+28896,Kunda,ORG,3
+28909,Kunder,LOC,5
+28910,Kunder,ORG,2
+28911,Kunder,PER,4
+28918,Kuninga,ORG,3
+28919,Kuninga,PER,1
+28930,Kuningriik,LOC,2
+28931,Kuningriik,PER,2
+28950,Kunstimuuseum,ORG,4
+28951,Kunstimuuseum,PER,3
+28976,Kupar,ORG,2
+28977,Kupar,PER,6
+28997,Kuressaare,LOC,153
+28998,Kuressaare,ORG,2
+28999,Kuressaare,PER,6
+29038,Kuriil,LOC,2
+29039,Kuriil,ORG,1
+29053,Kursi,LOC,1
+29054,Kursi,ORG,1
+29062,Kurtinait,LOC,4
+29063,Kurtinait,PER,1
+29068,Kurtnas,LOC,1
+29069,Kurtnas,PER,2
+29079,Kuslap,ORG,1
+29080,Kuslap,PER,3
+29088,Kusti,LOC,1
+29089,Kusti,PER,1
+29101,Kutshmale,LOC,1
+29102,Kutshmale,PER,2
+29106,Kuuba,LOC,185
+29107,Kuuba,PER,3
+29117,Kuune,LOC,14
+29118,Kuune,PER,2
+29121,Kuura,LOC,1
+29122,Kuura,PER,8
+29126,Kuusalu,LOC,25
+29127,Kuusalu,PER,1
+29138,Kuusik,LOC,1
+29139,Kuusik,PER,3
+29143,Kuusk,ORG,1
+29144,Kuusk,PER,5
+29145,Kuuskemaa,LOC,4
+29146,Kuuskemaa,PER,25
+29151,Kuusmaa,LOC,23
+29152,Kuusmaa,PER,101
+29169,Kuzmin,ORG,1
+29170,Kuzmin,PER,2
+29177,Kvedarauskas,ORG,1
+29178,Kvedarauskas,PER,7
+29180,Kvell,ORG,1
+29181,Kvell,PER,1
+29182,Kverneland,LOC,2
+29183,Kverneland,ORG,1
+29186,Kwasniewsk,LOC,1
+29187,Kwasniewsk,ORG,1
+29188,Kwasniewsk,PER,2
+29198,Kyodo,ORG,1
+29199,Kyodo,PER,1
+29208,Kägu,LOC,39
+29209,Kägu,PER,25
+29233,Kärdla,LOC,52
+29234,Kärdla,ORG,1
+29235,Kärdla,PER,3
+29254,Kärner,LOC,3
+29255,Kärner,ORG,2
+29256,Kärner,PER,1
+29300,Käval,ORG,1
+29301,Käval,PER,2
+29306,Kääriku,LOC,23
+29307,Kääriku,PER,1
+29314,Kõiv,LOC,3
+29315,Kõiv,PER,20
+29331,Kõpu,LOC,6
+29332,Kõpu,PER,4
+29366,Köpke,LOC,1
+29367,Köpke,PER,4
+29385,Külaots,ORG,1
+29386,Külaots,PER,26
+29397,Külli Kalju,ORG,1
+29398,Külli Kalju,PER,7
+29411,Külli Pedaku,ORG,1
+29412,Külli Pedaku,PER,7
+29428,Küllik,LOC,1
+29429,Küllik,PER,2
+29430,Küllik Hermet,ORG,2
+29431,Küllik Hermet,PER,4
+29438,Küllike,LOC,3
+29439,Küllike,PER,1
+29440,Külliki Suurmaa,ORG,1
+29441,Külliki Suurmaa,PER,1
+29449,Külv,ORG,4
+29450,Külv,PER,3
+29462,Künnapu,ORG,1
+29463,Künnapu,PER,9
+29464,Künnapuu,ORG,2
+29465,Künnapuu,PER,6
+29492,L. Meri,LOC,1
+29493,L. Meri,PER,3
+29501,L. Wiener,LOC,1
+29502,L. Wiener,PER,1
+29515,LAV,LOC,20
+29516,LAV,ORG,79
+29570,La Macarena,ORG,1
+29571,La Macarena,PER,1
+29584,Laa,ORG,1
+29585,Laa,PER,1
+29606,Laanaru,LOC,1
+29607,Laanaru,ORG,1
+29608,Laanaru,PER,4
+29618,Laansoo,ORG,1
+29619,Laansoo,PER,28
+29620,Laansoo kinnisvara,ORG,1
+29621,Laansoo kinnisvara,PER,6
+29627,Laas,ORG,1
+29628,Laas,PER,2
+29645,Lacto,LOC,4
+29646,Lacto,ORG,1
+29647,Lada,LOC,2
+29648,Lada,ORG,1
+29649,Lada,PER,28
+29669,Laelatu,LOC,2
+29670,Laelatu,ORG,1
+29671,Laesson,LOC,2
+29672,Laesson,ORG,24
+29673,Laesson,PER,1
+29678,Lagedi,LOC,5
+29679,Lagedi,ORG,2
+29680,Lagedi,PER,1
+29695,Lahemaa,LOC,18
+29696,Lahemaa,ORG,2
+29697,Lahemaa,PER,6
+29701,Lahemaa rahvuspark,LOC,5
+29702,Lahemaa rahvuspark,ORG,9
+29711,Lai,ORG,1
+29712,Lai,PER,8
+29720,Laidoner,ORG,1
+29721,Laidoner,PER,2
+29770,Laitse,LOC,1
+29771,Laitse,PER,1
+29773,Laiuse,LOC,3
+29774,Laiuse,PER,3
+29787,Lake,LOC,1
+29788,Lake,PER,1
+29790,Lakers,ORG,11
+29791,Lakers,PER,11
+29796,Laksa,LOC,1
+29797,Laksa,PER,2
+29825,Lancy,LOC,1
+29826,Lancy,PER,1
+29829,Land Rover,ORG,1
+29830,Land Rover,PER,1
+29834,Landrek,ORG,2
+29835,Landrek,PER,4
+29854,Lantana,LOC,2
+29855,Lantana,ORG,21
+29856,Lantana,PER,32
+29860,Lantanal,LOC,1
+29861,Lantanal,ORG,2
+29862,Lantanale,ORG,3
+29863,Lantanale,PER,2
+29868,Laos,LOC,3
+29869,Laos,PER,1
+29870,Laos Lukas,ORG,2
+29871,Laos Lukas,PER,6
+29876,Lapin,LOC,2
+29877,Lapin,PER,26
+29890,Largo,LOC,2
+29891,Largo,PER,5
+29946,Laser,LOC,1
+29947,Laser,PER,1
+30008,Latvenergo,LOC,1
+30009,Latvenergo,ORG,2
+30010,Latvenergo,PER,1
+30013,Latvijai,LOC,2
+30014,Latvijai,ORG,2
+30015,Latvijai,PER,3
+30033,Lauk,ORG,1
+30034,Lauk,PER,16
+30045,Lauluväljak,ORG,1
+30046,Lauluväljak,PER,1
+30063,Laur väinmaa,ORG,1
+30064,Laur väinmaa,PER,2
+30152,Lauter,LOC,6
+30153,Lauter,PER,1
+30157,Lavde,ORG,2
+30158,Lavde,PER,4
+30177,Lazio,LOC,1
+30178,Lazio,ORG,2
+30239,Lebe,ORG,1
+30240,Lebe,PER,228
+30252,Lebediga,LOC,1
+30253,Lebediga,ORG,2
+30254,Lebediga,PER,17
+30256,Lebedile,LOC,1
+30257,Lebedile,PER,18
+30265,Lee,LOC,2
+30266,Lee,ORG,1
+30267,Lee,PER,48
+30343,Leekrüübe,LOC,1
+30344,Leekrüübe,PER,1
+30356,Leena,ORG,3
+30357,Leena,PER,1
+30385,Legia,LOC,1
+30386,Legia,PER,2
+30387,Legia Varssavi,ORG,2
+30388,Legia Varssavi,PER,3
+30389,Legoland,LOC,2
+30390,Legoland,PER,1
+30392,Legotin,LOC,1
+30393,Legotin,ORG,1
+30394,Legotin,PER,3
+30410,Lehola,ORG,5
+30411,Lehola,PER,13
+30423,Lehtma,LOC,3
+30424,Lehtma,ORG,1
+30432,Leibur,ORG,1
+30433,Leibur,PER,1
+30435,Leicester,LOC,4
+30436,Leicester,ORG,2
+30449,Leiden,LOC,1
+30450,Leiden,PER,1
+30453,Leif,ORG,1
+30454,Leif,PER,2
+30496,Leis,LOC,1
+30497,Leis,PER,8
+30512,Leks,ORG,4
+30513,Leks,PER,16
+30516,Leksi,LOC,3
+30517,Leksi,PER,2
+30519,Lekto,LOC,1
+30520,Lekto,ORG,3
+30521,Lekto,PER,1
+30524,Lelle,ORG,2
+30525,Lelle,PER,2
+30526,Lelle SK,ORG,6
+30527,Lelle SK,PER,2
+30621,Lemminkäinen,ORG,2
+30622,Lemminkäinen,PER,3
+30626,Lemminkäis,LOC,1
+30627,Lemminkäis,PER,2
+30632,Lemsalu,LOC,23
+30633,Lemsalu,PER,35
+30634,Lemsalu Mainzis,ORG,1
+30635,Lemsalu Mainzis,PER,1
+30637,Len,ORG,1
+30638,Len,PER,2
+30641,Lena,ORG,1
+30642,Lena,PER,4
+30648,Lend,ORG,1
+30649,Lend,PER,4
+30658,Lenfilm,LOC,4
+30659,Lenfilm,ORG,1
+30663,Leni Fischer,ORG,1
+30664,Leni Fischer,PER,3
+30668,Lenin,LOC,4
+30669,Lenin,ORG,11
+30670,Lenin,PER,30
+30683,Leningradslanets,ORG,1
+30684,Leningradslanets,PER,1
+30687,Lenka,ORG,1
+30688,Lenka,PER,1
+30696,Lennart Meri,ORG,2
+30697,Lennart Meri,PER,148
+30813,Leonidis,LOC,1
+30814,Leonidis,ORG,1
+30834,Lepa,ORG,1
+30835,Lepa,PER,7
+30839,Lepik,LOC,4
+30840,Lepik,PER,9
+30850,Lepp,LOC,2
+30851,Lepp,ORG,1
+30852,Lepp,PER,92
+30863,Leptosphaeria,LOC,3
+30864,Leptosphaeria,PER,5
+30903,Leverkus Bayer,ORG,3
+30904,Leverkus Bayer,PER,1
+30906,Levicom,ORG,42
+30907,Levicom,PER,1
+30921,Lewis,ORG,1
+30922,Lewis,PER,27
+30926,Lex,LOC,1
+30927,Lex,ORG,3
+30928,Lex,PER,3
+30935,Li,ORG,4
+30936,Li,PER,8
+30957,Libatse,LOC,1
+30958,Libatse,PER,1
+30972,Libor,LOC,1
+30973,Libor,ORG,1
+30974,Libor,PER,3
+30988,Lidström,ORG,1
+30989,Lidström,PER,1
+30992,Liechtenstein,LOC,7
+30993,Liechtenstein,ORG,1
+31001,Liepaja,LOC,3
+31002,Liepaja,ORG,2
+31003,Liepaja,PER,1
+31013,Lietuvos Dujos,ORG,1
+31014,Lietuvos Dujos,PER,1
+31015,Lietuvos Energija,ORG,1
+31016,Lietuvos Energija,PER,2
+31041,Lii Unt,ORG,1
+31042,Lii Unt,PER,3
+31044,Liia,LOC,1
+31045,Liia,PER,1
+31046,Liia Dubkovskaja,ORG,2
+31047,Liia Dubkovskaja,PER,2
+31048,Liia Hänni,ORG,1
+31049,Liia Hänni,PER,4
+31072,Liidu,LOC,28
+31073,Liidu,ORG,8
+31093,Liina,LOC,7
+31094,Liina,PER,36
+31147,Liinat,LOC,1
+31148,Liinat,PER,2
+31190,Liit,LOC,1
+31191,Liit,ORG,1
+31192,Liit,PER,4
+31198,Liiva,LOC,6
+31199,Liiva,PER,25
+31202,Liivak,LOC,1
+31203,Liivak,PER,2
+31214,Liivi,LOC,9
+31215,Liivi,PER,52
+31243,Lijiang,LOC,1
+31244,Lijiang,PER,1
+31247,Likud,LOC,7
+31248,Likud,ORG,4
+31249,Likud,PER,4
+31280,Lill,LOC,3
+31281,Lill,ORG,5
+31282,Lill,PER,34
+31304,Lillo,LOC,4
+31305,Lillo,PER,1
+31306,Lillsoo,ORG,2
+31307,Lillsoo,PER,4
+31327,Limonka,LOC,1
+31328,Limonka,ORG,2
+31331,Limpar,LOC,1
+31332,Limpar,PER,1
+31345,Linda,ORG,1
+31346,Linda,PER,55
+31360,Linda Viiding,ORG,1
+31361,Linda Viiding,PER,3
+31363,Linda Wild,ORG,1
+31364,Linda Wild,PER,1
+31366,Lindakiv,LOC,1
+31367,Lindakiv,PER,8
+31373,Lindanisa,LOC,1
+31374,Lindanisa,PER,1
+31396,Lindström,ORG,2
+31397,Lindström,PER,4
+31424,Linnahall,LOC,1
+31425,Linnahall,PER,7
+31444,Linnateater,ORG,2
+31445,Linnateater,PER,14
+31453,Linnupuur,ORG,1
+31454,Linnupuur,PER,1
+31480,Lippmaa,LOC,2
+31481,Lippmaa,PER,30
+31492,Lisburn,LOC,2
+31493,Lisburn,ORG,1
+31500,Liszt,ORG,2
+31501,Liszt,PER,1
+31504,Litimpeks,ORG,4
+31505,Litimpeks,PER,6
+31536,Liverpool,LOC,5
+31537,Liverpool,ORG,18
+31544,Livia Ricci,ORG,1
+31545,Livia Ricci,PER,1
+31548,Liviko,LOC,10
+31549,Liviko,ORG,124
+31550,Liviko,PER,7
+31558,Livonia,LOC,2
+31559,Livonia,ORG,4
+31583,Ljubljana,LOC,6
+31584,Ljubljana,PER,1
+31619,Llansanffraidi,ORG,1
+31620,Llansanffraidi,PER,1
+31631,Local,LOC,1
+31632,Local,ORG,1
+31633,Lockerbie,LOC,2
+31634,Lockerbie,PER,4
+31647,Logit,ORG,1
+31648,Logit,PER,2
+31706,London,LOC,205
+31707,London,PER,4
+31727,Londonderry,LOC,2
+31728,Londonderry,PER,1
+31729,Long,LOC,3
+31730,Long,PER,1
+31745,Loode-Eestis,LOC,1
+31746,Loode-Eestis,ORG,2
+31752,Loodusmuuseum,LOC,1
+31753,Loodusmuuseum,ORG,1
+31754,Loodusmuuseum,PER,1
+31761,Loomariik,LOC,2
+31762,Loomariik,PER,1
+31763,Looming,LOC,3
+31764,Looming,ORG,12
+31765,Looming,PER,3
+31782,Lootar,ORG,2
+31783,Lootar,PER,2
+31784,Lootos,LOC,1
+31785,Lootos,ORG,25
+31786,Lootos,PER,3
+31787,Loots,LOC,1
+31788,Loots,ORG,7
+31789,Loots,PER,11
+31838,Louis,ORG,1
+31839,Louis,PER,1
+31862,Loviisa,LOC,1
+31863,Loviisa,PER,2
+31867,Lu Chen,ORG,1
+31868,Lu Chen,PER,2
+31886,Lucas,ORG,1
+31887,Lucas,PER,1
+31927,Lufthansa,ORG,18
+31928,Lufthansa,PER,1
+31930,Lugan,LOC,2
+31931,Lugan,ORG,1
+31932,Lugan,PER,7
+31946,Luhamaa,LOC,4
+31947,Luhamaa,PER,3
+31956,Luiga,LOC,5
+31957,Luiga,PER,17
+31960,Luige,LOC,1
+31961,Luige,ORG,1
+31962,Luige,PER,10
+31968,Luik järv,LOC,2
+31969,Luik järv,ORG,1
+31995,Lukashenkole,LOC,1
+31996,Lukashenkole,PER,1
+32002,Lukoi,LOC,1
+32003,Lukoi,PER,1
+32004,Lukoil,LOC,3
+32005,Lukoil,ORG,5
+32006,Lukoil,PER,10
+32009,Lukon,LOC,1
+32010,Lukon,ORG,1
+32011,Lukon,PER,2
+32013,Luksep,LOC,3
+32014,Luksep,ORG,1
+32015,Luksep,PER,2
+32025,Lumiforest,LOC,1
+32026,Lumiforest,ORG,3
+32046,Lurich,ORG,5
+32047,Lurich,PER,5
+32061,Luts,LOC,10
+32062,Luts,PER,14
+32083,Luunja,LOC,31
+32084,Luunja,PER,2
+32095,Luyki,ORG,1
+32096,Luyki,PER,1
+32100,Luzgin,LOC,2
+32101,Luzgin,PER,53
+32141,Lyon,LOC,14
+32142,Lyon,ORG,2
+32154,Läti,LOC,1546
+32155,Läti,ORG,2
+32261,Lääne,LOC,389
+32262,Lääne,PER,6
+32290,Lääne-Eest Panga,LOC,2
+32291,Lääne-Eest Panga,ORG,3
+32292,Lääne-Eest Panga,PER,1
+32300,Lääne-Euroobas Liidu,LOC,1
+32301,Lääne-Euroobas Liidu,ORG,4
+32302,Lääne-Euroobas liit,LOC,2
+32303,Lääne-Euroobas liit,ORG,1
+32308,Lääne-Euroopa Liit,LOC,1
+32309,Lääne-Euroopa Liit,ORG,2
+32332,Lääne-Samoa,LOC,1
+32333,Lääne-Samoa,ORG,1
+32407,Lõuna,LOC,4
+32408,Lõuna,PER,3
+32492,Lõuna-Korsika,LOC,1
+32493,Lõuna-Korsika,ORG,1
+32498,Lõuna-Läänemaal,LOC,1
+32499,Lõuna-Läänemaal,PER,1
+32551,Lüganuse,LOC,12
+32552,Lüganuse,PER,1
+32558,Lükat,LOC,3
+32559,Lükat,ORG,1
+32580,M-Investeerimisrühm,LOC,4
+32581,M-Investeerimisrühm,ORG,2
+32591,M. Heikkinen,LOC,1
+32592,M. Heikkinen,PER,1
+32613,M. Rooba,LOC,1
+32614,M. Rooba,PER,1
+32656,ME,LOC,1
+32657,ME,ORG,1
+32676,MM,LOC,3
+32677,MM,ORG,191
+32696,MMM,LOC,1
+32697,MMM,ORG,47
+32734,MTV,ORG,12
+32735,MTV,PER,1
+32743,Maa,LOC,28
+32744,Maa,PER,9
+32780,Maarahvas,LOC,2
+32781,Maarahvas,ORG,7
+32782,Maarahvas,PER,1
+32797,Maaren Olander,ORG,1
+32798,Maaren Olander,PER,8
+32801,Maarika,LOC,2
+32802,Maarika,PER,14
+32815,Maariv,ORG,3
+32816,Maariv,PER,1
+32817,Maarja,LOC,8
+32818,Maarja,ORG,1
+32819,Maarja,PER,19
+32832,Maarja-Liis,LOC,43
+32833,Maarja-Liis,PER,12
+32840,Maarja-Liisile,LOC,1
+32841,Maarja-Liisile,PER,1
+32883,Macbeth,ORG,1
+32884,Macbeth,PER,1
+32885,Maccab,LOC,1
+32886,Maccab,PER,2
+32888,Maccabi,ORG,1
+32889,Maccabi,PER,5
+32915,Madis,LOC,6
+32916,Madis,ORG,4
+32917,Madis,PER,11
+32975,Mae,ORG,2
+32976,Mae,PER,20
+32979,Maersk,ORG,3
+32980,Maersk,PER,3
+32981,Maersk Air,ORG,29
+32982,Maersk Air,PER,15
+32986,Maersk Travel,ORG,1
+32987,Maersk Travel,PER,2
+32992,Magasin,ORG,4
+32993,Magasin,PER,5
+32995,Magasini,ORG,1
+32996,Magasini,PER,1
+33022,Magnum Grupile,ORG,1
+33023,Magnum Grupile,PER,2
+33024,Magnum Grupp,ORG,1
+33025,Magnum Grupp,PER,5
+33039,Magnusson,LOC,1
+33040,Magnusson,ORG,3
+33041,Magnusson,PER,22
+33042,Magnussoni,ORG,1
+33043,Magnussoni,PER,4
+33047,Magome Tolbojev,ORG,1
+33048,Magome Tolbojev,PER,1
+33057,Mahe,LOC,1
+33058,Mahe,ORG,1
+33059,Mahe,PER,1
+33070,Mahleri,LOC,1
+33071,Mahleri,PER,2
+33085,Mahuka,LOC,1
+33086,Mahuka,ORG,1
+33088,Mai,LOC,1
+33089,Mai,PER,4
+33174,Maimess,LOC,1
+33175,Maimess,PER,1
+33190,Mainor,LOC,3
+33191,Mainor,ORG,13
+33192,Mainor,PER,10
+33200,Mainz,LOC,23
+33201,Mainz,PER,2
+33246,Maiste,ORG,4
+33247,Maiste,PER,7
+33300,Maja,LOC,1
+33301,Maja,PER,1
+33302,Majak,ORG,3
+33303,Majak,PER,1
+33312,Majid,LOC,3
+33313,Majid,PER,1
+33322,Makarov Muusik Management,ORG,3
+33323,Makarov Muusik Management,PER,8
+33329,Makedoonia,LOC,18
+33330,Makedoonia,ORG,5
+33346,Maksim Malõshev,ORG,2
+33347,Maksim Malõshev,PER,4
+33363,Maksvit,LOC,1
+33364,Maksvit,ORG,1
+33365,Maksvit,PER,1
+33367,Mala,LOC,4
+33368,Mala,PER,1
+33404,Malivai Washington,ORG,1
+33405,Malivai Washington,PER,10
+33473,Mallene,LOC,1
+33474,Mallene,PER,2
+33486,Malmö,LOC,15
+33487,Malmö,ORG,1
+33511,Manchester,LOC,6
+33512,Manchester,ORG,5
+33536,Manfre Eicher,ORG,1
+33537,Manfre Eicher,PER,3
+33542,Mangusson,ORG,4
+33543,Mangusson,PER,1
+33551,Manila,LOC,29
+33552,Manila,PER,1
+33600,Maramaa,LOC,18
+33601,Maramaa,PER,2
+33602,Maran,LOC,2
+33603,Maran,PER,1
+33811,Maret Saar Zooloogia,ORG,1
+33812,Maret Saar Zooloogia,PER,1
+34075,Mari,LOC,5
+34076,Mari,PER,16
+34100,Mari Kurismaa,ORG,1
+34101,Mari Kurismaa,PER,3
+34116,Mari Pärlist,ORG,1
+34117,Mari Pärlist,PER,1
+34256,Marieberg,ORG,1
+34257,Marieberg,PER,4
+34343,Marina,LOC,3
+34344,Marina,PER,3
+34367,Marino,ORG,1
+34368,Marino,PER,1
+34477,Mark Philippouss,ORG,4
+34478,Mark Philippouss,PER,2
+34642,Marlekor,LOC,5
+34643,Marlekor,ORG,3
+34644,Marlekor,PER,10
+34653,Marmiton,LOC,2
+34654,Marmiton,PER,1
+34664,Marrakesh,LOC,1
+34665,Marrakesh,PER,2
+34667,Mars,LOC,54
+34668,Mars,PER,1
+34675,Marsoft,LOC,1
+34676,Marsoft,PER,3
+34677,Marss,LOC,3
+34678,Marss,PER,1
+34681,Mart,LOC,1
+34682,Mart,ORG,1
+34683,Mart,PER,50
+34713,Mart Kivastik,ORG,1
+34714,Mart Kivastik,PER,11
+34741,Mart Liina,ORG,4
+34742,Mart Liina,PER,12
+34743,Mart Liinat,ORG,1
+34744,Mart Liinat,PER,4
+34793,Mart Susi,ORG,1
+34794,Mart Susi,PER,43
+34801,Mart Trummal,ORG,1
+34802,Mart Trummal,PER,1
+34817,Marta,LOC,1
+34818,Marta,PER,9
+34866,Martin Luther,ORG,1
+34867,Martin Luther,PER,10
+34920,Martinez,LOC,1
+34921,Martinez,ORG,1
+34922,Martinez,PER,6
+34932,Martna,LOC,6
+34933,Martna,PER,1
+34980,Marx,LOC,3
+34981,Marx,ORG,1
+34982,Marx,PER,1
+34985,Mary Joe Fernandez,ORG,6
+34986,Mary Joe Fernandez,PER,2
+34995,Maryland,LOC,5
+34996,Maryland,ORG,1
+35016,Masha,ORG,2
+35017,Masha,PER,4
+35018,Mashadov,LOC,1
+35019,Mashadov,PER,46
+35029,Maslach,ORG,1
+35030,Maslach,PER,1
+35062,Mastercard,LOC,1
+35063,Mastercard,ORG,2
+35069,Masters,LOC,3
+35070,Masters,ORG,10
+35071,Masters,PER,2
+35075,Mastersile,LOC,1
+35076,Mastersile,PER,3
+35234,Matkar,ORG,3
+35235,Matkar,PER,3
+35246,Matsalu,LOC,14
+35247,Matsalu,PER,1
+35250,Matsalu looduskaitseala,LOC,5
+35251,Matsalu looduskaitseala,ORG,1
+35303,Matti Tarum,ORG,1
+35304,Matti Tarum,PER,5
+35355,Maurus,ORG,2
+35356,Maurus,PER,2
+35357,Mausmedia,ORG,1
+35358,Mausmedia,PER,1
+35403,Mazar-i-Sharif,LOC,1
+35404,Mazar-i-Sharif,PER,1
+35406,Mazda,LOC,10
+35407,Mazda,ORG,7
+35408,Mazda,PER,20
+35426,McDonalds,LOC,2
+35427,McDonalds,ORG,1
+35428,McDonalds,PER,3
+35429,McDonnell,ORG,1
+35430,McDonnell,PER,5
+35453,Medellin,LOC,7
+35454,Medellin,ORG,1
+35455,Medellin,PER,2
+35461,Medisoft,ORG,3
+35462,Medisoft,PER,1
+35492,Meelis,LOC,1
+35493,Meelis,PER,35
+35581,Meerfeld,LOC,1
+35582,Meerfeld,ORG,1
+35583,Meerfeld,PER,1
+35605,Mehikon,ORG,1
+35606,Mehikon,PER,1
+35613,Mehis Hakkaja,ORG,1
+35614,Mehis Hakkaja,PER,5
+35645,Meitern,ORG,1
+35646,Meitern,PER,1
+35652,Melbardis,LOC,1
+35653,Melbardis,PER,2
+35674,Memento Mare,ORG,4
+35675,Memento Mare,PER,2
+35677,Memet,ORG,1
+35678,Memet,PER,1
+35679,Memme-Taad,LOC,1
+35680,Memme-Taad,ORG,2
+35688,Mendelejev,LOC,2
+35689,Mendelejev,PER,4
+35691,Mendelson,LOC,1
+35692,Mendelson,ORG,1
+35701,Menlo,LOC,1
+35702,Menlo,PER,1
+35706,Mensa,LOC,1
+35707,Mensa,ORG,3
+35714,Mercedes,ORG,1
+35715,Mercedes,PER,1
+35726,Mere,LOC,9
+35727,Mere,ORG,4
+35728,Mere,PER,2
+35737,Mereste,LOC,2
+35738,Mereste,ORG,1
+35739,Mereste,PER,16
+35742,Meri,LOC,2
+35743,Meri,PER,194
+35753,Meri pank,ORG,12
+35754,Meri pank,PER,2
+35757,Merike,LOC,2
+35758,Merike,ORG,2
+35759,Merike,PER,13
+35832,Meritile,LOC,1
+35833,Meritile,PER,1
+35835,Meritsa,LOC,2
+35836,Meritsa,PER,1
+35838,Meriväli,LOC,6
+35839,Meriväli,ORG,3
+35900,Merson,ORG,1
+35901,Merson,PER,1
+35938,Metstak,LOC,1
+35939,Metstak,PER,24
+35940,Metstakile,ORG,1
+35941,Metstakile,PER,1
+35949,Metz,LOC,8
+35950,Metz,ORG,3
+35953,Mexico City,LOC,1
+35954,Mexico City,ORG,2
+35969,Miami,LOC,44
+35970,Miami,ORG,10
+35989,Michael Chang,ORG,2
+35990,Michael Chang,PER,25
+36047,Michael Tebbutt,ORG,1
+36048,Michael Tebbutt,PER,2
+36098,Micro,LOC,1
+36099,Micro,PER,1
+36103,Microlink,LOC,3
+36104,Microlink,ORG,3
+36105,Microlink,PER,32
+36111,Microsoft,LOC,4
+36112,Microsoft,ORG,10
+36113,Microsoft,PER,2
+36116,Microsoft Ida-Euroobas,LOC,1
+36117,Microsoft Ida-Euroobas,ORG,1
+36123,Middlesbrough,LOC,1
+36124,Middlesbrough,ORG,9
+36147,Mihailov,ORG,1
+36148,Mihailov,PER,17
+36204,Mihkel,ORG,2
+36205,Mihkel,PER,42
+36256,Miina,LOC,1
+36257,Miina,PER,4
+36330,Miki-Hiir,LOC,1
+36331,Miki-Hiir,PER,3
+36336,Mikiver,ORG,1
+36337,Mikiver,PER,15
+36388,Milaano,LOC,6
+36389,Milaano,PER,1
+36394,Milan,LOC,3
+36395,Milan,ORG,5
+36396,Milan,PER,2
+36401,Milano,LOC,24
+36402,Milano,ORG,2
+36415,Milenale,ORG,1
+36416,Milenale,PER,4
+36436,Mills,LOC,2
+36437,Mills,ORG,2
+36438,Mills,PER,18
+36446,Milosevici,LOC,1
+36447,Milosevici,PER,4
+36477,Milvi igalaas,ORG,1
+36478,Milvi igalaas,PER,4
+36479,Milvi miil,ORG,1
+36480,Milvi miil,PER,2
+36483,Milwaukee,LOC,19
+36484,Milwaukee,ORG,4
+36485,Milwaukee Bucks,ORG,3
+36486,Milwaukee Bucks,PER,1
+36508,Minnesota,LOC,19
+36509,Minnesota,ORG,8
+36510,Minnesota,PER,1
+36515,Minox,ORG,1
+36516,Minox,PER,1
+36517,Minsk,LOC,90
+36518,Minsk,PER,1
+36524,Minutka,LOC,2
+36525,Minutka,ORG,1
+36537,Miriam,LOC,3
+36538,Miriam,PER,13
+36576,Mishin,LOC,1
+36577,Mishin,PER,5
+36621,Mladic,LOC,1
+36622,Mladic,PER,20
+36627,Mo,LOC,1
+36628,Mo,ORG,1
+36635,Mobil,ORG,1
+36636,Mobil,PER,2
+36649,Moe,ORG,4
+36650,Moe,PER,1
+36687,Molde,LOC,1
+36688,Molde,ORG,1
+36689,Moldova,LOC,90
+36690,Moldova,ORG,1
+36691,Moldova,PER,5
+36707,Molodetshnos,ORG,1
+36708,Molodetshnos,PER,1
+36710,Molycorp,ORG,1
+36711,Molycorp,PER,1
+36721,Monaco,LOC,2
+36722,Monaco,ORG,2
+36723,Monaco,PER,1
+36729,Monarch Bottlink,ORG,1
+36730,Monarch Bottlink,PER,1
+36738,Monex,LOC,2
+36739,Monex,ORG,3
+36741,Money,ORG,1
+36742,Money,PER,2
+36748,Monica Seles,ORG,1
+36749,Monica Seles,PER,16
+36752,Monicale,ORG,1
+36753,Monicale,PER,1
+36755,Monika,LOC,1
+36756,Monika,PER,14
+36802,Monte Carlo,LOC,2
+36803,Monte Carlo,ORG,14
+36813,Montpellier,LOC,2
+36814,Montpellier,ORG,2
+36816,Montreal,LOC,24
+36817,Montreal,ORG,20
+36848,Moora,LOC,1
+36849,Moora,PER,1
+36868,Morehead,LOC,2
+36869,Morehead,ORG,1
+36894,Mosambiik,LOC,8
+36895,Mosambiik,ORG,1
+36907,Moskovski Komsomolets,ORG,6
+36908,Moskovski Komsomolets,PER,2
+36911,Moskva,LOC,1484
+36912,Moskva,ORG,1
+36920,Moskva Jandarbijev,LOC,1
+36921,Moskva Jandarbijev,ORG,1
+36976,Moskvitsh,LOC,6
+36977,Moskvitsh,ORG,1
+36978,Moskvitsh,PER,3
+36979,Moskvitshe,LOC,2
+36980,Moskvitshe,ORG,1
+36982,Moss,ORG,2
+36983,Moss,PER,1
+36986,Most,ORG,2
+36987,Most,PER,6
+36996,Mostovoi,LOC,1
+36997,Mostovoi,ORG,1
+36998,Mostovoi,PER,2
+37003,Motorex,LOC,6
+37004,Motorex,ORG,10
+37005,Motorex,PER,6
+37007,Motorola,LOC,1
+37008,Motorola,ORG,2
+37024,Mozart,LOC,2
+37025,Mozart,ORG,5
+37026,Mozart,PER,26
+37027,Mozart reekviem,ORG,3
+37028,Mozart reekviem,PER,1
+37035,Mr Lawrence,ORG,1
+37036,Mr Lawrence,PER,2
+37037,Mr Noname,ORG,1
+37038,Mr Noname,PER,1
+37064,Muhamma Ali,ORG,1
+37065,Muhamma Ali,PER,2
+37068,Muhu,LOC,11
+37069,Muhu,ORG,1
+37070,Muhu,PER,13
+37092,Mulgi Meier,ORG,1
+37093,Mulgi Meier,PER,2
+37103,Mullaittivu,LOC,6
+37104,Mullaittivu,PER,1
+37122,Munitsipaalettevõte Valika,ORG,1
+37123,Munitsipaalettevõte Valika,PER,2
+37125,Munteanu,LOC,1
+37126,Munteanu,ORG,1
+37197,Must Q,LOC,1
+37198,Must Q,ORG,6
+37210,Mustale,LOC,1
+37211,Mustale,ORG,1
+37212,Mustamäel,LOC,3
+37213,Mustamäel,ORG,4
+37214,Mustamäel,PER,5
+37245,Mustamägi linnaosa,LOC,27
+37246,Mustamägi linnaosa,ORG,1
+37264,Mustjala,LOC,3
+37265,Mustjala,ORG,2
+37280,Mustvee,LOC,22
+37281,Mustvee,ORG,7
+37282,Mustvee,PER,1
+37292,Muuga,LOC,26
+37293,Muuga,ORG,50
+37307,Muusikaakadeemia,ORG,34
+37308,Muusikaakadeemia,PER,2
+37332,Mäe,LOC,2
+37333,Mäe,PER,6
+37346,Mägi-Karabahhia,LOC,8
+37347,Mägi-Karabahhia,PER,1
+37349,Mähe,LOC,8
+37350,Mähe,PER,1
+37362,Mänd,LOC,1
+37363,Mänd,ORG,2
+37364,Mänd,PER,10
+37376,Männik,LOC,41
+37377,Männik,PER,43
+37443,Mätas,LOC,1
+37444,Mätas,PER,1
+37474,Mõntsa,LOC,3
+37475,Mõntsa,PER,3
+37476,Mõntsale,ORG,1
+37477,Mõntsale,PER,1
+37498,Mölder,LOC,2
+37499,Mölder,PER,22
+37501,Möldre,LOC,1
+37502,Möldre,PER,1
+37516,Müller,ORG,2
+37517,Müller,PER,8
+37520,München,LOC,75
+37521,München,ORG,1
+37522,München Bayern,LOC,1
+37523,München Bayern,ORG,2
+37539,Müürivahe,LOC,9
+37540,Müürivahe,ORG,7
+37541,Müürivahe,PER,1
+37543,Müürsepa Utah Jazz,ORG,1
+37544,Müürsepa Utah Jazz,PER,1
+37546,Müürsepale,LOC,1
+37547,Müürsepale,ORG,1
+37548,Müürsepale,PER,1
+37561,N-Terminaal,LOC,2
+37562,N-Terminaal,ORG,9
+37563,N-Terminaal,PER,1
+37567,N. Liit,LOC,97
+37568,N. Liit,ORG,78
+37569,N. Liit,PER,19
+37580,N.liit,LOC,3
+37581,N.liit,ORG,2
+37582,N.liit,PER,1
+37622,NEW Delhi,LOC,12
+37623,NEW Delhi,PER,1
+37624,NEW York,LOC,3
+37625,NEW York,ORG,16
+37638,NIN,ORG,3
+37639,NIN,PER,1
+37641,NL,LOC,1
+37642,NL,ORG,8
+37663,NP,ORG,15
+37664,NP,PER,1
+37675,NSV Liidu,LOC,19
+37676,NSV Liidu,ORG,62
+37681,NSV Liit,LOC,8
+37682,NSV Liit,ORG,1
+37683,NSV liit,LOC,3
+37684,NSV liit,ORG,10
+37686,NSVL,LOC,17
+37687,NSVL,ORG,18
+37688,NSVL,PER,1
+37727,Nabucco,LOC,1
+37728,Nabucco,PER,6
+37731,Nadal,LOC,1
+37732,Nadal,ORG,1
+37733,Nadal,PER,3
+37750,Nadteretshnõi,LOC,1
+37751,Nadteretshnõi,ORG,1
+37756,Naerinen,ORG,2
+37757,Naerinen,PER,4
+37783,Naina,LOC,14
+37784,Naina,PER,3
+37787,Naina Jeltsinale,ORG,1
+37788,Naina Jeltsinale,PER,1
+37790,Nairobi,LOC,7
+37791,Nairobi,PER,3
+37797,Naisson,ORG,1
+37798,Naisson,PER,1
+37806,Naltshik,LOC,4
+37807,Naltshik,ORG,1
+37809,Namejs,LOC,1
+37810,Namejs,PER,1
+37821,Nancy,LOC,4
+37822,Nancy,ORG,3
+37823,Nancy,PER,3
+37830,Nancys,LOC,1
+37831,Nancys,ORG,1
+37833,Nangarhar,LOC,5
+37834,Nangarhar,PER,1
+37835,Nanking,LOC,1
+37836,Nanking,ORG,1
+37837,Nanking,PER,1
+37839,Nano,LOC,1
+37840,Nano,ORG,1
+37844,Nantes,LOC,8
+37845,Nantes,ORG,8
+37849,Naoko Sawamats,ORG,2
+37850,Naoko Sawamats,PER,1
+37853,Naomi Loogna,ORG,1
+37854,Naomi Loogna,PER,3
+37858,Napoleon,LOC,1
+37859,Napoleon,ORG,1
+37860,Napoleon,PER,2
+37863,Napoli,LOC,15
+37864,Napoli,ORG,1
+37877,Naruhito,LOC,1
+37878,Naruhito,ORG,2
+37879,Naruhito,PER,1
+37880,Narva,LOC,411
+37881,Narva,PER,3
+37932,Narva-Jõesuu,LOC,20
+37933,Narva-Jõesuu,ORG,1
+37937,Narva-Jõesuus,LOC,1
+37938,Narva-Jõesuus,ORG,3
+37946,Narziss,ORG,1
+37947,Narziss,PER,1
+37950,Nasdaq,ORG,2
+37951,Nasdaq,PER,2
+38034,Naumtshik,LOC,1
+38035,Naumtshik,PER,1
+38056,Nazca,LOC,1
+38057,Nazca,ORG,1
+38058,Nazca,PER,1
+38090,Neeme Jõgi,ORG,3
+38091,Neeme Jõgi,PER,16
+38092,Neeme Kuninga,ORG,1
+38093,Neeme Kuninga,PER,4
+38098,Neeme Väl,ORG,1
+38099,Neeme Väl,PER,1
+38101,Neeme kuningas,ORG,2
+38102,Neeme kuningas,PER,2
+38119,Neff,ORG,2
+38120,Neff,PER,1
+38138,Neinar Seli,ORG,1
+38139,Neinar Seli,PER,7
+38142,Neits Maarja,ORG,1
+38143,Neits Maarja,PER,1
+38193,Nepaal,LOC,9
+38194,Nepaal,ORG,1
+38200,Neptun,LOC,2
+38201,Neptun,ORG,1
+38202,Neptun,PER,2
+38208,Neste,LOC,1
+38209,Neste,ORG,132
+38236,Netanyahule,ORG,2
+38237,Netanyahule,PER,6
+38247,Neuland,LOC,1
+38248,Neuland,PER,2
+38251,Neuseda,LOC,1
+38252,Neuseda,PER,4
+38254,Nevada,ORG,2
+38255,Nevada,PER,3
+38260,Nevski,ORG,1
+38261,Nevski,PER,5
+38262,New,LOC,10
+38263,New,PER,1
+38280,New Orleans,LOC,5
+38281,New Orleans,PER,1
+38288,New York,LOC,33
+38289,New York,ORG,153
+38318,Newcastle,LOC,13
+38319,Newcastle,ORG,4
+38324,News,ORG,3
+38325,News,PER,8
+38326,News Service,ORG,11
+38327,News Service,PER,3
+38328,Newsweek,ORG,4
+38329,Newsweek,PER,1
+38339,Next,LOC,4
+38340,Next,ORG,2
+38341,Next,PER,2
+38357,Nice,LOC,1
+38358,Nice,ORG,2
+38401,Nicosia,LOC,1
+38402,Nicosia,PER,2
+38408,Niddelfart,LOC,1
+38409,Niddelfart,PER,1
+38415,Nielsen-Stokkeby,LOC,1
+38416,Nielsen-Stokkeby,ORG,1
+38421,Nietzsche,ORG,1
+38422,Nietzsche,PER,12
+38441,Niguliste,LOC,15
+38442,Niguliste,ORG,2
+38443,Niguliste,PER,2
+38451,Niilus,LOC,8
+38452,Niilus,PER,20
+38606,Nina Leonova,LOC,1
+38607,Nina Leonova,PER,4
+38617,Niobrara,LOC,1
+38618,Niobrara,PER,1
+38629,Nirvana,ORG,4
+38630,Nirvana,PER,5
+38637,Nissan,LOC,8
+38638,Nissan,ORG,7
+38639,Nissan,PER,24
+38640,Nissan Almera,ORG,1
+38641,Nissan Almera,PER,4
+38642,Nissan Balt,ORG,1
+38643,Nissan Balt,PER,2
+38649,Nissan Micra,ORG,1
+38650,Nissan Micra,PER,2
+38652,Nissan Primera,ORG,1
+38653,Nissan Primera,PER,3
+38665,Nitrofert,LOC,1
+38666,Nitrofert,ORG,9
+38667,Nitrofert,PER,1
+38668,Niva,ORG,3
+38669,Niva,PER,7
+38671,Nivea,ORG,1
+38672,Nivea,PER,1
+38673,Nixon,LOC,1
+38674,Nixon,PER,1
+38682,Nizhn Novgorod,LOC,1
+38683,Nizhn Novgorod,ORG,3
+38701,Nobiles,ORG,1
+38702,Nobiles,PER,5
+38708,Noisy Nation,ORG,7
+38709,Noisy Nation,PER,10
+38711,Nokia,LOC,43
+38712,Nokia,PER,1
+38716,Nomura,LOC,2
+38717,Nomura,ORG,6
+38718,Nomura,PER,36
+38719,Nomura International,ORG,22
+38720,Nomura International,PER,7
+38724,Nomuraga,ORG,1
+38725,Nomuraga,PER,1
+38726,Nomurale,ORG,1
+38727,Nomurale,PER,1
+38732,Nool,ORG,6
+38733,Nool,PER,118
+38735,Noole,ORG,1
+38736,Noole,PER,1
+38746,Noormets,LOC,1
+38747,Noormets,PER,57
+38762,Norbalt,LOC,1
+38763,Norbalt,ORG,1
+38772,Norderstedt,LOC,2
+38773,Norderstedt,ORG,1
+38779,Nordic Metal Works,ORG,4
+38780,Nordic Metal Works,PER,1
+38862,Norris,ORG,1
+38863,Norris,PER,1
+38867,North,LOC,1
+38868,North,PER,1
+38889,Nottingham,LOC,10
+38890,Nottingham,ORG,1
+38895,Noureddine Morcel,ORG,1
+38896,Noureddine Morcel,PER,1
+38932,Nozhai-Jurt,LOC,2
+38933,Nozhai-Jurt,ORG,1
+38940,Nugis,ORG,2
+38941,Nugis,PER,8
+38952,Nunne,LOC,1
+38953,Nunne,ORG,4
+38955,Nur,LOC,1
+38956,Nur,ORG,1
+38963,Nurk,LOC,2
+38964,Nurk,PER,7
+38974,Nutek,ORG,2
+38975,Nutek,PER,3
+38990,Nwankwo kana,ORG,2
+38991,Nwankwo kana,PER,1
+38994,Nybit,LOC,6
+38995,Nybit,ORG,7
+38996,Nybit,PER,32
+39031,Nõmme,LOC,297
+39032,Nõmme,ORG,19
+39033,Nõmme,PER,18
+39034,Nõmme Chickens,LOC,1
+39035,Nõmme Chickens,PER,1
+39038,Nõmme KJK,LOC,1
+39039,Nõmme KJK,ORG,5
+39041,Nõmme SBK,ORG,2
+39042,Nõmme SBK,PER,1
+39088,Nõmmik,LOC,1
+39089,Nõmmik,ORG,1
+39090,Nõmmik,PER,4
+39098,Nõu,LOC,1
+39099,Nõu,PER,1
+39106,Nõukogu Liidu,LOC,110
+39107,Nõukogu Liidu,ORG,21
+39108,Nõukogu Liidu,PER,1
+39140,Nüganen,ORG,2
+39141,Nüganen,PER,7
+39143,Nüke,LOC,1
+39144,Nüke,ORG,13
+39145,Nüke,PER,2
+39148,Nüld,ORG,1
+39149,Nüld,PER,1
+39215,Ober Haus,ORG,11
+39216,Ober Haus,PER,11
+39226,Oberstdorf,LOC,1
+39227,Oberstdorf,ORG,1
+39244,Odense,LOC,2
+39245,Odense,ORG,2
+39246,Odense BK,ORG,1
+39247,Odense BK,PER,1
+39249,Odessa,LOC,10
+39250,Odessa,ORG,1
+39256,Odra,ORG,1
+39257,Odra,PER,1
+39260,Ofelia,LOC,6
+39261,Ofelia,ORG,33
+39262,Ofelia,PER,32
+39264,Ofeliale,LOC,1
+39265,Ofeliale,PER,2
+39291,Oidipu,LOC,2
+39292,Oidipu,PER,1
+39293,Oidipus,LOC,2
+39294,Oidipus,PER,4
+39298,Oil Shale,ORG,1
+39299,Oil Shale,PER,3
+39314,Ojars Petersons,ORG,1
+39315,Ojars Petersons,PER,2
+39319,Ojassoo,ORG,1
+39320,Ojassoo,PER,5
+39323,Ojastule,ORG,1
+39324,Ojastule,PER,1
+39351,Oksana Jermakova,ORG,1
+39352,Oksana Jermakova,PER,21
+39363,Oksept,LOC,5
+39364,Oksept,ORG,2
+39365,Oksept,PER,6
+39372,Oktoober,ORG,1
+39373,Oktoober,PER,1
+39407,Olari Elts,ORG,1
+39408,Olari Elts,PER,4
+39411,Olari Taal,ORG,2
+39412,Olari Taal,PER,33
+39451,Olde,LOC,16
+39452,Olde,ORG,3
+39453,Olde,PER,13
+39532,Olegs Tillbergs,ORG,1
+39533,Olegs Tillbergs,PER,1
+39549,Olev,ORG,1
+39550,Olev,PER,1
+39647,Olion,ORG,6
+39648,Olion,PER,1
+39672,Olivia,LOC,2
+39673,Olivia,PER,3
+39689,Olli,LOC,3
+39690,Olli,ORG,1
+39691,Olli,PER,5
+39699,Ollik,ORG,2
+39700,Ollik,PER,1
+39724,Olympia,LOC,2
+39725,Olympia,PER,3
+39728,Olympiakos,LOC,1
+39729,Olympiakos,ORG,4
+39730,Olympiakos,PER,2
+39744,Olümpial,ORG,2
+39745,Olümpial,PER,2
+39775,Omnitrax,LOC,1
+39776,Omnitrax,ORG,2
+39777,Omnitrax,PER,1
+39799,Ookean,ORG,2
+39800,Ookean,PER,2
+39801,Ookean-Ilmamer,LOC,2
+39802,Ookean-Ilmamer,ORG,1
+39816,Oosaar,LOC,1
+39817,Oosaar,PER,2
+39819,Opab,ORG,1
+39820,Opab,PER,1
+39824,Oper,ORG,1
+39825,Oper,PER,5
+39838,Oracle,ORG,2
+39839,Oracle,PER,1
+39847,Oras,LOC,1
+39848,Oras,ORG,4
+39852,Ordina,LOC,1
+39853,Ordina,ORG,1
+39854,Ordina,PER,1
+39866,Orestes,LOC,1
+39867,Orestes,PER,1
+39869,Orff,LOC,1
+39870,Orff,PER,5
+39872,Org,LOC,13
+39873,Org,PER,1
+39880,Origo,LOC,1
+39881,Origo,PER,10
+39888,Orissaare,LOC,4
+39889,Orissaare,ORG,5
+39893,Orlando,ORG,21
+39894,Orlando,PER,2
+39896,Orlov,ORG,1
+39897,Orlov,PER,4
+39914,Oru,LOC,2
+39915,Oru,PER,7
+39925,Osaka,LOC,5
+39926,Osaka,PER,2
+39947,Oscarile,LOC,1
+39948,Oscarile,PER,1
+39954,Oskar,LOC,2
+39955,Oskar,ORG,2
+39956,Oskar,PER,162
+39998,Ostankino,LOC,5
+39999,Ostankino,ORG,2
+40000,Ostankino,PER,1
+40003,Osten Tor,ORG,1
+40004,Osten Tor,PER,3
+40005,Osten Tori,ORG,2
+40006,Osten Tori,PER,3
+40013,Ostrava SKH,ORG,4
+40014,Ostrava SKH,PER,1
+40050,Ots,LOC,1
+40051,Ots,PER,12
+40074,Ottawa,LOC,4
+40075,Ottawa,ORG,17
+40101,Otto-Triin,LOC,6
+40102,Otto-Triin,PER,17
+40129,Overmars,ORG,1
+40130,Overmars,PER,2
+40135,Oviedo,LOC,2
+40136,Oviedo,ORG,2
+40170,P,LOC,5
+40171,P,ORG,4
+40214,PC,LOC,1
+40215,PC,ORG,14
+40222,PCA,ORG,10
+40223,PCA,PER,2
+40227,PE,LOC,1
+40228,PE,ORG,1
+40260,PR,LOC,1
+40261,PR,ORG,1
+40296,Paala,LOC,2
+40297,Paala,ORG,1
+40310,Paas,LOC,2
+40311,Paas,PER,2
+40353,Pacers,LOC,1
+40354,Pacers,ORG,2
+40366,Padar,LOC,4
+40367,Padar,PER,18
+40378,Padrik AS,ORG,1
+40379,Padrik AS,PER,1
+40382,Pae,ORG,4
+40383,Pae,PER,2
+40396,Pafos,LOC,1
+40397,Pafos,ORG,1
+40398,Pafos,PER,1
+40406,Paide,LOC,59
+40407,Paide,ORG,2
+40408,Paide,PER,1
+40436,Paidla,LOC,1
+40437,Paidla,ORG,1
+40438,Paidla,PER,17
+40460,Paju,LOC,4
+40461,Paju,PER,5
+40481,Pakri,LOC,11
+40482,Pakri,ORG,2
+40483,Pakri,PER,1
+40487,Paks Margareeta,ORG,1
+40488,Paks Margareeta,PER,1
+40490,Pakterminaal,LOC,1
+40491,Pakterminaal,ORG,2
+40511,Paldiski,LOC,194
+40512,Paldiski,PER,2
+40533,Palermo,LOC,6
+40534,Palermo,PER,1
+40549,Palestra,LOC,1
+40550,Palestra,ORG,2
+40551,Palestra,PER,2
+40561,Pall,LOC,2
+40562,Pall,PER,3
+40563,Pallas,ORG,1
+40564,Pallas,PER,7
+40581,Palmar,LOC,1
+40582,Palmar,ORG,3
+40583,Palmar,PER,24
+40587,Palme,LOC,1
+40588,Palme,PER,29
+40590,Palmet,ORG,1
+40591,Palmet,PER,9
+40598,Paloma,ORG,2
+40599,Paloma,PER,4
+40607,Palusalu,LOC,1
+40608,Palusalu,PER,5
+40609,Palusalu SK,ORG,4
+40610,Palusalu SK,PER,2
+40627,Panama,LOC,3
+40628,Panama,ORG,2
+40631,Panathinaiko,LOC,3
+40632,Panathinaiko,PER,1
+40634,Panathinaikos,LOC,3
+40635,Panathinaikos,ORG,3
+40636,Panathinaikos,PER,15
+40637,Panathinaikos Ateena,ORG,2
+40638,Panathinaikos Ateena,PER,3
+40647,Panevezhys,LOC,2
+40648,Panevezhys,ORG,1
+40650,Panga,LOC,3
+40651,Panga,ORG,1
+40652,Panga,PER,5
+40663,Paniliakos,ORG,1
+40664,Paniliakos,PER,1
+40682,Panthers,ORG,1
+40683,Panthers,PER,1
+40694,Paolino,LOC,2
+40695,Paolino,PER,8
+40713,Paraguai,LOC,3
+40714,Paraguai,ORG,4
+40727,Parek,LOC,1
+40728,Parek,PER,5
+40736,Parevek,LOC,8
+40737,Parevek,ORG,2
+40738,Parevek,PER,6
+40755,Parin SIM,LOC,2
+40756,Parin SIM,ORG,3
+40757,Parin SIM,PER,2
+40763,Park,LOC,1
+40764,Park,PER,2
+40770,Parkinson,ORG,1
+40771,Parkinson,PER,2
+40777,Parmas,LOC,1
+40778,Parmas,PER,3
+40790,Partek,LOC,2
+40791,Partek,PER,4
+40796,Partizan,ORG,2
+40797,Partizan,PER,1
+40818,Pasamayo,LOC,1
+40819,Pasamayo,PER,1
+40827,Paslepa,LOC,2
+40828,Paslepa,PER,1
+40834,Past,ORG,1
+40835,Past,PER,3
+40854,Patarei,LOC,2
+40855,Patarei,ORG,3
+40861,Pathfinder,ORG,1
+40862,Pathfinder,PER,2
+40913,Pau Orthez,ORG,2
+40914,Pau Orthez,PER,4
+40917,Pau-Orthezi,ORG,1
+40918,Pau-Orthezi,PER,1
+41024,Paul-Erik Rummo,ORG,1
+41025,Paul-Erik Rummo,PER,2
+41035,Paulig,LOC,5
+41036,Paulig,PER,9
+41056,Paulus,LOC,1
+41057,Paulus,PER,15
+41127,Peda,LOC,1
+41128,Peda,ORG,1
+41129,Peda,PER,3
+41131,Pedagoogikaülikool,ORG,10
+41132,Pedagoogikaülikool,PER,22
+41415,Pehka,LOC,28
+41416,Pehka,PER,62
+41419,Pehkale,ORG,3
+41420,Pehkale,PER,2
+41442,Peking,LOC,129
+41443,Peking,PER,1
+41464,Pekkaniska,LOC,1
+41465,Pekkaniska,ORG,2
+41466,Pekkaniska,PER,1
+41468,Peko,ORG,3
+41469,Peko,PER,5
+41496,Peltonen,ORG,3
+41497,Peltonen,PER,2
+41512,Pennu,LOC,1
+41513,Pennu,ORG,5
+41514,Pennu,PER,28
+41515,Pennu Computer Technology,ORG,5
+41516,Pennu Computer Technology,PER,3
+41530,Pentagon,LOC,4
+41531,Pentagon,PER,13
+41551,Pepleri,ORG,1
+41552,Pepleri,PER,2
+41556,Pepsi-Cola,LOC,2
+41557,Pepsi-Cola,ORG,1
+41599,Peredelkino,LOC,2
+41600,Peredelkino,PER,1
+41608,Peres,LOC,4
+41609,Peres,ORG,6
+41610,Peres,PER,17
+41672,Peruu,LOC,81
+41673,Peruu,ORG,2
+41674,Peruu,PER,1
+41678,Peruzz,LOC,1
+41679,Peruzz,ORG,1
+41680,Peruzzi,LOC,1
+41681,Peruzzi,ORG,1
+41682,Peruzzi,PER,1
+41686,Pervomaiskoje,LOC,10
+41687,Pervomaiskoje,ORG,1
+41689,Pervomaiskojes,LOC,1
+41690,Pervomaiskojes,ORG,1
+41697,Pescadores,LOC,1
+41698,Pescadores,PER,1
+41797,Peterburi Spartak,LOC,4
+41798,Peterburi Spartak,ORG,2
+41831,Petra,ORG,1
+41832,Petra,PER,6
+41853,Petri Vuorinen,ORG,1
+41854,Petri Vuorinen,PER,2
+41876,Petseri,LOC,19
+41877,Petseri,ORG,1
+41878,Petseri,PER,5
+41892,Petursson,ORG,1
+41893,Petursson,PER,1
+41895,Peugeot,ORG,4
+41896,Peugeot,PER,12
+41901,Phare,ORG,7
+41902,Phare,PER,4
+41917,Philadelphia,LOC,53
+41918,Philadelphia,ORG,21
+41919,Philadelphia,PER,2
+41953,Philips,ORG,1
+41954,Philips,PER,17
+41960,Phjongjang,LOC,4
+41961,Phjongjang,ORG,2
+41962,Phjongjang,PER,3
+41963,Phoenix,ORG,34
+41964,Phoenix,PER,1
+41966,Phoenix Suns,ORG,2
+41967,Phoenix Suns,PER,1
+41973,Phongjang,LOC,1
+41974,Phongjang,PER,1
+41987,Piacenza,LOC,3
+41988,Piacenza,ORG,2
+41999,Picasso,LOC,1
+42000,Picasso,ORG,3
+42001,Picasso,PER,1
+42062,Piibar,LOC,1
+42063,Piibar,PER,4
+42071,Piir,LOC,1
+42072,Piir,PER,1
+42078,Piiririik,LOC,1
+42079,Piiririik,PER,3
+42086,Piiskopi,ORG,1
+42087,Piiskopi,PER,1
+42089,Pika Hermann,ORG,1
+42090,Pika Hermann,PER,1
+42094,Pikan,LOC,1
+42095,Pikan,PER,1
+42125,Pill,LOC,1
+42126,Pill,PER,4
+42140,Pille Liimal,ORG,5
+42141,Pille Liimal,PER,123
+42143,Pille Lukin,ORG,1
+42144,Pille Lukin,PER,4
+42173,Piloma,LOC,2
+42174,Piloma,ORG,1
+42188,Pind,LOC,1
+42189,Pind,ORG,2
+42190,Pind,PER,4
+42193,Pind Invest,ORG,12
+42194,Pind Invest,PER,2
+42218,Pinna,ORG,2
+42219,Pinna,PER,2
+42221,Pinnonen,ORG,2
+42222,Pinnonen,PER,28
+42225,Pino,ORG,1
+42226,Pino,PER,3
+42239,Pip,LOC,2
+42240,Pip,ORG,1
+42241,Pip,PER,1
+42249,Pippar,ORG,1
+42250,Pippar,PER,4
+42329,Pireus Olympiakos,ORG,6
+42330,Pireus Olympiakos,PER,1
+42333,Pirita,LOC,426
+42334,Pirita,ORG,4
+42335,Pirita,PER,27
+42345,Pirita TOP,LOC,1
+42346,Pirita TOP,ORG,3
+42392,Pittsburgh,LOC,12
+42393,Pittsburgh,ORG,21
+42403,Pivaroots,LOC,1
+42404,Pivaroots,PER,1
+42411,Pizzi,ORG,1
+42412,Pizzi,PER,1
+42431,Plaan,LOC,1
+42432,Plaan,PER,1
+42437,PlanEcon,ORG,1
+42438,PlanEcon,PER,1
+42446,Platon,ORG,4
+42447,Platon,PER,2
+42478,Po,ORG,1
+42479,Po,PER,1
+42507,Pokljuka,LOC,1
+42508,Pokljuka,ORG,1
+42516,Polarfilm,ORG,2
+42517,Polarfilm,PER,1
+42518,Polaris,LOC,2
+42519,Polaris,ORG,23
+42525,Polgar,ORG,5
+42526,Polgar,PER,14
+42529,Politika,LOC,1
+42530,Politika,ORG,1
+42540,Polli,LOC,8
+42541,Polli,ORG,2
+42542,Polli,PER,4
+42553,Polster,ORG,1
+42554,Polster,PER,1
+42573,Pontu,LOC,1
+42574,Pontu,PER,1
+42617,Porkvel,LOC,2
+42618,Porkvel,ORG,2
+42619,Porkvel,PER,10
+42621,Porkveli,ORG,5
+42622,Porkveli,PER,27
+42626,Porlakshøfn,ORG,2
+42627,Porlakshøfn,PER,2
+42629,Porrini,ORG,1
+42630,Porrini,PER,1
+42637,Port Arthur,ORG,1
+42638,Port Arthur,PER,4
+42641,Portadown,LOC,3
+42642,Portadown,ORG,1
+42643,Portadown,PER,1
+42644,Porter,LOC,1
+42645,Porter,PER,2
+42648,Portland,LOC,17
+42649,Portland,ORG,4
+42656,Portugal,LOC,153
+42657,Portugal,ORG,1
+42658,Portugal,PER,1
+42665,Portuguesa,ORG,1
+42666,Portuguesa,PER,1
+42672,Poska,ORG,1
+42673,Poska,PER,1
+42675,Post,ORG,20
+42676,Post,PER,15
+42703,Poul-Erik,LOC,4
+42704,Poul-Erik,ORG,2
+42705,Poul-Erik,PER,2
+42731,Practical Parenting,ORG,9
+42732,Practical Parenting,PER,1
+42743,Prandzheva,LOC,1
+42744,Prandzheva,PER,1
+42764,Pravda,LOC,1
+42765,Pravda,ORG,5
+42766,Pravda,PER,5
+42799,Prii,LOC,1
+42800,Prii,ORG,1
+42801,Prii,PER,2
+42808,Priisle,LOC,1
+42809,Priisle,PER,1
+42921,Primalco,LOC,1
+42922,Primalco,ORG,4
+42923,Primalco,PER,1
+42944,Printall,LOC,2
+42945,Printall,ORG,2
+42974,Procol Harum,ORG,1
+42975,Procol Harum,PER,1
+42996,Prokofjev,ORG,2
+42997,Prokofjev,PER,6
+43003,Promet,ORG,1
+43004,Promet,PER,3
+43017,Propper,LOC,2
+43018,Propper,PER,4
+43021,Prosineck,LOC,2
+43022,Prosineck,PER,1
+43023,Prosinecki,LOC,1
+43024,Prosinecki,PER,7
+43028,Protank Orinoco,ORG,1
+43029,Protank Orinoco,PER,2
+43031,Proton,ORG,1
+43032,Proton,PER,2
+43050,Psychoterror,LOC,1
+43051,Psychoterror,PER,10
+43054,Puerto Plata,ORG,3
+43055,Puerto Plata,PER,1
+43056,Puerto Rico,ORG,12
+43057,Puerto Rico,PER,1
+43058,Puertoriiko,LOC,2
+43059,Puertoriiko,ORG,1
+43060,Puertoriiko,PER,1
+43064,Puhatu,LOC,2
+43065,Puhatu,PER,2
+43066,Puhh,LOC,1
+43067,Puhh,PER,3
+43089,Pulikovsk,LOC,1
+43090,Pulikovsk,ORG,1
+43091,Pulikovsk,PER,4
+43097,Pulleritsu,LOC,2
+43098,Pulleritsu,PER,1
+43107,Puma,ORG,6
+43108,Puma,PER,2
+43113,Punane Risti,ORG,34
+43114,Punane Risti,PER,2
+43140,Purga,LOC,27
+43141,Purga,PER,2
+43145,Purila,LOC,4
+43146,Purila,ORG,1
+43154,Puskar,ORG,1
+43155,Puskar,PER,1
+43169,Puusepp,LOC,1
+43170,Puusepp,PER,3
+43185,Pytho,LOC,1
+43186,Pytho,PER,1
+43191,Päevaleht,LOC,2
+43192,Päevaleht,ORG,49
+43193,Päevaleht,PER,4
+43219,Päka,ORG,1
+43220,Päka,PER,1
+43224,Päkapikumaa,LOC,2
+43225,Päkapikumaa,PER,2
+43230,Pälson,LOC,1
+43231,Pälson,PER,1
+43239,Pärn,LOC,16
+43240,Pärn,PER,80
+43257,Pärnu,LOC,1661
+43258,Pärnu,ORG,37
+43259,Pärnu,PER,47
+43264,Pärnu Central-Sport,ORG,1
+43265,Pärnu Central-Sport,PER,1
+43266,Pärnu Chaplin,LOC,1
+43267,Pärnu Chaplin,ORG,4
+43278,Pärnu JK,ORG,8
+43279,Pärnu JK,PER,1
+43288,Pärnu Jazz,ORG,1
+43289,Pärnu Jazz,PER,1
+43291,Pärnu Kalev,ORG,10
+43292,Pärnu Kalev,PER,1
+43317,Pärnu SK,LOC,1
+43318,Pärnu SK,ORG,1
+43320,Pärnu Sadam,ORG,3
+43321,Pärnu Sadam,PER,2
+43324,Pärnu Soojus,ORG,1
+43325,Pärnu Soojus,PER,1
+43339,Pärnu VK,LOC,1
+43340,Pärnu VK,ORG,11
+43379,Pärnu maa-amet,LOC,1
+43380,Pärnu maa-amet,ORG,2
+43470,Pärsia,LOC,4
+43471,Pärsia,PER,3
+43481,Pärtel,LOC,1
+43482,Pärtel,PER,3
+43501,Põder,LOC,1
+43502,Põder,PER,9
+43503,Põdra,ORG,1
+43504,Põdra,PER,11
+43529,Põhja-Atland liit,LOC,6
+43530,Põhja-Atland liit,ORG,1
+43539,Põhja-Eest,LOC,59
+43540,Põhja-Eest,ORG,1
+43550,Põhja-Eest Saks,LOC,1
+43551,Põhja-Eest Saks,ORG,1
+43575,Põhja-Iirimaal,LOC,4
+43576,Põhja-Iirimaal,ORG,1
+43585,Põhja-Iraagis,LOC,9
+43586,Põhja-Iraagis,PER,1
+43646,Põhja-Tallinn linnaosavalitsus,LOC,1
+43647,Põhja-Tallinn linnaosavalitsus,ORG,5
+43658,Põhjala,LOC,17
+43659,Põhjala,PER,11
+43683,Põhjarannik,LOC,1
+43684,Põhjarannik,ORG,3
+43688,Põld,LOC,7
+43689,Põld,ORG,1
+43690,Põld,PER,2
+43724,Põlva,LOC,107
+43725,Põlva,ORG,2
+43726,Põlva,PER,1
+43761,Põrguingel,LOC,1
+43762,Põrguingel,PER,2
+43774,Püha Barbara,ORG,6
+43775,Püha Barbara,PER,1
+43783,Püha Jüri,ORG,1
+43784,Püha Jüri,PER,2
+43786,Püha Katariina,ORG,2
+43787,Püha Katariina,PER,1
+43810,Pühapäevaleht,ORG,8
+43811,Pühapäevaleht,PER,1
+43812,Pühavaim,ORG,1
+43813,Pühavaim,PER,2
+43821,Püssi,LOC,1
+43822,Püssi,ORG,1
+43823,Püssi,PER,2
+43829,Q,LOC,1
+43830,Q,ORG,3
+43836,Qassam,LOC,2
+43837,Qassam,ORG,2
+43838,Qassam,PER,3
+43844,Qingsong Deng,ORG,1
+43845,Qingsong Deng,PER,1
+43865,Quick Start,ORG,3
+43866,Quick Start,PER,3
+43868,Quicken,LOC,1
+43869,Quicken,ORG,1
+43870,Quicken,PER,2
+43876,R,LOC,2
+43877,R,ORG,10
+43880,R-Kiosk,LOC,2
+43881,R-Kiosk,ORG,2
+43884,R-Kunst,ORG,1
+43885,R-Kunst,PER,1
+43898,R. Mickute,LOC,1
+43899,R. Mickute,PER,1
+43909,R. Ryman,LOC,1
+43910,R. Ryman,PER,1
+43930,RAS,ORG,43
+43931,RAS,PER,10
+43935,RAS Dvigatel,ORG,6
+43936,RAS Dvigatel,PER,4
+43937,RAS EMEX,ORG,3
+43938,RAS EMEX,PER,1
+43939,RAS ETA,ORG,1
+43940,RAS ETA,PER,1
+43956,RAS Estel,ORG,3
+43957,RAS Estel,PER,2
+43959,RAS Estimpeks,ORG,2
+43960,RAS Estimpeks,PER,1
+43963,RAS Estonian Air,ORG,3
+43964,RAS Estonian Air,PER,1
+43967,RAS Kavor,ORG,2
+43968,RAS Kavor,PER,1
+43977,RAS Lembit,ORG,27
+43978,RAS Lembit,PER,9
+43979,RAS Liviko,ORG,20
+43980,RAS Liviko,PER,2
+43982,RAS Luunja,ORG,2
+43983,RAS Luunja,PER,3
+43988,RAS Ookean,ORG,2
+43989,RAS Ookean,PER,3
+43998,RAS Silmet,ORG,40
+43999,RAS Silmet,PER,3
+44004,RAS Tarkon,ORG,3
+44005,RAS Tarkon,PER,3
+44019,RAS ookean,ORG,20
+44020,RAS ookean,PER,3
+44026,RAS top,ORG,3
+44027,RAS top,PER,1
+44033,RE,ORG,26
+44034,RE,PER,2
+44097,RT,ORG,12
+44098,RT,PER,7
+44122,Raadi,LOC,13
+44123,Raadi,ORG,4
+44126,Raadio,ORG,63
+44127,Raadio,PER,20
+44129,Raadio Kuku,ORG,3
+44130,Raadio Kuku,PER,2
+44139,Raadio Tartu,LOC,1
+44140,Raadio Tartu,PER,2
+44144,Raadio Uuno,ORG,2
+44145,Raadio Uuno,PER,2
+44153,Raamat,LOC,5
+44154,Raamat,PER,5
+44156,Raasiku,ORG,2
+44157,Raasiku,PER,1
+44169,Rabbani,ORG,1
+44170,Rabbani,PER,1
+44178,Rabun,LOC,1
+44179,Rabun,ORG,1
+44180,Rabun,PER,3
+44185,Racing Santander,ORG,3
+44186,Racing Santander,PER,3
+44192,Radio,ORG,1
+44193,Radio,PER,2
+44198,Radiolinja,LOC,1
+44199,Radiolinja,ORG,12
+44231,Raeapteek,ORG,3
+44232,Raeapteek,PER,1
+44236,Raekoda,LOC,3
+44237,Raekoda,ORG,73
+44238,Raekoda,PER,15
+44288,Rahhil Eidelson,ORG,1
+44289,Rahhil Eidelson,PER,3
+44302,Rahumäg,ORG,1
+44303,Rahumäg,PER,7
+44304,Rahumägi,LOC,14
+44305,Rahumägi,PER,9
+44387,Raidal,ORG,2
+44388,Raidal,PER,9
+44389,Raidam,ORG,1
+44390,Raidam,PER,16
+44409,Raido keskküla,ORG,2
+44410,Raido keskküla,PER,1
+44498,Rain Pilv,ORG,1
+44499,Rain Pilv,PER,3
+44500,Rain Pilve,ORG,1
+44501,Rain Pilve,PER,9
+44513,Rain Simmul,ORG,2
+44514,Rain Simmul,PER,12
+44519,Rain Tsäko,ORG,1
+44520,Rain Tsäko,PER,1
+44558,Raisio,LOC,1
+44559,Raisio,PER,2
+44564,Raissa Gorbatshova,ORG,1
+44565,Raissa Gorbatshova,PER,2
+44577,Raivo,LOC,1
+44578,Raivo,PER,35
+44696,Raivo trass,ORG,1
+44697,Raivo trass,PER,4
+44699,Rajala,LOC,4
+44700,Rajala,ORG,4
+44701,Rajala,PER,14
+44706,Rajasalu,LOC,1
+44707,Rajasalu,PER,2
+44714,Raju,ORG,1
+44715,Raju,PER,39
+44717,Raket,LOC,1
+44718,Raket,ORG,2
+44722,Rakvere,LOC,414
+44723,Rakvere,ORG,2
+44856,Rand,LOC,1
+44857,Rand,PER,13
+44858,Rand & Tuulberg,ORG,1
+44859,Rand & Tuulberg,PER,1
+44861,Randalu,LOC,1
+44862,Randalu,PER,1
+44881,Randväli,ORG,1
+44882,Randväli,PER,2
+44900,Rannap,LOC,1
+44901,Rannap,PER,4
+44907,Ranniku,LOC,1
+44908,Ranniku,ORG,1
+44909,Ranniku,PER,4
+44916,Rannu,LOC,2
+44917,Rannu,PER,1
+44939,Rapala,LOC,1
+44940,Rapala,ORG,1
+45033,Raudsepp,LOC,2
+45034,Raudsepp,PER,23
+45096,Rauma,LOC,13
+45097,Rauma,PER,1
+45131,Ravensburger,ORG,3
+45132,Ravensburger,PER,3
+45141,Ravor,ORG,1
+45142,Ravor,PER,1
+45164,Reagan,LOC,1
+45165,Reagan,PER,16
+45166,Real,LOC,2
+45167,Real,ORG,6
+45168,Real,PER,11
+45169,Real Betis,ORG,6
+45170,Real Betis,PER,2
+45172,Real Madrid,ORG,4
+45173,Real Madrid,PER,14
+45178,Real Socieda,ORG,5
+45179,Real Socieda,PER,2
+45180,Real Zaragoza,ORG,2
+45181,Real Zaragoza,PER,1
+45182,Realile,LOC,1
+45183,Realile,PER,1
+45190,Rebane,LOC,3
+45191,Rebane,PER,54
+45209,Red Star,ORG,2
+45210,Red Star,PER,5
+45214,Redo,LOC,2
+45215,Redo,PER,1
+45217,Redt Reimal,ORG,2
+45218,Redt Reimal,PER,2
+45333,Regio,ORG,14
+45334,Regio,PER,1
+45344,Rehnqvist,ORG,1
+45345,Rehnqvist,PER,7
+45349,Reigi,LOC,1
+45350,Reigi,ORG,1
+45351,Reigi,PER,1
+45365,Reikjavik,ORG,1
+45366,Reikjavik,PER,1
+45374,Reim,ORG,1
+45375,Reim,PER,10
+45379,Reimann,ORG,1
+45380,Reimann,PER,7
+45388,Rein,ORG,8
+45389,Rein,PER,45
+45397,Rein Auna,ORG,1
+45398,Rein Auna,PER,1
+45406,Rein Helme,ORG,1
+45407,Rein Helme,PER,2
+45408,Rein Hindrekus,ORG,1
+45409,Rein Hindrekus,PER,1
+45418,Rein Kaarepere,ORG,1
+45419,Rein Kaarepere,PER,13
+45437,Rein Kompus,ORG,1
+45438,Rein Kompus,PER,1
+45463,Rein Lindmäe,ORG,1
+45464,Rein Lindmäe,PER,4
+45467,Rein Lindmägi,ORG,1
+45468,Rein Lindmägi,PER,1
+45470,Rein Lingi,ORG,1
+45471,Rein Lingi,PER,1
+45472,Rein Link,ORG,1
+45473,Rein Link,PER,8
+45494,Rein Orn,ORG,1
+45495,Rein Orn,PER,2
+45500,Rein Ottoson,ORG,1
+45501,Rein Ottoson,PER,1
+45523,Rein Raamat,ORG,1
+45524,Rein Raamat,PER,1
+45535,Rein Raud,ORG,4
+45536,Rein Raud,PER,5
+45568,Rein Suv,ORG,1
+45569,Rein Suv,PER,2
+45570,Rein Suvi,ORG,1
+45571,Rein Suvi,PER,11
+45586,Rein Unt,ORG,1
+45587,Rein Unt,PER,1
+45603,Rein Zupping,ORG,2
+45604,Rein Zupping,PER,1
+45660,Rekato,LOC,1
+45661,Rekato,ORG,31
+45677,Remedia,LOC,1
+45678,Remedia,ORG,16
+45679,Remedia,PER,1
+45693,Remsu,LOC,2
+45694,Remsu,PER,23
+45709,Renault,LOC,1
+45710,Renault,ORG,2
+45711,Renault,PER,6
+45751,Renita Lintropp,ORG,2
+45752,Renita Lintropp,PER,1
+45759,Rennes,LOC,2
+45760,Rennes,ORG,2
+45765,Reno,LOC,1
+45766,Reno,PER,1
+45767,Renter,ORG,1
+45768,Renter,PER,4
+45792,Republika Srpska,ORG,2
+45793,Republika Srpska,PER,2
+45819,Reuter,ORG,149
+45820,Reuter,PER,2
+45907,Reval,ORG,1
+45908,Reval,PER,1
+45913,Reval-Sport,ORG,7
+45914,Reval-Sport,PER,1
+45918,Revalia,LOC,1
+45919,Revalia,ORG,1
+45929,Reykjavik,LOC,5
+45930,Reykjavik,ORG,1
+45931,Reykjavik,PER,6
+45932,Reynard Honda,ORG,1
+45933,Reynard Honda,PER,1
+45997,Richard Nixon,ORG,2
+45998,Richard Nixon,PER,2
+46019,Richardas Zdancius,ORG,1
+46020,Richardas Zdancius,PER,3
+46024,Richmar,LOC,1
+46025,Richmar,PER,1
+46115,Riia,LOC,355
+46116,Riia,ORG,5
+46117,Riia,PER,2
+46120,Riia Balt,LOC,1
+46121,Riia Balt,ORG,1
+46131,Riia OMON,LOC,1
+46132,Riia OMON,ORG,2
+46139,Riia VEF,LOC,1
+46140,Riia VEF,ORG,1
+46183,Riigikogu,LOC,3
+46184,Riigikogu,ORG,256
+46224,Riina,LOC,7
+46225,Riina,PER,15
+46272,Riisipere-Haapsalu,LOC,29
+46273,Riisipere-Haapsalu,PER,2
+46300,Riksu,LOC,21
+46301,Riksu,PER,1
+46333,Ring,LOC,1
+46334,Ring,PER,3
+46348,Rinneradio,ORG,1
+46349,Rinneradio,PER,5
+46355,Rios,ORG,1
+46356,Rios,PER,2
+46360,Risoris,ORG,1
+46361,Risoris,PER,1
+46367,Risti,LOC,2
+46368,Risti,ORG,1
+46405,Ristola,LOC,1
+46406,Ristola,PER,1
+46425,Ritabell,LOC,1
+46426,Ritabell,ORG,3
+46427,Ritabell,PER,2
+46594,Robi,ORG,1
+46595,Robi,PER,2
+46607,Rocca,LOC,1
+46608,Rocca,PER,1
+46685,Rohi,LOC,1
+46686,Rohi,PER,8
+46694,Roht,ORG,2
+46695,Roht,PER,39
+46701,Rohuküla,LOC,5
+46702,Rohuküla,ORG,2
+46705,Rohuküla-Vormsi,LOC,3
+46706,Rohuküla-Vormsi,ORG,1
+46714,Rohuneem,LOC,1
+46715,Rohuneem,PER,2
+46753,Roma,LOC,2
+46754,Roma,ORG,2
+46817,Romet,ORG,1
+46818,Romet,PER,1
+46823,Romme,LOC,1
+46824,Romme,PER,1
+46861,Rooba,ORG,1
+46862,Rooba,PER,2
+46869,Rooma,LOC,121
+46870,Rooma,ORG,1
+46871,Rooma,PER,1
+46878,Rooma impeerium,LOC,2
+46879,Rooma impeerium,ORG,1
+46882,Rooma paavst,LOC,1
+46883,Rooma paavst,ORG,1
+46888,Roomet Pikkor,ORG,1
+46889,Roomet Pikkor,PER,3
+46892,Roos,LOC,4
+46893,Roos,PER,10
+46899,Roosimäg,LOC,1
+46900,Roosimäg,PER,1
+47015,Rosenborg,ORG,4
+47016,Rosenborg,PER,1
+47017,Rosenborg Trondheim,ORG,1
+47018,Rosenborg Trondheim,PER,1
+47033,Rossi,ORG,1
+47034,Rossi,PER,12
+47035,Rossia,LOC,1
+47036,Rossia,PER,2
+47037,Rossignol,LOC,1
+47038,Rossignol,ORG,1
+47041,Rossija,LOC,1
+47042,Rossija,ORG,2
+47043,Rossija,PER,1
+47061,Rosvooruzhenije,LOC,1
+47062,Rosvooruzhenije,PER,1
+47064,Roswell,LOC,1
+47065,Roswell,ORG,4
+47066,Roswell,PER,2
+47077,Rotermann,LOC,1
+47078,Rotermann,ORG,2
+47079,Rotermann,PER,16
+47082,Rotor Volgograd,ORG,1
+47083,Rotor Volgograd,PER,1
+47096,Rovaniemi,LOC,9
+47097,Rovaniemi,PER,2
+47171,Ruf,ORG,1
+47172,Ruf,PER,6
+47179,Ruhnu,LOC,81
+47180,Ruhnu,ORG,4
+47186,Ruhrgas,LOC,1
+47187,Ruhrgas,PER,2
+47195,Ruisrock,LOC,2
+47196,Ruisrock,PER,1
+47218,Rumm,LOC,3
+47219,Rumm,PER,4
+47220,Rumm Jüri,ORG,1
+47221,Rumm Jüri,PER,1
+47223,Rumma,ORG,1
+47224,Rumma,PER,10
+47228,Rumor,ORG,2
+47229,Rumor,PER,2
+47248,Rusitsh,ORG,2
+47249,Rusitsh,PER,1
+47266,Russak,LOC,1
+47267,Russak,PER,11
+47269,Russalka,LOC,3
+47270,Russalka,ORG,1
+47271,Russalka,PER,1
+47310,Ruth-Kaja pekk,ORG,1
+47311,Ruth-Kaja pekk,PER,1
+47325,Rutt,LOC,1
+47326,Rutt,ORG,1
+47327,Rutt,PER,13
+47347,Ruudi,ORG,18
+47348,Ruudi,PER,23
+47389,Rägavere,LOC,13
+47390,Rägavere,ORG,2
+47405,Rätsep,LOC,2
+47406,Rätsep,PER,24
+47410,Rävala,LOC,14
+47411,Rävala,ORG,2
+47428,Rõtshagov,LOC,4
+47429,Rõtshagov,PER,19
+47457,Rüütel,ORG,1
+47458,Rüütel,PER,75
+47463,Rüütel-Lepikson,ORG,1
+47464,Rüütel-Lepikson,PER,1
+47473,S-E-Banken,ORG,1
+47474,S-E-Banken,PER,1
+47536,SK,LOC,1
+47537,SK,ORG,3
+47544,SK Pärnu,LOC,9
+47545,SK Pärnu,ORG,1
+47556,SKT,ORG,28
+47557,SKT,PER,1
+47574,SOS,LOC,1
+47575,SOS,ORG,1
+47597,SRü,LOC,41
+47598,SRü,ORG,23
+47599,SRü,PER,10
+47629,STV,LOC,2
+47630,STV,ORG,92
+47637,SVü,LOC,1
+47638,SVü,ORG,1
+47649,Saad Paulo,LOC,1
+47650,Saad Paulo,PER,4
+47666,Saar,LOC,11
+47667,Saar,PER,56
+47669,Saar Polli,ORG,1
+47670,Saar Polli,PER,1
+47678,Saare,LOC,39
+47679,Saare,ORG,12
+47680,Saare,PER,29
+47702,Saaremaa,LOC,374
+47703,Saaremaa,PER,3
+47756,Saarisoo,LOC,2
+47757,Saarisoo,PER,2
+47790,Sacch,LOC,3
+47791,Sacch,PER,6
+47796,Sacramento,LOC,9
+47797,Sacramento,ORG,21
+47801,Sadam,ORG,1
+47802,Sadam,PER,43
+47815,Sadolin,LOC,1
+47816,Sadolin,PER,1
+47830,Sagad,LOC,24
+47831,Sagad,ORG,1
+47843,Saht,ORG,1
+47844,Saht,PER,1
+47854,Saima,LOC,1
+47855,Saima,PER,21
+47871,Sair,LOC,2
+47872,Sair,ORG,5
+47873,Sair,PER,4
+47885,Sakala,LOC,22
+47886,Sakala,ORG,47
+47887,Sakala,PER,5
+47896,Sakigake,LOC,3
+47897,Sakigake,ORG,2
+47898,Sakigake,PER,2
+47901,Saks,LOC,480
+47902,Saks,PER,26
+47996,Saku,LOC,328
+47997,Saku,PER,1
+48003,Saku Originaal,ORG,12
+48004,Saku Originaal,PER,4
+48008,Saku Rantanen,ORG,1
+48009,Saku Rantanen,PER,1
+48022,Saku-Männik,LOC,1
+48023,Saku-Männik,ORG,1
+48025,Sakura,LOC,2
+48026,Sakura,PER,1
+48033,Salahuddin,LOC,1
+48034,Salahuddin,PER,2
+48035,Salamanca,LOC,2
+48036,Salamanca,ORG,1
+48039,Salang,ORG,1
+48040,Salang,PER,2
+48060,Sallo,ORG,1
+48061,Sallo,PER,1
+48069,Salme,LOC,2
+48070,Salme,ORG,1
+48071,Salme,PER,18
+48073,Salme Reeg,ORG,1
+48074,Salme Reeg,PER,4
+48075,Salme Reegile,ORG,1
+48076,Salme Reegile,PER,1
+48078,Salme Reek,ORG,3
+48079,Salme Reek,PER,8
+48086,Salminen,ORG,1
+48087,Salminen,PER,2
+48091,Salo,LOC,5
+48092,Salo,PER,2
+48095,Salo Viesti,ORG,1
+48096,Salo Viesti,PER,1
+48107,Salong-Teater,LOC,2
+48108,Salong-Teater,ORG,1
+48110,Salonik,LOC,1
+48111,Salonik,PER,1
+48112,Salonik PAOK,ORG,5
+48113,Salonik PAOK,PER,1
+48116,Saloniki PAOK,ORG,3
+48117,Saloniki PAOK,PER,1
+48123,Salt Lake City,LOC,2
+48124,Salt Lake City,ORG,1
+48127,Salumets,LOC,1
+48128,Salumets,PER,53
+48134,Salumägi,LOC,24
+48135,Salumägi,PER,35
+48140,Salus,ORG,1
+48141,Salus,PER,3
+48145,Salva,LOC,1
+48146,Salva,ORG,3
+48147,Salva,PER,2
+48151,Salvador,LOC,5
+48152,Salvador,ORG,1
+48153,Salvador,PER,5
+48166,Samaara,LOC,2
+48167,Samaara,PER,1
+48170,Samara,LOC,4
+48171,Samara,PER,4
+48175,Samaranch,LOC,1
+48176,Samaranch,PER,3
+48180,Samarate,LOC,2
+48181,Samarate,PER,1
+48216,Sampdoria,LOC,1
+48217,Sampdoria,ORG,3
+48222,Sampo,ORG,1
+48223,Sampo,PER,3
+48229,Sampra,LOC,2
+48230,Sampra,PER,1
+48232,Sampras,LOC,1
+48233,Sampras,PER,48
+48241,Samsung,LOC,1
+48242,Samsung,PER,2
+48259,San Antonio,LOC,1
+48260,San Antonio,ORG,26
+48263,San Diego,LOC,1
+48264,San Diego,ORG,9
+48268,San Francisco,LOC,2
+48269,San Francisco,ORG,13
+48278,San Juan,LOC,1
+48279,San Juan,ORG,1
+48282,San Marino,LOC,2
+48283,San Marino,ORG,2
+48286,San Remo,LOC,1
+48287,San Remo,ORG,2
+48295,Sanchez-Vicario,ORG,3
+48296,Sanchez-Vicario,PER,9
+48325,Sandrine Testu,ORG,2
+48326,Sandrine Testu,PER,2
+48354,Sanpellegrino,LOC,5
+48355,Sanpellegrino,PER,4
+48357,Sanpelleka,LOC,2
+48358,Sanpelleka,PER,1
+48363,Santa Barbara,LOC,1
+48364,Santa Barbara,ORG,11
+48365,Santa Barbara,PER,3
+48395,Saraatov,LOC,4
+48396,Saraatov,PER,2
+48398,Saraatov Avtodorozhnik,ORG,1
+48399,Saraatov Avtodorozhnik,PER,1
+48405,Sarajevo,LOC,111
+48406,Sarajevo,PER,6
+48411,Saransk,LOC,2
+48412,Saransk,PER,1
+48413,Sarap,ORG,1
+48414,Sarap,PER,54
+48435,Sarv,LOC,1
+48436,Sarv,PER,1
+48447,Satabild,LOC,1
+48448,Satabild,ORG,1
+48455,Saturn,ORG,4
+48456,Saturn,PER,4
+48460,Saucony,LOC,1
+48461,Saucony,ORG,1
+48472,Saue,LOC,12
+48473,Saue,PER,4
+48502,Savi,ORG,2
+48503,Savi,PER,10
+48543,Schalke,ORG,5
+48544,Schalke,PER,1
+48546,Scheel,LOC,1
+48547,Scheel,ORG,1
+48558,Schleswig-Holstein,LOC,4
+48559,Schleswig-Holstein,ORG,1
+48560,Schleswig-Holstein,PER,2
+48567,Schlumbersee,ORG,2
+48568,Schlumbersee,PER,1
+48700,Seeman,ORG,2
+48701,Seeman,PER,4
+48703,Seene,ORG,1
+48704,Seene,PER,6
+48707,Seesam-Elu,ORG,5
+48708,Seesam-Elu,PER,1
+48714,Segodnja,ORG,11
+48715,Segodnja,PER,1
+48727,Seim,ORG,1
+48728,Seim,PER,1
+48737,Seiser Alm,ORG,2
+48738,Seiser Alm,PER,2
+48739,Seiser Almi,ORG,1
+48740,Seiser Almi,PER,2
+48749,Select,LOC,1
+48750,Select,ORG,1
+48753,Seles,LOC,1
+48754,Seles,ORG,1
+48755,Seles,PER,14
+48796,Semolen,LOC,1
+48797,Semolen,PER,1
+48799,Semper,ORG,1
+48800,Semper,PER,4
+48811,Senegal,LOC,5
+48812,Senegal,ORG,1
+48824,Sepa,LOC,2
+48825,Sepa,PER,4
+48834,Sepp,LOC,1
+48835,Sepp,PER,44
+48860,Seppäla,LOC,1
+48861,Seppäla,PER,2
+48863,Seppälä,LOC,7
+48864,Seppälä,ORG,1
+48865,Seppälä,PER,9
+48888,Serena,LOC,1
+48889,Serena,PER,1
+49060,Sergi,LOC,2
+49061,Sergi,ORG,1
+49092,Service,ORG,1
+49093,Service,PER,3
+49098,Serviti,ORG,3
+49099,Serviti,PER,1
+49116,Severnõi,LOC,9
+49117,Severnõi,ORG,1
+49118,Sevilla,LOC,2
+49119,Sevilla,ORG,4
+49120,Sevilla,PER,1
+49124,Sexer,LOC,1
+49125,Sexer,PER,2
+49143,Shal,LOC,8
+49144,Shal,ORG,2
+49145,Shal,PER,1
+49170,Shanghai,LOC,13
+49171,Shanghai,PER,1
+49190,Sharetsk,LOC,1
+49191,Sharetsk,PER,2
+49194,Sharijazdanov,LOC,1
+49195,Sharijazdanov,PER,4
+49210,Sharunas Marciulion,ORG,1
+49211,Sharunas Marciulion,PER,1
+49215,Shatoi,LOC,9
+49216,Shatoi,ORG,1
+49217,Shatoi,PER,1
+49224,Shatõi,LOC,1
+49225,Shatõi,PER,1
+49237,Sheffield,LOC,5
+49238,Sheffield,ORG,1
+49241,Sheffield Wednesday,ORG,5
+49242,Sheffield Wednesday,PER,2
+49247,Shein,ORG,1
+49248,Shein,PER,13
+49253,Shelkovsk,LOC,1
+49254,Shelkovsk,ORG,1
+49286,Shevtshenko,ORG,2
+49287,Shevtshenko,PER,5
+49290,Shiauliai,LOC,3
+49291,Shiauliai,ORG,3
+49292,Shiauliai kare,ORG,1
+49293,Shiauliai kare,PER,1
+49298,Shilute,ORG,1
+49299,Shilute,PER,1
+49308,Shimon pere,ORG,1
+49309,Shimon pere,PER,6
+49328,Shishkov,ORG,2
+49329,Shishkov,PER,3
+49335,Shkoda,LOC,1
+49336,Shkoda,ORG,6
+49337,Shkoda,PER,12
+49339,Shkoda Felicia,ORG,1
+49340,Shkoda Felicia,PER,1
+49350,Shmigun,LOC,1
+49351,Shmigun,PER,48
+49355,Shnell,LOC,5
+49356,Shnell,ORG,1
+49363,Shostakovitsh,ORG,2
+49364,Shostakovitsh,PER,16
+49365,Shot,LOC,3
+49366,Shot,ORG,1
+49368,Shotimaa,LOC,25
+49369,Shotimaa,ORG,1
+49381,Shtimac,LOC,1
+49382,Shtimac,ORG,1
+49383,Shtimac,PER,1
+49387,Shtsherban,ORG,1
+49388,Shtsherban,PER,3
+49393,Shuker,ORG,2
+49394,Shuker,PER,12
+49411,Shveits,LOC,335
+49412,Shveits,ORG,1
+49413,Shveits,PER,2
+49428,Shvets,LOC,1
+49429,Shvets,PER,10
+49434,Siar Bossard,ORG,3
+49435,Siar Bossard,PER,2
+49451,Sibul,LOC,3
+49452,Sibul,PER,12
+49471,Siemens,ORG,1
+49472,Siemens,PER,2
+49474,Siemens Nixdorf,ORG,1
+49475,Siemens Nixdorf,PER,2
+49476,Siemens OY,ORG,1
+49477,Siemens OY,PER,2
+49482,Sierra Leone,LOC,2
+49483,Sierra Leone,ORG,3
+49606,Sik,ORG,2
+49607,Sik,PER,5
+49609,Sikk,LOC,1
+49610,Sikk,PER,10
+49615,Silas Mills,ORG,1
+49616,Silas Mills,PER,7
+49619,Silberauto,LOC,1
+49620,Silberauto,ORG,1
+49634,Silikaadi,LOC,1
+49635,Silikaadi,PER,2
+49639,Silja Line,ORG,5
+49640,Silja Line,PER,1
+49651,Silja roosiaas,ORG,1
+49652,Silja roosiaas,PER,1
+49656,Silkeborg,LOC,2
+49657,Silkeborg,ORG,1
+49661,Sillamäe,LOC,95
+49662,Sillamäe,ORG,1
+49663,Sillamäe,PER,12
+49683,Silmet,LOC,44
+49684,Silmet,ORG,89
+49685,Silmet,PER,88
+49702,Silver,ORG,1
+49703,Silver,PER,10
+49755,Simba,LOC,2
+49756,Simba,PER,2
+49772,Simmul,LOC,2
+49773,Simmul,PER,2
+49808,Simutenkov,ORG,1
+49809,Simutenkov,PER,4
+49815,Sindi,LOC,22
+49816,Sindi,ORG,8
+49817,Sindi,PER,9
+49823,Sinebrychoff,LOC,2
+49824,Sinebrychoff,ORG,1
+49825,Sinebrychoff,PER,4
+49830,Singer Vinger,ORG,3
+49831,Singer Vinger,PER,9
+49832,Singer-Vinger,LOC,1
+49833,Singer-Vinger,ORG,1
+49837,Sini-Valge,LOC,3
+49838,Sini-Valge,ORG,4
+49841,Sinijärv,LOC,11
+49842,Sinijärv,PER,4
+49853,Sinn Fein,ORG,25
+49854,Sinn Fein,PER,18
+49861,Sinterklaas,LOC,1
+49862,Sinterklaas,ORG,1
+49863,Sinterklaas,PER,1
+49918,Sirje Endre,ORG,2
+49919,Sirje Endre,PER,25
+49987,Sistock,LOC,1
+49988,Sistock,PER,1
+49991,Sisyphos,LOC,2
+49992,Sisyphos,PER,4
+50006,Sivers,LOC,1
+50007,Sivers,PER,1
+50009,Sixers,LOC,1
+50010,Sixers,ORG,1
+50011,Sixers,PER,1
+50017,Sixtina,LOC,1
+50018,Sixtina,ORG,1
+50022,Sjomin,LOC,1
+50023,Sjomin,PER,1
+50059,Skonto,ORG,6
+50060,Skonto,PER,2
+50071,Skuld,LOC,1
+50072,Skuld,ORG,6
+50073,Skuld,PER,2
+50079,Sky Master,ORG,8
+50080,Sky Master,PER,4
+50081,Sky Masterile,ORG,1
+50082,Sky Masterile,PER,1
+50102,Slavia Praha,ORG,1
+50103,Slavia Praha,PER,1
+50114,Slesarcuk,LOC,1
+50115,Slesarcuk,ORG,1
+50133,Slovan Bratislava,ORG,1
+50134,Slovan Bratislava,PER,1
+50146,Smarten,LOC,1
+50147,Smarten,ORG,4
+50148,Smarten,PER,6
+50155,Smelt Olimpija,ORG,1
+50156,Smelt Olimpija,PER,7
+50163,Smirnov,LOC,1
+50164,Smirnov,PER,53
+50168,Smirre,LOC,1
+50169,Smirre,PER,4
+50183,Smuul,LOC,3
+50184,Smuul,PER,3
+50185,Smõslov,ORG,1
+50186,Smõslov,PER,17
+50194,Snoras,ORG,1
+50195,Snoras,PER,1
+50205,Sofia,LOC,13
+50206,Sofia,ORG,1
+50207,Sofia,PER,5
+50232,Sokk,ORG,1
+50233,Sokk,PER,65
+50243,Soku,ORG,1
+50244,Soku,PER,3
+50245,Sokul,ORG,1
+50246,Sokul,PER,1
+50248,Sol,LOC,1
+50249,Sol,PER,1
+50265,Solna AB,LOC,1
+50266,Solna AB,ORG,1
+50280,Solzhenitsõn,ORG,1
+50281,Solzhenitsõn,PER,9
+50310,Sony,LOC,2
+50311,Sony,ORG,3
+50312,Sony,PER,4
+50329,Soome,LOC,2820
+50330,Soome,PER,3
+50468,Soone,ORG,1
+50469,Soone,PER,20
+50479,Soosalu,LOC,1
+50480,Soosalu,PER,5
+50498,Sorge,ORG,1
+50499,Sorge,PER,26
+50526,Sotheby,ORG,2
+50527,Sotheby,PER,1
+50533,Sotshi,LOC,2
+50534,Sotshi,ORG,1
+50549,Soul,LOC,14
+50550,Soul,PER,6
+50572,Spalles,ORG,2
+50573,Spalles,PER,2
+50574,Sparbanken,ORG,1
+50575,Sparbanken,PER,3
+50578,Sparta Praha,LOC,1
+50579,Sparta Praha,ORG,2
+50581,Spartak,LOC,2
+50582,Spartak,ORG,2
+50583,Spartak,PER,14
+50600,Spiegel,ORG,2
+50601,Spiegel,PER,1
+50624,Sporting,ORG,1
+50625,Sporting,PER,5
+50626,Sporting Gijon,ORG,1
+50627,Sporting Gijon,PER,4
+50655,Stabat Mater,ORG,1
+50656,Stabat Mater,PER,1
+50687,Stanic,LOC,1
+50688,Stanic,ORG,2
+50754,Statoil,LOC,1
+50755,Statoil,ORG,88
+50756,Statoil,PER,9
+50830,Steiner,ORG,1
+50831,Steiner,PER,18
+50836,Steinway,LOC,3
+50837,Steinway,PER,3
+50890,Stern,ORG,5
+50891,Stern,PER,4
+50953,Stimont,ORG,1
+50954,Stimont,PER,2
+50957,Stinger,ORG,2
+50958,Stinger,PER,4
+50961,Stjashkina,LOC,2
+50962,Stjashkina,PER,1
+50994,Stockmann,LOC,5
+50995,Stockmann,ORG,98
+50996,Stockmann,PER,17
+51033,Strand,LOC,1
+51034,Strand,ORG,1
+51035,Strand,PER,7
+51047,Stravinsk,LOC,6
+51048,Stravinsk,PER,11
+51072,Strzalka,ORG,1
+51073,Strzalka,PER,1
+51082,Studio Viridis,ORG,10
+51083,Studio Viridis,PER,15
+51094,Stuttgart,LOC,27
+51095,Stuttgart,PER,2
+51149,Sulaimaniya,LOC,4
+51150,Sulaimaniya,ORG,2
+51151,Sulaimaniya,PER,1
+51185,Sulev Teinemaa,ORG,2
+51186,Sulev Teinemaa,PER,20
+51187,Sulev Teppart,ORG,1
+51188,Sulev Teppart,PER,1
+51191,Sulev Valner,ORG,1
+51192,Sulev Valner,PER,2
+51208,Sumberg,ORG,1
+51209,Sumberg,PER,7
+51211,Sumberg Pärnu,LOC,1
+51212,Sumberg Pärnu,PER,1
+51214,Sumbergi Grup,ORG,1
+51215,Sumbergi Grup,PER,1
+51221,Sumitomo,LOC,2
+51222,Sumitomo,ORG,1
+51223,Sumitomo,PER,31
+51235,Sun,ORG,4
+51236,Sun,PER,2
+51242,Sunair,ORG,1
+51243,Sunair,PER,1
+51263,Sunset,LOC,3
+51264,Sunset,PER,4
+51265,Sunset Club,ORG,2
+51266,Sunset Club,PER,13
+51272,Suomen Kuvaleht,ORG,2
+51273,Suomen Kuvaleht,PER,2
+51292,Surinam,LOC,3
+51293,Surinam,ORG,4
+51319,Susi,LOC,1
+51320,Susi,PER,28
+51335,Suur,LOC,1
+51336,Suur,ORG,1
+51337,Suur,PER,7
+51343,Suur Muusikaakadeemia,ORG,2
+51344,Suur Muusikaakadeemia,PER,1
+51350,Suur-Ameerika,LOC,9
+51351,Suur-Ameerika,ORG,1
+51377,Suurbitannia,LOC,2
+51378,Suurbitannia,ORG,1
+51390,Suure-Lähtru,LOC,2
+51391,Suure-Lähtru,ORG,1
+51400,Suurorg,ORG,1
+51401,Suurorg,PER,5
+51419,Suvi,ORG,1
+51420,Suvi,PER,1
+51423,Suzuki,LOC,1
+51424,Suzuki,ORG,1
+51425,Suzuki,PER,1
+51426,Suzuki Baleno,ORG,1
+51427,Suzuki Baleno,PER,2
+51502,Svenska,ORG,1
+51503,Svenska,PER,2
+51504,Svenska Dagbladet,ORG,2
+51505,Svenska Dagbladet,PER,1
+51510,Svenska Tobaks,ORG,5
+51511,Svenska Tobaks,PER,21
+51514,Svenska Tobaksile,ORG,1
+51515,Svenska Tobaksile,PER,1
+51517,Sverdlovsk,LOC,4
+51518,Sverdlovsk,PER,1
+51519,Svergos,ORG,3
+51520,Svergos,PER,5
+51570,Sviby,LOC,2
+51571,Sviby,ORG,2
+51579,Svjatoslav Fjodorov,ORG,1
+51580,Svjatoslav Fjodorov,PER,20
+51584,SwedGiro,ORG,2
+51585,SwedGiro,PER,2
+51592,Swedgiro,ORG,2
+51593,Swedgiro,PER,2
+51594,Swedgiro AB,ORG,1
+51595,Swedgiro AB,PER,1
+51596,Swedish Match,ORG,8
+51597,Swedish Match,PER,2
+51605,Sydney,LOC,18
+51606,Sydney,ORG,3
+51607,Sydney,PER,3
+51610,Sykora,ORG,1
+51611,Sykora,PER,2
+51625,Systest Plus,ORG,1
+51626,Systest Plus,PER,1
+51634,Szekesfehervari Albacomp,ORG,1
+51635,Szekesfehervari Albacomp,PER,5
+51648,São Paulo,LOC,5
+51649,São Paulo,PER,1
+51655,Säre,LOC,2
+51656,Säre,PER,1
+51680,Sõmer,LOC,1
+51681,Sõmer,PER,7
+51693,Sõprus,LOC,1
+51694,Sõprus,ORG,3
+51695,Sõprus,PER,4
+51697,Sõpruse,LOC,1
+51698,Sõpruse,PER,1
+51726,Süddeutsche Zeitung,ORG,3
+51727,Süddeutsche Zeitung,PER,1
+51734,Sülfii,ORG,1
+51735,Sülfii,PER,1
+51737,Sündis,ORG,2
+51738,Sündis,PER,18
+51755,Sünerkom,LOC,3
+51756,Sünerkom,ORG,1
+51757,Sünerkom,PER,1
+51764,Süsta,ORG,1
+51765,Süsta,PER,1
+51783,T. Jansson,LOC,3
+51784,T. Jansson,PER,1
+51830,TKü,LOC,3
+51831,TKü,ORG,1
+51835,TLT,ORG,2
+51836,TLT,PER,3
+51842,TNT,LOC,1
+51843,TNT,ORG,3
+51845,TOP,LOC,1
+51846,TOP,ORG,25
+51850,TOP-raadio,LOC,1
+51851,TOP-raadio,ORG,3
+51853,TPI,LOC,4
+51854,TPI,ORG,31
+51858,TPü,LOC,3
+51859,TPü,ORG,25
+51860,TPü,PER,23
+51869,TPüs,ORG,2
+51870,TPüs,PER,1
+51875,TRü,LOC,3
+51876,TRü,ORG,2
+51892,TTEü,LOC,1
+51893,TTEü,ORG,2
+51897,TTü,LOC,10
+51898,TTü,ORG,41
+51899,TTü,PER,11
+51911,TU,ORG,1
+51912,TU,PER,1
+51914,TV,LOC,3
+51915,TV,ORG,11
+51918,TV-Magasin,LOC,6
+51919,TV-Magasin,ORG,1
+51931,Taani,LOC,598
+51932,Taani,ORG,1
+51933,Taani,PER,5
+51990,Taavi,LOC,7
+51991,Taavi,ORG,1
+51992,Taavi,PER,45
+52005,Taavi Männamaa,LOC,1
+52006,Taavi Männamaa,PER,8
+52023,Taavi eelmaa,ORG,1
+52024,Taavi eelmaa,PER,1
+52051,Tadzhikistan,LOC,38
+52052,Tadzhikistan,PER,1
+52089,Tai,LOC,44
+52090,Tai,ORG,1
+52118,Taivan,LOC,65
+52119,Taivan,ORG,4
+52120,Taivan,PER,65
+52169,Taleban,LOC,20
+52170,Taleban,ORG,86
+52174,Talebani,ORG,3
+52175,Talebani,PER,2
+52176,Talebanile,LOC,1
+52177,Talebanile,PER,1
+52179,Tali,LOC,6
+52180,Tali,PER,2
+52187,Talinve,LOC,2
+52188,Talinve,ORG,6
+52189,Talinvest,LOC,2
+52190,Talinvest,ORG,104
+52201,Talinvestile,ORG,3
+52202,Talinvestile,PER,3
+52205,Talleks,LOC,4
+52206,Talleks,PER,1
+52210,Tallink,LOC,35
+52211,Tallink,ORG,12
+52212,Tallink,PER,6
+52213,Tallinn,LOC,5733
+52214,Tallinn,ORG,41
+52237,Tallinn Baltika,LOC,1
+52238,Tallinn Baltika,ORG,4
+52285,Tallinn FC Tevalte-Marlekor,LOC,2
+52286,Tallinn FC Tevalte-Marlekor,ORG,2
+52296,Tallinn Gonsior,LOC,1
+52297,Tallinn Gonsior,ORG,1
+52331,Tallinn Kadaka,LOC,1
+52332,Tallinn Kadaka,ORG,2
+52335,Tallinn Kalev,LOC,1
+52336,Tallinn Kalev,ORG,71
+52426,Tallinn Mustamägi linnaosa,LOC,2
+52427,Tallinn Mustamägi linnaosa,ORG,1
+52438,Tallinn Nybit,LOC,1
+52439,Tallinn Nybit,ORG,3
+52445,Tallinn Oskar,LOC,1
+52446,Tallinn Oskar,ORG,31
+52522,Tallinn Sakala,LOC,2
+52523,Tallinn Sakala,ORG,3
+52536,Tallinn Stockmann,LOC,1
+52537,Tallinn Stockmann,ORG,1
+52539,Tallinn Suur-Karja,LOC,2
+52540,Tallinn Suur-Karja,ORG,2
+52569,Tallinn Viru,LOC,3
+52570,Tallinn Viru,ORG,1
+52773,Tallinn lilleküla,LOC,1
+52774,Tallinn lilleküla,ORG,1
+52776,Tallinn linnaarhiiv,LOC,2
+52777,Tallinn linnaarhiiv,ORG,2
+52812,Tallinn maa,LOC,2
+52813,Tallinn maa,ORG,1
+52817,Tallinn maarjamägi,LOC,1
+52818,Tallinn maarjamägi,ORG,1
+52996,Tallinn vanalinn,LOC,8
+52997,Tallinn vanalinn,ORG,1
+53017,Tallinn-Finland,LOC,3
+53018,Tallinn-Finland,ORG,1
+53049,Tallinn-Trawemünde,LOC,1
+53050,Tallinn-Trawemünde,ORG,1
+53060,Tallinna-Helsink,LOC,23
+53061,Tallinna-Helsink,ORG,1
+53101,Tallinnat,LOC,2
+53102,Tallinnat,ORG,2
+53103,Tallinnfilm,LOC,9
+53104,Tallinnfilm,ORG,15
+53105,Tallinngaas,LOC,8
+53106,Tallinngaas,ORG,4
+53108,Talmar,ORG,1
+53109,Talmar,PER,4
+53124,Talv,LOC,1
+53125,Talv,PER,1
+53138,Talvistu,ORG,1
+53139,Talvistu,PER,1
+53182,Tamm,LOC,2
+53183,Tamm,PER,241
+53204,Tammik,LOC,10
+53205,Tammik,PER,3
+53206,Tammine,ORG,3
+53207,Tammine,PER,23
+53220,Tammsaar,LOC,1
+53221,Tammsaar,PER,2
+53222,Tammsaare,LOC,2
+53223,Tammsaare,PER,175
+53233,Tampere,LOC,57
+53234,Tampere,PER,11
+53251,Tamsalu,LOC,18
+53252,Tamsalu,PER,2
+53255,Tamsalu Terko,ORG,2
+53256,Tamsalu Terko,PER,1
+53263,Tan,LOC,1
+53264,Tan,PER,1
+53268,Tanel,LOC,1
+53269,Tanel,PER,7
+53337,Tapa,LOC,27
+53338,Tapa,ORG,10
+53339,Tapa,PER,21
+53355,Taponen,LOC,2
+53356,Taponen,PER,4
+53359,Tarand,LOC,1
+53360,Tarand,PER,12
+53376,Taremal,ORG,1
+53377,Taremal,PER,1
+53394,Tarkon,LOC,7
+53395,Tarkon,ORG,2
+53396,Tarkon,PER,12
+53402,Tarmeko,LOC,2
+53403,Tarmeko,PER,4
+53517,Tartoil,LOC,2
+53518,Tartoil,ORG,3
+53519,Tartoil,PER,3
+53521,Tartoilile,LOC,1
+53522,Tartoilile,PER,1
+53526,Tartu,LOC,2058
+53527,Tartu,PER,2
+53576,Tartu Kuku,ORG,7
+53577,Tartu Kuku,PER,3
+53590,Tartu Maraton,LOC,1
+53591,Tartu Maraton,PER,1
+53612,Tartu Tamm,ORG,1
+53613,Tartu Tamm,PER,1
+53660,Tartu kk,LOC,2
+53661,Tartu kk,ORG,6
+53683,Tartu lihakombinaat,LOC,1
+53684,Tartu lihakombinaat,ORG,11
+53685,Tartu linn,LOC,48
+53686,Tartu linn,ORG,1
+53808,Taruk,LOC,1
+53809,Taruk,PER,2
+53811,Tarvanpää,LOC,5
+53812,Tarvanpää,ORG,1
+53845,Tarzan,LOC,1
+53846,Tarzan,PER,2
+53851,Taska,ORG,2
+53852,Taska,PER,21
+53864,Tatar,LOC,4
+53865,Tatar,ORG,3
+53866,Tatar,PER,3
+53954,Tauri,ORG,1
+53955,Tauri,PER,1
+53965,Tavildara,ORG,1
+53966,Tavildara,PER,3
+54017,Tedre,ORG,2
+54018,Tedre,PER,3
+54021,Teele,LOC,2
+54022,Teele,PER,17
+54024,Teemant,ORG,1
+54025,Teemant,PER,1
+54065,Teheran,LOC,24
+54066,Teheran,PER,1
+54069,Tehnika,LOC,4
+54070,Tehnika,ORG,2
+54071,Tehnikaülikool,LOC,6
+54072,Tehnikaülikool,ORG,2
+54076,Tehvant,LOC,6
+54077,Tehvant,ORG,1
+54086,Teise,LOC,2
+54087,Teise,PER,4
+54092,Teiter,ORG,2
+54093,Teiter,PER,4
+54102,Tel Aviv,LOC,28
+54103,Tel Aviv,ORG,1
+54114,TeleMedia,LOC,1
+54115,TeleMedia,ORG,17
+54121,Telecom,ORG,3
+54122,Telecom,PER,1
+54123,Telecom Finland,ORG,1
+54124,Telecom Finland,PER,1
+54129,Telekom,ORG,2
+54130,Telekom,PER,1
+54177,Tenerife,LOC,9
+54178,Tenerife,ORG,3
+54180,Tengiz,LOC,2
+54181,Tengiz,PER,1
+54185,Tennessee,LOC,2
+54186,Tennessee,PER,3
+54188,Tenno,LOC,1
+54189,Tenno,PER,17
+54196,Tepandi,ORG,1
+54197,Tepandi,PER,10
+54200,Tepo,LOC,1
+54201,Tepo,PER,1
+54253,Termoil,LOC,11
+54254,Termoil,ORG,19
+54255,Termoil,PER,20
+54294,Tervis,ORG,11
+54295,Tervis,PER,1
+54316,Tevalte-Marlekor,ORG,6
+54317,Tevalte-Marlekor,PER,3
+54320,Texaco,LOC,1
+54321,Texaco,ORG,1
+54322,Texaco,PER,1
+54327,Texman,LOC,4
+54328,Texman,PER,6
+54330,Texmani,ORG,1
+54331,Texmani,PER,1
+54336,The,ORG,1
+54337,The,PER,3
+54373,The Miami Herald,ORG,2
+54374,The Miami Herald,PER,1
+54379,The Names,ORG,1
+54380,The Names,PER,1
+54383,The Observer,ORG,2
+54384,The Observer,PER,2
+54395,The Sun,ORG,3
+54396,The Sun,PER,1
+54442,Thijli,LOC,1
+54443,Thijli,ORG,1
+54444,Thijli,PER,1
+54448,Thingvellir,LOC,1
+54449,Thingvellir,ORG,1
+54541,Thunder & Joy,ORG,1
+54542,Thunder & Joy,PER,1
+54614,Tiidemannile,LOC,2
+54615,Tiidemannile,PER,2
+54617,Tiig,LOC,2
+54618,Tiig,PER,2
+54622,Tiik,LOC,2
+54623,Tiik,PER,1
+54627,Tiina,LOC,2
+54628,Tiina,PER,145
+54984,Tim,ORG,9
+54985,Tim,PER,3
+55011,Timisoara,LOC,1
+55012,Timisoara,PER,1
+55016,Timman,LOC,1
+55017,Timman,ORG,1
+55018,Timman,PER,2
+55020,Timo,LOC,6
+55021,Timo,PER,8
+55047,Tinni,ORG,1
+55048,Tinni,PER,2
+55068,Tishreen,ORG,4
+55069,Tishreen,PER,1
+55075,Titanic,LOC,3
+55076,Titanic,PER,17
+55077,Titanilla,LOC,1
+55078,Titanilla,PER,1
+55088,Tivol,LOC,1
+55089,Tivol,PER,6
+55106,Tobago,LOC,9
+55107,Tobago,ORG,2
+55132,Tofas,LOC,1
+55133,Tofas,ORG,5
+55134,Tofas,PER,6
+55223,Toivotuur,LOC,6
+55224,Toivotuur,ORG,2
+55225,Toivotuur,PER,11
+55227,Toivotuurile,LOC,1
+55228,Toivotuurile,PER,1
+55248,Tolik,ORG,1
+55249,Tolik,PER,1
+55254,Tolstoi,LOC,1
+55255,Tolstoi,PER,1
+55338,Tond,LOC,4
+55339,Tond,ORG,12
+55365,Tonja Buford-Bailey,ORG,1
+55366,Tonja Buford-Bailey,PER,4
+55369,Tonsberg,ORG,1
+55370,Tonsberg,PER,1
+55386,Tony Skillington,ORG,1
+55387,Tony Skillington,PER,1
+55389,Toolse,LOC,1
+55390,Toolse,ORG,1
+55391,Toolse,PER,2
+55397,Toomas,ORG,1
+55398,Toomas,PER,48
+55636,Toomkirik,LOC,3
+55637,Toomkirik,ORG,2
+55659,Toots,LOC,5
+55660,Toots,PER,13
+55663,Tootsi,LOC,1
+55664,Tootsi,PER,28
+55669,Top,ORG,9
+55670,Top,PER,3
+55702,Tori,LOC,28
+55703,Tori,PER,2
+55706,Tori-Selg,LOC,7
+55707,Tori-Selg,ORG,1
+55710,Torino,LOC,21
+55711,Torino,PER,2
+55730,Toronto,LOC,66
+55731,Toronto,ORG,40
+55767,Tottenham,ORG,1
+55768,Tottenham,PER,8
+55781,Toy Story,ORG,1
+55782,Toy Story,PER,2
+55783,Toyota,ORG,1
+55784,Toyota,PER,10
+55794,Trabzonspor,ORG,3
+55795,Trabzonspor,PER,5
+55820,Trans,ORG,13
+55821,Trans,PER,7
+55825,Transil,ORG,2
+55826,Transil,PER,1
+55831,Transneft,ORG,1
+55832,Transneft,PER,2
+55836,Transporter,ORG,1
+55837,Transporter,PER,3
+55857,Treenerina,LOC,1
+55858,Treenerina,PER,1
+55873,Trelleborg,LOC,1
+55874,Trelleborg,ORG,1
+55889,Treuhant,LOC,1
+55890,Treuhant,ORG,1
+55946,Triin-Karolina Meijel,ORG,1
+55947,Triin-Karolina Meijel,PER,3
+55951,Trine Hattesta,ORG,2
+55952,Trine Hattesta,PER,3
+55953,Trinidad,LOC,12
+55954,Trinidad,ORG,3
+55955,Trinidad,PER,1
+55959,Trio,ORG,37
+55960,Trio,PER,4
+55965,Tripoli,LOC,7
+55966,Tripoli,PER,2
+55990,Trondheim,LOC,28
+55991,Trondheim,PER,3
+56013,Trumm,ORG,1
+56014,Trumm,PER,5
+56017,Trummi,ORG,4
+56018,Trummi,PER,1
+56030,Träder,ORG,1
+56031,Träder,PER,41
+56051,Tshaad,LOC,2
+56052,Tshaad,ORG,1
+56054,Tshaikovski,LOC,1
+56055,Tshaikovski,PER,12
+56059,Tsheboksarõ,LOC,1
+56060,Tsheboksarõ,ORG,1
+56068,Tshehhimaa,LOC,217
+56069,Tshehhimaa,ORG,1
+56080,Tshehhov,LOC,29
+56081,Tshehhov,PER,16
+56088,Tshepalova,ORG,1
+56089,Tshepalova,PER,4
+56095,Tshernobõl,LOC,41
+56096,Tshernobõl,PER,2
+56099,Tshernomõrdin,LOC,34
+56100,Tshernomõrdin,PER,120
+56104,Tshernomõrdinile,LOC,5
+56105,Tshernomõrdinile,PER,4
+56112,Tshertshessov,LOC,1
+56113,Tshertshessov,PER,6
+56121,Tshetsheenia,LOC,829
+56122,Tshetsheenia,ORG,1
+56123,Tshetsheenia,PER,1
+56155,Tshiili,LOC,52
+56156,Tshiili,ORG,2
+56157,Tshiili,PER,4
+56160,Tshikin,LOC,1
+56161,Tshikin,PER,4
+56174,Tshubais,LOC,30
+56175,Tshubais,ORG,1
+56176,Tshubais,PER,62
+56180,Tshubaisi,LOC,2
+56181,Tshubaisi,ORG,1
+56182,Tshubaisi,PER,2
+56186,Tshubaisile,LOC,1
+56187,Tshubaisile,PER,1
+56228,Tuglas,ORG,3
+56229,Tuglas,PER,23
+56237,Tuhkatriinu,ORG,1
+56238,Tuhkatriinu,PER,4
+56239,Tuisk,LOC,2
+56240,Tuisk,PER,1
+56244,Tuko,LOC,1
+56245,Tuko,ORG,1
+56246,Tuko,PER,2
+56257,Tulika,LOC,4
+56258,Tulika,ORG,1
+56259,Tulika,PER,1
+56269,Tulviste,LOC,2
+56270,Tulviste,PER,33
+56279,Tunis,LOC,1
+56280,Tunis,PER,1
+56295,Tupolev,ORG,2
+56296,Tupolev,PER,1
+56307,Turetsk,LOC,2
+56308,Turetsk,PER,1
+56319,Turmann,ORG,2
+56320,Turmann,PER,3
+56325,Turu,LOC,39
+56326,Turu,ORG,3
+56327,Turu,PER,2
+56336,Turun Sanomate,ORG,1
+56337,Turun Sanomate,PER,1
+56351,Tuula,LOC,5
+56352,Tuula,PER,7
+56373,Tuulik Laesson,ORG,4
+56374,Tuulik Laesson,PER,15
+56375,Tuulik Laessonile,ORG,1
+56376,Tuulik Laessonile,PER,1
+56419,Täp Made,ORG,1
+56420,Täp Made,PER,4
+56422,Tärno,LOC,2
+56423,Tärno,PER,8
+56424,Tärnsjö,LOC,2
+56425,Tärnsjö,PER,1
+56426,Tärnsjö IF,ORG,3
+56427,Tärnsjö IF,PER,2
+56435,Tõivo Sarmet,ORG,2
+56436,Tõivo Sarmet,PER,1
+56516,Tõnismägi,LOC,15
+56517,Tõnismägi,ORG,2
+56518,Tõnismägi,PER,20
+56523,Tõnisson,ORG,4
+56524,Tõnisson,PER,22
+56536,Tõnno linn,LOC,1
+56537,Tõnno linn,ORG,3
+56675,Tõrva,LOC,3
+56676,Tõrva,ORG,1
+56677,Tõrva,PER,5
+56703,Tü SK,ORG,2
+56704,Tü SK,PER,3
+56747,Türnpu,LOC,3
+56748,Türnpu,ORG,1
+56749,Türnpu,PER,2
+56752,Tüü,ORG,1
+56753,Tüü,PER,1
+56764,U. Rooba,LOC,2
+56765,U. Rooba,PER,1
+56849,USA Moskva-saatkond,LOC,1
+56850,USA Moskva-saatkond,ORG,1
+56878,USA föderaalreserv,LOC,3
+56879,USA föderaalreserv,ORG,2
+56970,Ufaa,LOC,1
+56971,Ufaa,PER,1
+56974,Ugala,LOC,32
+56975,Ugala,ORG,13
+56976,Ugala,PER,7
+56991,Uibo,LOC,3
+56992,Uibo,PER,11
+57004,Ukio Bankas,ORG,2
+57005,Ukio Bankas,PER,1
+57034,Uku,LOC,2
+57035,Uku,PER,3
+57075,Ullo Toom,ORG,1
+57076,Ullo Toom,PER,7
+57101,Ultima Thule,LOC,1
+57102,Ultima Thule,ORG,1
+57103,Ultima Thule,PER,9
+57146,Unesco,ORG,29
+57147,Unesco,PER,1
+57154,Uneximbankile,ORG,1
+57155,Uneximbankile,PER,1
+57168,Ungern-Sternberg,LOC,1
+57169,Ungern-Sternberg,PER,2
+57173,Unibanka,ORG,31
+57174,Unibanka,PER,2
+57176,Unica,ORG,1
+57177,Unica,PER,6
+57181,Unichondrin ATP,ORG,1
+57182,Unichondrin ATP,PER,1
+57197,Unite Products,ORG,1
+57198,Unite Products,PER,1
+57203,Universitas,ORG,3
+57204,Universitas,PER,1
+57206,Universum,ORG,1
+57207,Universum,PER,1
+57259,Unt,ORG,4
+57260,Unt,PER,21
+57267,Untsaka,LOC,1
+57268,Untsaka,ORG,1
+57269,Untsaka,PER,5
+57272,Uponor,LOC,1
+57273,Uponor,ORG,1
+57304,Urkesh,LOC,2
+57305,Urkesh,PER,3
+57471,Uruguai,LOC,8
+57472,Uruguai,ORG,7
+57473,Uruguai,PER,3
+57522,Usai,LOC,1
+57523,Usai,ORG,1
+57524,Usai,PER,1
+57535,Uspensk,LOC,1
+57536,Uspensk,PER,1
+57545,Ustritsk,LOC,1
+57546,Ustritsk,PER,3
+57551,Utah,LOC,18
+57552,Utah,ORG,6
+57585,Uus,ORG,4
+57586,Uus,PER,5
+57598,Uus-Kalamaja,LOC,1
+57599,Uus-Kalamaja,ORG,2
+57601,Uus-Meremaa,LOC,65
+57602,Uus-Meremaa,ORG,1
+57637,V. I. Lenin,LOC,1
+57638,V. I. Lenin,PER,2
+57728,Vabadus,LOC,13
+57729,Vabadus,ORG,62
+57730,Vabadus,PER,1
+57740,Vabaõhumuuseum,LOC,1
+57741,Vabaõhumuuseum,ORG,3
+57742,Vabaõhumuuseum,PER,4
+57758,Vadim,ORG,1
+57759,Vadim,PER,5
+57785,Vagap Tutakov,ORG,1
+57786,Vagap Tutakov,PER,2
+57810,Vahka,LOC,1
+57811,Vahka,PER,1
+57816,Vahter,ORG,1
+57817,Vahter,PER,4
+57881,Vaiko,LOC,2
+57882,Vaiko,PER,4
+57883,Vaiko Vooremaa,ORG,1
+57884,Vaiko Vooremaa,PER,7
+57923,Valbusa,LOC,1
+57924,Valbusa,PER,2
+57929,Valdek,LOC,8
+57930,Valdek,ORG,1
+57931,Valdek,PER,14
+57988,Valencia,LOC,6
+57989,Valencia,ORG,8
+58010,Valentina,LOC,1
+58011,Valentina,PER,21
+58092,Valga,LOC,129
+58093,Valga,ORG,3
+58094,Valga,PER,3
+58123,Valga-Valka,LOC,1
+58124,Valga-Valka,PER,1
+58158,Valgre,LOC,4
+58159,Valgre,PER,2
+58166,Valika,LOC,41
+58167,Valika,ORG,11
+58168,Valika,PER,13
+58170,Valikale,LOC,2
+58171,Valikale,ORG,1
+58184,Valio,LOC,4
+58185,Valio,ORG,8
+58186,Valio,PER,1
+58193,Valisere,LOC,2
+58194,Valisere,ORG,1
+58197,Valjala,LOC,4
+58198,Valjala,PER,1
+58210,Vall,ORG,1
+58211,Vall,PER,1
+58213,Valladol,LOC,1
+58214,Valladol,ORG,4
+58223,Valli,LOC,2
+58224,Valli,PER,5
+58232,Vallimägi,ORG,1
+58233,Vallimägi,PER,2
+58268,Valokuva,ORG,1
+58269,Valokuva,PER,1
+58273,Valter,LOC,1
+58274,Valter,PER,5
+58295,Valton,ORG,1
+58296,Valton,PER,14
+58298,ValuJet,LOC,1
+58299,ValuJet,PER,1
+58311,Valve-Regina Liivar,ORG,1
+58312,Valve-Regina Liivar,PER,1
+58327,Van,ORG,1
+58328,Van,PER,1
+58351,Vana-Kaie,LOC,1
+58352,Vana-Kaie,PER,1
+58354,Vana-Kalamaja 17A,LOC,1
+58355,Vana-Kalamaja 17A,ORG,1
+58379,Vana-Viru,LOC,12
+58380,Vana-Viru,ORG,6
+58390,Vanalinnastuudio,LOC,1
+58391,Vanalinnastuudio,ORG,1
+58403,Vancouver,LOC,8
+58404,Vancouver,ORG,48
+58418,Vanemuine,LOC,6
+58419,Vanemuine,ORG,61
+58420,Vanemuine,PER,6
+58451,Vantaale,ORG,1
+58452,Vantaale,PER,1
+58461,Varadero,LOC,2
+58462,Varadero,ORG,1
+58468,Varblane,ORG,1
+58469,Varblane,PER,8
+58477,Vare,ORG,1
+58478,Vare,PER,19
+58479,Varek,LOC,1
+58480,Varek,PER,15
+58483,Vares,LOC,2
+58484,Vares,PER,7
+58540,Vasks,LOC,1
+58541,Vasks,ORG,1
+58542,Vasks,PER,1
+58555,Vassili Ivantshuk,ORG,1
+58556,Vassili Ivantshuk,PER,20
+58568,Vassili Smõslov,ORG,1
+58569,Vassili Smõslov,PER,5
+58604,Vatson & Vatson,ORG,5
+58605,Vatson & Vatson,PER,1
+58616,Vazgen Manukjani,ORG,1
+58617,Vazgen Manukjani,PER,1
+58619,Vectra,LOC,2
+58620,Vectra,PER,32
+58622,Vedeno,LOC,7
+58623,Vedeno,ORG,4
+58624,Vedeno,PER,4
+58634,Veenus,LOC,2
+58635,Veenus,PER,2
+58659,Vegelar,ORG,1
+58660,Vegelar,PER,1
+58667,Veikkaaja,ORG,1
+58668,Veikkaaja,PER,1
+58711,Veksa,ORG,1
+58712,Veksa,PER,1
+58870,Vender,LOC,1
+58871,Vender,ORG,2
+58874,Vene,LOC,1615
+58875,Vene,PER,1
+58878,Vene Erakond,LOC,2
+58879,Vene Erakond,ORG,11
+59043,Venetsueela,LOC,34
+59044,Venetsueela,ORG,1
+59060,Venuste,LOC,2
+59061,Venuste,PER,1
+59082,Verg,LOC,2
+59083,Verg,ORG,3
+59111,Verona,LOC,2
+59112,Verona,ORG,4
+59113,Verona,PER,1
+59115,Veronika Banhard,ORG,3
+59116,Veronika Banhard,PER,5
+59134,Veselin Topalovile,ORG,1
+59135,Veselin Topalovile,PER,1
+59154,Vessel,LOC,1
+59155,Vessel,PER,1
+59169,Vetevool,ORG,4
+59170,Vetevool,PER,14
+59182,VfB Stuttgart,LOC,1
+59183,VfB Stuttgart,ORG,4
+59184,VfB Stuttgart,PER,1
+59186,Via Baltica,ORG,10
+59187,Via Baltica,PER,37
+59194,Via Pont,ORG,3
+59195,Via Pont,PER,1
+59203,Vicenza,LOC,2
+59204,Vicenza,ORG,4
+59205,Vicenza,PER,2
+59220,Victoria,LOC,3
+59221,Victoria,PER,10
+59222,Victoria Parma,LOC,3
+59223,Victoria Parma,PER,13
+59225,Victoria parmas,ORG,1
+59226,Victoria parmas,PER,125
+59250,Vigala Sass,ORG,5
+59251,Vigala Sass,PER,1
+59256,Viggen,LOC,1
+59257,Viggen,PER,1
+59262,Vigor Club,ORG,2
+59263,Vigor Club,PER,4
+59268,Vihalemm,LOC,1
+59269,Vihalemm,PER,2
+59287,Viidumäe,LOC,7
+59288,Viidumäe,PER,7
+59307,Viilma,LOC,1
+59308,Viilma,PER,4
+59311,Viilup,LOC,2
+59312,Viilup,PER,6
+59318,Viimsi,LOC,120
+59319,Viimsi,ORG,3
+59320,Viimsi,PER,14
+59340,Viina,LOC,2
+59341,Viina,PER,1
+59345,Viira,LOC,3
+59346,Viira,PER,7
+59349,Viiralt,LOC,1
+59350,Viiralt,PER,1
+59355,Viire Valdma,ORG,2
+59356,Viire Valdma,PER,1
+59396,Vikerkaar,LOC,1
+59397,Vikerkaar,ORG,6
+59398,Vikerkaar,PER,1
+59402,Vikero,LOC,1
+59403,Vikero,PER,2
+59407,Viking Coffee,ORG,1
+59408,Viking Coffee,PER,1
+59411,Viking Lotto,ORG,1
+59412,Viking Lotto,PER,3
+59545,Viljandi,LOC,384
+59546,Viljandi,ORG,43
+59547,Viljandi,PER,16
+59557,Viljandi HC,LOC,1
+59558,Viljandi HC,ORG,5
+59577,Viljandi Ugala,ORG,3
+59578,Viljandi Ugala,PER,1
+59579,Viljandi Viljasalv,ORG,5
+59580,Viljandi Viljasalv,PER,1
+59658,Villard,LOC,1
+59659,Villard,PER,1
+59720,Vilma,LOC,3
+59721,Vilma,ORG,1
+59722,Vilma,PER,3
+59729,Vilms,LOC,2
+59730,Vilms,ORG,1
+59731,Vilms,PER,11
+59736,Vilniaus Bankas,ORG,1
+59737,Vilniaus Bankas,PER,4
+59738,Vilniaus Pergale,ORG,2
+59739,Vilniaus Pergale,PER,1
+59743,Vilnius Panga,LOC,2
+59744,Vilnius Panga,ORG,11
+59755,Vilosius,LOC,2
+59756,Vilosius,PER,85
+59758,Vilsandi,LOC,16
+59759,Vilsandi,PER,1
+59760,Vilsandi rahvuspark,LOC,4
+59761,Vilsandi rahvuspark,ORG,3
+59764,Vilu,LOC,1
+59765,Vilu,ORG,2
+59766,Vilu,PER,23
+59768,Vilu-Kraaving,LOC,1
+59769,Vilu-Kraaving,PER,1
+59804,Vinnitsa Niva,ORG,1
+59805,Vinnitsa Niva,PER,1
+59816,Vip,ORG,2
+59817,Vip,PER,2
+59820,Vipper,ORG,1
+59821,Vipper,PER,1
+59828,Virge,LOC,2
+59829,Virge,PER,10
+59837,Virge Schmidt,ORG,1
+59838,Virge Schmidt,PER,1
+59846,Virgin Classics,ORG,3
+59847,Virgin Classics,PER,1
+59849,Virginia Madsen,ORG,1
+59850,Virginia Madsen,PER,1
+59859,Virko,LOC,1
+59860,Virko,PER,6
+59871,Virtsu,LOC,23
+59872,Virtsu,ORG,1
+59879,Viru,LOC,193
+59880,Viru,ORG,12
+59881,Viru,PER,5
+59910,Viru-Nigula,LOC,7
+59911,Viru-Nigula,ORG,1
+59915,Virumaa,LOC,203
+59916,Virumaa,ORG,2
+59917,Virumaa,PER,2
+59945,Virumaa vald,LOC,5
+59946,Virumaa vald,ORG,2
+59954,Visa,LOC,1
+59955,Visa,ORG,5
+59956,Visa,PER,10
+59957,Visa Classic,ORG,2
+59958,Visa Classic,PER,4
+59959,Visa Electron,ORG,2
+59960,Visa Electron,PER,5
+59963,Visa International,ORG,2
+59964,Visa International,PER,1
+59981,Visnapuu,LOC,2
+59982,Visnapuu,PER,15
+60031,Viva La Revolucion,ORG,2
+60032,Viva La Revolucion,PER,1
+60033,Vivacolor,LOC,2
+60034,Vivacolor,PER,1
+60217,Vladimir Zhirinovski,ORG,2
+60218,Vladimir Zhirinovski,PER,59
+60231,Vlaovic,ORG,2
+60232,Vlaovic,PER,7
+60241,Vogosca,LOC,2
+60242,Vogosca,PER,1
+60257,Vojvodina,LOC,2
+60258,Vojvodina,ORG,1
+60261,Vokk,LOC,4
+60262,Vokk,PER,7
+60296,Volga,LOC,7
+60297,Volga,PER,1
+60317,Volkswagen,LOC,1
+60318,Volkswagen,ORG,2
+60319,Volkswagen,PER,5
+60320,Volkswagen AG,ORG,1
+60321,Volkswagen AG,PER,1
+60322,Volkswagen Golf,ORG,1
+60323,Volkswagen Golf,PER,1
+60326,Volkswagen Transporter,ORG,1
+60327,Volkswagen Transporter,PER,1
+60333,Volli Kalam,ORG,3
+60334,Volli Kalam,PER,3
+60341,Volshina,LOC,2
+60342,Volshina,ORG,1
+60343,Volshina,PER,3
+60344,Volsk,ORG,1
+60345,Volsk,PER,1
+60348,Volt,ORG,1
+60349,Volt,PER,2
+60350,Volta,LOC,2
+60351,Volta,ORG,1
+60352,Volta,PER,1
+60357,Volts,ORG,1
+60358,Volts,PER,1
+60359,Volvo,LOC,3
+60360,Volvo,ORG,8
+60361,Volvo,PER,1
+60378,Vooglaid,LOC,1
+60379,Vooglaid,PER,5
+60384,Vooremaa,LOC,2
+60385,Vooremaa,ORG,2
+60386,Vooremaa,PER,16
+60397,Vormsi,LOC,36
+60398,Vormsi,ORG,1
+60399,Vormsi,PER,12
+60406,Voronezh,LOC,5
+60407,Voronezh,ORG,1
+60408,Voronezh,PER,1
+60434,Vuokatt,LOC,5
+60435,Vuokatt,ORG,1
+60449,Vähi,LOC,2
+60450,Vähi,PER,144
+60465,Väike-Maarja,LOC,33
+60466,Väike-Maarja,ORG,1
+60484,Väike-Pääsuke,LOC,1
+60485,Väike-Pääsuke,ORG,1
+60497,Väino,ORG,1
+60498,Väino,PER,7
+60507,Väino Linde,ORG,2
+60508,Väino Linde,PER,28
+60514,Väino Neido,ORG,1
+60515,Väino Neido,PER,2
+60519,Väino Puura,ORG,1
+60520,Väino Puura,PER,4
+60544,Väinö linn,LOC,2
+60545,Väinö linn,ORG,2
+60549,Väl,LOC,2
+60550,Väl,PER,3
+60551,Välbe,ORG,1
+60552,Välbe,PER,11
+60580,Värska,LOC,7
+60581,Värska,ORG,2
+60605,Võhma,LOC,5
+60606,Võhma,ORG,1
+60607,Võhma,PER,7
+60610,Võhma Lihakombinaat,ORG,1
+60611,Võhma Lihakombinaat,PER,2
+60627,Võrno,LOC,1
+60628,Võrno,PER,9
+60629,Võrtsjärv,LOC,77
+60630,Võrtsjärv,ORG,1
+60690,Võssotsk,LOC,2
+60691,Võssotsk,ORG,1
+60693,Võsu,LOC,30
+60694,Võsu,PER,13
+60716,WC,LOC,1
+60717,WC,ORG,9
+60723,WIMP,LOC,1
+60724,WIMP,ORG,3
+60742,Wagner,LOC,3
+60743,Wagner,ORG,1
+60744,Wagner,PER,3
+60757,Waldner,ORG,1
+60758,Waldner,PER,13
+60762,Wales,LOC,8
+60763,Wales,ORG,15
+60764,Wales,PER,1
+60777,Wall Street,ORG,3
+60778,Wall Street,PER,1
+60791,Walt Disney,ORG,6
+60792,Walt Disney,PER,1
+60796,Waltar,LOC,4
+60797,Waltar,ORG,2
+60799,Waltarile,ORG,1
+60800,Waltarile,PER,1
+60833,Warriors,LOC,1
+60834,Warriors,PER,1
+60837,Wasa Queen,ORG,2
+60838,Wasa Queen,PER,2
+60839,Washington,LOC,166
+60840,Washington,ORG,55
+60841,Washington,PER,49
+60845,Washington Capitals,ORG,1
+60846,Washington Capitals,PER,1
+60867,Watanabe,ORG,1
+60868,Watanabe,PER,1
+60897,Weber,ORG,1
+60898,Weber,PER,8
+60901,Weekend Guitar Trio,ORG,1
+60902,Weekend Guitar Trio,PER,1
+60914,Weinheim,LOC,4
+60915,Weinheim,PER,1
+60919,Weissmüller,LOC,3
+60920,Weissmüller,PER,5
+60921,Weizenberg,LOC,1
+60922,Weizenberg,PER,1
+60932,Wembley,LOC,1
+60933,Wembley,PER,1
+60944,Wenjiing Bi,ORG,1
+60945,Wenjiing Bi,PER,1
+60947,Werder,ORG,1
+60948,Werder,PER,1
+60951,Werfel,LOC,1
+60952,Werfel,PER,3
+60969,Wesenbergh,ORG,8
+60970,Wesenbergh,PER,1
+60975,West,ORG,1
+60976,West,PER,5
+60979,West Pointis,ORG,5
+60980,West Pointis,PER,3
+60994,Westinile,LOC,1
+60995,Westinile,ORG,1
+60996,Westman,LOC,1
+60997,Westman,ORG,1
+61009,Which,ORG,11
+61010,Which,PER,2
+61019,Whitehall,LOC,1
+61020,Whitehall,PER,1
+61037,Widzew Lodz,ORG,2
+61038,Widzew Lodz,PER,1
+61049,Wijk,LOC,2
+61050,Wijk,ORG,1
+61051,Wijk,PER,6
+61052,Wiklar,ORG,9
+61053,Wiklar,PER,3
+61073,Wilkins,ORG,1
+61074,Wilkins,PER,8
+61111,Williams,ORG,3
+61112,Williams,PER,13
+61137,Wimbledon,LOC,8
+61138,Wimbledon,ORG,7
+61142,Windows,ORG,2
+61143,Windows,PER,2
+61145,Windsor,LOC,1
+61146,Windsor,ORG,5
+61154,Winnipeg,LOC,10
+61155,Winnipeg,ORG,9
+61166,Winum E,ORG,3
+61167,Winum E,PER,1
+61170,Wiru,LOC,2
+61171,Wiru,ORG,3
+61172,Wiru,PER,1
+61202,Wolf,ORG,1
+61203,Wolf,PER,2
+61215,Wolfsburg,LOC,2
+61216,Wolfsburg,PER,1
+61219,Wolny,LOC,1
+61220,Wolny,PER,1
+61234,Wooter,ORG,1
+61235,Wooter,PER,1
+61241,World Cupil,ORG,2
+61242,World Cupil,PER,2
+61247,Worldloppet,LOC,2
+61248,Worldloppet,PER,2
+61257,Woyzeck,LOC,2
+61258,Woyzeck,ORG,1
+61259,Woyzeck,PER,15
+61283,Wynot,ORG,1
+61284,Wynot,PER,8
+61308,Xedos,LOC,1
+61309,Xedos,ORG,2
+61310,Xedos,PER,2
+61314,Xia Lin Ni,ORG,2
+61315,Xia Lin Ni,PER,1
+61318,Xiaoshuang Li,ORG,1
+61319,Xiaoshuang Li,PER,3
+61323,Xinhua,ORG,10
+61324,Xinhua,PER,1
+61331,Xviii,ORG,2
+61332,Xviii,PER,1
+61338,Y. Klein,LOC,1
+61339,Y. Klein,PER,1
+61347,Yahaya,ORG,1
+61348,Yahaya,PER,1
+61354,Yalouz,LOC,1
+61355,Yalouz,ORG,1
+61356,Yalouz,PER,2
+61357,Yamaha,LOC,2
+61358,Yamaha,ORG,2
+61359,Yamaha,PER,2
+61396,Yedioth Ahronoth,ORG,5
+61397,Yedioth Ahronoth,PER,1
+61441,York,LOC,8
+61442,York,PER,5
+61444,Yorkshire Water,ORG,2
+61445,Yorkshire Water,PER,1
+61465,Yu Yin-shih,ORG,1
+61466,Yu Yin-shih,PER,2
+61493,ZZ top,ORG,3
+61494,ZZ top,PER,1
+61505,Zagreb Cibona,ORG,3
+61506,Zagreb Cibona,PER,1
+61509,Zagreb Zrinjevaci,ORG,1
+61510,Zagreb Zrinjevaci,PER,1
+61517,Zair,LOC,10
+61518,Zair,PER,1
+61521,Zairis,LOC,1
+61522,Zairis,ORG,2
+61524,Zajedno,ORG,1
+61525,Zajedno,PER,7
+61544,Zaporozhets,LOC,1
+61545,Zaporozhets,PER,2
+61550,Zaragoza,LOC,4
+61551,Zaragoza,ORG,1
+61560,Zavo,ORG,1
+61561,Zavo,PER,3
+61581,Zee,ORG,1
+61582,Zee,PER,2
+61584,Zees,ORG,2
+61585,Zees,PER,5
+61593,Zelimhan Jandarbijev,ORG,1
+61594,Zelimhan Jandarbijev,PER,42
+61618,Zhalgiris,LOC,3
+61619,Zhalgiris,ORG,5
+61620,Zhalgiris,PER,14
+61649,Zhiguli,LOC,3
+61650,Zhiguli,PER,2
+61653,Zhirinovski,ORG,1
+61654,Zhirinovski,PER,111
+61677,Zieba,ORG,1
+61678,Zieba,PER,1
+61685,Zilmeri,LOC,1
+61686,Zilmeri,ORG,1
+61707,Zjuganov,LOC,2
+61708,Zjuganov,ORG,1
+61709,Zjuganov,PER,335
+61712,Zjuganovile,ORG,1
+61713,Zjuganovile,PER,7
+61730,Zoltan Gyimesi,ORG,1
+61731,Zoltan Gyimesi,PER,4
+61759,Zrinjevac,ORG,1
+61760,Zrinjevac,PER,3
+61765,Zubak,ORG,1
+61766,Zubak,PER,2
+61793,Zürich järv,LOC,1
+61794,Zürich järv,ORG,1
+61843,aktuaalne kaamera,ORG,3
+61844,aktuaalne kaamera,PER,1
+61869,and,LOC,1
+61870,and,PER,1
+61923,auto Bild,ORG,1
+61924,auto Bild,PER,1
+62015,boston,LOC,6
+62016,boston,ORG,4
+62101,ehho Moskvõ,ORG,6
+62102,ehho Moskvõ,PER,1
+62180,eri Klas,ORG,1
+62181,eri Klas,PER,1
+62208,euroliiga,LOC,7
+62209,euroliiga,ORG,8
+62266,hagi Shein,ORG,1
+62267,hagi Shein,PER,6
+62323,helge tee,ORG,2
+62324,helge tee,PER,1
+62363,hurt,ORG,1
+62364,hurt,PER,2
+62377,ida,LOC,12
+62378,ida,ORG,1
+62379,ida,PER,4
+62395,iga,ORG,17
+62396,iga,PER,9
+62401,iga Reng,ORG,1
+62402,iga Reng,PER,2
+62408,iiris,ORG,1
+62409,iiris,PER,1
+62411,ilmamaa,LOC,1
+62412,ilmamaa,ORG,1
+62444,internet,LOC,1
+62445,internet,ORG,17
+62542,järv,LOC,22
+62543,järv,ORG,1
+62544,järv,PER,9
+62559,jõgi,LOC,6
+62560,jõgi,PER,13
+62575,kaar,ORG,1
+62576,kaar,PER,3
+62621,kaldmaa,ORG,1
+62622,kaldmaa,PER,14
+62623,kalev,ORG,2
+62624,kalev,PER,1
+62670,kasemaa,LOC,1
+62671,kasemaa,PER,4
+62676,kask,LOC,1
+62677,kask,PER,6
+62680,kass,LOC,2
+62681,kass,PER,1
+62682,kastan,ORG,1
+62683,kastan,PER,2
+62703,kena kaaslane,ORG,2
+62704,kena kaaslane,PER,3
+62708,kesk,LOC,3
+62709,kesk,ORG,5
+62729,keskküla,LOC,7
+62730,keskküla,ORG,1
+62732,kesklinn,LOC,32
+62733,kesklinn,ORG,2
+62765,kinge,ORG,1
+62766,kinge,PER,1
+62790,kivimaa,ORG,1
+62791,kivimaa,PER,1
+62792,kivimägi,LOC,10
+62793,kivimägi,PER,1
+62802,kk,ORG,4
+62803,kk,PER,4
+62810,kk Tartu,LOC,10
+62811,kk Tartu,ORG,28
+62893,kool,ORG,1
+62894,kool,PER,2
+62959,kullamaa,LOC,7
+62960,kullamaa,PER,2
+62962,kullamaa vald,LOC,4
+62963,kullamaa vald,ORG,3
+62966,kullassepp,ORG,1
+62967,kullassepp,PER,1
+62970,kullerkupp,ORG,3
+62971,kullerkupp,PER,2
+62986,kultuurimaa,LOC,1
+62987,kultuurimaa,ORG,14
+62988,kultuurimaa,PER,1
+63025,kuresaar,LOC,1
+63026,kuresaar,ORG,1
+63046,kuu,LOC,3
+63047,kuu,PER,1
+63053,kuusmaa,LOC,1
+63054,kuusmaa,PER,9
+63094,kütt,ORG,1
+63095,kütt,PER,11
+63123,laos,LOC,1
+63124,laos,PER,1
+63147,leelo tungal,ORG,1
+63148,leelo tungal,PER,3
+63167,lell SK,LOC,1
+63168,lell SK,ORG,1
+63182,lepp,LOC,2
+63183,lepp,ORG,3
+63184,lepp,PER,5
+63215,lilleküla,LOC,19
+63216,lilleküla,ORG,3
+63233,linn,LOC,4
+63234,linn,ORG,1
+63235,linn,PER,1
+63254,lisa Raymond,ORG,1
+63255,lisa Raymond,PER,1
+63264,lohusalu,LOC,18
+63265,lohusalu,ORG,1
+63266,lohusalu,PER,2
+63302,luhamaa,LOC,8
+63303,luhamaa,PER,29
+63306,luigetiik,LOC,1
+63307,luigetiik,ORG,1
+63331,lääs,LOC,24
+63332,lääs,PER,1
+63344,maa,LOC,1
+63345,maa,ORG,1
+63346,maa,PER,2
+63375,maaja Ranniku,ORG,1
+63376,maaja Ranniku,PER,2
+63378,maaja rannik,ORG,1
+63379,maaja rannik,PER,1
+63395,maarjamägi,LOC,7
+63396,maarjamägi,ORG,1
+63408,magasin,ORG,2
+63409,magasin,PER,1
+63425,maja päkapikumaa,ORG,1
+63426,maja päkapikumaa,PER,1
+63442,major,ORG,1
+63443,major,PER,10
+63457,mari,LOC,1
+63458,mari,ORG,2
+63459,mari,PER,4
+63461,mari Bruzhiks,ORG,1
+63462,mari Bruzhiks,PER,2
+63479,mari ird,ORG,1
+63480,mari ird,PER,1
+63487,mari sööt,ORG,9
+63488,mari sööt,PER,1
+63492,mart Lasn,ORG,1
+63493,mart Lasn,PER,1
+63518,meri,LOC,1
+63519,meri,PER,4
+63559,minski Dinamo,ORG,1
+63560,minski Dinamo,PER,1
+63607,mustamägi,LOC,71
+63608,mustamägi,ORG,1
+63617,muumimaa,LOC,1
+63618,muumimaa,ORG,1
+63631,männamaa,LOC,3
+63632,männamaa,PER,1
+63633,männik,LOC,1
+63634,männik,PER,1
+63648,müürsepp,ORG,1
+63649,müürsepp,PER,78
+63664,nelson,ORG,1
+63665,nelson,PER,2
+63679,nool,ORG,1
+63680,nool,PER,3
+63714,nõukogu,LOC,97
+63715,nõukogu,ORG,2
+63718,nõukogu liit,LOC,77
+63719,nõukogu liit,ORG,1
+63755,olümpia,LOC,1
+63756,olümpia,ORG,1
+63762,oma saar,ORG,6
+63763,oma saar,PER,1
+63773,onu Vanja,ORG,1
+63774,onu Vanja,PER,1
+63777,ookean,ORG,13
+63778,ookean,PER,6
+63782,orav,LOC,1
+63783,orav,PER,2
+63784,org,LOC,14
+63785,org,ORG,3
+63803,paas,LOC,3
+63804,paas,PER,4
+63833,palusalu,LOC,4
+63834,palusalu,ORG,3
+63835,palusalu,PER,53
+63848,parin SIM,ORG,3
+63849,parin SIM,PER,2
+63854,parmas,LOC,3
+63855,parmas,ORG,3
+63856,parmas,PER,7
+63866,pedagoogikaülikool,ORG,4
+63867,pedagoogikaülikool,PER,5
+63897,pikker,LOC,1
+63898,pikker,ORG,1
+63909,pink Floy,ORG,1
+63910,pink Floy,PER,1
+63935,pr,LOC,3
+63936,pr,ORG,15
+63951,prantsuse lütseum,ORG,11
+63952,prantsuse lütseum,PER,1
+64001,pärn,LOC,3
+64002,pärn,PER,3
+64003,pärnakas,ORG,1
+64004,pärnakas,PER,1
+64027,põhjarannik,LOC,2
+64028,põhjarannik,ORG,13
+64036,põldmaa,LOC,1
+64037,põldmaa,PER,1
+64063,pühajärv,LOC,3
+64064,pühajärv,ORG,1
+64078,raadio,ORG,22
+64079,raadio,PER,1
+64245,rand,ORG,1
+64246,rand,PER,2
+64262,reaalkool,ORG,4
+64263,reaalkool,PER,1
+64328,riik,LOC,1
+64329,riik,ORG,1
+64411,roheline,LOC,1
+64412,roheline,ORG,15
+64434,rohuküla,LOC,12
+64435,rohuküla,ORG,3
+64438,rohuneem,LOC,3
+64439,rohuneem,ORG,1
+64441,rohuneem poolsaar,LOC,1
+64442,rohuneem poolsaar,ORG,2
+64456,roosileht,ORG,1
+64457,roosileht,PER,3
+64460,roosmaa,LOC,3
+64461,roosmaa,PER,1
+64466,rumm,LOC,3
+64467,rumm,ORG,1
+64484,saar,LOC,7
+64485,saar,PER,7
+64510,saks,LOC,2
+64511,saks,PER,2
+64530,salumets,LOC,1
+64531,salumets,PER,89
+64535,salumägi,LOC,3
+64536,salumägi,PER,9
+64556,saud,LOC,1
+64557,saud,ORG,1
+64578,sepp,LOC,2
+64579,sepp,PER,11
+64586,shotimaa,LOC,14
+64587,shotimaa,ORG,6
+64592,siga,ORG,1
+64593,siga,PER,16
+64601,sillamaa,LOC,3
+64602,sillamaa,ORG,2
+64603,sillamaa,PER,5
+64633,soe,ORG,1
+64634,soe,PER,3
+64635,sokk,ORG,1
+64636,sokk,PER,25
+64663,soul,LOC,9
+64664,soul,PER,1
+64674,st,ORG,1
+64675,st,PER,1
+64695,sula,ORG,1
+64696,sula,PER,1
+64728,suursaar,LOC,1
+64729,suursaar,PER,4
+64760,tael,ORG,1
+64761,tael,PER,1
+64786,tali,LOC,1
+64787,tali,ORG,1
+64788,tali,PER,2
+64817,tass,ORG,3
+64818,tass,PER,1
+64828,teadma,ORG,4
+64829,teadma,PER,3
+64875,tender,ORG,1
+64876,tender,PER,2
+64890,tiidus,ORG,2
+64891,tiidus,PER,2
+64898,tint,LOC,1
+64899,tint,PER,1
+64903,tipp-TV,LOC,1
+64904,tipp-TV,ORG,6
+64921,tooma jupats,ORG,1
+64922,tooma jupats,PER,1
+64931,top,ORG,1
+64932,top,PER,1
+64964,tshetsheen,LOC,16
+64965,tshetsheen,ORG,15
+64974,tshetsheen vabariik,LOC,17
+64975,tshetsheen vabariik,PER,1
+65021,ubakivi,ORG,1
+65022,ubakivi,PER,5
+65054,uusküla,LOC,3
+65055,uusküla,PER,2
+65078,vabaõhumuuseum,LOC,1
+65079,vabaõhumuuseum,ORG,5
+65124,valitsus,LOC,1
+65125,valitsus,ORG,2
+65180,vari Ojamets,ORG,1
+65181,vari Ojamets,PER,3
+65184,varik,LOC,1
+65185,varik,PER,2
+65187,vasakliit,ORG,6
+65188,vasakliit,PER,3
+65237,vesi,LOC,1
+65238,vesi,ORG,1
+65250,viig,ORG,1
+65251,viig,PER,1
+65266,vili Kuzmin,ORG,2
+65267,vili Kuzmin,PER,11
+65270,vilimaa,LOC,6
+65271,vilimaa,PER,2
+65281,virge naeris,ORG,4
+65282,virge naeris,PER,7
+65395,üRO,ORG,183
+65396,üRO,PER,2

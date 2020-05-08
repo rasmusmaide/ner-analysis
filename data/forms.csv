@@ -1,0 +1,3533 @@
+,tag,form,0
+470,ORG,"['', '', '', 'sg in']",1
+2824,PER,"['', '', '?']",1
+471,ORG,"['', '', '?']",1
+472,ORG,"['', '', 'pl g', 'sg g']",1
+2825,PER,"['', '', 'sg g']",2
+473,ORG,"['', '', 'sg g']",3
+2826,PER,"['', '', 'sg n', '', '']",1
+474,ORG,"['', '', 'sg n']",1
+2827,PER,"['', '']",7
+475,ORG,"['', '']",139
+0,LOC,"['', '']",2
+2828,PER,"['', '?', '', '?']",2
+2829,PER,"['', '?', '', 'sg n']",1
+476,ORG,"['', '?', '']",1
+477,ORG,"['', '?', '?', 'sg n']",1
+478,ORG,"['', '?', 'sg g']",1
+479,ORG,"['', '?', 'sg in']",1
+480,ORG,"['', '?', 'sg n']",1
+481,ORG,"['', '?']",11
+1,LOC,"['', '?']",2
+2830,PER,"['', '?']",15
+482,ORG,"['', 'adt', 'adt']",1
+2831,PER,"['', 'adt']",1
+483,ORG,"['', 'adt']",6
+484,ORG,"['', 'b', 'sg ill']",1
+2832,PER,"['', 'o']",1
+2,LOC,"['', 'pl el']",5
+485,ORG,"['', 'pl g', 'adt', 'adt']",1
+486,ORG,"['', 'pl g', 'adt']",1
+487,ORG,"['', 'pl g', 'pl g', 'sg g']",3
+488,ORG,"['', 'pl g', 'pl g', 'sg in']",1
+489,ORG,"['', 'pl g', 'sg abl']",1
+490,ORG,"['', 'pl g', 'sg all']",2
+491,ORG,"['', 'pl g', 'sg el']",1
+492,ORG,"['', 'pl g', 'sg g', 'sg g']",3
+493,ORG,"['', 'pl g', 'sg g']",18
+494,ORG,"['', 'pl g', 'sg n']",9
+495,ORG,"['', 'pl g']",10
+3,LOC,"['', 'pl g']",112
+2833,PER,"['', 'pl g']",2
+4,LOC,"['', 'pl ill']",1
+2834,PER,"['', 'pl in']",2
+5,LOC,"['', 'pl in']",13
+496,ORG,"['', 'pl in']",1
+497,ORG,"['', 'pl kom']",1
+6,LOC,"['', 'pl kom']",3
+2835,PER,"['', 'pl n', '', '']",1
+498,ORG,"['', 'pl n', 'sg g']",2
+499,ORG,"['', 'pl n', 'sg n', '', '?']",1
+500,ORG,"['', 'pl n', 'sg n', '', 'sg n', '']",1
+501,ORG,"['', 'pl n', 'sg n', '']",2
+502,ORG,"['', 'pl n', 'sg n']",1
+503,ORG,"['', 'pl n']",5
+2836,PER,"['', 'pl n']",8
+7,LOC,"['', 'pl n']",2
+8,LOC,"['', 'pl p']",5
+9,LOC,"['', 'pl ter']",1
+10,LOC,"['', 'pl tr']",2
+504,ORG,"['', 'sg ab']",1
+505,ORG,"['', 'sg abl']",2
+2837,PER,"['', 'sg abl']",1
+2838,PER,"['', 'sg ad']",2
+11,LOC,"['', 'sg ad']",5
+506,ORG,"['', 'sg ad']",5
+507,ORG,"['', 'sg all', '']",4
+508,ORG,"['', 'sg all', 'sg g', 'sg n', '?', 'sg g']",1
+509,ORG,"['', 'sg all', 'sg g']",1
+12,LOC,"['', 'sg all']",4
+510,ORG,"['', 'sg all']",6
+511,ORG,"['', 'sg el', '']",1
+13,LOC,"['', 'sg el', 'sg g', 'sg ter']",1
+512,ORG,"['', 'sg el']",13
+14,LOC,"['', 'sg el']",6
+2839,PER,"['', 'sg el']",2
+2840,PER,"['', 'sg es']",1
+513,ORG,"['', 'sg g', '', '', 'sg g']",1
+514,ORG,"['', 'sg g', '', '']",1
+515,ORG,"['', 'sg g', '', 'sg g', 'sg all']",1
+2841,PER,"['', 'sg g', '', 'sg g']",1
+516,ORG,"['', 'sg g', '', 'sg g']",1
+517,ORG,"['', 'sg g', '']",9
+518,ORG,"['', 'sg g', '?', '', 'sg n']",2
+519,ORG,"['', 'sg g', '?', '']",2
+520,ORG,"['', 'sg g', '?']",16
+521,ORG,"['', 'sg g', 'adt']",4
+522,ORG,"['', 'sg g', 'pl g', 'pl g', 'sg n']",1
+523,ORG,"['', 'sg g', 'pl g', 'sg g']",1
+524,ORG,"['', 'sg g', 'pl g', 'sg n', '']",1
+525,ORG,"['', 'sg g', 'pl g', 'sg n']",2
+526,ORG,"['', 'sg g', 'pl g']",2
+527,ORG,"['', 'sg g', 'pl in']",1
+528,ORG,"['', 'sg g', 'pl n', '']",1
+529,ORG,"['', 'sg g', 'pl n']",3
+530,ORG,"['', 'sg g', 'sg ad']",1
+531,ORG,"['', 'sg g', 'sg all']",1
+532,ORG,"['', 'sg g', 'sg g', '']",3
+533,ORG,"['', 'sg g', 'sg g', 'sg g']",5
+534,ORG,"['', 'sg g', 'sg g', 'sg n', 'sg g']",1
+535,ORG,"['', 'sg g', 'sg g', 'sg n']",3
+536,ORG,"['', 'sg g', 'sg g']",71
+537,ORG,"['', 'sg g', 'sg in', '']",2
+538,ORG,"['', 'sg g', 'sg in', 'sg in']",1
+539,ORG,"['', 'sg g', 'sg in']",11
+540,ORG,"['', 'sg g', 'sg kom', '']",1
+541,ORG,"['', 'sg g', 'sg kom']",2
+542,ORG,"['', 'sg g', 'sg n', '', 'sg n', '']",1
+543,ORG,"['', 'sg g', 'sg n', '']",17
+544,ORG,"['', 'sg g', 'sg n', '?', 'sg n', '']",1
+2842,PER,"['', 'sg g', 'sg n']",1
+545,ORG,"['', 'sg g', 'sg n']",39
+546,ORG,"['', 'sg g', 'sg p']",2
+547,ORG,"['', 'sg g']",416
+2843,PER,"['', 'sg g']",66
+15,LOC,"['', 'sg g']",124
+548,ORG,"['', 'sg ill']",1
+549,ORG,"['', 'sg in', '']",4
+550,ORG,"['', 'sg in']",33
+16,LOC,"['', 'sg in']",24
+17,LOC,"['', 'sg kom']",6
+2844,PER,"['', 'sg kom']",5
+551,ORG,"['', 'sg kom']",10
+2845,PER,"['', 'sg n', '', '', '', 'sg n', '', '', '', '?']",1
+552,ORG,"['', 'sg n', '', '', '', 'sg n']",1
+553,ORG,"['', 'sg n', '', '']",1
+554,ORG,"['', 'sg n', '', '?', '']",1
+555,ORG,"['', 'sg n', '', '?', 'sg n']",2
+556,ORG,"['', 'sg n', '', 'sg in', '']",1
+2846,PER,"['', 'sg n', '', 'sg n', '?']",1
+557,ORG,"['', 'sg n', '', 'sg n']",3
+558,ORG,"['', 'sg n', '']",15
+559,ORG,"['', 'sg n', '?', 'pl n', '']",1
+560,ORG,"['', 'sg n', '?', 'sg g', '']",1
+561,ORG,"['', 'sg n', '?', 'sg n', '']",1
+562,ORG,"['', 'sg n', '?', 'sg n', '?', 'sg n', 'sg n', '']",1
+563,ORG,"['', 'sg n', '?', 'sg n']",2
+564,ORG,"['', 'sg n', '?']",1
+565,ORG,"['', 'sg n', 'pl g', 'sg g']",1
+566,ORG,"['', 'sg n', 'pl kom']",1
+567,ORG,"['', 'sg n', 'sg ad']",1
+568,ORG,"['', 'sg n', 'sg all']",1
+569,ORG,"['', 'sg n', 'sg g', '']",5
+570,ORG,"['', 'sg n', 'sg g', '?']",1
+571,ORG,"['', 'sg n', 'sg g', 'sg in']",2
+572,ORG,"['', 'sg n', 'sg g']",15
+2847,PER,"['', 'sg n', 'sg g']",2
+573,ORG,"['', 'sg n', 'sg in', '']",1
+574,ORG,"['', 'sg n', 'sg kom', '?']",1
+575,ORG,"['', 'sg n', 'sg kom']",1
+576,ORG,"['', 'sg n', 'sg n', '', '?', '', 'sg n']",1
+577,ORG,"['', 'sg n', 'sg n', '']",5
+578,ORG,"['', 'sg n', 'sg n', '?', 'sg n', '', '', 'sg g', 'sg g']",1
+579,ORG,"['', 'sg n', 'sg n', 'sg n', 'sg n']",1
+580,ORG,"['', 'sg n', 'sg n', 'sg n']",2
+581,ORG,"['', 'sg n', 'sg n']",33
+2848,PER,"['', 'sg n', 'sg n']",2
+18,LOC,"['', 'sg n']",9
+582,ORG,"['', 'sg n']",199
+2849,PER,"['', 'sg n']",196
+583,ORG,"['', 'sg p', 'pl n']",1
+2850,PER,"['', 'sg p']",1
+584,ORG,"['', 'sg p']",6
+19,LOC,"['', 'sg p']",15
+20,LOC,"['', 'sg ter']",1
+585,ORG,"['', 'sg tr']",1
+2851,PER,"['', 'sg tr']",1
+586,ORG,"['', 'sid']",1
+587,ORG,[''],330
+2852,PER,[''],132
+21,LOC,[''],2915
+588,ORG,"['?', '', '', '', '?', '']",1
+589,ORG,"['?', '', '', '?']",2
+590,ORG,"['?', '', '']",4
+591,ORG,"['?', '', '?', '', '?', '', '?', '', '?', '', '?']",1
+592,ORG,"['?', '', '?', '', '?', '', '?', '', '?']",1
+593,ORG,"['?', '', '?', '', '?', '', '?']",2
+594,ORG,"['?', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",3
+595,ORG,"['?', '', '?', '', '?', '']",1
+596,ORG,"['?', '', '?', '', '?', 'sg n']",2
+597,ORG,"['?', '', '?', '', '?']",15
+598,ORG,"['?', '', '?', '', 'sg g']",1
+599,ORG,"['?', '', '?', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",1
+600,ORG,"['?', '', '?', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",2
+601,ORG,"['?', '', '?', '', 'sg n', '', 'sg n', 'sg n', 'sg n', '', '?']",1
+602,ORG,"['?', '', '?', '', 'sg n', '', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+603,ORG,"['?', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",2
+604,ORG,"['?', '', '?', '', 'sg n', 'sg n', 'sg n', '', 'sg n', 'sg n', '', '?']",1
+605,ORG,"['?', '', '?', '', 'sg n', 'sg n', 'sg n']",12
+606,ORG,"['?', '', '?', '', 'sg n', 'sg n']",6
+607,ORG,"['?', '', '?', '', 'sg n']",14
+608,ORG,"['?', '', '?', '']",6
+22,LOC,"['?', '', '?', '?']",1
+609,ORG,"['?', '', '?', '?']",2
+610,ORG,"['?', '', '?', 'pl p']",1
+611,ORG,"['?', '', '?', 'sg abl']",2
+612,ORG,"['?', '', '?', 'sg g', '?', '']",1
+613,ORG,"['?', '', '?', 'sg g']",4
+614,ORG,"['?', '', '?', 'sg n', '', 'sg g']",1
+615,ORG,"['?', '', '?', 'sg n', '?', 'sg n']",1
+616,ORG,"['?', '', '?', 'sg n', 'sg n']",1
+617,ORG,"['?', '', '?', 'sg n']",15
+618,ORG,"['?', '', '?']",319
+2853,PER,"['?', '', '?']",3
+23,LOC,"['?', '', '?']",3
+619,ORG,"['?', '', 'adt']",1
+620,ORG,"['?', '', 'pl g', 'pl g', 'pl g', 'sg g', '?']",1
+621,ORG,"['?', '', 'pl g']",2
+622,ORG,"['?', '', 'pl n', 'sg n']",1
+623,ORG,"['?', '', 'pl n', 'sg tr']",1
+624,ORG,"['?', '', 'pl p', 'sg n']",1
+625,ORG,"['?', '', 'pl p']",3
+626,ORG,"['?', '', 'sg ad']",3
+2854,PER,"['?', '', 'sg all']",1
+627,ORG,"['?', '', 'sg all']",3
+24,LOC,"['?', '', 'sg all']",1
+25,LOC,"['?', '', 'sg el']",3
+628,ORG,"['?', '', 'sg el']",1
+2855,PER,"['?', '', 'sg el']",1
+629,ORG,"['?', '', 'sg g', '', 'sg es']",1
+26,LOC,"['?', '', 'sg g', 'pl p']",1
+630,ORG,"['?', '', 'sg g', 'sg g', '?']",1
+631,ORG,"['?', '', 'sg g', 'sg in']",1
+632,ORG,"['?', '', 'sg g', 'sg n']",1
+633,ORG,"['?', '', 'sg g']",26
+2856,PER,"['?', '', 'sg g']",5
+27,LOC,"['?', '', 'sg g']",73
+28,LOC,"['?', '', 'sg ill']",6
+29,LOC,"['?', '', 'sg in']",25
+634,ORG,"['?', '', 'sg in']",1
+2857,PER,"['?', '', 'sg kom']",2
+635,ORG,"['?', '', 'sg kom']",3
+636,ORG,"['?', '', 'sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",2
+637,ORG,"['?', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",9
+638,ORG,"['?', '', 'sg n', '', '?', 'sg n', '', '?', '', '?']",1
+639,ORG,"['?', '', 'sg n', '', '?']",6
+640,ORG,"['?', '', 'sg n', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",3
+641,ORG,"['?', '', 'sg n', '', 'sg n', '', 'sg n', 'sg n', 'sg n', '', '?', '', '?']",1
+642,ORG,"['?', '', 'sg n', '', 'sg n', '']",1
+643,ORG,"['?', '', 'sg n', '', 'sg n', 'sg n', 'sg n']",1
+644,ORG,"['?', '', 'sg n', '', 'sg n']",2
+645,ORG,"['?', '', 'sg n', '']",1
+646,ORG,"['?', '', 'sg n', '?', 'sg n']",1
+647,ORG,"['?', '', 'sg n', '?']",3
+648,ORG,"['?', '', 'sg n', 'sg g', '?']",1
+649,ORG,"['?', '', 'sg n', 'sg g', 'sg g']",1
+650,ORG,"['?', '', 'sg n', 'sg g']",1
+651,ORG,"['?', '', 'sg n', 'sg n', '']",1
+652,ORG,"['?', '', 'sg n', 'sg n', '?']",1
+653,ORG,"['?', '', 'sg n', 'sg n', 'sg n', '', '?', '', '?']",1
+654,ORG,"['?', '', 'sg n', 'sg n', 'sg n', '', '?', '', 'sg n']",20
+655,ORG,"['?', '', 'sg n', 'sg n', 'sg n', '', '?']",24
+656,ORG,"['?', '', 'sg n', 'sg n', 'sg n', '', 'sg n']",4
+657,ORG,"['?', '', 'sg n', 'sg n', 'sg n']",150
+658,ORG,"['?', '', 'sg n', 'sg n']",6
+2858,PER,"['?', '', 'sg n', 'sg n']",2
+659,ORG,"['?', '', 'sg n']",216
+2859,PER,"['?', '', 'sg n']",47
+30,LOC,"['?', '', 'sg n']",7
+660,ORG,"['?', '', 'sg p']",1
+661,ORG,"['?', '']",143
+31,LOC,"['?', '']",48
+2860,PER,"['?', '']",4
+662,ORG,"['?', '?', '', '?', 'sg n']",1
+663,ORG,"['?', '?', '', '?']",6
+664,ORG,"['?', '?', '', 'sg n']",1
+665,ORG,"['?', '?', '']",3
+2861,PER,"['?', '?', '']",1
+666,ORG,"['?', '?', '?', 'sg n']",1
+667,ORG,"['?', '?', '?']",5
+2862,PER,"['?', '?', 'adt']",2
+668,ORG,"['?', '?', 'adt']",3
+669,ORG,"['?', '?', 'pl g', 'adt']",1
+670,ORG,"['?', '?', 'pl n', '']",1
+671,ORG,"['?', '?', 'pl n', 'sg n']",1
+672,ORG,"['?', '?', 'pl n']",3
+673,ORG,"['?', '?', 'sg all']",1
+674,ORG,"['?', '?', 'sg el']",2
+32,LOC,"['?', '?', 'sg el']",3
+675,ORG,"['?', '?', 'sg g', '', 'sg g', 'sg g', 'sg g']",1
+676,ORG,"['?', '?', 'sg g', 'sg g']",1
+677,ORG,"['?', '?', 'sg g', 'sg in']",2
+33,LOC,"['?', '?', 'sg g', 'sg in']",1
+2863,PER,"['?', '?', 'sg g']",13
+678,ORG,"['?', '?', 'sg g']",30
+34,LOC,"['?', '?', 'sg g']",14
+35,LOC,"['?', '?', 'sg ill']",2
+2864,PER,"['?', '?', 'sg ill']",1
+679,ORG,"['?', '?', 'sg in', 'sg g']",1
+680,ORG,"['?', '?', 'sg in']",3
+36,LOC,"['?', '?', 'sg in']",12
+2865,PER,"['?', '?', 'sg in']",3
+2866,PER,"['?', '?', 'sg kom']",1
+681,ORG,"['?', '?', 'sg n', '', 'sg n']",3
+682,ORG,"['?', '?', 'sg n', 'sg g']",2
+683,ORG,"['?', '?', 'sg n', 'sg n', '?']",1
+684,ORG,"['?', '?', 'sg n', 'sg n', 'sg n']",1
+685,ORG,"['?', '?', 'sg n', 'sg n']",7
+686,ORG,"['?', '?', 'sg n', 'sg p']",1
+687,ORG,"['?', '?', 'sg n']",58
+2867,PER,"['?', '?', 'sg n']",8
+37,LOC,"['?', '?']",89
+688,ORG,"['?', '?']",763
+2868,PER,"['?', '?']",38
+689,ORG,"['?', 'adt', '?', '']",1
+690,ORG,"['?', 'adt', 'sg g', '']",1
+691,ORG,"['?', 'adt', 'sg g', 'sg g']",1
+692,ORG,"['?', 'adt', 'sg g']",2
+693,ORG,"['?', 'adt', 'sg n']",1
+694,ORG,"['?', 'adt', 'sg p']",1
+38,LOC,"['?', 'adt']",28
+2869,PER,"['?', 'adt']",15
+695,ORG,"['?', 'adt']",136
+696,ORG,"['?', 'b']",1
+697,ORG,"['?', 'n', 'sg ad']",1
+698,ORG,"['?', 'n']",1
+2870,PER,"['?', 'n']",2
+699,ORG,"['?', 'neg ge']",1
+700,ORG,"['?', 'nud', 'pl g']",1
+701,ORG,"['?', 'nud', 'pl n']",2
+702,ORG,"['?', 'o', 'sg g']",1
+2871,PER,"['?', 'o']",7
+703,ORG,"['?', 'pl ad', 'sg g']",1
+704,ORG,"['?', 'pl ad']",4
+39,LOC,"['?', 'pl all']",1
+705,ORG,"['?', 'pl all']",1
+706,ORG,"['?', 'pl g', '?', '', '?']",1
+707,ORG,"['?', 'pl g', '?', '']",5
+708,ORG,"['?', 'pl g', '?', 'sg g', 'sg g']",1
+709,ORG,"['?', 'pl g', '?']",29
+710,ORG,"['?', 'pl g', 'adt']",3
+711,ORG,"['?', 'pl g', 'pl all']",1
+712,ORG,"['?', 'pl g', 'pl g', 'sg n']",1
+713,ORG,"['?', 'pl g', 'pl g']",8
+714,ORG,"['?', 'pl g', 'pl n']",5
+715,ORG,"['?', 'pl g', 'sg all']",3
+716,ORG,"['?', 'pl g', 'sg el']",3
+717,ORG,"['?', 'pl g', 'sg g', '?']",1
+718,ORG,"['?', 'pl g', 'sg g', 'sg g']",1
+719,ORG,"['?', 'pl g', 'sg g']",32
+720,ORG,"['?', 'pl g', 'sg kom']",1
+721,ORG,"['?', 'pl g', 'sg n']",8
+722,ORG,"['?', 'pl g', 'sg p']",1
+723,ORG,"['?', 'pl g']",53
+40,LOC,"['?', 'pl g']",1
+2872,PER,"['?', 'pl g']",2
+724,ORG,"['?', 'pl in']",4
+725,ORG,"['?', 'pl kom']",1
+726,ORG,"['?', 'pl n', '']",2
+727,ORG,"['?', 'pl n', '?', '?', 'sg n', 'sg n', '', 'sg n', 'sg n']",1
+728,ORG,"['?', 'pl n', '?', '?', 'sg n', 'sg n', 'sg kom']",1
+729,ORG,"['?', 'pl n', '?', '?', 'sg n']",15
+730,ORG,"['?', 'pl n', '?', 'pl n']",1
+731,ORG,"['?', 'pl n', '?', 'sg n', '']",1
+732,ORG,"['?', 'pl n', 'sg g']",1
+733,ORG,"['?', 'pl n', 'sg n', '']",1
+734,ORG,"['?', 'pl n', 'sg n', 'sg n', 'sg n', 'sg n', '']",1
+735,ORG,"['?', 'pl n', 'sg n', 'sg n']",2
+736,ORG,"['?', 'pl n', 'sg n']",4
+737,ORG,"['?', 'pl n']",70
+41,LOC,"['?', 'pl n']",3
+2873,PER,"['?', 'pl n']",11
+738,ORG,"['?', 'pl p', '']",1
+739,ORG,"['?', 'pl p', '?', 'sg n']",2
+740,ORG,"['?', 'pl p', 'sg g', 'sg g']",1
+741,ORG,"['?', 'pl p', 'sg n']",1
+2874,PER,"['?', 'pl p', 'sg n']",1
+742,ORG,"['?', 'pl p']",12
+2875,PER,"['?', 'pl p']",1
+743,ORG,"['?', 'pl ter']",1
+744,ORG,"['?', 's', 'sg g', 'sg n', 'sg n']",1
+745,ORG,"['?', 'sg ab']",1
+746,ORG,"['?', 'sg abl', 'sg n']",1
+2876,PER,"['?', 'sg abl']",4
+42,LOC,"['?', 'sg abl']",2
+747,ORG,"['?', 'sg abl']",38
+748,ORG,"['?', 'sg ad', 'sg ad']",1
+749,ORG,"['?', 'sg ad', 'sg g']",1
+750,ORG,"['?', 'sg ad', 'sg in']",1
+751,ORG,"['?', 'sg ad', 'sg kom']",1
+752,ORG,"['?', 'sg ad', 'sg n']",1
+43,LOC,"['?', 'sg ad']",16
+753,ORG,"['?', 'sg ad']",87
+2877,PER,"['?', 'sg ad']",9
+754,ORG,"['?', 'sg all', '', 'sg all']",1
+44,LOC,"['?', 'sg all']",11
+2878,PER,"['?', 'sg all']",8
+755,ORG,"['?', 'sg all']",141
+756,ORG,"['?', 'sg el', '']",3
+757,ORG,"['?', 'sg el', '?', 'adt']",2
+758,ORG,"['?', 'sg el', 'adt', 'sg g']",1
+759,ORG,"['?', 'sg el', 'adt']",1
+760,ORG,"['?', 'sg el', 'sg g']",4
+761,ORG,"['?', 'sg el', 'sg ill']",1
+762,ORG,"['?', 'sg el', 'sg n', 'sg n']",1
+45,LOC,"['?', 'sg el', 'sg ter']",1
+46,LOC,"['?', 'sg el']",35
+763,ORG,"['?', 'sg el']",191
+2879,PER,"['?', 'sg el']",13
+764,ORG,"['?', 'sg es']",3
+765,ORG,"['?', 'sg g', '', '?']",2
+766,ORG,"['?', 'sg g', '', 'sg g']",1
+767,ORG,"['?', 'sg g', '']",1
+768,ORG,"['?', 'sg g', '?', '', '?', 'sg g']",1
+769,ORG,"['?', 'sg g', '?', '']",9
+770,ORG,"['?', 'sg g', '?', '?', 'sg n']",2
+771,ORG,"['?', 'sg g', '?', '?']",1
+772,ORG,"['?', 'sg g', '?', 'sg g', '?']",1
+773,ORG,"['?', 'sg g', '?', 'sg g']",3
+774,ORG,"['?', 'sg g', '?', 'sg kom']",1
+775,ORG,"['?', 'sg g', '?', 'sg n']",1
+776,ORG,"['?', 'sg g', '?']",72
+777,ORG,"['?', 'sg g', 'adt']",8
+778,ORG,"['?', 'sg g', 'pl all']",1
+779,ORG,"['?', 'sg g', 'pl el']",1
+780,ORG,"['?', 'sg g', 'pl g', 'adt']",1
+781,ORG,"['?', 'sg g', 'pl g', 'sg g']",3
+782,ORG,"['?', 'sg g', 'pl g', 'sg in']",2
+783,ORG,"['?', 'sg g', 'pl g', 'sg n']",1
+784,ORG,"['?', 'sg g', 'pl g']",11
+785,ORG,"['?', 'sg g', 'pl in']",5
+786,ORG,"['?', 'sg g', 'pl kom']",1
+787,ORG,"['?', 'sg g', 'pl n', 'sg n', 'sg g']",1
+788,ORG,"['?', 'sg g', 'pl n']",28
+789,ORG,"['?', 'sg g', 'pl p']",2
+790,ORG,"['?', 'sg g', 'sg abl']",4
+791,ORG,"['?', 'sg g', 'sg ad', 'sg g']",1
+792,ORG,"['?', 'sg g', 'sg ad']",14
+793,ORG,"['?', 'sg g', 'sg all', '']",1
+794,ORG,"['?', 'sg g', 'sg all', 'sg all']",1
+795,ORG,"['?', 'sg g', 'sg all']",24
+47,LOC,"['?', 'sg g', 'sg all']",1
+796,ORG,"['?', 'sg g', 'sg el', 'sg el']",1
+797,ORG,"['?', 'sg g', 'sg el', 'sg g']",1
+798,ORG,"['?', 'sg g', 'sg el']",9
+48,LOC,"['?', 'sg g', 'sg el']",3
+799,ORG,"['?', 'sg g', 'sg g', '?', 'pl g']",1
+800,ORG,"['?', 'sg g', 'sg g', '?', 'sg g']",1
+801,ORG,"['?', 'sg g', 'sg g', '?']",3
+802,ORG,"['?', 'sg g', 'sg g', 'pl g', 'sg g', 'sg g']",1
+803,ORG,"['?', 'sg g', 'sg g', 'pl g']",1
+804,ORG,"['?', 'sg g', 'sg g', 'pl n', 'sg n']",1
+805,ORG,"['?', 'sg g', 'sg g', 'pl n']",2
+806,ORG,"['?', 'sg g', 'sg g', 'pl p']",1
+807,ORG,"['?', 'sg g', 'sg g', 'sg all']",1
+808,ORG,"['?', 'sg g', 'sg g', 'sg el']",2
+809,ORG,"['?', 'sg g', 'sg g', 'sg es']",1
+810,ORG,"['?', 'sg g', 'sg g', 'sg g', '?', '', '?', '']",1
+811,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g']",2
+812,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg g', 'sg n']",2
+813,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg g']",6
+814,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg ill']",1
+815,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg in', 'sg n', 'sg g']",1
+816,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg in']",4
+817,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg n']",4
+818,ORG,"['?', 'sg g', 'sg g', 'sg g', 'sg tr']",1
+819,ORG,"['?', 'sg g', 'sg g', 'sg g']",47
+820,ORG,"['?', 'sg g', 'sg g', 'sg ill']",1
+821,ORG,"['?', 'sg g', 'sg g', 'sg in']",1
+822,ORG,"['?', 'sg g', 'sg g', 'sg n']",12
+2880,PER,"['?', 'sg g', 'sg g']",1
+49,LOC,"['?', 'sg g', 'sg g']",10
+823,ORG,"['?', 'sg g', 'sg g']",424
+824,ORG,"['?', 'sg g', 'sg ill']",4
+825,ORG,"['?', 'sg g', 'sg in', 'sg g']",1
+826,ORG,"['?', 'sg g', 'sg in', 'sg n', 'sg g']",1
+827,ORG,"['?', 'sg g', 'sg in']",33
+50,LOC,"['?', 'sg g', 'sg in']",9
+828,ORG,"['?', 'sg g', 'sg kom']",12
+51,LOC,"['?', 'sg g', 'sg kom']",1
+829,ORG,"['?', 'sg g', 'sg n', '', 'sg n']",1
+830,ORG,"['?', 'sg g', 'sg n', '?']",1
+2881,PER,"['?', 'sg g', 'sg n', '?']",1
+831,ORG,"['?', 'sg g', 'sg n', 'pl n']",1
+832,ORG,"['?', 'sg g', 'sg n', 'sg all']",1
+833,ORG,"['?', 'sg g', 'sg n', 'sg el', 'sg ter']",1
+834,ORG,"['?', 'sg g', 'sg n', 'sg el']",1
+835,ORG,"['?', 'sg g', 'sg n', 'sg g', 'sg all']",1
+836,ORG,"['?', 'sg g', 'sg n', 'sg g', 'sg g']",5
+837,ORG,"['?', 'sg g', 'sg n', 'sg g', 'sg in']",1
+838,ORG,"['?', 'sg g', 'sg n', 'sg g', 'sg n', 'sg in']",1
+839,ORG,"['?', 'sg g', 'sg n', 'sg g']",8
+840,ORG,"['?', 'sg g', 'sg n', 'sg in']",4
+841,ORG,"['?', 'sg g', 'sg n', 'sg n', 'sg n', 'sg g']",1
+842,ORG,"['?', 'sg g', 'sg n', 'sg n', 'sg n']",2
+843,ORG,"['?', 'sg g', 'sg n', 'sg n', 'sg p']",1
+844,ORG,"['?', 'sg g', 'sg n', 'sg n']",17
+845,ORG,"['?', 'sg g', 'sg n']",335
+52,LOC,"['?', 'sg g', 'sg n']",4
+2882,PER,"['?', 'sg g', 'sg n']",4
+846,ORG,"['?', 'sg g', 'sg p', 'sg n', '', 'sg n']",1
+847,ORG,"['?', 'sg g', 'sg p']",9
+848,ORG,"['?', 'sg g', 'sg tr', '']",1
+849,ORG,"['?', 'sg g', 'sg tr']",2
+850,ORG,"['?', 'sg g', 'tud', 'pl g']",1
+851,ORG,"['?', 'sg g']",3252
+2883,PER,"['?', 'sg g']",368
+53,LOC,"['?', 'sg g']",303
+852,ORG,"['?', 'sg ill']",40
+54,LOC,"['?', 'sg ill']",4
+2884,PER,"['?', 'sg ill']",5
+853,ORG,"['?', 'sg in', '', '', 'sg g']",1
+854,ORG,"['?', 'sg in', '']",3
+855,ORG,"['?', 'sg in', '?', 'sg g']",1
+856,ORG,"['?', 'sg in', '?']",3
+857,ORG,"['?', 'sg in', 'pl g', 'sg g', 'sg g']",1
+858,ORG,"['?', 'sg in', 'sg g', 'adt', 'sg n', 'sg in']",1
+859,ORG,"['?', 'sg in', 'sg g', 'sg g', 'sg g']",2
+860,ORG,"['?', 'sg in', 'sg g', 'sg g', 'sg n']",1
+861,ORG,"['?', 'sg in', 'sg g', 'sg g']",1
+862,ORG,"['?', 'sg in', 'sg g', 'sg in']",2
+863,ORG,"['?', 'sg in', 'sg g']",5
+864,ORG,"['?', 'sg in', 'sg ill']",1
+865,ORG,"['?', 'sg in', 'sg in']",6
+55,LOC,"['?', 'sg in', 'sg in']",1
+2885,PER,"['?', 'sg in', 'sg in']",1
+866,ORG,"['?', 'sg in', 'sg n', 'sg ad']",2
+867,ORG,"['?', 'sg in', 'sg n', 'sg g']",2
+868,ORG,"['?', 'sg in', 'sg n', 'sg kom']",1
+869,ORG,"['?', 'sg in', 'sg n', 'sg n', 'sg in']",1
+870,ORG,"['?', 'sg in', 'sg n', 'sg n', 'sg n']",2
+871,ORG,"['?', 'sg in', 'sg n', 'sg n']",3
+872,ORG,"['?', 'sg in', 'sg n', 'sg p']",1
+873,ORG,"['?', 'sg in', 'sg n']",3
+874,ORG,"['?', 'sg in', 'sg p', 'sg g', 'sg g']",1
+2886,PER,"['?', 'sg in']",15
+56,LOC,"['?', 'sg in']",206
+875,ORG,"['?', 'sg in']",649
+876,ORG,"['?', 'sg kom', 'sg g']",2
+877,ORG,"['?', 'sg kom', 'sg p', 'sg g']",1
+2887,PER,"['?', 'sg kom']",18
+878,ORG,"['?', 'sg kom']",101
+57,LOC,"['?', 'sg kom']",7
+879,ORG,"['?', 'sg n', '', '', '', '?', 'sg n']",1
+880,ORG,"['?', 'sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n', '?']",1
+881,ORG,"['?', 'sg n', '', '?', 'sg n', '', '', '', '?']",1
+882,ORG,"['?', 'sg n', '', '?']",9
+883,ORG,"['?', 'sg n', '', 'pl g']",1
+884,ORG,"['?', 'sg n', '', 'sg el', '']",4
+885,ORG,"['?', 'sg n', '', 'sg g']",1
+886,ORG,"['?', 'sg n', '', 'sg n', '', '?']",2
+887,ORG,"['?', 'sg n', '', 'sg n', '']",2
+888,ORG,"['?', 'sg n', '', 'sg n', 'sg g', 'sg g', 'sg g']",1
+889,ORG,"['?', 'sg n', '', 'sg n', 'sg g']",1
+890,ORG,"['?', 'sg n', '', 'sg n', 'sg n']",1
+891,ORG,"['?', 'sg n', '', 'sg n']",11
+892,ORG,"['?', 'sg n', '']",37
+893,ORG,"['?', 'sg n', '?', '', '', 'sg n']",1
+894,ORG,"['?', 'sg n', '?', '', '?']",1
+895,ORG,"['?', 'sg n', '?', '']",6
+896,ORG,"['?', 'sg n', '?', '?', 'sg n']",1
+897,ORG,"['?', 'sg n', '?', '?']",1
+898,ORG,"['?', 'sg n', '?', 'sg abl']",1
+899,ORG,"['?', 'sg n', '?', 'sg all']",1
+900,ORG,"['?', 'sg n', '?', 'sg g', 'sg n']",1
+901,ORG,"['?', 'sg n', '?', 'sg g']",10
+902,ORG,"['?', 'sg n', '?', 'sg n', '']",4
+903,ORG,"['?', 'sg n', '?', 'sg n', '?', 'sg n']",2
+904,ORG,"['?', 'sg n', '?', 'sg n', 'sg n', '']",1
+905,ORG,"['?', 'sg n', '?', 'sg n', 'sg n', 'sg kom']",3
+906,ORG,"['?', 'sg n', '?', 'sg n', 'sg n', 'sg n', 'sg n']",1
+907,ORG,"['?', 'sg n', '?', 'sg n', 'sg n', 'sg n']",1
+2888,PER,"['?', 'sg n', '?', 'sg n']",3
+908,ORG,"['?', 'sg n', '?', 'sg n']",10
+2889,PER,"['?', 'sg n', '?']",2
+909,ORG,"['?', 'sg n', '?']",37
+58,LOC,"['?', 'sg n', '?']",1
+910,ORG,"['?', 'sg n', 'adt']",1
+911,ORG,"['?', 'sg n', 'pl g']",6
+912,ORG,"['?', 'sg n', 'pl n', '']",2
+913,ORG,"['?', 'sg n', 'pl n', 'sg g']",1
+914,ORG,"['?', 'sg n', 'pl n', 'sg n']",6
+915,ORG,"['?', 'sg n', 'pl n']",6
+2890,PER,"['?', 'sg n', 'pl n']",1
+916,ORG,"['?', 'sg n', 'pl p']",7
+917,ORG,"['?', 'sg n', 'sg abl']",4
+918,ORG,"['?', 'sg n', 'sg ad']",2
+919,ORG,"['?', 'sg n', 'sg all', '']",1
+920,ORG,"['?', 'sg n', 'sg all']",13
+921,ORG,"['?', 'sg n', 'sg el', 'sg g', 'sg n']",1
+922,ORG,"['?', 'sg n', 'sg el']",5
+59,LOC,"['?', 'sg n', 'sg el']",1
+923,ORG,"['?', 'sg n', 'sg g', '']",1
+924,ORG,"['?', 'sg n', 'sg g', '?']",3
+925,ORG,"['?', 'sg n', 'sg g', 'pl g', 'sg g', 'sg n']",1
+926,ORG,"['?', 'sg n', 'sg g', 'pl g', 'sg g']",1
+927,ORG,"['?', 'sg n', 'sg g', 'pl g']",1
+928,ORG,"['?', 'sg n', 'sg g', 'pl n']",2
+929,ORG,"['?', 'sg n', 'sg g', 'pl p']",1
+930,ORG,"['?', 'sg n', 'sg g', 'sg all']",5
+931,ORG,"['?', 'sg n', 'sg g', 'sg g', 'adt']",1
+932,ORG,"['?', 'sg n', 'sg g', 'sg g', 'sg n']",1
+933,ORG,"['?', 'sg n', 'sg g', 'sg g']",4
+934,ORG,"['?', 'sg n', 'sg g', 'sg in', 'sg n', '', 'sg n']",1
+935,ORG,"['?', 'sg n', 'sg g', 'sg in', 'sg n']",1
+936,ORG,"['?', 'sg n', 'sg g', 'sg in']",4
+937,ORG,"['?', 'sg n', 'sg g', 'sg n', '']",2
+938,ORG,"['?', 'sg n', 'sg g', 'sg n', 'sg n']",2
+939,ORG,"['?', 'sg n', 'sg g', 'sg n']",7
+940,ORG,"['?', 'sg n', 'sg g', 'sg tr']",1
+60,LOC,"['?', 'sg n', 'sg g']",2
+941,ORG,"['?', 'sg n', 'sg g']",190
+2891,PER,"['?', 'sg n', 'sg g']",6
+942,ORG,"['?', 'sg n', 'sg ill']",3
+943,ORG,"['?', 'sg n', 'sg in', '']",1
+944,ORG,"['?', 'sg n', 'sg in', '?', 'sg n']",1
+945,ORG,"['?', 'sg n', 'sg in', 'sg n']",8
+61,LOC,"['?', 'sg n', 'sg in']",1
+946,ORG,"['?', 'sg n', 'sg in']",16
+2892,PER,"['?', 'sg n', 'sg kom']",1
+947,ORG,"['?', 'sg n', 'sg kom']",19
+948,ORG,"['?', 'sg n', 'sg n', '', 'sg n']",3
+949,ORG,"['?', 'sg n', 'sg n', '']",21
+950,ORG,"['?', 'sg n', 'sg n', '?', 'pl el']",1
+951,ORG,"['?', 'sg n', 'sg n', '?', 'sg ill']",1
+952,ORG,"['?', 'sg n', 'sg n', '?', 'sg n', '']",1
+953,ORG,"['?', 'sg n', 'sg n', '?', 'sg n', 'sg n', 'sg n']",1
+954,ORG,"['?', 'sg n', 'sg n', '?', 'sg n', 'sg n']",1
+955,ORG,"['?', 'sg n', 'sg n', '?', 'sg n']",3
+2893,PER,"['?', 'sg n', 'sg n', '?', 'sg n']",1
+956,ORG,"['?', 'sg n', 'sg n', '?']",9
+957,ORG,"['?', 'sg n', 'sg n', 'adt']",1
+958,ORG,"['?', 'sg n', 'sg n', 'pl n']",3
+959,ORG,"['?', 'sg n', 'sg n', 'sg all']",5
+960,ORG,"['?', 'sg n', 'sg n', 'sg el']",1
+961,ORG,"['?', 'sg n', 'sg n', 'sg g', '?']",1
+962,ORG,"['?', 'sg n', 'sg n', 'sg g', 'pl g']",1
+963,ORG,"['?', 'sg n', 'sg n', 'sg g', 'sg all']",1
+964,ORG,"['?', 'sg n', 'sg n', 'sg g', 'sg g']",2
+965,ORG,"['?', 'sg n', 'sg n', 'sg g']",19
+966,ORG,"['?', 'sg n', 'sg n', 'sg in']",1
+967,ORG,"['?', 'sg n', 'sg n', 'sg n', '']",3
+968,ORG,"['?', 'sg n', 'sg n', 'sg n', '?']",2
+969,ORG,"['?', 'sg n', 'sg n', 'sg n', 'sg el']",1
+970,ORG,"['?', 'sg n', 'sg n', 'sg n', 'sg g']",3
+971,ORG,"['?', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+972,ORG,"['?', 'sg n', 'sg n', 'sg n', 'sg n']",9
+973,ORG,"['?', 'sg n', 'sg n', 'sg n']",40
+2894,PER,"['?', 'sg n', 'sg n', 'sg n']",4
+974,ORG,"['?', 'sg n', 'sg n']",402
+2895,PER,"['?', 'sg n', 'sg n']",82
+975,ORG,"['?', 'sg n', 'sg p', '', 'sg n']",1
+62,LOC,"['?', 'sg n', 'sg p']",1
+976,ORG,"['?', 'sg n', 'sg p']",6
+977,ORG,"['?', 'sg n']",3761
+63,LOC,"['?', 'sg n']",133
+2896,PER,"['?', 'sg n']",996
+978,ORG,"['?', 'sg p', 'sg n', 'sg in']",1
+979,ORG,"['?', 'sg p', 'sg n', 'sg n', 'sg n', 'sg n', '']",1
+980,ORG,"['?', 'sg p', 'sg p']",1
+2897,PER,"['?', 'sg p']",13
+64,LOC,"['?', 'sg p']",5
+981,ORG,"['?', 'sg p']",57
+982,ORG,"['?', 'sg ter', 'sg n']",1
+983,ORG,"['?', 'sg ter']",4
+65,LOC,"['?', 'sg ter']",2
+984,ORG,"['?', 'sg tr']",5
+66,LOC,"['?', 'sg tr']",1
+985,ORG,['?'],19443
+2898,PER,['?'],1010
+67,LOC,['?'],5094
+986,ORG,"['adt', '', '']",1
+987,ORG,"['adt', '', 'sg all']",1
+988,ORG,"['adt', '', 'sg g']",3
+68,LOC,"['adt', '', 'sg in']",1
+989,ORG,"['adt', '', 'sg n', '']",1
+990,ORG,"['adt', '']",5
+69,LOC,"['adt', '']",2
+991,ORG,"['adt', '?', 'pl n']",1
+992,ORG,"['adt', '?', 'sg g']",1
+993,ORG,"['adt', '?', 'sg in']",1
+2899,PER,"['adt', '?']",2
+994,ORG,"['adt', '?']",18
+995,ORG,"['adt', 'adt', 'sg g']",1
+996,ORG,"['adt', 'adt']",11
+70,LOC,"['adt', 'adt']",3
+71,LOC,"['adt', 'pl ad']",1
+997,ORG,"['adt', 'pl g', 'pl g', 'sg g']",1
+998,ORG,"['adt', 'pl g', 'sg g']",1
+2900,PER,"['adt', 'sg abl']",1
+999,ORG,"['adt', 'sg abl']",3
+1000,ORG,"['adt', 'sg ad']",6
+72,LOC,"['adt', 'sg ad']",1
+73,LOC,"['adt', 'sg all']",2
+1001,ORG,"['adt', 'sg all']",5
+2901,PER,"['adt', 'sg all']",4
+74,LOC,"['adt', 'sg el']",5
+2902,PER,"['adt', 'sg el']",1
+1002,ORG,"['adt', 'sg el']",4
+1003,ORG,"['adt', 'sg g', '', 'sg g']",1
+1004,ORG,"['adt', 'sg g', '']",1
+1005,ORG,"['adt', 'sg g', '?']",1
+1006,ORG,"['adt', 'sg g', 'adt']",3
+1007,ORG,"['adt', 'sg g', 'pl g']",1
+1008,ORG,"['adt', 'sg g', 'sg el']",1
+1009,ORG,"['adt', 'sg g', 'sg g', 'sg all']",1
+1010,ORG,"['adt', 'sg g', 'sg g', 'sg g']",1
+1011,ORG,"['adt', 'sg g', 'sg g']",7
+2903,PER,"['adt', 'sg g', 'sg n']",1
+1012,ORG,"['adt', 'sg g', 'sg n']",2
+1013,ORG,"['adt', 'sg g']",33
+2904,PER,"['adt', 'sg g']",19
+75,LOC,"['adt', 'sg g']",3
+1014,ORG,"['adt', 'sg ill']",3
+1015,ORG,"['adt', 'sg in', 'sg in']",2
+2905,PER,"['adt', 'sg in']",1
+1016,ORG,"['adt', 'sg in']",15
+76,LOC,"['adt', 'sg in']",6
+1017,ORG,"['adt', 'sg kom']",9
+1018,ORG,"['adt', 'sg n', '?']",1
+1019,ORG,"['adt', 'sg n', 'pl g']",1
+1020,ORG,"['adt', 'sg n', 'sg g', 'sg g']",1
+1021,ORG,"['adt', 'sg n', 'sg g']",3
+1022,ORG,"['adt', 'sg n', 'sg n']",4
+1023,ORG,"['adt', 'sg n', 'sg p']",1
+2906,PER,"['adt', 'sg n']",38
+1024,ORG,"['adt', 'sg n']",11
+77,LOC,"['adt', 'sg n']",1
+1025,ORG,"['adt', 'sg p']",4
+78,LOC,"['adt', 'sg p']",1
+1026,ORG,"['adt', 'sg tr']",1
+2907,PER,['adt'],661
+79,LOC,['adt'],2189
+1027,ORG,['adt'],1349
+2908,PER,"['b', '?']",1
+1028,ORG,"['b', 'pl g', 'sg g']",1
+1029,ORG,"['b', 'sg g', 'adt']",1
+1030,ORG,"['b', 'sg g']",2
+1031,ORG,"['b', 'sg n', 'sg all']",1
+2909,PER,"['b', 'sg n']",5
+1032,ORG,"['b', 'sg n']",1
+2910,PER,['b'],20
+1033,ORG,"['da', 'sg g']",1
+2911,PER,['da'],3
+1034,ORG,['da'],1
+2912,PER,['des'],3
+2913,PER,"['ge', 'sg abl']",2
+1035,ORG,"['ge', 'sg n']",1
+2914,PER,"['ge', 'sg n']",1
+2915,PER,['ge'],1
+2916,PER,['gem'],1
+1036,ORG,"['gu', 'sg in']",1
+2917,PER,"['ks', 'sg g']",1
+1037,ORG,"['ksin', 'adt']",1
+1038,ORG,"['ma', 'sg g']",1
+1039,ORG,"['mata', 'sg el']",1
+1040,ORG,"['me', 'sg g']",1
+2918,PER,"['me', 'sg g']",1
+2919,PER,"['me', 'sg n']",1
+2920,PER,['me'],3
+1041,ORG,"['n', '']",1
+2921,PER,"['n', '?', '', 'sg n']",1
+2922,PER,"['n', 'sg all']",1
+1042,ORG,"['n', 'sg el']",1
+2923,PER,"['n', 'sg g']",4
+2924,PER,"['n', 'sg kom']",1
+1043,ORG,"['n', 'sg n', '?', 'sg g']",1
+2925,PER,"['n', 'sg n']",38
+1044,ORG,"['n', 'sg n']",1
+2926,PER,['n'],75
+2927,PER,['neg o'],1
+2928,PER,['neg'],1
+1045,ORG,"['nud', 'sg g', 'sg g']",2
+1046,ORG,"['nud', 'sg g', 'sg in']",1
+1047,ORG,"['nud', 'sg g', 'sg n']",1
+1048,ORG,"['nud', 'sg g']",4
+1049,ORG,"['nud', 'sg kom']",1
+1050,ORG,"['nud', 'sg n']",2
+2929,PER,['nud'],1
+2930,PER,"['o', 'pl g']",1
+1051,ORG,"['o', 'sg abl']",1
+1052,ORG,"['o', 'sg g']",6
+2931,PER,"['o', 'sg g']",16
+1053,ORG,"['o', 'sg in']",1
+2932,PER,"['o', 'sg kom']",2
+1054,ORG,"['o', 'sg n', '', '?']",1
+1055,ORG,"['o', 'sg n', 'sg g', 'sg g']",1
+2933,PER,"['o', 'sg n']",30
+1056,ORG,"['o', 'sg n']",11
+1057,ORG,['o'],9
+2934,PER,['o'],52
+80,LOC,['o'],1
+1058,ORG,"['pl ab', 'sg g']",2
+81,LOC,['pl ab'],1
+1059,ORG,['pl abl'],2
+82,LOC,['pl abl'],13
+2935,PER,['pl abl'],9
+2936,PER,"['pl ad', '?']",1
+83,LOC,"['pl ad', 'pl in']",1
+84,LOC,"['pl ad', 'sg g']",1
+2937,PER,"['pl ad', 'sg g']",2
+1060,ORG,"['pl ad', 'sg g']",2
+1061,ORG,"['pl ad', 'sg in']",1
+2938,PER,"['pl ad', 'sg kom']",2
+85,LOC,"['pl ad', 'sg n', 'sg in']",1
+2939,PER,"['pl ad', 'sg n']",7
+2940,PER,['pl ad'],48
+1062,ORG,['pl ad'],6
+86,LOC,['pl ad'],30
+2941,PER,"['pl all', 'sg abl']",1
+2942,PER,"['pl all', 'sg ad']",2
+1063,ORG,"['pl all', 'sg ad']",2
+1064,ORG,"['pl all', 'sg g', 'sg g']",2
+2943,PER,"['pl all', 'sg g']",2
+1065,ORG,"['pl all', 'sg g']",1
+2944,PER,"['pl all', 'sg kom']",1
+1066,ORG,"['pl all', 'sg n']",1
+2945,PER,"['pl all', 'sg n']",8
+1067,ORG,['pl all'],7
+2946,PER,['pl all'],46
+87,LOC,['pl all'],31
+1068,ORG,"['pl el', '?', 'sg n']",1
+1069,ORG,"['pl el', 'sg g']",4
+2947,PER,"['pl el', 'sg n']",1
+1070,ORG,"['pl el', 'sg n']",2
+1071,ORG,['pl el'],9
+2948,PER,['pl el'],36
+88,LOC,['pl el'],70
+2949,PER,"['pl es', 'sg g']",1
+1072,ORG,"['pl es', 'sg in']",1
+1073,ORG,"['pl es', 'sg n']",1
+89,LOC,['pl es'],3
+90,LOC,"['pl g', '', 'pl g', '', 'sg g']",1
+1074,ORG,"['pl g', '', 'pl g', 'adt']",1
+1075,ORG,"['pl g', '', 'pl g', 'sg g']",6
+1076,ORG,"['pl g', '', 'pl g', 'sg n']",13
+1077,ORG,"['pl g', '', 'pl g']",6
+1078,ORG,"['pl g', '', 'pl kom']",1
+1079,ORG,"['pl g', '', 'sg g', 'sg g']",1
+91,LOC,"['pl g', '', 'sg g']",1
+1080,ORG,"['pl g', '', 'sg g']",12
+1081,ORG,"['pl g', '', 'sg n']",2
+92,LOC,"['pl g', '']",3
+1082,ORG,"['pl g', '']",4
+2950,PER,"['pl g', '']",5
+1083,ORG,"['pl g', '?', '']",1
+2951,PER,"['pl g', '?', 'sg g']",1
+1084,ORG,"['pl g', '?', 'sg n']",1
+1085,ORG,"['pl g', '?']",13
+1086,ORG,"['pl g', 'adt', 'adt']",2
+1087,ORG,"['pl g', 'adt']",24
+93,LOC,"['pl g', 'adt']",40
+2952,PER,"['pl g', 'adt']",1
+1088,ORG,"['pl g', 'pl ad']",1
+94,LOC,"['pl g', 'pl ad']",1
+95,LOC,"['pl g', 'pl el']",1
+1089,ORG,"['pl g', 'pl g', 'adt']",2
+1090,ORG,"['pl g', 'pl g', 'pl g', 'sg g']",1
+1091,ORG,"['pl g', 'pl g', 'pl g']",1
+1092,ORG,"['pl g', 'pl g', 'sg abl']",2
+1093,ORG,"['pl g', 'pl g', 'sg el', 'sg in']",1
+1094,ORG,"['pl g', 'pl g', 'sg g', '?']",1
+1095,ORG,"['pl g', 'pl g', 'sg g', 'sg el']",1
+1096,ORG,"['pl g', 'pl g', 'sg g', 'sg g']",4
+1097,ORG,"['pl g', 'pl g', 'sg g', 'sg in', 'sg g']",1
+1098,ORG,"['pl g', 'pl g', 'sg g', 'sg in']",1
+1099,ORG,"['pl g', 'pl g', 'sg g', 'sg n']",1
+1100,ORG,"['pl g', 'pl g', 'sg g']",48
+1101,ORG,"['pl g', 'pl g', 'sg in']",1
+1102,ORG,"['pl g', 'pl g', 'sg kom']",1
+1103,ORG,"['pl g', 'pl g', 'sg n', 'sg in', '', '?']",1
+1104,ORG,"['pl g', 'pl g', 'sg n']",18
+1105,ORG,"['pl g', 'pl g']",45
+96,LOC,"['pl g', 'pl g']",3
+97,LOC,"['pl g', 'pl in']",1
+1106,ORG,"['pl g', 'pl in']",1
+1107,ORG,"['pl g', 'pl kom']",2
+98,LOC,"['pl g', 'pl kom']",1
+99,LOC,"['pl g', 'pl n']",2
+1108,ORG,"['pl g', 'pl n']",5
+100,LOC,"['pl g', 'pl p']",2
+101,LOC,"['pl g', 'sg ab']",1
+1109,ORG,"['pl g', 'sg abl']",6
+102,LOC,"['pl g', 'sg abl']",2
+1110,ORG,"['pl g', 'sg ad']",8
+2953,PER,"['pl g', 'sg ad']",1
+103,LOC,"['pl g', 'sg ad']",3
+1111,ORG,"['pl g', 'sg all', '', '?']",1
+1112,ORG,"['pl g', 'sg all', 'sg g']",1
+1113,ORG,"['pl g', 'sg all']",31
+104,LOC,"['pl g', 'sg all']",25
+105,LOC,"['pl g', 'sg el', 'adt']",1
+1114,ORG,"['pl g', 'sg el', 'sg el']",1
+1115,ORG,"['pl g', 'sg el', 'sg g', 'adt']",1
+1116,ORG,"['pl g', 'sg el']",28
+106,LOC,"['pl g', 'sg el']",33
+1117,ORG,"['pl g', 'sg g', '', 'pl g', 'sg g', 'sg g']",2
+1118,ORG,"['pl g', 'sg g', '', 'pl g', 'sg g', 'sg n']",2
+1119,ORG,"['pl g', 'sg g', '', 'sg g']",1
+1120,ORG,"['pl g', 'sg g', '', 'sg n']",1
+1121,ORG,"['pl g', 'sg g', '']",4
+107,LOC,"['pl g', 'sg g', '']",1
+1122,ORG,"['pl g', 'sg g', '?']",3
+1123,ORG,"['pl g', 'sg g', 'adt']",1
+108,LOC,"['pl g', 'sg g', 'pl el']",3
+1124,ORG,"['pl g', 'sg g', 'pl g', 'sg g']",2
+1125,ORG,"['pl g', 'sg g', 'pl g']",3
+1126,ORG,"['pl g', 'sg g', 'pl in']",1
+109,LOC,"['pl g', 'sg g', 'pl in']",4
+1127,ORG,"['pl g', 'sg g', 'pl n']",1
+1128,ORG,"['pl g', 'sg g', 'sg ad']",1
+1129,ORG,"['pl g', 'sg g', 'sg all', '']",1
+1130,ORG,"['pl g', 'sg g', 'sg all']",2
+1131,ORG,"['pl g', 'sg g', 'sg g', '']",1
+1132,ORG,"['pl g', 'sg g', 'sg g', 'adt']",1
+1133,ORG,"['pl g', 'sg g', 'sg g', 'sg g', 'sg in']",1
+1134,ORG,"['pl g', 'sg g', 'sg g', 'sg g']",12
+1135,ORG,"['pl g', 'sg g', 'sg g', 'sg in', 'sg in']",1
+1136,ORG,"['pl g', 'sg g', 'sg g', 'sg in']",1
+1137,ORG,"['pl g', 'sg g', 'sg g', 'sg n']",1
+1138,ORG,"['pl g', 'sg g', 'sg g']",44
+110,LOC,"['pl g', 'sg g', 'sg g']",2
+1139,ORG,"['pl g', 'sg g', 'sg ill']",2
+1140,ORG,"['pl g', 'sg g', 'sg in', 'sg g']",1
+111,LOC,"['pl g', 'sg g', 'sg in']",2
+1141,ORG,"['pl g', 'sg g', 'sg in']",6
+1142,ORG,"['pl g', 'sg g', 'sg kom']",1
+1143,ORG,"['pl g', 'sg g', 'sg n', 'sg n']",2
+1144,ORG,"['pl g', 'sg g', 'sg n']",41
+1145,ORG,"['pl g', 'sg g', 'sg p']",2
+112,LOC,"['pl g', 'sg g']",392
+2954,PER,"['pl g', 'sg g']",19
+1146,ORG,"['pl g', 'sg g']",581
+1147,ORG,"['pl g', 'sg ill']",8
+113,LOC,"['pl g', 'sg in', '', 'sg in']",2
+1148,ORG,"['pl g', 'sg in', 'sg g']",3
+1149,ORG,"['pl g', 'sg in', 'sg in']",3
+114,LOC,"['pl g', 'sg in', 'sg in']",1
+1150,ORG,"['pl g', 'sg in', 'sg n']",1
+1151,ORG,"['pl g', 'sg in']",104
+115,LOC,"['pl g', 'sg in']",129
+1152,ORG,"['pl g', 'sg kom', '']",1
+1153,ORG,"['pl g', 'sg kom']",16
+116,LOC,"['pl g', 'sg kom']",18
+1154,ORG,"['pl g', 'sg n', '', '', 'sg n']",1
+1155,ORG,"['pl g', 'sg n', '', '?', '', '?']",1
+1156,ORG,"['pl g', 'sg n', '']",5
+1157,ORG,"['pl g', 'sg n', 'sg g', 'sg g']",1
+1158,ORG,"['pl g', 'sg n', 'sg g']",2
+1159,ORG,"['pl g', 'sg n', 'sg in']",1
+1160,ORG,"['pl g', 'sg n', 'sg n', 'sg n', 'sg g', 'sg n']",1
+1161,ORG,"['pl g', 'sg n', 'sg n']",9
+1162,ORG,"['pl g', 'sg n']",278
+2955,PER,"['pl g', 'sg n']",38
+117,LOC,"['pl g', 'sg n']",106
+1163,ORG,"['pl g', 'sg p']",12
+118,LOC,"['pl g', 'sg p']",7
+1164,ORG,"['pl g', 'sg tr', '']",1
+1165,ORG,"['pl g', 'tud', 'sg g']",2
+1166,ORG,['pl g'],389
+2956,PER,['pl g'],608
+119,LOC,['pl g'],1533
+1167,ORG,"['pl ill', 'sg n']",1
+2957,PER,['pl ill'],2
+120,LOC,['pl ill'],63
+1168,ORG,['pl ill'],3
+2958,PER,"['pl in', 'pl g']",1
+2959,PER,"['pl in', 'sg n', 'sg n']",1
+1169,ORG,"['pl in', 'sg n']",1
+121,LOC,['pl in'],377
+1170,ORG,['pl in'],5
+2960,PER,['pl in'],2
+1171,ORG,"['pl kom', 'pl g', 'sg g']",2
+1172,ORG,"['pl kom', 'pl g', 'sg n']",2
+1173,ORG,"['pl kom', 'sg g', 'sg n']",1
+122,LOC,"['pl kom', 'sg g']",1
+1174,ORG,"['pl kom', 'sg n']",1
+2961,PER,['pl kom'],26
+123,LOC,['pl kom'],29
+1175,ORG,['pl kom'],11
+2962,PER,"['pl n', '', '']",1
+2963,PER,"['pl n', '', '?', 'sg n']",1
+2964,PER,"['pl n', '', '?']",2
+1176,ORG,"['pl n', '', '?']",1
+2965,PER,"['pl n', '', 'pl n']",1
+1177,ORG,"['pl n', '', 'pl n']",3
+2966,PER,"['pl n', '', 'sg g']",2
+1178,ORG,"['pl n', '', 'sg g']",1
+1179,ORG,"['pl n', '', 'sg n']",4
+2967,PER,"['pl n', '']",2
+1180,ORG,"['pl n', '']",1
+1181,ORG,"['pl n', '?', '', '?', '', '?']",1
+2968,PER,"['pl n', '?', '', 'sg n']",1
+1182,ORG,"['pl n', '?', '']",3
+1183,ORG,"['pl n', '?', 'sg g', 'sg g', 'sg g']",1
+1184,ORG,"['pl n', '?', 'sg g']",3
+1185,ORG,"['pl n', '?', 'sg n', '']",1
+2969,PER,"['pl n', '?', 'sg n']",1
+1186,ORG,"['pl n', '?', 'sg n']",8
+1187,ORG,"['pl n', '?']",10
+2970,PER,"['pl n', '?']",5
+1188,ORG,"['pl n', 'n']",1
+1189,ORG,"['pl n', 'pl g', 'sg g']",1
+2971,PER,"['pl n', 'pl g']",1
+1190,ORG,"['pl n', 'pl g']",1
+1191,ORG,"['pl n', 'pl kom']",1
+2972,PER,"['pl n', 'pl kom']",3
+1192,ORG,"['pl n', 'pl n', 'sg n']",1
+2973,PER,"['pl n', 'pl n', 'sg n']",2
+1193,ORG,"['pl n', 'pl n']",12
+2974,PER,"['pl n', 'pl n']",43
+124,LOC,"['pl n', 'pl n']",2
+2975,PER,"['pl n', 'pl p']",1
+1194,ORG,"['pl n', 'sg abl']",2
+2976,PER,"['pl n', 'sg abl']",2
+1195,ORG,"['pl n', 'sg ad', 'sg g', 'sg in']",1
+1196,ORG,"['pl n', 'sg ad', 'sg g']",1
+1197,ORG,"['pl n', 'sg ad']",3
+2977,PER,"['pl n', 'sg ad']",2
+2978,PER,"['pl n', 'sg all']",2
+125,LOC,"['pl n', 'sg all']",1
+1198,ORG,"['pl n', 'sg all']",3
+2979,PER,"['pl n', 'sg el']",6
+1199,ORG,"['pl n', 'sg el']",3
+1200,ORG,"['pl n', 'sg es', 'sg n']",1
+1201,ORG,"['pl n', 'sg g', '', 'sg g', '?']",1
+1202,ORG,"['pl n', 'sg g', '', 'sg g']",1
+1203,ORG,"['pl n', 'sg g', 'adt']",1
+1204,ORG,"['pl n', 'sg g', 'pl all']",1
+1205,ORG,"['pl n', 'sg g', 'pl el']",1
+1206,ORG,"['pl n', 'sg g', 'pl in']",2
+1207,ORG,"['pl n', 'sg g', 'sg ad']",1
+1208,ORG,"['pl n', 'sg g', 'sg g', 'sg abl']",1
+1209,ORG,"['pl n', 'sg g', 'sg g', 'sg in']",1
+2980,PER,"['pl n', 'sg g', 'sg g']",2
+1210,ORG,"['pl n', 'sg g', 'sg g']",9
+1211,ORG,"['pl n', 'sg g', 'sg in']",8
+1212,ORG,"['pl n', 'sg g', 'sg n']",3
+1213,ORG,"['pl n', 'sg g']",62
+2981,PER,"['pl n', 'sg g']",106
+2982,PER,"['pl n', 'sg ill']",1
+1214,ORG,"['pl n', 'sg in', '']",4
+1215,ORG,"['pl n', 'sg in', 'sg n']",1
+2983,PER,"['pl n', 'sg in']",7
+1216,ORG,"['pl n', 'sg in']",2
+126,LOC,"['pl n', 'sg in']",1
+2984,PER,"['pl n', 'sg kom']",16
+1217,ORG,"['pl n', 'sg kom']",4
+1218,ORG,"['pl n', 'sg n', '', '?', '', 'sg g']",1
+1219,ORG,"['pl n', 'sg n', '', '?']",3
+1220,ORG,"['pl n', 'sg n', '', 'sg n', '']",1
+1221,ORG,"['pl n', 'sg n', '', 'sg n', 'sg n', 'sg n']",2
+1222,ORG,"['pl n', 'sg n', '', 'sg n', 'sg n']",1
+1223,ORG,"['pl n', 'sg n', '']",9
+1224,ORG,"['pl n', 'sg n', '?', '?']",3
+1225,ORG,"['pl n', 'sg n', '?', 'sg n']",1
+1226,ORG,"['pl n', 'sg n', '?']",3
+2985,PER,"['pl n', 'sg n', '?']",1
+1227,ORG,"['pl n', 'sg n', 'pl n', 'pl n', 'sg n']",2
+1228,ORG,"['pl n', 'sg n', 'pl n', 'sg n', 'sg n']",1
+2986,PER,"['pl n', 'sg n', 'pl n', 'sg n']",1
+1229,ORG,"['pl n', 'sg n', 'pl n']",1
+2987,PER,"['pl n', 'sg n', 'pl n']",1
+1230,ORG,"['pl n', 'sg n', 'sg g']",11
+2988,PER,"['pl n', 'sg n', 'sg g']",7
+1231,ORG,"['pl n', 'sg n', 'sg in', 'sg g']",1
+1232,ORG,"['pl n', 'sg n', 'sg in']",1
+2989,PER,"['pl n', 'sg n', 'sg kom']",2
+1233,ORG,"['pl n', 'sg n', 'sg n', '', 'sg n']",1
+1234,ORG,"['pl n', 'sg n', 'sg n', '']",1
+1235,ORG,"['pl n', 'sg n', 'sg n', 'sg g']",1
+1236,ORG,"['pl n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'pl n', '', 'pl n']",1
+2990,PER,"['pl n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+1237,ORG,"['pl n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2991,PER,"['pl n', 'sg n', 'sg n', 'sg n']",5
+1238,ORG,"['pl n', 'sg n', 'sg n', 'sg n']",6
+2992,PER,"['pl n', 'sg n', 'sg n']",38
+1239,ORG,"['pl n', 'sg n', 'sg n']",39
+1240,ORG,"['pl n', 'sg n', 'sg p']",1
+1241,ORG,"['pl n', 'sg n']",121
+2993,PER,"['pl n', 'sg n']",373
+127,LOC,"['pl n', 'sg p']",1
+1242,ORG,"['pl n', 'sg p']",1
+2994,PER,"['pl n', 'sg p']",3
+2995,PER,"['pl n', 'sg tr']",1
+2996,PER,['pl n'],1401
+128,LOC,['pl n'],195
+1243,ORG,['pl n'],369
+1244,ORG,"['pl p', '', '?']",3
+1245,ORG,"['pl p', '', 'pl p']",1
+129,LOC,"['pl p', '', 'sg g']",1
+1246,ORG,"['pl p', '', 'sg g']",1
+1247,ORG,"['pl p', '', 'sg p']",1
+2997,PER,"['pl p', '?', '', 'sg n']",2
+2998,PER,"['pl p', '?', '?']",1
+130,LOC,"['pl p', '?', 'adt']",1
+2999,PER,"['pl p', '?', 'sg g']",3
+1248,ORG,"['pl p', '?', 'sg in']",1
+1249,ORG,"['pl p', '?', 'sg n']",1
+3000,PER,"['pl p', '?', 'sg n']",3
+3001,PER,"['pl p', '?']",12
+1250,ORG,"['pl p', '?']",1
+3002,PER,"['pl p', 'adt']",3
+3003,PER,"['pl p', 'n']",1
+3004,PER,"['pl p', 'pl g']",1
+1251,ORG,"['pl p', 'pl g']",1
+3005,PER,"['pl p', 'pl n']",1
+1252,ORG,"['pl p', 'pl p']",6
+3006,PER,"['pl p', 'sg ab']",1
+1253,ORG,"['pl p', 'sg abl', 'sg el', 'sg el']",1
+3007,PER,"['pl p', 'sg abl']",1
+131,LOC,"['pl p', 'sg ad']",1
+3008,PER,"['pl p', 'sg ad']",6
+3009,PER,"['pl p', 'sg all']",6
+3010,PER,"['pl p', 'sg el']",4
+1254,ORG,"['pl p', 'sg el']",2
+3011,PER,"['pl p', 'sg g', '', 'sg n']",1
+3012,PER,"['pl p', 'sg g', '?']",1
+1255,ORG,"['pl p', 'sg g', 'pl p']",1
+1256,ORG,"['pl p', 'sg g', 'sg g']",3
+1257,ORG,"['pl p', 'sg g', 'sg n', 'sg n']",1
+3013,PER,"['pl p', 'sg g', 'sg n']",1
+1258,ORG,"['pl p', 'sg g']",23
+3014,PER,"['pl p', 'sg g']",128
+1259,ORG,"['pl p', 'sg in']",2
+132,LOC,"['pl p', 'sg in']",1
+3015,PER,"['pl p', 'sg in']",2
+3016,PER,"['pl p', 'sg kom']",11
+1260,ORG,"['pl p', 'sg kom']",2
+3017,PER,"['pl p', 'sg n', '', '?']",2
+3018,PER,"['pl p', 'sg n', 'sg g']",1
+1261,ORG,"['pl p', 'sg n', 'sg n', 'sg n']",1
+3019,PER,"['pl p', 'sg n', 'sg n']",8
+3020,PER,"['pl p', 'sg n']",285
+1262,ORG,"['pl p', 'sg n']",31
+133,LOC,"['pl p', 'sg n']",1
+3021,PER,"['pl p', 'sg p']",9
+3022,PER,"['pl p', 'sg ter']",1
+3023,PER,['pl p'],176
+1263,ORG,['pl p'],140
+134,LOC,['pl p'],46
+1264,ORG,"['pl ter', 'sg in', '', 'sg g', 'sg in']",1
+3024,PER,['pl ter'],2
+1265,ORG,['pl ter'],1
+135,LOC,['pl ter'],4
+1266,ORG,"['pl tr', 'sg n', '?']",1
+1267,ORG,['pl tr'],1
+136,LOC,['pl tr'],5
+1268,ORG,"['s', 'pl g', 'sg g']",1
+1269,ORG,"['s', 'pl g']",1
+1270,ORG,"['s', 'sg g']",5
+137,LOC,"['s', 'sg g']",1
+3025,PER,"['s', 'sg g']",1
+1271,ORG,"['s', 'sg ill']",1
+1272,ORG,"['s', 'sg in', 'sg g']",1
+1273,ORG,"['s', 'sg n', 'sg g']",1
+1274,ORG,"['s', 'sg n']",2
+3026,PER,"['s', 'sg n']",13
+1275,ORG,['s'],6
+3027,PER,['s'],19
+138,LOC,['s'],5
+3028,PER,"['sg ab', '?']",1
+3029,PER,"['sg ab', 'adt']",1
+3030,PER,"['sg ab', 'sg ad']",1
+1276,ORG,"['sg ab', 'sg el']",1
+3031,PER,"['sg ab', 'sg el']",2
+3032,PER,"['sg ab', 'sg g']",16
+1277,ORG,"['sg ab', 'sg g']",5
+3033,PER,"['sg ab', 'sg kom']",3
+3034,PER,"['sg ab', 'sg n', 'sg kom']",1
+1278,ORG,"['sg ab', 'sg n', 'sg n']",2
+1279,ORG,"['sg ab', 'sg n']",12
+3035,PER,"['sg ab', 'sg n']",22
+3036,PER,"['sg ab', 'sg p']",2
+3037,PER,['sg ab'],66
+139,LOC,['sg ab'],27
+1280,ORG,['sg ab'],11
+1281,ORG,"['sg abl', '', 'sg abl']",1
+140,LOC,"['sg abl', '', 'sg abl']",1
+141,LOC,"['sg abl', '', 'sg el']",1
+1282,ORG,"['sg abl', '', 'sg g', 'sg abl']",1
+142,LOC,"['sg abl', '', 'sg g', 'sg g']",1
+143,LOC,"['sg abl', '']",3
+1283,ORG,"['sg abl', '']",1
+1284,ORG,"['sg abl', '?', 'sg g', '?', '', '?']",1
+1285,ORG,"['sg abl', '?', 'sg n']",2
+1286,ORG,"['sg abl', '?']",2
+144,LOC,"['sg abl', '?']",3
+3038,PER,"['sg abl', '?']",1
+3039,PER,"['sg abl', 'adt']",1
+1287,ORG,"['sg abl', 'adt']",1
+145,LOC,"['sg abl', 'adt']",3
+1288,ORG,"['sg abl', 'pl g', 'sg g']",1
+1289,ORG,"['sg abl', 'pl g']",1
+1290,ORG,"['sg abl', 'pl p']",1
+1291,ORG,"['sg abl', 'sg abl']",2
+1292,ORG,"['sg abl', 'sg all']",2
+146,LOC,"['sg abl', 'sg all']",5
+3040,PER,"['sg abl', 'sg all']",1
+1293,ORG,"['sg abl', 'sg el']",4
+147,LOC,"['sg abl', 'sg el']",2
+1294,ORG,"['sg abl', 'sg g', '?']",1
+1295,ORG,"['sg abl', 'sg g', 'sg g', 'adt']",1
+1296,ORG,"['sg abl', 'sg g', 'sg g']",5
+1297,ORG,"['sg abl', 'sg g', 'sg ill']",1
+1298,ORG,"['sg abl', 'sg g', 'sg n']",6
+3041,PER,"['sg abl', 'sg g']",1
+1299,ORG,"['sg abl', 'sg g']",21
+148,LOC,"['sg abl', 'sg g']",8
+149,LOC,"['sg abl', 'sg ill']",1
+1300,ORG,"['sg abl', 'sg in']",2
+1301,ORG,"['sg abl', 'sg n', '?']",1
+1302,ORG,"['sg abl', 'sg n', 'sg el']",2
+3042,PER,"['sg abl', 'sg n', 'sg g']",1
+1303,ORG,"['sg abl', 'sg n', 'sg g']",2
+1304,ORG,"['sg abl', 'sg n', 'sg in']",2
+1305,ORG,"['sg abl', 'sg n', 'sg n']",9
+3043,PER,"['sg abl', 'sg n', 'sg n']",2
+3044,PER,"['sg abl', 'sg n']",7
+1306,ORG,"['sg abl', 'sg n']",8
+3045,PER,"['sg abl', 'sg p']",1
+150,LOC,"['sg abl', 'sg ter']",1
+3046,PER,['sg abl'],656
+1307,ORG,['sg abl'],271
+151,LOC,['sg abl'],2138
+1308,ORG,"['sg ad', '', '']",1
+152,LOC,"['sg ad', '', 'sg ad', '', 'sg ad']",1
+153,LOC,"['sg ad', '', 'sg ad']",10
+154,LOC,"['sg ad', '', 'sg g']",1
+1309,ORG,"['sg ad', '', 'sg g']",2
+155,LOC,"['sg ad', '', 'sg in', '', 'sg ad']",1
+156,LOC,"['sg ad', '', 'sg in']",1
+157,LOC,"['sg ad', '', 'sg n', 'sg in']",1
+3047,PER,"['sg ad', '', 'sg n', 'sg n']",1
+1310,ORG,"['sg ad', '']",4
+3048,PER,"['sg ad', '']",1
+158,LOC,"['sg ad', '']",8
+1311,ORG,"['sg ad', '?', '', '?']",1
+3049,PER,"['sg ad', '?', 'sg el']",1
+1312,ORG,"['sg ad', '?', 'sg g']",3
+1313,ORG,"['sg ad', '?', 'sg in']",2
+1314,ORG,"['sg ad', '?', 'sg kom']",1
+3050,PER,"['sg ad', '?', 'sg n']",1
+1315,ORG,"['sg ad', '?']",3
+3051,PER,"['sg ad', '?']",3
+159,LOC,"['sg ad', '?']",1
+1316,ORG,"['sg ad', 'adt', '?']",1
+1317,ORG,"['sg ad', 'adt']",3
+160,LOC,"['sg ad', 'adt']",2
+3052,PER,"['sg ad', 'adt']",3
+1318,ORG,"['sg ad', 'pl all']",1
+1319,ORG,"['sg ad', 'pl g', 'sg ad']",1
+1320,ORG,"['sg ad', 'pl g', 'sg g', 'sg in', 'sg g']",1
+1321,ORG,"['sg ad', 'pl g', 'sg g', 'sg n']",1
+1322,ORG,"['sg ad', 'pl g', 'sg g']",1
+1323,ORG,"['sg ad', 'pl g', 'sg n', 'sg in']",1
+161,LOC,"['sg ad', 'pl g']",1
+3053,PER,"['sg ad', 'pl g']",1
+1324,ORG,"['sg ad', 'pl in']",1
+1325,ORG,"['sg ad', 'sg abl']",1
+1326,ORG,"['sg ad', 'sg ad', '', '']",1
+1327,ORG,"['sg ad', 'sg ad']",30
+162,LOC,"['sg ad', 'sg ad']",9
+3054,PER,"['sg ad', 'sg ad']",2
+3055,PER,"['sg ad', 'sg all']",2
+1328,ORG,"['sg ad', 'sg all']",4
+1329,ORG,"['sg ad', 'sg el', 'sg n', 'sg g']",1
+3056,PER,"['sg ad', 'sg el']",2
+1330,ORG,"['sg ad', 'sg el']",1
+163,LOC,"['sg ad', 'sg el']",2
+1331,ORG,"['sg ad', 'sg g', 'pl g', 'sg g']",1
+1332,ORG,"['sg ad', 'sg g', 'pl g']",5
+164,LOC,"['sg ad', 'sg g', 'sg ad']",1
+1333,ORG,"['sg ad', 'sg g', 'sg ad']",4
+1334,ORG,"['sg ad', 'sg g', 'sg all']",1
+1335,ORG,"['sg ad', 'sg g', 'sg g', 'sg g']",2
+1336,ORG,"['sg ad', 'sg g', 'sg g']",10
+165,LOC,"['sg ad', 'sg g', 'sg g']",1
+1337,ORG,"['sg ad', 'sg g', 'sg in']",6
+1338,ORG,"['sg ad', 'sg g', 'sg kom']",2
+1339,ORG,"['sg ad', 'sg g', 'sg n']",8
+166,LOC,"['sg ad', 'sg g']",26
+3057,PER,"['sg ad', 'sg g']",33
+1340,ORG,"['sg ad', 'sg g']",79
+1341,ORG,"['sg ad', 'sg in', 'sg ad']",2
+1342,ORG,"['sg ad', 'sg in', 'sg g', 'sg in']",1
+1343,ORG,"['sg ad', 'sg in', 'sg g', 'sg n']",1
+1344,ORG,"['sg ad', 'sg in', 'sg in']",2
+1345,ORG,"['sg ad', 'sg in']",32
+3058,PER,"['sg ad', 'sg in']",3
+167,LOC,"['sg ad', 'sg in']",15
+1346,ORG,"['sg ad', 'sg kom']",2
+3059,PER,"['sg ad', 'sg kom']",4
+1347,ORG,"['sg ad', 'sg n', '']",1
+1348,ORG,"['sg ad', 'sg n', '?']",1
+1349,ORG,"['sg ad', 'sg n', 'sg g', 'sg n']",1
+1350,ORG,"['sg ad', 'sg n', 'sg g']",9
+3060,PER,"['sg ad', 'sg n', 'sg g']",4
+168,LOC,"['sg ad', 'sg n', 'sg g']",1
+1351,ORG,"['sg ad', 'sg n', 'sg in']",2
+1352,ORG,"['sg ad', 'sg n', 'sg n', 'sg n', 'sg n']",1
+1353,ORG,"['sg ad', 'sg n', 'sg n']",9
+3061,PER,"['sg ad', 'sg n', 'sg n']",3
+1354,ORG,"['sg ad', 'sg n']",23
+3062,PER,"['sg ad', 'sg n']",36
+169,LOC,"['sg ad', 'sg n']",5
+1355,ORG,"['sg ad', 'sg p']",3
+1356,ORG,"['sg ad', 'tud']",2
+1357,ORG,['sg ad'],1011
+3063,PER,['sg ad'],2991
+170,LOC,['sg ad'],9613
+1358,ORG,"['sg all', '', 'sg all']",12
+171,LOC,"['sg all', '', 'sg all']",1
+172,LOC,"['sg all', '', 'sg g']",1
+3064,PER,"['sg all', '', 'sg g']",2
+1359,ORG,"['sg all', '', 'sg g']",1
+1360,ORG,"['sg all', '', 'sg n', '']",1
+1361,ORG,"['sg all', '', 'sg n']",1
+173,LOC,"['sg all', '']",2
+3065,PER,"['sg all', '']",4
+1362,ORG,"['sg all', '']",5
+1363,ORG,"['sg all', '?', 'pl n']",2
+1364,ORG,"['sg all', '?', 'sg all']",1
+1365,ORG,"['sg all', '?', 'sg g', 'sg g', 'sg g']",1
+1366,ORG,"['sg all', '?', 'sg g']",1
+1367,ORG,"['sg all', '?', 'sg n', 'sg n', '?']",1
+1368,ORG,"['sg all', '?', 'sg n']",1
+3066,PER,"['sg all', '?']",4
+174,LOC,"['sg all', '?']",1
+1369,ORG,"['sg all', '?']",11
+1370,ORG,"['sg all', 'adt', 'sg in']",1
+1371,ORG,"['sg all', 'adt']",3
+3067,PER,"['sg all', 'adt']",4
+175,LOC,"['sg all', 'adt']",9
+1372,ORG,"['sg all', 'pl g', '?']",1
+1373,ORG,"['sg all', 'pl g', 'pl n']",1
+1374,ORG,"['sg all', 'pl g', 'sg n']",2
+3068,PER,"['sg all', 'pl g']",1
+1375,ORG,"['sg all', 'pl g']",1
+1376,ORG,"['sg all', 'pl n']",3
+1377,ORG,"['sg all', 'sg ad', 'pl n']",1
+1378,ORG,"['sg all', 'sg all', 'sg n', 'sg n']",1
+1379,ORG,"['sg all', 'sg all']",46
+176,LOC,"['sg all', 'sg all']",3
+3069,PER,"['sg all', 'sg all']",1
+1380,ORG,"['sg all', 'sg el']",2
+3070,PER,"['sg all', 'sg el']",3
+1381,ORG,"['sg all', 'sg g', '?']",2
+1382,ORG,"['sg all', 'sg g', 'adt']",1
+1383,ORG,"['sg all', 'sg g', 'pl g']",1
+1384,ORG,"['sg all', 'sg g', 'sg all']",2
+1385,ORG,"['sg all', 'sg g', 'sg el']",2
+1386,ORG,"['sg all', 'sg g', 'sg g', 'sg g', 'sg g']",2
+1387,ORG,"['sg all', 'sg g', 'sg g']",25
+1388,ORG,"['sg all', 'sg g', 'sg in']",2
+1389,ORG,"['sg all', 'sg g', 'sg kom']",2
+1390,ORG,"['sg all', 'sg g', 'sg n', 'sg el', '?']",1
+1391,ORG,"['sg all', 'sg g', 'sg n']",12
+1392,ORG,"['sg all', 'sg g', 'sg p']",1
+1393,ORG,"['sg all', 'sg g']",65
+3071,PER,"['sg all', 'sg g']",18
+177,LOC,"['sg all', 'sg g']",8
+1394,ORG,"['sg all', 'sg ill']",1
+1395,ORG,"['sg all', 'sg in']",7
+3072,PER,"['sg all', 'sg in']",1
+178,LOC,"['sg all', 'sg in']",1
+3073,PER,"['sg all', 'sg kom']",2
+1396,ORG,"['sg all', 'sg n', '', 'sg n']",2
+1397,ORG,"['sg all', 'sg n', '?', 'sg n']",1
+3074,PER,"['sg all', 'sg n', 'sg all']",1
+1398,ORG,"['sg all', 'sg n', 'sg g', 'sg g']",1
+1399,ORG,"['sg all', 'sg n', 'sg g']",4
+1400,ORG,"['sg all', 'sg n', 'sg n', 'sg el']",1
+1401,ORG,"['sg all', 'sg n', 'sg n', 'sg n', 'sg g', 'sg el']",1
+3075,PER,"['sg all', 'sg n', 'sg n']",5
+1402,ORG,"['sg all', 'sg n', 'sg n']",16
+1403,ORG,"['sg all', 'sg n']",48
+3076,PER,"['sg all', 'sg n']",8
+179,LOC,"['sg all', 'sg n']",2
+1404,ORG,"['sg all', 'sg p']",1
+3077,PER,"['sg all', 'sg p']",1
+180,LOC,"['sg all', 'sg tr']",1
+3078,PER,['sg all'],2332
+181,LOC,['sg all'],4367
+1405,ORG,['sg all'],1824
+1406,ORG,"['sg el', '', '', 'sg n', 'sg el']",1
+182,LOC,"['sg el', '', '?', 'sg n']",1
+183,LOC,"['sg el', '', 'adt']",1
+184,LOC,"['sg el', '', 'pl g']",2
+185,LOC,"['sg el', '', 'sg abl']",1
+186,LOC,"['sg el', '', 'sg el', '?']",1
+1407,ORG,"['sg el', '', 'sg el']",2
+187,LOC,"['sg el', '', 'sg el']",10
+188,LOC,"['sg el', '', 'sg g']",1
+3079,PER,"['sg el', '', 'sg g']",1
+3080,PER,"['sg el', '']",4
+1408,ORG,"['sg el', '']",1
+189,LOC,"['sg el', '']",4
+1409,ORG,"['sg el', '?', '']",1
+190,LOC,"['sg el', '?', 'adt']",1
+191,LOC,"['sg el', '?', 'pl el']",1
+1410,ORG,"['sg el', '?', 'sg g', 'sg n']",1
+1411,ORG,"['sg el', '?', 'sg n', 'sg n']",2
+1412,ORG,"['sg el', '?', 'sg n']",8
+1413,ORG,"['sg el', '?', 'sg ter']",3
+1414,ORG,"['sg el', '?']",2
+192,LOC,"['sg el', '?']",7
+3081,PER,"['sg el', '?']",3
+1415,ORG,"['sg el', 'adt']",18
+193,LOC,"['sg el', 'adt']",15
+3082,PER,"['sg el', 'adt']",9
+194,LOC,"['sg el', 'pl abl']",1
+1416,ORG,"['sg el', 'pl all']",1
+1417,ORG,"['sg el', 'pl g', 'adt']",1
+1418,ORG,"['sg el', 'pl g', 'sg tr', '']",1
+3083,PER,"['sg el', 'pl g']",1
+1419,ORG,"['sg el', 'pl g']",1
+1420,ORG,"['sg el', 'pl ill']",1
+195,LOC,"['sg el', 'pl ill']",1
+1421,ORG,"['sg el', 'pl p', 'sg n']",1
+1422,ORG,"['sg el', 'pl p']",1
+3084,PER,"['sg el', 'pl ter']",1
+196,LOC,"['sg el', 'pl ter']",1
+1423,ORG,"['sg el', 's']",1
+1424,ORG,"['sg el', 'sg abl']",1
+197,LOC,"['sg el', 'sg ad']",2
+198,LOC,"['sg el', 'sg all']",17
+3085,PER,"['sg el', 'sg all']",3
+1425,ORG,"['sg el', 'sg all']",3
+1426,ORG,"['sg el', 'sg el', '']",1
+1427,ORG,"['sg el', 'sg el', 'sg el']",2
+1428,ORG,"['sg el', 'sg el', 'sg g', 'sg n', 'sg n']",1
+199,LOC,"['sg el', 'sg el']",2
+3086,PER,"['sg el', 'sg el']",2
+1429,ORG,"['sg el', 'sg el']",52
+1430,ORG,"['sg el', 'sg g', '', 'sg g']",1
+1431,ORG,"['sg el', 'sg g', '']",1
+1432,ORG,"['sg el', 'sg g', '?']",2
+1433,ORG,"['sg el', 'sg g', 'adt']",1
+200,LOC,"['sg el', 'sg g', 'pl all']",1
+201,LOC,"['sg el', 'sg g', 'pl p']",1
+1434,ORG,"['sg el', 'sg g', 'sg all']",4
+202,LOC,"['sg el', 'sg g', 'sg el']",1
+1435,ORG,"['sg el', 'sg g', 'sg el']",6
+1436,ORG,"['sg el', 'sg g', 'sg g', '?']",2
+1437,ORG,"['sg el', 'sg g', 'sg g', 'sg all']",1
+1438,ORG,"['sg el', 'sg g', 'sg g', 'sg g']",2
+1439,ORG,"['sg el', 'sg g', 'sg g', 'sg n']",1
+3087,PER,"['sg el', 'sg g', 'sg g']",1
+1440,ORG,"['sg el', 'sg g', 'sg g']",15
+3088,PER,"['sg el', 'sg g', 'sg ill']",1
+1441,ORG,"['sg el', 'sg g', 'sg ill']",2
+1442,ORG,"['sg el', 'sg g', 'sg in']",4
+1443,ORG,"['sg el', 'sg g', 'sg n']",13
+1444,ORG,"['sg el', 'sg g', 'sg p']",1
+3089,PER,"['sg el', 'sg g', 'sg ter']",1
+203,LOC,"['sg el', 'sg g']",27
+3090,PER,"['sg el', 'sg g']",38
+1445,ORG,"['sg el', 'sg g']",78
+1446,ORG,"['sg el', 'sg ill', 'sg g', 'sg g']",1
+1447,ORG,"['sg el', 'sg ill', 'sg g']",1
+1448,ORG,"['sg el', 'sg ill']",11
+3091,PER,"['sg el', 'sg ill']",6
+204,LOC,"['sg el', 'sg ill']",9
+205,LOC,"['sg el', 'sg in']",2
+1449,ORG,"['sg el', 'sg in']",8
+3092,PER,"['sg el', 'sg in']",3
+3093,PER,"['sg el', 'sg kom']",1
+206,LOC,"['sg el', 'sg kom']",1
+1450,ORG,"['sg el', 'sg n', '']",1
+1451,ORG,"['sg el', 'sg n', '?', '', '?']",1
+1452,ORG,"['sg el', 'sg n', '?']",1
+1453,ORG,"['sg el', 'sg n', 'adt']",1
+1454,ORG,"['sg el', 'sg n', 'sg ad']",1
+207,LOC,"['sg el', 'sg n', 'sg all']",1
+1455,ORG,"['sg el', 'sg n', 'sg el']",1
+3094,PER,"['sg el', 'sg n', 'sg el']",1
+3095,PER,"['sg el', 'sg n', 'sg g', 'sg n']",1
+1456,ORG,"['sg el', 'sg n', 'sg g']",11
+3096,PER,"['sg el', 'sg n', 'sg g']",5
+1457,ORG,"['sg el', 'sg n', 'sg in']",4
+1458,ORG,"['sg el', 'sg n', 'sg n', '']",1
+1459,ORG,"['sg el', 'sg n', 'sg n', '?', '?']",1
+3097,PER,"['sg el', 'sg n', 'sg n', 'sg n']",1
+1460,ORG,"['sg el', 'sg n', 'sg n']",46
+3098,PER,"['sg el', 'sg n', 'sg n']",3
+208,LOC,"['sg el', 'sg n', 'sg n']",2
+1461,ORG,"['sg el', 'sg n', 'sg ter']",1
+3099,PER,"['sg el', 'sg n', 'sg ter']",1
+1462,ORG,"['sg el', 'sg n']",29
+3100,PER,"['sg el', 'sg n']",18
+209,LOC,"['sg el', 'sg n']",5
+3101,PER,"['sg el', 'sg p']",1
+210,LOC,"['sg el', 'sg p']",2
+1463,ORG,"['sg el', 'sg ter']",7
+211,LOC,"['sg el', 'sg ter']",15
+3102,PER,"['sg el', 'sg ter']",12
+1464,ORG,"['sg el', 'sg tr']",1
+212,LOC,['sg el'],9244
+3103,PER,['sg el'],1829
+1465,ORG,['sg el'],929
+1466,ORG,"['sg es', '?']",1
+1467,ORG,"['sg es', 'sg all']",1
+1468,ORG,"['sg es', 'sg g']",2
+3104,PER,"['sg es', 'sg g']",7
+213,LOC,"['sg es', 'sg in']",1
+3105,PER,"['sg es', 'sg n', 'sg g']",1
+3106,PER,"['sg es', 'sg n']",39
+1469,ORG,"['sg es', 'sg n']",5
+1470,ORG,"['sg es', 'sg p']",1
+214,LOC,['sg es'],19
+3107,PER,['sg es'],51
+1471,ORG,['sg es'],16
+1472,ORG,"['sg g', '', '', '', 'sg g', '?']",1
+1473,ORG,"['sg g', '', '', '', 'sg g']",1
+1474,ORG,"['sg g', '', '', '?']",1
+1475,ORG,"['sg g', '', '', 'sg ab']",1
+3108,PER,"['sg g', '', '', 'sg g', '', '']",1
+3109,PER,"['sg g', '', '', 'sg g']",3
+215,LOC,"['sg g', '', '']",1
+1476,ORG,"['sg g', '', '']",8
+3110,PER,"['sg g', '', '']",1
+3111,PER,"['sg g', '', '?', '', 'sg g']",1
+216,LOC,"['sg g', '', '?', '']",1
+1477,ORG,"['sg g', '', '?', 'sg g', 'sg all']",1
+1478,ORG,"['sg g', '', '?', 'sg g']",2
+1479,ORG,"['sg g', '', '?', 'sg n']",1
+3112,PER,"['sg g', '', '?']",6
+1480,ORG,"['sg g', '', '?']",7
+217,LOC,"['sg g', '', '?']",2
+1481,ORG,"['sg g', '', 'adt']",1
+1482,ORG,"['sg g', '', 'pl g', 'sg g']",5
+1483,ORG,"['sg g', '', 'pl g', 'sg n']",1
+1484,ORG,"['sg g', '', 'pl g']",3
+218,LOC,"['sg g', '', 'pl g']",3
+219,LOC,"['sg g', '', 'pl kom']",2
+220,LOC,"['sg g', '', 'sg ad', '', 'sg ad']",1
+221,LOC,"['sg g', '', 'sg ad', '?', 'sg g']",1
+222,LOC,"['sg g', '', 'sg ad']",10
+1485,ORG,"['sg g', '', 'sg ad']",1
+3113,PER,"['sg g', '', 'sg all']",1
+1486,ORG,"['sg g', '', 'sg all']",2
+223,LOC,"['sg g', '', 'sg el']",4
+1487,ORG,"['sg g', '', 'sg el']",2
+3114,PER,"['sg g', '', 'sg es']",1
+224,LOC,"['sg g', '', 'sg g', '', 'sg ad']",2
+225,LOC,"['sg g', '', 'sg g', '', 'sg g', '', 'sg g']",1
+226,LOC,"['sg g', '', 'sg g', '', 'sg g', 'pl g']",1
+227,LOC,"['sg g', '', 'sg g', '', 'sg g', 'sg g']",1
+228,LOC,"['sg g', '', 'sg g', '', 'sg g']",17
+1488,ORG,"['sg g', '', 'sg g', '', 'sg n', 'sg g']",1
+229,LOC,"['sg g', '', 'sg g', '', 'sg n']",1
+1489,ORG,"['sg g', '', 'sg g', '?']",3
+230,LOC,"['sg g', '', 'sg g', '?']",10
+1490,ORG,"['sg g', '', 'sg g', 'adt']",1
+231,LOC,"['sg g', '', 'sg g', 'pl g']",1
+1491,ORG,"['sg g', '', 'sg g', 'pl g']",2
+232,LOC,"['sg g', '', 'sg g', 'pl in']",1
+233,LOC,"['sg g', '', 'sg g', 'pl kom']",1
+1492,ORG,"['sg g', '', 'sg g', 'pl n']",3
+1493,ORG,"['sg g', '', 'sg g', 'sg abl']",1
+234,LOC,"['sg g', '', 'sg g', 'sg ad']",1
+1494,ORG,"['sg g', '', 'sg g', 'sg all', '', '?']",2
+1495,ORG,"['sg g', '', 'sg g', 'sg el']",1
+235,LOC,"['sg g', '', 'sg g', 'sg el']",1
+1496,ORG,"['sg g', '', 'sg g', 'sg es']",1
+1497,ORG,"['sg g', '', 'sg g', 'sg g', 'sg g', '?', 'sg n']",1
+1498,ORG,"['sg g', '', 'sg g', 'sg g', 'sg g']",6
+236,LOC,"['sg g', '', 'sg g', 'sg g']",5
+1499,ORG,"['sg g', '', 'sg g', 'sg g']",14
+1500,ORG,"['sg g', '', 'sg g', 'sg in']",4
+237,LOC,"['sg g', '', 'sg g', 'sg in']",4
+1501,ORG,"['sg g', '', 'sg g', 'sg n']",21
+1502,ORG,"['sg g', '', 'sg g', 'sg p']",1
+1503,ORG,"['sg g', '', 'sg g']",177
+238,LOC,"['sg g', '', 'sg g']",160
+3115,PER,"['sg g', '', 'sg g']",27
+239,LOC,"['sg g', '', 'sg in']",9
+1504,ORG,"['sg g', '', 'sg in']",2
+3116,PER,"['sg g', '', 'sg kom']",1
+240,LOC,"['sg g', '', 'sg kom']",1
+1505,ORG,"['sg g', '', 'sg kom']",7
+1506,ORG,"['sg g', '', 'sg n', '']",1
+241,LOC,"['sg g', '', 'sg n', '?']",1
+1507,ORG,"['sg g', '', 'sg n', 'sg g']",1
+1508,ORG,"['sg g', '', 'sg n', 'sg kom']",1
+1509,ORG,"['sg g', '', 'sg n', 'sg n', '', 'sg n']",1
+3117,PER,"['sg g', '', 'sg n', 'sg n']",1
+1510,ORG,"['sg g', '', 'sg n']",29
+3118,PER,"['sg g', '', 'sg n']",10
+242,LOC,"['sg g', '', 'sg n']",7
+1511,ORG,"['sg g', '', 'sg p']",1
+3119,PER,"['sg g', '', 'sg p']",2
+243,LOC,"['sg g', '', 'sg ter']",2
+1512,ORG,"['sg g', '']",35
+244,LOC,"['sg g', '']",20
+3120,PER,"['sg g', '']",32
+1513,ORG,"['sg g', '?', '', '?', '', '?']",1
+1514,ORG,"['sg g', '?', '', '?', '', 'sg n', 'sg n']",1
+1515,ORG,"['sg g', '?', '', '?', 'sg g']",1
+1516,ORG,"['sg g', '?', '', '?', 'sg in']",1
+1517,ORG,"['sg g', '?', '', '?']",4
+1518,ORG,"['sg g', '?', '', 'sg g', 'sg g', '?']",1
+3121,PER,"['sg g', '?', '', 'sg g']",4
+1519,ORG,"['sg g', '?', '', 'sg kom']",1
+1520,ORG,"['sg g', '?', '', 'sg n', 'sg n', '?']",1
+1521,ORG,"['sg g', '?', '', 'sg n', 'sg n']",1
+3122,PER,"['sg g', '?', '', 'sg n']",14
+1522,ORG,"['sg g', '?', '', 'sg n']",5
+1523,ORG,"['sg g', '?', '']",19
+1524,ORG,"['sg g', '?', '?', '', 'sg n', '']",1
+1525,ORG,"['sg g', '?', '?', '', 'sg n']",1
+1526,ORG,"['sg g', '?', '?', '']",3
+1527,ORG,"['sg g', '?', '?', 'sg n', 'sg g', '']",1
+1528,ORG,"['sg g', '?', '?', 'sg n']",5
+245,LOC,"['sg g', '?', '?']",1
+1529,ORG,"['sg g', '?', '?']",10
+1530,ORG,"['sg g', '?', 'pl g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg n']",1
+1531,ORG,"['sg g', '?', 'pl g', 'sg g']",2
+1532,ORG,"['sg g', '?', 'pl g']",1
+1533,ORG,"['sg g', '?', 'pl n']",1
+1534,ORG,"['sg g', '?', 'sg ad', 'sg g']",1
+1535,ORG,"['sg g', '?', 'sg ad']",2
+246,LOC,"['sg g', '?', 'sg ad']",1
+1536,ORG,"['sg g', '?', 'sg el']",1
+1537,ORG,"['sg g', '?', 'sg g', '?', 'sg g']",1
+1538,ORG,"['sg g', '?', 'sg g', '?']",2
+1539,ORG,"['sg g', '?', 'sg g', 'sg g', '?', 'sg g']",3
+1540,ORG,"['sg g', '?', 'sg g', 'sg g', 'sg all']",1
+1541,ORG,"['sg g', '?', 'sg g', 'sg g', 'sg g']",2
+1542,ORG,"['sg g', '?', 'sg g', 'sg g']",5
+247,LOC,"['sg g', '?', 'sg g', 'sg g']",1
+1543,ORG,"['sg g', '?', 'sg g', 'sg in', 'sg g', 'sg g']",1
+1544,ORG,"['sg g', '?', 'sg g', 'sg in']",2
+1545,ORG,"['sg g', '?', 'sg g', 'sg n', '']",1
+1546,ORG,"['sg g', '?', 'sg g', 'sg n']",1
+3123,PER,"['sg g', '?', 'sg g']",9
+1547,ORG,"['sg g', '?', 'sg g']",69
+248,LOC,"['sg g', '?', 'sg g']",48
+249,LOC,"['sg g', '?', 'sg ill']",2
+1548,ORG,"['sg g', '?', 'sg in']",7
+250,LOC,"['sg g', '?', 'sg in']",3
+1549,ORG,"['sg g', '?', 'sg kom']",1
+3124,PER,"['sg g', '?', 'sg kom']",1
+1550,ORG,"['sg g', '?', 'sg n', '', '?', 'sg n']",1
+1551,ORG,"['sg g', '?', 'sg n', '', 'sg n']",1
+251,LOC,"['sg g', '?', 'sg n', '?']",1
+1552,ORG,"['sg g', '?', 'sg n', 'sg g', 'sg n']",1
+1553,ORG,"['sg g', '?', 'sg n', 'sg g']",2
+1554,ORG,"['sg g', '?', 'sg n', 'sg n']",3
+3125,PER,"['sg g', '?', 'sg n', 'sg n']",1
+252,LOC,"['sg g', '?', 'sg n']",4
+3126,PER,"['sg g', '?', 'sg n']",3
+1555,ORG,"['sg g', '?', 'sg n']",54
+1556,ORG,"['sg g', '?', 'sg p']",1
+3127,PER,"['sg g', '?']",208
+253,LOC,"['sg g', '?']",129
+1557,ORG,"['sg g', '?']",692
+1558,ORG,"['sg g', 'adt', '', '?', 'sg g']",1
+1559,ORG,"['sg g', 'adt', '', 'sg g', 'sg g']",1
+1560,ORG,"['sg g', 'adt', '?']",1
+1561,ORG,"['sg g', 'adt', 'adt']",5
+1562,ORG,"['sg g', 'adt', 'sg el']",1
+1563,ORG,"['sg g', 'adt', 'sg g', 'sg g']",1
+1564,ORG,"['sg g', 'adt', 'sg g', 'sg in']",1
+254,LOC,"['sg g', 'adt', 'sg g']",1
+1565,ORG,"['sg g', 'adt', 'sg g']",4
+1566,ORG,"['sg g', 'adt', 'sg ill', 'adt']",1
+1567,ORG,"['sg g', 'adt', 'sg ill']",9
+1568,ORG,"['sg g', 'adt', 'sg in']",3
+1569,ORG,"['sg g', 'adt', 'sg n']",2
+1570,ORG,"['sg g', 'adt', 'sg p']",1
+1571,ORG,"['sg g', 'adt', 'tud', 'sg n']",1
+3128,PER,"['sg g', 'adt']",87
+1572,ORG,"['sg g', 'adt']",596
+255,LOC,"['sg g', 'adt']",354
+1573,ORG,"['sg g', 'nud', 'pl n']",1
+256,LOC,"['sg g', 'pl abl']",22
+3129,PER,"['sg g', 'pl abl']",2
+1574,ORG,"['sg g', 'pl abl']",5
+257,LOC,"['sg g', 'pl ad']",65
+3130,PER,"['sg g', 'pl ad']",3
+1575,ORG,"['sg g', 'pl ad']",6
+258,LOC,"['sg g', 'pl all']",49
+3131,PER,"['sg g', 'pl all']",2
+1576,ORG,"['sg g', 'pl all']",14
+1577,ORG,"['sg g', 'pl el', 'pl el']",1
+259,LOC,"['sg g', 'pl el']",68
+1578,ORG,"['sg g', 'pl el']",13
+1579,ORG,"['sg g', 'pl g', '', '', '?']",1
+1580,ORG,"['sg g', 'pl g', '', '?']",1
+1581,ORG,"['sg g', 'pl g', '', 'pl g', 'sg ad']",1
+1582,ORG,"['sg g', 'pl g', '', 'pl g', 'sg g', 'sg g']",1
+1583,ORG,"['sg g', 'pl g', '', 'pl g', 'sg g']",1
+1584,ORG,"['sg g', 'pl g', '', 'pl g', 'sg n']",5
+1585,ORG,"['sg g', 'pl g', '']",1
+1586,ORG,"['sg g', 'pl g', '?', '', '?', 'sg n']",1
+1587,ORG,"['sg g', 'pl g', '?', '', '?']",1
+1588,ORG,"['sg g', 'pl g', '?', '']",3
+1589,ORG,"['sg g', 'pl g', '?']",14
+3132,PER,"['sg g', 'pl g', '?']",1
+1590,ORG,"['sg g', 'pl g', 'adt']",30
+260,LOC,"['sg g', 'pl g', 'pl abl']",1
+1591,ORG,"['sg g', 'pl g', 'pl g', 'adt']",3
+1592,ORG,"['sg g', 'pl g', 'pl g', 'pl g', 'pl g', 'sg all']",1
+1593,ORG,"['sg g', 'pl g', 'pl g', 'pl g', 'sg in']",1
+1594,ORG,"['sg g', 'pl g', 'pl g', 'sg all']",1
+1595,ORG,"['sg g', 'pl g', 'pl g', 'sg g', 'sg n']",1
+1596,ORG,"['sg g', 'pl g', 'pl g', 'sg g']",29
+1597,ORG,"['sg g', 'pl g', 'pl g', 'sg ill']",1
+1598,ORG,"['sg g', 'pl g', 'pl g', 'sg in']",5
+1599,ORG,"['sg g', 'pl g', 'pl g', 'sg n', 'sg g']",1
+1600,ORG,"['sg g', 'pl g', 'pl g', 'sg n', 'sg n']",1
+1601,ORG,"['sg g', 'pl g', 'pl g', 'sg n']",18
+1602,ORG,"['sg g', 'pl g', 'pl g']",12
+1603,ORG,"['sg g', 'pl g', 'pl n']",5
+261,LOC,"['sg g', 'pl g', 'pl n']",1
+1604,ORG,"['sg g', 'pl g', 'sg abl']",4
+1605,ORG,"['sg g', 'pl g', 'sg ad']",14
+1606,ORG,"['sg g', 'pl g', 'sg all']",20
+1607,ORG,"['sg g', 'pl g', 'sg el']",17
+1608,ORG,"['sg g', 'pl g', 'sg g', '', 'sg g', 'sg g']",1
+1609,ORG,"['sg g', 'pl g', 'sg g', '', 'sg g']",1
+1610,ORG,"['sg g', 'pl g', 'sg g', 'pl g']",1
+1611,ORG,"['sg g', 'pl g', 'sg g', 'pl in']",1
+1612,ORG,"['sg g', 'pl g', 'sg g', 'pl n']",1
+1613,ORG,"['sg g', 'pl g', 'sg g', 'sg el']",2
+1614,ORG,"['sg g', 'pl g', 'sg g', 'sg g', 'sg g']",2
+1615,ORG,"['sg g', 'pl g', 'sg g', 'sg g', 'sg n', 'sg g']",1
+1616,ORG,"['sg g', 'pl g', 'sg g', 'sg g']",27
+1617,ORG,"['sg g', 'pl g', 'sg g', 'sg n', 'sg n']",1
+1618,ORG,"['sg g', 'pl g', 'sg g', 'sg n']",6
+1619,ORG,"['sg g', 'pl g', 'sg g']",533
+1620,ORG,"['sg g', 'pl g', 'sg ill']",6
+1621,ORG,"['sg g', 'pl g', 'sg in', '?']",1
+1622,ORG,"['sg g', 'pl g', 'sg in', 'sg in', 'sg in']",1
+1623,ORG,"['sg g', 'pl g', 'sg in']",53
+1624,ORG,"['sg g', 'pl g', 'sg kom', 'sg in', 'pl g']",1
+262,LOC,"['sg g', 'pl g', 'sg kom']",1
+1625,ORG,"['sg g', 'pl g', 'sg kom']",12
+1626,ORG,"['sg g', 'pl g', 'sg n', '?', 'sg n', 'sg g']",2
+1627,ORG,"['sg g', 'pl g', 'sg n', '?', 'sg n', 'sg n']",1
+1628,ORG,"['sg g', 'pl g', 'sg n', 'sg g', 'sg g', '', 'sg in']",1
+1629,ORG,"['sg g', 'pl g', 'sg n', 'sg g']",1
+1630,ORG,"['sg g', 'pl g', 'sg n', 'sg n']",5
+1631,ORG,"['sg g', 'pl g', 'sg n']",239
+263,LOC,"['sg g', 'pl g', 'sg n']",1
+1632,ORG,"['sg g', 'pl g', 'sg p']",3
+1633,ORG,"['sg g', 'pl g', 'sg tr']",2
+3133,PER,"['sg g', 'pl g']",28
+1634,ORG,"['sg g', 'pl g']",319
+264,LOC,"['sg g', 'pl g']",226
+3134,PER,"['sg g', 'pl ill']",1
+265,LOC,"['sg g', 'pl ill']",44
+1635,ORG,"['sg g', 'pl ill']",5
+1636,ORG,"['sg g', 'pl in', 'sg g', 'sg g']",1
+1637,ORG,"['sg g', 'pl in', 'sg g', 'sg in']",1
+266,LOC,"['sg g', 'pl in']",207
+1638,ORG,"['sg g', 'pl in']",30
+3135,PER,"['sg g', 'pl in']",2
+1639,ORG,"['sg g', 'pl kom', 'pl g', 'adt']",1
+1640,ORG,"['sg g', 'pl kom', 'pl g', 'sg g']",4
+1641,ORG,"['sg g', 'pl kom', 'pl g', 'sg n']",4
+1642,ORG,"['sg g', 'pl kom', 'pl g']",1
+3136,PER,"['sg g', 'pl kom']",1
+267,LOC,"['sg g', 'pl kom']",10
+1643,ORG,"['sg g', 'pl kom']",11
+1644,ORG,"['sg g', 'pl n', '', 'sg g', 'sg g', 'sg g', 'sg n']",1
+1645,ORG,"['sg g', 'pl n', '']",1
+268,LOC,"['sg g', 'pl n', '']",1
+1646,ORG,"['sg g', 'pl n', '?']",2
+1647,ORG,"['sg g', 'pl n', 'nud', 'pl es', 'sg g']",1
+1648,ORG,"['sg g', 'pl n', 'pl n']",5
+1649,ORG,"['sg g', 'pl n', 'sg g', 'sg g']",1
+1650,ORG,"['sg g', 'pl n', 'sg in']",2
+1651,ORG,"['sg g', 'pl n', 'sg n', 'sg n']",1
+1652,ORG,"['sg g', 'pl n', 'sg n']",8
+1653,ORG,"['sg g', 'pl n', 'takse']",1
+1654,ORG,"['sg g', 'pl n']",172
+3137,PER,"['sg g', 'pl n']",26
+269,LOC,"['sg g', 'pl n']",146
+1655,ORG,"['sg g', 'pl p', 'sg g']",1
+1656,ORG,"['sg g', 'pl p', 'sg kom']",1
+1657,ORG,"['sg g', 'pl p']",37
+270,LOC,"['sg g', 'pl p']",60
+3138,PER,"['sg g', 'pl p']",27
+1658,ORG,"['sg g', 'pl tr']",2
+271,LOC,"['sg g', 'sg ab', 'sg ad']",1
+1659,ORG,"['sg g', 'sg ab', 'sg g']",2
+272,LOC,"['sg g', 'sg ab']",10
+1660,ORG,"['sg g', 'sg ab']",8
+1661,ORG,"['sg g', 'sg abl', 'sg abl']",3
+1662,ORG,"['sg g', 'sg abl', 'sg all']",1
+273,LOC,"['sg g', 'sg abl', 'sg g', 'sg in']",1
+1663,ORG,"['sg g', 'sg abl', 'sg g']",3
+1664,ORG,"['sg g', 'sg abl']",224
+274,LOC,"['sg g', 'sg abl']",74
+3139,PER,"['sg g', 'sg abl']",51
+275,LOC,"['sg g', 'sg ad', '', 'sg ad']",1
+1665,ORG,"['sg g', 'sg ad', '', 'sg ad']",1
+1666,ORG,"['sg g', 'sg ad', '?', 'sg in']",1
+1667,ORG,"['sg g', 'sg ad', '?']",1
+1668,ORG,"['sg g', 'sg ad', 'sg abl']",1
+1669,ORG,"['sg g', 'sg ad', 'sg ad']",9
+1670,ORG,"['sg g', 'sg ad', 'sg all']",2
+1671,ORG,"['sg g', 'sg ad', 'sg g', 'sg ad']",1
+1672,ORG,"['sg g', 'sg ad', 'sg g', 'sg g']",1
+276,LOC,"['sg g', 'sg ad', 'sg g', 'sg in', 'sg g']",1
+1673,ORG,"['sg g', 'sg ad', 'sg g']",4
+277,LOC,"['sg g', 'sg ad', 'sg g']",1
+1674,ORG,"['sg g', 'sg ad', 'sg in']",1
+1675,ORG,"['sg g', 'sg ad', 'sg kom']",1
+1676,ORG,"['sg g', 'sg ad', 'sg n', '?', 'sg n']",1
+1677,ORG,"['sg g', 'sg ad', 'sg n', '?']",1
+3140,PER,"['sg g', 'sg ad', 'sg n']",1
+1678,ORG,"['sg g', 'sg ad', 'sg n']",2
+3141,PER,"['sg g', 'sg ad']",66
+278,LOC,"['sg g', 'sg ad']",456
+1679,ORG,"['sg g', 'sg ad']",580
+1680,ORG,"['sg g', 'sg all', '', 'sg all']",1
+1681,ORG,"['sg g', 'sg all', '']",3
+1682,ORG,"['sg g', 'sg all', '?', 'sg g']",1
+1683,ORG,"['sg g', 'sg all', '?', 'sg n']",1
+1684,ORG,"['sg g', 'sg all', '?']",2
+1685,ORG,"['sg g', 'sg all', 'adt']",1
+1686,ORG,"['sg g', 'sg all', 'sg all', 'sg all']",2
+279,LOC,"['sg g', 'sg all', 'sg all']",1
+1687,ORG,"['sg g', 'sg all', 'sg all']",7
+1688,ORG,"['sg g', 'sg all', 'sg g', 'adt', '?']",1
+1689,ORG,"['sg g', 'sg all', 'sg g', 'pl g', 'pl g', 'sg g']",3
+1690,ORG,"['sg g', 'sg all', 'sg g', 'pl g', 'sg g']",1
+1691,ORG,"['sg g', 'sg all', 'sg g', 'sg all']",2
+1692,ORG,"['sg g', 'sg all', 'sg g', 'sg g']",9
+280,LOC,"['sg g', 'sg all', 'sg g', 'sg g']",1
+1693,ORG,"['sg g', 'sg all', 'sg g', 'sg n', 'sg g']",1
+1694,ORG,"['sg g', 'sg all', 'sg g', 'sg p']",1
+1695,ORG,"['sg g', 'sg all', 'sg g']",20
+281,LOC,"['sg g', 'sg all', 'sg g']",2
+1696,ORG,"['sg g', 'sg all', 'sg in']",1
+3142,PER,"['sg g', 'sg all', 'sg in']",1
+1697,ORG,"['sg g', 'sg all', 'sg n', '?']",1
+1698,ORG,"['sg g', 'sg all', 'sg n', 'sg all']",1
+1699,ORG,"['sg g', 'sg all', 'sg n']",1
+282,LOC,"['sg g', 'sg all', 'sg n']",3
+3143,PER,"['sg g', 'sg all', 'sg n']",1
+283,LOC,"['sg g', 'sg all']",365
+3144,PER,"['sg g', 'sg all']",80
+1700,ORG,"['sg g', 'sg all']",1695
+1701,ORG,"['sg g', 'sg el', '', 'sg g', 'sg el']",2
+1702,ORG,"['sg g', 'sg el', '']",3
+284,LOC,"['sg g', 'sg el', '?']",1
+1703,ORG,"['sg g', 'sg el', 'adt']",2
+1704,ORG,"['sg g', 'sg el', 'pl g', 'sg el']",1
+1705,ORG,"['sg g', 'sg el', 'pl in']",1
+1706,ORG,"['sg g', 'sg el', 'sg abl']",1
+285,LOC,"['sg g', 'sg el', 'sg all']",1
+1707,ORG,"['sg g', 'sg el', 'sg el', '']",1
+1708,ORG,"['sg g', 'sg el', 'sg el', 'sg el']",1
+286,LOC,"['sg g', 'sg el', 'sg el']",4
+1709,ORG,"['sg g', 'sg el', 'sg el']",18
+1710,ORG,"['sg g', 'sg el', 'sg g', '', 'sg g']",1
+1711,ORG,"['sg g', 'sg el', 'sg g', 'sg el']",1
+1712,ORG,"['sg g', 'sg el', 'sg g', 'sg ill']",2
+1713,ORG,"['sg g', 'sg el', 'sg g', 'sg ter']",1
+1714,ORG,"['sg g', 'sg el', 'sg g']",5
+1715,ORG,"['sg g', 'sg el', 'sg in']",1
+1716,ORG,"['sg g', 'sg el', 'sg n', 'sg el']",1
+1717,ORG,"['sg g', 'sg el', 'sg n', 'sg n']",1
+3145,PER,"['sg g', 'sg el', 'sg n', 'sg ter']",1
+1718,ORG,"['sg g', 'sg el', 'sg n']",1
+1719,ORG,"['sg g', 'sg el', 'sg p']",1
+287,LOC,"['sg g', 'sg el', 'sg ter']",1
+1720,ORG,"['sg g', 'sg el']",849
+288,LOC,"['sg g', 'sg el']",309
+3146,PER,"['sg g', 'sg el']",78
+3147,PER,"['sg g', 'sg es']",2
+289,LOC,"['sg g', 'sg es']",3
+1721,ORG,"['sg g', 'sg es']",8
+1722,ORG,"['sg g', 'sg g', '', '', '', 'sg n']",1
+1723,ORG,"['sg g', 'sg g', '', '', 'sg n']",1
+1724,ORG,"['sg g', 'sg g', '', '?', 'sg n']",1
+1725,ORG,"['sg g', 'sg g', '', '?']",2
+1726,ORG,"['sg g', 'sg g', '', 'adt']",1
+1727,ORG,"['sg g', 'sg g', '', 'pl g', 'sg g']",9
+1728,ORG,"['sg g', 'sg g', '', 'pl g', 'sg n']",9
+1729,ORG,"['sg g', 'sg g', '', 'pl g', 'sg p']",2
+1730,ORG,"['sg g', 'sg g', '', 'pl g']",1
+1731,ORG,"['sg g', 'sg g', '', 'sg all']",1
+1732,ORG,"['sg g', 'sg g', '', 'sg g', 'adt']",1
+1733,ORG,"['sg g', 'sg g', '', 'sg g', 'sg el', 'adt']",1
+1734,ORG,"['sg g', 'sg g', '', 'sg g', 'sg g', 'sg n']",1
+1735,ORG,"['sg g', 'sg g', '', 'sg g', 'sg g']",16
+1736,ORG,"['sg g', 'sg g', '', 'sg g', 'sg in']",1
+1737,ORG,"['sg g', 'sg g', '', 'sg g', 'sg n']",8
+290,LOC,"['sg g', 'sg g', '', 'sg g']",1
+1738,ORG,"['sg g', 'sg g', '', 'sg g']",70
+1739,ORG,"['sg g', 'sg g', '', 'sg in']",4
+1740,ORG,"['sg g', 'sg g', '', 'sg kom']",1
+1741,ORG,"['sg g', 'sg g', '', 'sg n']",13
+1742,ORG,"['sg g', 'sg g', '']",14
+3148,PER,"['sg g', 'sg g', '']",1
+291,LOC,"['sg g', 'sg g', '']",1
+1743,ORG,"['sg g', 'sg g', '?', '', '?', '?', 'sg n']",1
+1744,ORG,"['sg g', 'sg g', '?', '', '?']",2
+1745,ORG,"['sg g', 'sg g', '?', '', 'sg g', 'sg g']",1
+1746,ORG,"['sg g', 'sg g', '?', '', 'sg g', 'sg n']",1
+1747,ORG,"['sg g', 'sg g', '?', '']",10
+1748,ORG,"['sg g', 'sg g', '?', '?']",9
+1749,ORG,"['sg g', 'sg g', '?', 'sg g']",7
+1750,ORG,"['sg g', 'sg g', '?', 'sg in']",2
+1751,ORG,"['sg g', 'sg g', '?', 'sg n']",1
+3149,PER,"['sg g', 'sg g', '?']",1
+1752,ORG,"['sg g', 'sg g', '?']",171
+1753,ORG,"['sg g', 'sg g', 'adt', '', 'sg g']",1
+1754,ORG,"['sg g', 'sg g', 'adt', '', 'sg n']",1
+1755,ORG,"['sg g', 'sg g', 'adt', '?']",1
+1756,ORG,"['sg g', 'sg g', 'adt', 'sg g', 'sg g']",1
+1757,ORG,"['sg g', 'sg g', 'adt', 'sg g']",1
+1758,ORG,"['sg g', 'sg g', 'adt', 'sg in']",1
+1759,ORG,"['sg g', 'sg g', 'adt']",38
+292,LOC,"['sg g', 'sg g', 'adt']",3
+1760,ORG,"['sg g', 'sg g', 'pl ab', 'sg g']",1
+1761,ORG,"['sg g', 'sg g', 'pl ad']",2
+1762,ORG,"['sg g', 'sg g', 'pl all']",2
+293,LOC,"['sg g', 'sg g', 'pl all']",1
+1763,ORG,"['sg g', 'sg g', 'pl el']",1
+1764,ORG,"['sg g', 'sg g', 'pl g', '?', '', '?', 'sg n']",1
+1765,ORG,"['sg g', 'sg g', 'pl g', '?']",1
+1766,ORG,"['sg g', 'sg g', 'pl g', 'adt']",2
+1767,ORG,"['sg g', 'sg g', 'pl g', 'pl g', 'adt']",1
+1768,ORG,"['sg g', 'sg g', 'pl g', 'sg all']",1
+1769,ORG,"['sg g', 'sg g', 'pl g', 'sg el']",3
+1770,ORG,"['sg g', 'sg g', 'pl g', 'sg g']",26
+1771,ORG,"['sg g', 'sg g', 'pl g', 'sg in', 'sg ad']",1
+1772,ORG,"['sg g', 'sg g', 'pl g', 'sg in']",1
+1773,ORG,"['sg g', 'sg g', 'pl g', 'sg n']",3
+1774,ORG,"['sg g', 'sg g', 'pl g', 'sg p']",1
+1775,ORG,"['sg g', 'sg g', 'pl g']",23
+3150,PER,"['sg g', 'sg g', 'pl g']",1
+1776,ORG,"['sg g', 'sg g', 'pl in']",3
+294,LOC,"['sg g', 'sg g', 'pl in']",1
+1777,ORG,"['sg g', 'sg g', 'pl kom']",1
+1778,ORG,"['sg g', 'sg g', 'pl n', '?']",1
+1779,ORG,"['sg g', 'sg g', 'pl n', 'sg g']",1
+1780,ORG,"['sg g', 'sg g', 'pl n']",29
+1781,ORG,"['sg g', 'sg g', 'pl p']",1
+1782,ORG,"['sg g', 'sg g', 'sg abl', 'sg g']",2
+1783,ORG,"['sg g', 'sg g', 'sg abl']",12
+1784,ORG,"['sg g', 'sg g', 'sg ad', '', '?']",1
+1785,ORG,"['sg g', 'sg g', 'sg ad', 'sg ad']",1
+1786,ORG,"['sg g', 'sg g', 'sg ad']",30
+1787,ORG,"['sg g', 'sg g', 'sg all', 'sg in', 'sg g']",1
+1788,ORG,"['sg g', 'sg g', 'sg all', 'sg n', '?', 'sg n', 'sg g']",1
+1789,ORG,"['sg g', 'sg g', 'sg all']",82
+1790,ORG,"['sg g', 'sg g', 'sg el', '?']",1
+1791,ORG,"['sg g', 'sg g', 'sg el', 'sg n']",1
+1792,ORG,"['sg g', 'sg g', 'sg el']",69
+295,LOC,"['sg g', 'sg g', 'sg el']",1
+3151,PER,"['sg g', 'sg g', 'sg es']",1
+1793,ORG,"['sg g', 'sg g', 'sg es']",2
+1794,ORG,"['sg g', 'sg g', 'sg g', '', 'pl g', 'sg g']",1
+1795,ORG,"['sg g', 'sg g', 'sg g', '', 'sg g', 'sg g']",2
+1796,ORG,"['sg g', 'sg g', 'sg g', '', 'sg g', 'sg n']",1
+1797,ORG,"['sg g', 'sg g', 'sg g', '', 'sg g']",3
+1798,ORG,"['sg g', 'sg g', 'sg g', '?', '']",3
+296,LOC,"['sg g', 'sg g', 'sg g', '?']",1
+1799,ORG,"['sg g', 'sg g', 'sg g', '?']",16
+1800,ORG,"['sg g', 'sg g', 'sg g', 'adt']",1
+1801,ORG,"['sg g', 'sg g', 'sg g', 'o', 'sg g']",2
+1802,ORG,"['sg g', 'sg g', 'sg g', 'pl abl']",1
+1803,ORG,"['sg g', 'sg g', 'sg g', 'pl g', 'sg g']",4
+1804,ORG,"['sg g', 'sg g', 'sg g', 'pl g']",1
+1805,ORG,"['sg g', 'sg g', 'sg g', 'pl n', 'sg n']",1
+1806,ORG,"['sg g', 'sg g', 'sg g', 'pl n']",2
+1807,ORG,"['sg g', 'sg g', 'sg g', 'pl p', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g']",1
+1808,ORG,"['sg g', 'sg g', 'sg g', 'sg abl']",6
+1809,ORG,"['sg g', 'sg g', 'sg g', 'sg ad']",1
+1810,ORG,"['sg g', 'sg g', 'sg g', 'sg all']",6
+1811,ORG,"['sg g', 'sg g', 'sg g', 'sg el', 'sg n', 'sg ill']",1
+1812,ORG,"['sg g', 'sg g', 'sg g', 'sg el']",6
+1813,ORG,"['sg g', 'sg g', 'sg g', 'sg g', '', 'sg el']",1
+1814,ORG,"['sg g', 'sg g', 'sg g', 'sg g', '']",1
+1815,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg all']",1
+1816,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg el']",1
+1817,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg n']",1
+1818,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g']",2
+297,LOC,"['sg g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g']",1
+1819,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg g', 'sg n']",2
+1820,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg g']",11
+1821,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg in']",2
+1822,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg kom']",1
+1823,ORG,"['sg g', 'sg g', 'sg g', 'sg g', 'sg n']",7
+1824,ORG,"['sg g', 'sg g', 'sg g', 'sg g']",189
+3152,PER,"['sg g', 'sg g', 'sg g', 'sg g']",1
+1825,ORG,"['sg g', 'sg g', 'sg g', 'sg ill']",1
+1826,ORG,"['sg g', 'sg g', 'sg g', 'sg in', 'sg g', 'sg in']",1
+1827,ORG,"['sg g', 'sg g', 'sg g', 'sg in', 'sg g']",3
+1828,ORG,"['sg g', 'sg g', 'sg g', 'sg in', 'sg n', 'sg n', 'sg g']",1
+1829,ORG,"['sg g', 'sg g', 'sg g', 'sg in']",33
+298,LOC,"['sg g', 'sg g', 'sg g', 'sg kom']",1
+3153,PER,"['sg g', 'sg g', 'sg g', 'sg kom']",1
+1830,ORG,"['sg g', 'sg g', 'sg g', 'sg kom']",7
+1831,ORG,"['sg g', 'sg g', 'sg g', 'sg n', 'sg ad']",1
+1832,ORG,"['sg g', 'sg g', 'sg g', 'sg n', 'sg g', '?']",1
+1833,ORG,"['sg g', 'sg g', 'sg g', 'sg n', 'sg g']",2
+1834,ORG,"['sg g', 'sg g', 'sg g', 'sg n']",67
+3154,PER,"['sg g', 'sg g', 'sg g', 'sg n']",1
+299,LOC,"['sg g', 'sg g', 'sg g', 'sg n']",1
+1835,ORG,"['sg g', 'sg g', 'sg g', 'sg p']",3
+1836,ORG,"['sg g', 'sg g', 'sg g']",1749
+300,LOC,"['sg g', 'sg g', 'sg g']",27
+3155,PER,"['sg g', 'sg g', 'sg g']",22
+1837,ORG,"['sg g', 'sg g', 'sg ill', '?']",1
+1838,ORG,"['sg g', 'sg g', 'sg ill']",22
+1839,ORG,"['sg g', 'sg g', 'sg in', '', 'sg in']",1
+1840,ORG,"['sg g', 'sg g', 'sg in', '']",2
+1841,ORG,"['sg g', 'sg g', 'sg in', 'sg g']",2
+1842,ORG,"['sg g', 'sg g', 'sg in', 'sg in']",5
+301,LOC,"['sg g', 'sg g', 'sg in']",3
+1843,ORG,"['sg g', 'sg g', 'sg in']",235
+1844,ORG,"['sg g', 'sg g', 'sg kom', '']",1
+1845,ORG,"['sg g', 'sg g', 'sg kom', 'sg g', 'sg g']",1
+1846,ORG,"['sg g', 'sg g', 'sg kom', 'sg g']",1
+3156,PER,"['sg g', 'sg g', 'sg kom']",1
+1847,ORG,"['sg g', 'sg g', 'sg kom']",44
+1848,ORG,"['sg g', 'sg g', 'sg n', '', '', 'sg n', '', 'sg n']",1
+1849,ORG,"['sg g', 'sg g', 'sg n', '', '?']",1
+1850,ORG,"['sg g', 'sg g', 'sg n', '', 'sg g', 'sg n']",1
+1851,ORG,"['sg g', 'sg g', 'sg n', '', 'sg g']",2
+1852,ORG,"['sg g', 'sg g', 'sg n', '', 'sg n', 'sg in']",1
+1853,ORG,"['sg g', 'sg g', 'sg n', '', 'sg n']",4
+1854,ORG,"['sg g', 'sg g', 'sg n', '?', 'sg n']",1
+1855,ORG,"['sg g', 'sg g', 'sg n', '?']",3
+1856,ORG,"['sg g', 'sg g', 'sg n', 'sg abl']",2
+1857,ORG,"['sg g', 'sg g', 'sg n', 'sg all']",1
+1858,ORG,"['sg g', 'sg g', 'sg n', 'sg g', 'sg ad']",1
+1859,ORG,"['sg g', 'sg g', 'sg n', 'sg g', 'sg g', 'sg g']",1
+1860,ORG,"['sg g', 'sg g', 'sg n', 'sg g', 'sg in', 'sg n']",1
+1861,ORG,"['sg g', 'sg g', 'sg n', 'sg g', 'sg n', '?']",1
+1862,ORG,"['sg g', 'sg g', 'sg n', 'sg g', 'sg n']",3
+3157,PER,"['sg g', 'sg g', 'sg n', 'sg g']",1
+1863,ORG,"['sg g', 'sg g', 'sg n', 'sg g']",24
+1864,ORG,"['sg g', 'sg g', 'sg n', 'sg n', 'sg n']",2
+3158,PER,"['sg g', 'sg g', 'sg n', 'sg n']",1
+1865,ORG,"['sg g', 'sg g', 'sg n', 'sg n']",30
+1866,ORG,"['sg g', 'sg g', 'sg n', 'sg p']",1
+302,LOC,"['sg g', 'sg g', 'sg n']",4
+1867,ORG,"['sg g', 'sg g', 'sg n']",816
+3159,PER,"['sg g', 'sg g', 'sg n']",13
+1868,ORG,"['sg g', 'sg g', 'sg p', 'sg g', 'sg n']",1
+1869,ORG,"['sg g', 'sg g', 'sg p', 'sg n', 'sg n']",1
+1870,ORG,"['sg g', 'sg g', 'sg p']",15
+1871,ORG,"['sg g', 'sg g', 'sg ter', '']",1
+1872,ORG,"['sg g', 'sg g', 'sg ter']",1
+3160,PER,"['sg g', 'sg g', 'sg tr']",1
+1873,ORG,"['sg g', 'sg g', 'sg tr']",4
+303,LOC,"['sg g', 'sg g']",3978
+3161,PER,"['sg g', 'sg g']",2283
+1874,ORG,"['sg g', 'sg g']",18688
+1875,ORG,"['sg g', 'sg ill', '']",3
+1876,ORG,"['sg g', 'sg ill', 'adt', 'sg ill']",1
+1877,ORG,"['sg g', 'sg ill', 'adt']",4
+1878,ORG,"['sg g', 'sg ill', 'sg g', '?']",1
+1879,ORG,"['sg g', 'sg ill', 'sg g']",5
+1880,ORG,"['sg g', 'sg ill', 'sg ill']",1
+1881,ORG,"['sg g', 'sg ill', 'sg in']",1
+3162,PER,"['sg g', 'sg ill']",17
+304,LOC,"['sg g', 'sg ill']",19
+1882,ORG,"['sg g', 'sg ill']",274
+1883,ORG,"['sg g', 'sg in', '', 'sg g', 'sg in']",1
+1884,ORG,"['sg g', 'sg in', '', 'sg in']",4
+305,LOC,"['sg g', 'sg in', '']",1
+1885,ORG,"['sg g', 'sg in', '']",7
+1886,ORG,"['sg g', 'sg in', '?', '']",1
+1887,ORG,"['sg g', 'sg in', '?', 'sg g', 'sg g', 'sg in']",1
+1888,ORG,"['sg g', 'sg in', '?', 'sg g']",3
+1889,ORG,"['sg g', 'sg in', '?', 'sg in']",1
+1890,ORG,"['sg g', 'sg in', '?']",6
+1891,ORG,"['sg g', 'sg in', 'adt', 'sg in']",2
+1892,ORG,"['sg g', 'sg in', 'adt']",1
+1893,ORG,"['sg g', 'sg in', 'pl g', 'pl g', 'sg in']",1
+1894,ORG,"['sg g', 'sg in', 'pl g', 'sg in']",1
+306,LOC,"['sg g', 'sg in', 'sg ad']",1
+1895,ORG,"['sg g', 'sg in', 'sg all']",2
+1896,ORG,"['sg g', 'sg in', 'sg el']",2
+1897,ORG,"['sg g', 'sg in', 'sg g', 'pl g']",1
+307,LOC,"['sg g', 'sg in', 'sg g', 'sg el']",1
+1898,ORG,"['sg g', 'sg in', 'sg g', 'sg el']",1
+1899,ORG,"['sg g', 'sg in', 'sg g', 'sg g', 'sg g']",1
+308,LOC,"['sg g', 'sg in', 'sg g', 'sg g']",1
+1900,ORG,"['sg g', 'sg in', 'sg g', 'sg g']",6
+1901,ORG,"['sg g', 'sg in', 'sg g', 'sg in']",1
+1902,ORG,"['sg g', 'sg in', 'sg g', 'sg n']",2
+1903,ORG,"['sg g', 'sg in', 'sg g', 'sg p']",1
+309,LOC,"['sg g', 'sg in', 'sg g']",5
+3163,PER,"['sg g', 'sg in', 'sg g']",2
+1904,ORG,"['sg g', 'sg in', 'sg g']",49
+1905,ORG,"['sg g', 'sg in', 'sg in', '']",1
+1906,ORG,"['sg g', 'sg in', 'sg in', 'sg g', 'sg g', 'sg g']",1
+1907,ORG,"['sg g', 'sg in', 'sg in', 'sg g']",2
+1908,ORG,"['sg g', 'sg in', 'sg in']",73
+310,LOC,"['sg g', 'sg in', 'sg in']",5
+1909,ORG,"['sg g', 'sg in', 'sg kom']",1
+1910,ORG,"['sg g', 'sg in', 'sg n', 'sg g', 'sg g']",1
+1911,ORG,"['sg g', 'sg in', 'sg n', 'sg g', 'sg n']",1
+1912,ORG,"['sg g', 'sg in', 'sg n', 'sg g']",9
+1913,ORG,"['sg g', 'sg in', 'sg n', 'sg in']",1
+1914,ORG,"['sg g', 'sg in', 'sg n', 'sg n']",6
+311,LOC,"['sg g', 'sg in', 'sg n']",1
+3164,PER,"['sg g', 'sg in', 'sg n']",1
+1915,ORG,"['sg g', 'sg in', 'sg n']",22
+1916,ORG,"['sg g', 'sg in', 'sg p', 'sg g']",1
+1917,ORG,"['sg g', 'sg in', 'sg p']",3
+1918,ORG,"['sg g', 'sg in']",3879
+3165,PER,"['sg g', 'sg in']",36
+312,LOC,"['sg g', 'sg in']",1542
+1919,ORG,"['sg g', 'sg kom', '']",3
+3166,PER,"['sg g', 'sg kom', 'sg el']",1
+3167,PER,"['sg g', 'sg kom', 'sg g']",2
+1920,ORG,"['sg g', 'sg kom', 'sg g']",6
+1921,ORG,"['sg g', 'sg kom', 'sg ill']",1
+3168,PER,"['sg g', 'sg kom', 'sg in']",1
+1922,ORG,"['sg g', 'sg kom', 'sg in']",2
+1923,ORG,"['sg g', 'sg kom', 'sg n']",3
+313,LOC,"['sg g', 'sg kom']",70
+3169,PER,"['sg g', 'sg kom']",134
+1924,ORG,"['sg g', 'sg kom']",695
+1925,ORG,"['sg g', 'sg n', '', '?']",7
+3170,PER,"['sg g', 'sg n', '', '?']",1
+1926,ORG,"['sg g', 'sg n', '', 'pl g', 'sg g']",1
+1927,ORG,"['sg g', 'sg n', '', 'sg all']",2
+1928,ORG,"['sg g', 'sg n', '', 'sg el']",1
+1929,ORG,"['sg g', 'sg n', '', 'sg g', 'sg in']",2
+1930,ORG,"['sg g', 'sg n', '', 'sg g', 'sg n', '?', 'sg n']",1
+3171,PER,"['sg g', 'sg n', '', 'sg g', 'sg n']",1
+1931,ORG,"['sg g', 'sg n', '', 'sg g']",7
+1932,ORG,"['sg g', 'sg n', '', 'sg in']",1
+1933,ORG,"['sg g', 'sg n', '', 'sg n', '', '?']",2
+3172,PER,"['sg g', 'sg n', '', 'sg n', '']",1
+1934,ORG,"['sg g', 'sg n', '', 'sg n', 'pl n']",1
+3173,PER,"['sg g', 'sg n', '', 'sg n']",2
+1935,ORG,"['sg g', 'sg n', '', 'sg n']",16
+1936,ORG,"['sg g', 'sg n', '', 'tud', 'sg n']",1
+314,LOC,"['sg g', 'sg n', '']",1
+1937,ORG,"['sg g', 'sg n', '']",23
+1938,ORG,"['sg g', 'sg n', '?', '', 'sg n']",1
+1939,ORG,"['sg g', 'sg n', '?', '']",1
+1940,ORG,"['sg g', 'sg n', '?', 'sg g']",4
+3174,PER,"['sg g', 'sg n', '?', 'sg g']",1
+3175,PER,"['sg g', 'sg n', '?', 'sg kom']",1
+3176,PER,"['sg g', 'sg n', '?', 'sg n']",2
+1941,ORG,"['sg g', 'sg n', '?', 'sg n']",3
+3177,PER,"['sg g', 'sg n', '?']",2
+1942,ORG,"['sg g', 'sg n', '?']",62
+1943,ORG,"['sg g', 'sg n', 'adt']",5
+1944,ORG,"['sg g', 'sg n', 'b', '', 'sg n']",1
+1945,ORG,"['sg g', 'sg n', 'pl g', 'pl g', 'sg n']",1
+1946,ORG,"['sg g', 'sg n', 'pl g', 'sg g']",1
+3178,PER,"['sg g', 'sg n', 'pl g', 'sg n']",1
+1947,ORG,"['sg g', 'sg n', 'pl g', 'sg n']",5
+1948,ORG,"['sg g', 'sg n', 'pl g']",1
+1949,ORG,"['sg g', 'sg n', 'pl n', 'sg n', 'sg g']",1
+3179,PER,"['sg g', 'sg n', 'pl n']",1
+1950,ORG,"['sg g', 'sg n', 'pl n']",8
+1951,ORG,"['sg g', 'sg n', 's']",1
+1952,ORG,"['sg g', 'sg n', 'sg abl']",3
+3180,PER,"['sg g', 'sg n', 'sg ad']",3
+1953,ORG,"['sg g', 'sg n', 'sg ad']",2
+1954,ORG,"['sg g', 'sg n', 'sg all']",5
+1955,ORG,"['sg g', 'sg n', 'sg el']",11
+315,LOC,"['sg g', 'sg n', 'sg g', '', 'sg g']",1
+1956,ORG,"['sg g', 'sg n', 'sg g', '?']",4
+1957,ORG,"['sg g', 'sg n', 'sg g', 'adt']",1
+1958,ORG,"['sg g', 'sg n', 'sg g', 'sg abl']",1
+1959,ORG,"['sg g', 'sg n', 'sg g', 'sg ad']",1
+1960,ORG,"['sg g', 'sg n', 'sg g', 'sg all']",5
+1961,ORG,"['sg g', 'sg n', 'sg g', 'sg el']",1
+1962,ORG,"['sg g', 'sg n', 'sg g', 'sg g', 'sg g']",3
+1963,ORG,"['sg g', 'sg n', 'sg g', 'sg g', 'sg n']",1
+1964,ORG,"['sg g', 'sg n', 'sg g', 'sg g']",12
+1965,ORG,"['sg g', 'sg n', 'sg g', 'sg in', 'sg in']",1
+1966,ORG,"['sg g', 'sg n', 'sg g', 'sg in']",1
+1967,ORG,"['sg g', 'sg n', 'sg g', 'sg n', 'sg all']",1
+1968,ORG,"['sg g', 'sg n', 'sg g', 'sg n', 'sg in']",1
+1969,ORG,"['sg g', 'sg n', 'sg g', 'sg n', 'sg n', 'sg el']",1
+1970,ORG,"['sg g', 'sg n', 'sg g', 'sg n', 'sg n']",1
+1971,ORG,"['sg g', 'sg n', 'sg g', 'sg n']",11
+1972,ORG,"['sg g', 'sg n', 'sg g']",151
+3181,PER,"['sg g', 'sg n', 'sg g']",20
+316,LOC,"['sg g', 'sg n', 'sg g']",1
+1973,ORG,"['sg g', 'sg n', 'sg ill']",2
+1974,ORG,"['sg g', 'sg n', 'sg in', '?', 'sg g', 'pl g']",1
+1975,ORG,"['sg g', 'sg n', 'sg in', 'sg g', 'sg g']",1
+1976,ORG,"['sg g', 'sg n', 'sg in', 'sg g', 'sg kom', 'sg n', 'sg n']",1
+1977,ORG,"['sg g', 'sg n', 'sg in', 'sg g']",1
+1978,ORG,"['sg g', 'sg n', 'sg in', 'sg kom']",1
+1979,ORG,"['sg g', 'sg n', 'sg in', 'sg n']",1
+1980,ORG,"['sg g', 'sg n', 'sg in']",12
+3182,PER,"['sg g', 'sg n', 'sg kom']",1
+1981,ORG,"['sg g', 'sg n', 'sg kom']",6
+1982,ORG,"['sg g', 'sg n', 'sg n', '', 'sg g']",1
+1983,ORG,"['sg g', 'sg n', 'sg n', '', 'sg n', '', 'sg n']",1
+1984,ORG,"['sg g', 'sg n', 'sg n', '', 'sg n', 'sg n']",1
+3183,PER,"['sg g', 'sg n', 'sg n', '', 'sg n']",1
+1985,ORG,"['sg g', 'sg n', 'sg n', '', 'sg n']",1
+1986,ORG,"['sg g', 'sg n', 'sg n', '']",2
+1987,ORG,"['sg g', 'sg n', 'sg n', '?', 'sg n']",1
+3184,PER,"['sg g', 'sg n', 'sg n', '?']",1
+1988,ORG,"['sg g', 'sg n', 'sg n', '?']",8
+1989,ORG,"['sg g', 'sg n', 'sg n', 'pl g', 'sg g']",1
+1990,ORG,"['sg g', 'sg n', 'sg n', 'pl n']",1
+1991,ORG,"['sg g', 'sg n', 'sg n', 'sg g', '?']",1
+1992,ORG,"['sg g', 'sg n', 'sg n', 'sg g', 'sg all']",2
+1993,ORG,"['sg g', 'sg n', 'sg n', 'sg g', 'sg g', 'sg g']",1
+1994,ORG,"['sg g', 'sg n', 'sg n', 'sg g', 'sg g']",2
+1995,ORG,"['sg g', 'sg n', 'sg n', 'sg g', 'sg in', 'sg in']",1
+1996,ORG,"['sg g', 'sg n', 'sg n', 'sg g']",17
+1997,ORG,"['sg g', 'sg n', 'sg n', 'sg in']",1
+1998,ORG,"['sg g', 'sg n', 'sg n', 'sg n', '']",1
+1999,ORG,"['sg g', 'sg n', 'sg n', 'sg n', '?']",1
+2000,ORG,"['sg g', 'sg n', 'sg n', 'sg n', 'pl p']",1
+2001,ORG,"['sg g', 'sg n', 'sg n', 'sg n', 'sg el']",1
+2002,ORG,"['sg g', 'sg n', 'sg n', 'sg n', 'sg g']",1
+2003,ORG,"['sg g', 'sg n', 'sg n', 'sg n', 'sg in']",2
+3185,PER,"['sg g', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2004,ORG,"['sg g', 'sg n', 'sg n', 'sg n']",26
+3186,PER,"['sg g', 'sg n', 'sg n', 'sg n']",3
+2005,ORG,"['sg g', 'sg n', 'sg n', 'sg tr']",3
+2006,ORG,"['sg g', 'sg n', 'sg n']",347
+3187,PER,"['sg g', 'sg n', 'sg n']",87
+317,LOC,"['sg g', 'sg n', 'sg n']",2
+3188,PER,"['sg g', 'sg n', 'sg p']",2
+2007,ORG,"['sg g', 'sg n', 'sg p']",4
+3189,PER,"['sg g', 'sg n']",2041
+2008,ORG,"['sg g', 'sg n']",8720
+318,LOC,"['sg g', 'sg n']",1358
+2009,ORG,"['sg g', 'sg p', '', 'sg n', 'sg g']",1
+2010,ORG,"['sg g', 'sg p', '?', '']",1
+2011,ORG,"['sg g', 'sg p', '?']",4
+2012,ORG,"['sg g', 'sg p', 'adt']",9
+2013,ORG,"['sg g', 'sg p', 'sg abl']",1
+2014,ORG,"['sg g', 'sg p', 'sg all', '']",1
+2015,ORG,"['sg g', 'sg p', 'sg all']",2
+2016,ORG,"['sg g', 'sg p', 'sg g', '', 'sg g']",1
+2017,ORG,"['sg g', 'sg p', 'sg g', '?', 'adt', 'sg n', '', 'sg g']",1
+2018,ORG,"['sg g', 'sg p', 'sg g', 'sg g']",1
+2019,ORG,"['sg g', 'sg p', 'sg g']",8
+2020,ORG,"['sg g', 'sg p', 'sg in']",1
+2021,ORG,"['sg g', 'sg p', 'sg kom', '']",1
+2022,ORG,"['sg g', 'sg p', 'sg n', 'sg all']",1
+2023,ORG,"['sg g', 'sg p', 'sg n', 'sg n', 'sg n']",1
+2024,ORG,"['sg g', 'sg p', 'sg n', 'sg n']",1
+3190,PER,"['sg g', 'sg p', 'sg n', 'sg p']",1
+2025,ORG,"['sg g', 'sg p', 'sg n']",2
+2026,ORG,"['sg g', 'sg p', 'sg p']",5
+319,LOC,"['sg g', 'sg p']",178
+3191,PER,"['sg g', 'sg p']",47
+2027,ORG,"['sg g', 'sg p']",369
+320,LOC,"['sg g', 'sg ter', 'sg g']",1
+2028,ORG,"['sg g', 'sg ter', 'sg n']",1
+321,LOC,"['sg g', 'sg ter']",19
+2029,ORG,"['sg g', 'sg ter']",9
+3192,PER,"['sg g', 'sg ter']",15
+2030,ORG,"['sg g', 'sg tr', 'sg in']",1
+2031,ORG,"['sg g', 'sg tr', 'sg tr']",1
+2032,ORG,"['sg g', 'sg tr']",13
+3193,PER,"['sg g', 'sg tr']",7
+322,LOC,"['sg g', 'sg tr']",7
+2033,ORG,"['sg g', 'tud', 'pl g', 'adt']",1
+2034,ORG,"['sg g', 'tud', 'pl g']",2
+2035,ORG,"['sg g', 'tud', 'sg g']",6
+2036,ORG,"['sg g', 'tud', 'sg n']",7
+3194,PER,['sg g'],41853
+2037,ORG,['sg g'],25255
+323,LOC,['sg g'],119112
+324,LOC,"['sg ill', '', 'sg g']",1
+2038,ORG,"['sg ill', '', 'sg g']",1
+325,LOC,"['sg ill', '', 'sg ill']",1
+326,LOC,"['sg ill', '']",5
+2039,ORG,"['sg ill', '']",1
+2040,ORG,"['sg ill', '?', '', 'sg ill']",1
+2041,ORG,"['sg ill', '?', '', 'sg n']",2
+2042,ORG,"['sg ill', '?', 'sg g', 'sg g']",1
+2043,ORG,"['sg ill', '?', 'sg n']",1
+2044,ORG,"['sg ill', '?']",5
+327,LOC,"['sg ill', '?']",2
+328,LOC,"['sg ill', 'adt']",14
+2045,ORG,"['sg ill', 'adt']",27
+2046,ORG,"['sg ill', 'pl g', 'sg g']",1
+2047,ORG,"['sg ill', 'pl g', 'sg ill']",1
+2048,ORG,"['sg ill', 'sg ad']",1
+329,LOC,"['sg ill', 'sg all']",2
+2049,ORG,"['sg ill', 'sg all']",1
+2050,ORG,"['sg ill', 'sg el', 'sg n']",1
+330,LOC,"['sg ill', 'sg el']",2
+2051,ORG,"['sg ill', 'sg g', '', 'sg g']",1
+2052,ORG,"['sg ill', 'sg g', '?']",1
+331,LOC,"['sg ill', 'sg g', 'adt']",2
+2053,ORG,"['sg ill', 'sg g', 'sg all']",1
+332,LOC,"['sg ill', 'sg g', 'sg el']",1
+2054,ORG,"['sg ill', 'sg g', 'sg el']",1
+333,LOC,"['sg ill', 'sg g', 'sg g']",3
+2055,ORG,"['sg ill', 'sg g', 'sg g']",10
+2056,ORG,"['sg ill', 'sg g', 'sg ill']",4
+2057,ORG,"['sg ill', 'sg g', 'sg n']",1
+3195,PER,"['sg ill', 'sg g']",2
+2058,ORG,"['sg ill', 'sg g']",36
+334,LOC,"['sg ill', 'sg g']",16
+3196,PER,"['sg ill', 'sg ill']",1
+2059,ORG,"['sg ill', 'sg ill']",5
+335,LOC,"['sg ill', 'sg ill']",1
+2060,ORG,"['sg ill', 'sg in']",1
+336,LOC,"['sg ill', 'sg kom']",1
+2061,ORG,"['sg ill', 'sg n', '', 'sg g']",1
+337,LOC,"['sg ill', 'sg n', '?']",1
+2062,ORG,"['sg ill', 'sg n', 'sg g']",3
+2063,ORG,"['sg ill', 'sg n', 'sg n']",6
+2064,ORG,"['sg ill', 'sg n']",6
+3197,PER,"['sg ill', 'sg n']",2
+338,LOC,"['sg ill', 'sg n']",3
+2065,ORG,"['sg ill', 'sg p']",2
+339,LOC,['sg ill'],7189
+2066,ORG,['sg ill'],543
+3198,PER,['sg ill'],94
+2067,ORG,"['sg in', '', '']",2
+2068,ORG,"['sg in', '', '?', 'sg n']",2
+340,LOC,"['sg in', '', '?']",2
+341,LOC,"['sg in', '', 'adt']",1
+342,LOC,"['sg in', '', 'pl g']",3
+343,LOC,"['sg in', '', 'pl in']",1
+344,LOC,"['sg in', '', 'sg ad']",12
+345,LOC,"['sg in', '', 'sg g', 'sg g']",1
+346,LOC,"['sg in', '', 'sg g', 'sg in']",1
+347,LOC,"['sg in', '', 'sg g']",2
+2069,ORG,"['sg in', '', 'sg g']",1
+348,LOC,"['sg in', '', 'sg in', '', 'sg in']",2
+2070,ORG,"['sg in', '', 'sg in']",18
+349,LOC,"['sg in', '', 'sg in']",12
+3199,PER,"['sg in', '', 'sg n']",1
+350,LOC,"['sg in', '', 'sg n']",2
+2071,ORG,"['sg in', '']",4
+351,LOC,"['sg in', '']",44
+3200,PER,"['sg in', '']",1
+2072,ORG,"['sg in', '?', '', '?']",1
+352,LOC,"['sg in', '?', '?']",1
+353,LOC,"['sg in', '?', 'pl ter']",1
+2073,ORG,"['sg in', '?', 'sg ad']",1
+354,LOC,"['sg in', '?', 'sg all']",1
+2074,ORG,"['sg in', '?', 'sg g', 'sg g']",1
+355,LOC,"['sg in', '?', 'sg g', 'sg g']",1
+2075,ORG,"['sg in', '?', 'sg g']",5
+356,LOC,"['sg in', '?', 'sg g']",2
+357,LOC,"['sg in', '?', 'sg in']",1
+2076,ORG,"['sg in', '?', 'sg n', '']",1
+2077,ORG,"['sg in', '?', 'sg n', 'sg n', '']",1
+2078,ORG,"['sg in', '?', 'sg n', 'sg n']",1
+2079,ORG,"['sg in', '?', 'sg n']",9
+358,LOC,"['sg in', '?', 'sg n']",5
+3201,PER,"['sg in', '?', 'sg n']",2
+359,LOC,"['sg in', '?']",25
+3202,PER,"['sg in', '?']",11
+2080,ORG,"['sg in', '?']",18
+2081,ORG,"['sg in', 'adt']",11
+3203,PER,"['sg in', 'adt']",3
+360,LOC,"['sg in', 'adt']",5
+2082,ORG,"['sg in', 'ma']",1
+3204,PER,"['sg in', 'n']",1
+2083,ORG,"['sg in', 'pl g', 'sg g', 'sg ad']",1
+2084,ORG,"['sg in', 'pl g', 'sg g']",4
+2085,ORG,"['sg in', 'pl g', 'sg in']",5
+2086,ORG,"['sg in', 'pl g']",8
+361,LOC,"['sg in', 'pl g']",4
+3205,PER,"['sg in', 'pl in']",1
+2087,ORG,"['sg in', 'pl n', '?', 'sg n', '?', '?', 'sg n', '']",1
+2088,ORG,"['sg in', 'pl n', 'sg n', 'sg n']",1
+2089,ORG,"['sg in', 'pl n', 'sg n']",1
+2090,ORG,"['sg in', 'pl n']",2
+3206,PER,"['sg in', 'pl n']",3
+3207,PER,"['sg in', 'pl p', 'sg kom']",1
+2091,ORG,"['sg in', 'pl p']",1
+2092,ORG,"['sg in', 'sg ab']",1
+3208,PER,"['sg in', 'sg abl']",1
+2093,ORG,"['sg in', 'sg abl']",1
+2094,ORG,"['sg in', 'sg ad', 'sg all']",1
+362,LOC,"['sg in', 'sg ad']",44
+3209,PER,"['sg in', 'sg ad']",1
+2095,ORG,"['sg in', 'sg ad']",9
+2096,ORG,"['sg in', 'sg all', 'sg all']",1
+363,LOC,"['sg in', 'sg all']",4
+2097,ORG,"['sg in', 'sg all']",4
+3210,PER,"['sg in', 'sg all']",3
+2098,ORG,"['sg in', 'sg el', 'sg g']",1
+364,LOC,"['sg in', 'sg el']",4
+3211,PER,"['sg in', 'sg el']",5
+2099,ORG,"['sg in', 'sg el']",5
+3212,PER,"['sg in', 'sg es']",3
+2100,ORG,"['sg in', 'sg g', '', 'sg g']",3
+2101,ORG,"['sg in', 'sg g', '?', '']",1
+365,LOC,"['sg in', 'sg g', '?', 'sg g']",1
+2102,ORG,"['sg in', 'sg g', '?']",2
+2103,ORG,"['sg in', 'sg g', 'pl g', 'sg g']",1
+2104,ORG,"['sg in', 'sg g', 'pl g']",1
+366,LOC,"['sg in', 'sg g', 'pl g']",1
+2105,ORG,"['sg in', 'sg g', 'pl n']",1
+2106,ORG,"['sg in', 'sg g', 'sg ad']",2
+2107,ORG,"['sg in', 'sg g', 'sg el']",3
+367,LOC,"['sg in', 'sg g', 'sg g', 'sg all']",1
+2108,ORG,"['sg in', 'sg g', 'sg g', 'sg g', 'sg g']",1
+2109,ORG,"['sg in', 'sg g', 'sg g', 'sg g']",2
+2110,ORG,"['sg in', 'sg g', 'sg g', 'sg in']",1
+2111,ORG,"['sg in', 'sg g', 'sg g', 'sg n']",1
+3213,PER,"['sg in', 'sg g', 'sg g', 'sg n']",1
+2112,ORG,"['sg in', 'sg g', 'sg g']",41
+368,LOC,"['sg in', 'sg g', 'sg g']",4
+2113,ORG,"['sg in', 'sg g', 'sg ill']",1
+2114,ORG,"['sg in', 'sg g', 'sg in', '?', 'sg g']",1
+2115,ORG,"['sg in', 'sg g', 'sg in', '?']",1
+2116,ORG,"['sg in', 'sg g', 'sg in', 'sg g']",3
+369,LOC,"['sg in', 'sg g', 'sg in']",22
+2117,ORG,"['sg in', 'sg g', 'sg in']",60
+2118,ORG,"['sg in', 'sg g', 'sg n']",13
+2119,ORG,"['sg in', 'sg g']",403
+3214,PER,"['sg in', 'sg g']",108
+370,LOC,"['sg in', 'sg g']",269
+3215,PER,"['sg in', 'sg ill']",1
+371,LOC,"['sg in', 'sg ill']",1
+2120,ORG,"['sg in', 'sg in', '']",1
+2121,ORG,"['sg in', 'sg in', '?', 'sg in']",1
+2122,ORG,"['sg in', 'sg in', 'sg g']",3
+2123,ORG,"['sg in', 'sg in', 'sg in', 'sg g', 'sg in']",1
+2124,ORG,"['sg in', 'sg in', 'sg in', 'sg in']",1
+2125,ORG,"['sg in', 'sg in', 'sg in']",5
+2126,ORG,"['sg in', 'sg in', 'sg n', 'sg n']",1
+372,LOC,"['sg in', 'sg in']",95
+3216,PER,"['sg in', 'sg in']",13
+2127,ORG,"['sg in', 'sg in']",192
+373,LOC,"['sg in', 'sg kom']",5
+3217,PER,"['sg in', 'sg kom']",9
+2128,ORG,"['sg in', 'sg kom']",7
+3218,PER,"['sg in', 'sg n', '', '']",1
+374,LOC,"['sg in', 'sg n', '', 'sg in']",2
+3219,PER,"['sg in', 'sg n', '', 'sg n', '?', 'sg n', 'sg n']",1
+2129,ORG,"['sg in', 'sg n', '', 'sg n']",1
+3220,PER,"['sg in', 'sg n', '', 'sg n']",1
+2130,ORG,"['sg in', 'sg n', '']",2
+2131,ORG,"['sg in', 'sg n', '?', 'sg g', 'pl g', 'sg in']",1
+375,LOC,"['sg in', 'sg n', '?', 'sg in']",2
+2132,ORG,"['sg in', 'sg n', '?']",1
+3221,PER,"['sg in', 'sg n', '?']",1
+3222,PER,"['sg in', 'sg n', 'pl n']",1
+2133,ORG,"['sg in', 'sg n', 'sg el']",1
+2134,ORG,"['sg in', 'sg n', 'sg g', 'sg g', '']",1
+2135,ORG,"['sg in', 'sg n', 'sg g', 'sg g']",4
+2136,ORG,"['sg in', 'sg n', 'sg g', 'sg in', 'sg in']",1
+2137,ORG,"['sg in', 'sg n', 'sg g', 'sg in']",2
+2138,ORG,"['sg in', 'sg n', 'sg g', 'sg kom']",1
+2139,ORG,"['sg in', 'sg n', 'sg g']",34
+376,LOC,"['sg in', 'sg n', 'sg g']",4
+3223,PER,"['sg in', 'sg n', 'sg g']",4
+2140,ORG,"['sg in', 'sg n', 'sg in']",4
+377,LOC,"['sg in', 'sg n', 'sg in']",1
+2141,ORG,"['sg in', 'sg n', 'sg n', '']",2
+2142,ORG,"['sg in', 'sg n', 'sg n', '?', '?', 'sg n']",1
+2143,ORG,"['sg in', 'sg n', 'sg n', '?', 'sg n', '?', 'sg n']",1
+2144,ORG,"['sg in', 'sg n', 'sg n', '?']",1
+2145,ORG,"['sg in', 'sg n', 'sg n', 'sg ad']",1
+2146,ORG,"['sg in', 'sg n', 'sg n', 'sg kom']",1
+3224,PER,"['sg in', 'sg n', 'sg n']",19
+2147,ORG,"['sg in', 'sg n', 'sg n']",18
+3225,PER,"['sg in', 'sg n', 'sg tr']",1
+3226,PER,"['sg in', 'sg n']",231
+2148,ORG,"['sg in', 'sg n']",122
+378,LOC,"['sg in', 'sg n']",28
+2149,ORG,"['sg in', 'sg p', 'sg p']",1
+3227,PER,"['sg in', 'sg p']",3
+379,LOC,"['sg in', 'sg p']",1
+2150,ORG,"['sg in', 'sg p']",4
+380,LOC,"['sg in', 'sg ter']",1
+3228,PER,['sg in'],308
+2151,ORG,['sg in'],2125
+381,LOC,['sg in'],48286
+2152,ORG,"['sg kom', '', 'sg n']",1
+3229,PER,"['sg kom', '']",5
+2153,ORG,"['sg kom', '']",4
+382,LOC,"['sg kom', '']",1
+2154,ORG,"['sg kom', '?', 'sg in']",1
+2155,ORG,"['sg kom', '?', 'sg n']",1
+3230,PER,"['sg kom', '?']",2
+2156,ORG,"['sg kom', '?']",5
+383,LOC,"['sg kom', 'adt']",2
+2157,ORG,"['sg kom', 'adt']",1
+3231,PER,"['sg kom', 'adt']",4
+3232,PER,"['sg kom', 'pl all']",1
+2158,ORG,"['sg kom', 'pl g', 'sg g', 'pl g']",1
+3233,PER,"['sg kom', 'pl n', 'sg n']",1
+2159,ORG,"['sg kom', 'pl n']",2
+3234,PER,"['sg kom', 'pl n']",1
+3235,PER,"['sg kom', 'sg abl']",1
+384,LOC,"['sg kom', 'sg ad']",1
+3236,PER,"['sg kom', 'sg ad']",2
+3237,PER,"['sg kom', 'sg all']",3
+385,LOC,"['sg kom', 'sg all']",3
+2160,ORG,"['sg kom', 'sg el', 'sg ill']",1
+386,LOC,"['sg kom', 'sg el']",1
+3238,PER,"['sg kom', 'sg el']",1
+2161,ORG,"['sg kom', 'sg g', 'sg g', 'sg g']",1
+2162,ORG,"['sg kom', 'sg g', 'sg g', 'sg n']",1
+2163,ORG,"['sg kom', 'sg g', 'sg g']",4
+2164,ORG,"['sg kom', 'sg g', 'sg in', 'sg in']",1
+2165,ORG,"['sg kom', 'sg g', 'sg in']",3
+2166,ORG,"['sg kom', 'sg g', 'sg n']",4
+2167,ORG,"['sg kom', 'sg g']",25
+387,LOC,"['sg kom', 'sg g']",7
+3239,PER,"['sg kom', 'sg g']",32
+388,LOC,"['sg kom', 'sg ill']",2
+3240,PER,"['sg kom', 'sg ill']",5
+3241,PER,"['sg kom', 'sg in', 'sg g']",1
+2168,ORG,"['sg kom', 'sg in', 'sg g']",2
+3242,PER,"['sg kom', 'sg in']",5
+389,LOC,"['sg kom', 'sg in']",1
+2169,ORG,"['sg kom', 'sg in']",12
+2170,ORG,"['sg kom', 'sg kom']",2
+2171,ORG,"['sg kom', 'sg n', 'sg g', 'sg n']",1
+2172,ORG,"['sg kom', 'sg n', 'sg g']",4
+3243,PER,"['sg kom', 'sg n', 'sg g']",1
+2173,ORG,"['sg kom', 'sg n', 'sg kom']",1
+2174,ORG,"['sg kom', 'sg n', 'sg n']",6
+3244,PER,"['sg kom', 'sg n', 'sg n']",4
+2175,ORG,"['sg kom', 'sg n']",17
+3245,PER,"['sg kom', 'sg n']",11
+2176,ORG,"['sg kom', 'sg p']",3
+3246,PER,"['sg kom', 'sg p']",4
+3247,PER,['sg kom'],2625
+2177,ORG,['sg kom'],1070
+390,LOC,['sg kom'],2100
+3248,PER,"['sg n', '', '', '?', '', 'sg g']",2
+2178,ORG,"['sg n', '', '', 'sg g']",8
+3249,PER,"['sg n', '', '', 'sg g']",5
+3250,PER,"['sg n', '', '', 'sg kom']",1
+2179,ORG,"['sg n', '', '', 'sg n', 'sg n', 'sg n']",1
+2180,ORG,"['sg n', '', '', 'sg n']",2
+3251,PER,"['sg n', '', '', 'sg n']",4
+3252,PER,"['sg n', '', '']",1
+2181,ORG,"['sg n', '', '']",23
+2182,ORG,"['sg n', '', '?', '', '?', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",1
+2183,ORG,"['sg n', '', '?', '', '?', '', '?', '', '?']",1
+2184,ORG,"['sg n', '', '?', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",6
+2185,ORG,"['sg n', '', '?', '', '?', '', '?']",3
+2186,ORG,"['sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",3
+2187,ORG,"['sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",24
+2188,ORG,"['sg n', '', '?', '', '?', 'sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",1
+2189,ORG,"['sg n', '', '?', '', '?', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",1
+2190,ORG,"['sg n', '', '?', '', '?', 'sg n']",2
+2191,ORG,"['sg n', '', '?', '', '?']",21
+391,LOC,"['sg n', '', '?', '', '?']",1
+3253,PER,"['sg n', '', '?', '', 'sg g']",2
+2192,ORG,"['sg n', '', '?', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",6
+3254,PER,"['sg n', '', '?', '', 'sg n', '', '?', '', 'sg n']",1
+2193,ORG,"['sg n', '', '?', '', 'sg n', '', '?']",1
+2194,ORG,"['sg n', '', '?', '', 'sg n', '', 'sg n', 'sg n', 'sg n']",1
+2195,ORG,"['sg n', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?', '', '?']",3
+2196,ORG,"['sg n', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",43
+2197,ORG,"['sg n', '', '?', '', 'sg n', 'sg n', 'sg n', '']",2
+2198,ORG,"['sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",107
+3255,PER,"['sg n', '', '?', '', 'sg n']",6
+2199,ORG,"['sg n', '', '?', '', 'sg n']",15
+2200,ORG,"['sg n', '', '?', '']",21
+3256,PER,"['sg n', '', '?', '']",1
+2201,ORG,"['sg n', '', '?', 'pl n', '']",1
+2202,ORG,"['sg n', '', '?', 'sg el']",1
+2203,ORG,"['sg n', '', '?', 'sg g', 'pl n']",1
+2204,ORG,"['sg n', '', '?', 'sg g']",2
+392,LOC,"['sg n', '', '?', 'sg in']",1
+3257,PER,"['sg n', '', '?', 'sg kom']",1
+2205,ORG,"['sg n', '', '?', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",4
+2206,ORG,"['sg n', '', '?', 'sg n', '?', '']",1
+2207,ORG,"['sg n', '', '?', 'sg n', '?', 'sg n', '']",1
+2208,ORG,"['sg n', '', '?', 'sg n', 'sg n', 'sg all']",1
+2209,ORG,"['sg n', '', '?', 'sg n', 'sg n']",1
+2210,ORG,"['sg n', '', '?', 'sg n']",3
+393,LOC,"['sg n', '', '?', 'sg n']",1
+3258,PER,"['sg n', '', '?', 'sg n']",4
+2211,ORG,"['sg n', '', '?']",186
+394,LOC,"['sg n', '', '?']",5
+3259,PER,"['sg n', '', '?']",101
+2212,ORG,"['sg n', '', 'adt']",1
+2213,ORG,"['sg n', '', 'pl abl']",1
+2214,ORG,"['sg n', '', 'pl all']",1
+2215,ORG,"['sg n', '', 'pl g']",2
+3260,PER,"['sg n', '', 'pl g']",3
+2216,ORG,"['sg n', '', 'pl n', '']",1
+2217,ORG,"['sg n', '', 'pl n', '?']",1
+395,LOC,"['sg n', '', 'pl n', '?']",1
+2218,ORG,"['sg n', '', 'pl n', 'sg in']",1
+2219,ORG,"['sg n', '', 'pl n', 'sg n', '']",1
+2220,ORG,"['sg n', '', 'pl n', 'sg n', '?']",1
+2221,ORG,"['sg n', '', 'pl n', 'sg n']",3
+3261,PER,"['sg n', '', 'pl n']",1
+2222,ORG,"['sg n', '', 'pl n']",12
+396,LOC,"['sg n', '', 'pl n']",1
+2223,ORG,"['sg n', '', 'pl p']",5
+3262,PER,"['sg n', '', 'pl p']",1
+2224,ORG,"['sg n', '', 's']",1
+397,LOC,"['sg n', '', 'sg ad', '', '?']",1
+398,LOC,"['sg n', '', 'sg ad']",1
+2225,ORG,"['sg n', '', 'sg all']",4
+3263,PER,"['sg n', '', 'sg all']",1
+399,LOC,"['sg n', '', 'sg all']",1
+2226,ORG,"['sg n', '', 'sg el']",3
+400,LOC,"['sg n', '', 'sg el']",2
+3264,PER,"['sg n', '', 'sg el']",1
+2227,ORG,"['sg n', '', 'sg es']",1
+3265,PER,"['sg n', '', 'sg g', 'sg g']",1
+401,LOC,"['sg n', '', 'sg g', 'sg g']",1
+2228,ORG,"['sg n', '', 'sg g', 'sg g']",2
+2229,ORG,"['sg n', '', 'sg g', 'sg n']",3
+2230,ORG,"['sg n', '', 'sg g', 'sg p']",1
+3266,PER,"['sg n', '', 'sg g']",14
+402,LOC,"['sg n', '', 'sg g']",8
+2231,ORG,"['sg n', '', 'sg g']",59
+3267,PER,"['sg n', '', 'sg ill']",1
+403,LOC,"['sg n', '', 'sg in', 'sg n']",1
+404,LOC,"['sg n', '', 'sg in']",6
+2232,ORG,"['sg n', '', 'sg in']",8
+3268,PER,"['sg n', '', 'sg in']",1
+3269,PER,"['sg n', '', 'sg kom']",1
+2233,ORG,"['sg n', '', 'sg kom']",3
+2234,ORG,"['sg n', '', 'sg n', '', '', 'sg n', '', 'sg n']",1
+2235,ORG,"['sg n', '', 'sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",1
+2236,ORG,"['sg n', '', 'sg n', '', '?', '', '?', '', 'sg n', 'sg n', 'sg n']",1
+2237,ORG,"['sg n', '', 'sg n', '', '?', '', '?']",3
+2238,ORG,"['sg n', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n', '', '?']",6
+2239,ORG,"['sg n', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",25
+2240,ORG,"['sg n', '', 'sg n', '', '?', 'sg g', 'sg g']",1
+2241,ORG,"['sg n', '', 'sg n', '', '?', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",1
+2242,ORG,"['sg n', '', 'sg n', '', '?', 'sg n']",1
+2243,ORG,"['sg n', '', 'sg n', '', '?']",10
+405,LOC,"['sg n', '', 'sg n', '', '?']",1
+2244,ORG,"['sg n', '', 'sg n', '', 'sg g']",5
+2245,ORG,"['sg n', '', 'sg n', '', 'sg n', '', '', 'sg n', 'sg n']",1
+2246,ORG,"['sg n', '', 'sg n', '', 'sg n', '', '?', '', 'sg n', 'sg n', 'sg n']",2
+2247,ORG,"['sg n', '', 'sg n', '', 'sg n', '', 'sg n', 'sg n', 'sg n']",1
+2248,ORG,"['sg n', '', 'sg n', '', 'sg n', 'sg n', 'sg n', '', '?']",1
+2249,ORG,"['sg n', '', 'sg n', '', 'sg n', 'sg n', 'sg n']",2
+3270,PER,"['sg n', '', 'sg n', '', 'sg n']",1
+406,LOC,"['sg n', '', 'sg n', '', 'sg n']",4
+2250,ORG,"['sg n', '', 'sg n', '', 'sg n']",8
+2251,ORG,"['sg n', '', 'sg n', '']",32
+2252,ORG,"['sg n', '', 'sg n', '?', '']",1
+3271,PER,"['sg n', '', 'sg n', '?', 'sg n']",1
+2253,ORG,"['sg n', '', 'sg n', '?', 'sg n']",1
+2254,ORG,"['sg n', '', 'sg n', '?']",2
+407,LOC,"['sg n', '', 'sg n', '?']",11
+3272,PER,"['sg n', '', 'sg n', '?']",1
+2255,ORG,"['sg n', '', 'sg n', 'pl n', '?']",1
+2256,ORG,"['sg n', '', 'sg n', 'pl n']",2
+2257,ORG,"['sg n', '', 'sg n', 'sg g', 'sg g']",1
+2258,ORG,"['sg n', '', 'sg n', 'sg g', 'sg n', 'sg g']",1
+2259,ORG,"['sg n', '', 'sg n', 'sg g', 'sg n']",1
+2260,ORG,"['sg n', '', 'sg n', 'sg g']",10
+3273,PER,"['sg n', '', 'sg n', 'sg g']",1
+2261,ORG,"['sg n', '', 'sg n', 'sg kom']",1
+2262,ORG,"['sg n', '', 'sg n', 'sg n', '', 'sg n']",2
+2263,ORG,"['sg n', '', 'sg n', 'sg n', '?']",1
+2264,ORG,"['sg n', '', 'sg n', 'sg n', 'sg all']",1
+2265,ORG,"['sg n', '', 'sg n', 'sg n', 'sg g']",1
+2266,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', '', '', '?', '', '?']",1
+2267,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', '', '?', '', '?']",14
+2268,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', '', '?']",100
+2269,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', '']",1
+2270,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', '?', '']",1
+2271,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2272,ORG,"['sg n', '', 'sg n', 'sg n', 'sg n']",196
+2273,ORG,"['sg n', '', 'sg n', 'sg n']",20
+3274,PER,"['sg n', '', 'sg n', 'sg n']",6
+2274,ORG,"['sg n', '', 'sg n']",553
+3275,PER,"['sg n', '', 'sg n']",257
+408,LOC,"['sg n', '', 'sg n']",25
+3276,PER,"['sg n', '', 'sg p', 'sg n', 'pl n']",1
+3277,PER,"['sg n', '', 'sg p']",1
+2275,ORG,"['sg n', '', 'sg p']",1
+409,LOC,"['sg n', '']",7
+3278,PER,"['sg n', '']",189
+2276,ORG,"['sg n', '']",62
+2277,ORG,"['sg n', '?', '', '', 'sg g']",1
+2278,ORG,"['sg n', '?', '', '?', 'pl n', '', '?']",1
+2279,ORG,"['sg n', '?', '', '?']",14
+3279,PER,"['sg n', '?', '', '?']",2
+2280,ORG,"['sg n', '?', '', 'sg g']",1
+3280,PER,"['sg n', '?', '', 'sg g']",4
+3281,PER,"['sg n', '?', '', 'sg kom']",1
+3282,PER,"['sg n', '?', '', 'sg n', 'sg n', 'sg n']",1
+3283,PER,"['sg n', '?', '', 'sg n', 'sg n']",1
+2281,ORG,"['sg n', '?', '', 'sg n']",5
+3284,PER,"['sg n', '?', '', 'sg n']",80
+3285,PER,"['sg n', '?', '', 'sg p']",3
+2282,ORG,"['sg n', '?', '']",32
+2283,ORG,"['sg n', '?', '?', '']",2
+2284,ORG,"['sg n', '?', '?', '?', 'sg n']",1
+2285,ORG,"['sg n', '?', '?', 'sg kom']",1
+2286,ORG,"['sg n', '?', '?', 'sg n', '']",1
+2287,ORG,"['sg n', '?', '?', 'sg n', 'sg g']",1
+2288,ORG,"['sg n', '?', '?', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2289,ORG,"['sg n', '?', '?', 'sg n']",7
+3286,PER,"['sg n', '?', '?', 'sg n']",3
+3287,PER,"['sg n', '?', '?']",5
+2290,ORG,"['sg n', '?', '?']",11
+3288,PER,"['sg n', '?', 'adt']",2
+2291,ORG,"['sg n', '?', 'adt']",2
+2292,ORG,"['sg n', '?', 'pl g']",1
+2293,ORG,"['sg n', '?', 'pl n', '', 'sg ad', '']",1
+2294,ORG,"['sg n', '?', 'pl n', '?', 'sg n', 'sg n', 'sg n', '']",1
+2295,ORG,"['sg n', '?', 'pl n', 'sg n', 'sg n', '']",1
+2296,ORG,"['sg n', '?', 'pl n']",4
+3289,PER,"['sg n', '?', 'pl n']",1
+2297,ORG,"['sg n', '?', 'pl p']",1
+3290,PER,"['sg n', '?', 'pl ter']",1
+3291,PER,"['sg n', '?', 'sg abl']",1
+2298,ORG,"['sg n', '?', 'sg ad', '']",1
+3292,PER,"['sg n', '?', 'sg ad']",3
+3293,PER,"['sg n', '?', 'sg all']",3
+2299,ORG,"['sg n', '?', 'sg el', '']",2
+2300,ORG,"['sg n', '?', 'sg el']",4
+3294,PER,"['sg n', '?', 'sg el']",3
+410,LOC,"['sg n', '?', 'sg el']",1
+2301,ORG,"['sg n', '?', 'sg g', '?', '']",1
+2302,ORG,"['sg n', '?', 'sg g', '?']",2
+2303,ORG,"['sg n', '?', 'sg g', 'sg abl']",1
+2304,ORG,"['sg n', '?', 'sg g', 'sg g', 'sg el']",1
+411,LOC,"['sg n', '?', 'sg g', 'sg g']",2
+2305,ORG,"['sg n', '?', 'sg g', 'sg g']",5
+412,LOC,"['sg n', '?', 'sg g', 'sg in']",1
+2306,ORG,"['sg n', '?', 'sg g', 'sg in']",2
+2307,ORG,"['sg n', '?', 'sg g', 'sg n', '']",1
+2308,ORG,"['sg n', '?', 'sg g', 'sg n', 'sg n']",1
+2309,ORG,"['sg n', '?', 'sg g', 'sg n']",2
+3295,PER,"['sg n', '?', 'sg g']",95
+413,LOC,"['sg n', '?', 'sg g']",12
+2310,ORG,"['sg n', '?', 'sg g']",57
+414,LOC,"['sg n', '?', 'sg ill']",4
+3296,PER,"['sg n', '?', 'sg ill']",1
+2311,ORG,"['sg n', '?', 'sg in', '']",1
+2312,ORG,"['sg n', '?', 'sg in', '?', 'sg g']",1
+3297,PER,"['sg n', '?', 'sg in', 'sg n']",1
+415,LOC,"['sg n', '?', 'sg in']",16
+2313,ORG,"['sg n', '?', 'sg in']",7
+2314,ORG,"['sg n', '?', 'sg kom', 'sg g']",1
+3298,PER,"['sg n', '?', 'sg kom']",7
+2315,ORG,"['sg n', '?', 'sg kom']",4
+2316,ORG,"['sg n', '?', 'sg n', '', '']",1
+2317,ORG,"['sg n', '?', 'sg n', '', 'sg g', 'sg g']",1
+2318,ORG,"['sg n', '?', 'sg n', '', 'sg g']",1
+2319,ORG,"['sg n', '?', 'sg n', '', 'sg n', '?', 'sg n']",1
+2320,ORG,"['sg n', '?', 'sg n', '', 'sg n']",1
+2321,ORG,"['sg n', '?', 'sg n', '']",35
+2322,ORG,"['sg n', '?', 'sg n', '?', '']",2
+2323,ORG,"['sg n', '?', 'sg n', '?', '?', 'sg n']",1
+2324,ORG,"['sg n', '?', 'sg n', '?', 'sg n', '']",1
+2325,ORG,"['sg n', '?', 'sg n', '?', 'sg n', '?', '']",1
+2326,ORG,"['sg n', '?', 'sg n', '?']",1
+3299,PER,"['sg n', '?', 'sg n', 'adt']",4
+3300,PER,"['sg n', '?', 'sg n', 'pl n']",1
+2327,ORG,"['sg n', '?', 'sg n', 'sg ad']",1
+2328,ORG,"['sg n', '?', 'sg n', 'sg all']",1
+2329,ORG,"['sg n', '?', 'sg n', 'sg el']",1
+2330,ORG,"['sg n', '?', 'sg n', 'sg g', '?']",1
+2331,ORG,"['sg n', '?', 'sg n', 'sg g', 'sg g', 'sg n']",1
+2332,ORG,"['sg n', '?', 'sg n', 'sg g', 'sg n', 'sg n', 'sg n', '?', 'sg n']",1
+3301,PER,"['sg n', '?', 'sg n', 'sg g']",5
+2333,ORG,"['sg n', '?', 'sg n', 'sg g']",10
+2334,ORG,"['sg n', '?', 'sg n', 'sg in']",1
+3302,PER,"['sg n', '?', 'sg n', 'sg kom']",1
+2335,ORG,"['sg n', '?', 'sg n', 'sg n', '']",3
+2336,ORG,"['sg n', '?', 'sg n', 'sg n', '?', 'sg n', '']",1
+2337,ORG,"['sg n', '?', 'sg n', 'sg n', '?']",1
+2338,ORG,"['sg n', '?', 'sg n', 'sg n', 'sg g', 'sg g']",1
+2339,ORG,"['sg n', '?', 'sg n', 'sg n', 'sg g']",1
+2340,ORG,"['sg n', '?', 'sg n', 'sg n', 'sg n', 'adt']",1
+2341,ORG,"['sg n', '?', 'sg n', 'sg n', 'sg n']",8
+2342,ORG,"['sg n', '?', 'sg n', 'sg n']",47
+3303,PER,"['sg n', '?', 'sg n', 'sg n']",27
+2343,ORG,"['sg n', '?', 'sg n']",246
+416,LOC,"['sg n', '?', 'sg n']",18
+3304,PER,"['sg n', '?', 'sg n']",419
+2344,ORG,"['sg n', '?', 'sg p']",1
+3305,PER,"['sg n', '?', 'sg p']",2
+2345,ORG,"['sg n', '?']",880
+3306,PER,"['sg n', '?']",1777
+417,LOC,"['sg n', '?']",42
+2346,ORG,"['sg n', 'adt', '']",1
+2347,ORG,"['sg n', 'adt', 'adt']",1
+2348,ORG,"['sg n', 'adt', 'pl g']",1
+2349,ORG,"['sg n', 'adt', 'sg g', 'sg g', 'sg n', '?']",1
+2350,ORG,"['sg n', 'adt', 'sg g', 'sg g']",1
+2351,ORG,"['sg n', 'adt', 'sg g']",1
+2352,ORG,"['sg n', 'adt', 'sg ill']",1
+3307,PER,"['sg n', 'adt', 'sg n', 'sg n']",1
+2353,ORG,"['sg n', 'adt', 'sg n']",1
+2354,ORG,"['sg n', 'adt']",66
+3308,PER,"['sg n', 'adt']",285
+418,LOC,"['sg n', 'adt']",9
+3309,PER,"['sg n', 'd', 'sg n', 'sg n']",1
+2355,ORG,"['sg n', 'ge']",1
+3310,PER,"['sg n', 'me']",1
+3311,PER,"['sg n', 'n']",8
+2356,ORG,"['sg n', 'o', 'sg n']",1
+3312,PER,"['sg n', 'o']",60
+3313,PER,"['sg n', 'pl abl']",7
+3314,PER,"['sg n', 'pl ad']",24
+2357,ORG,"['sg n', 'pl ad']",1
+3315,PER,"['sg n', 'pl all']",12
+2358,ORG,"['sg n', 'pl all']",2
+3316,PER,"['sg n', 'pl el', 'sg g']",1
+2359,ORG,"['sg n', 'pl el']",3
+3317,PER,"['sg n', 'pl el']",5
+3318,PER,"['sg n', 'pl es']",1
+2360,ORG,"['sg n', 'pl g', '', '', 'sg n', 'pl g']",1
+2361,ORG,"['sg n', 'pl g', '']",1
+2362,ORG,"['sg n', 'pl g', '?', '']",1
+2363,ORG,"['sg n', 'pl g', '?']",8
+2364,ORG,"['sg n', 'pl g', 'adt', '', '?']",1
+2365,ORG,"['sg n', 'pl g', 'pl g', 'sg g']",2
+2366,ORG,"['sg n', 'pl g', 'pl g', 'sg in']",1
+2367,ORG,"['sg n', 'pl g', 'pl g', 'sg n']",2
+2368,ORG,"['sg n', 'pl g', 'pl g']",1
+2369,ORG,"['sg n', 'pl g', 'sg all']",3
+2370,ORG,"['sg n', 'pl g', 'sg g', '', 'sg g']",1
+2371,ORG,"['sg n', 'pl g', 'sg g', '?']",1
+2372,ORG,"['sg n', 'pl g', 'sg g', 'sg g', 'sg g']",1
+2373,ORG,"['sg n', 'pl g', 'sg g', 'sg g']",1
+2374,ORG,"['sg n', 'pl g', 'sg g', 'sg n']",2
+3319,PER,"['sg n', 'pl g', 'sg g']",2
+2375,ORG,"['sg n', 'pl g', 'sg g']",12
+2376,ORG,"['sg n', 'pl g', 'sg in']",2
+2377,ORG,"['sg n', 'pl g', 'sg n', 'sg n', 'sg n']",1
+3320,PER,"['sg n', 'pl g', 'sg n', 'sg n']",1
+3321,PER,"['sg n', 'pl g', 'sg n']",3
+2378,ORG,"['sg n', 'pl g', 'sg n']",13
+2379,ORG,"['sg n', 'pl g', 'sg tr']",1
+3322,PER,"['sg n', 'pl g']",357
+419,LOC,"['sg n', 'pl g']",3
+2380,ORG,"['sg n', 'pl g']",31
+3323,PER,"['sg n', 'pl ill']",1
+420,LOC,"['sg n', 'pl ill']",1
+2381,ORG,"['sg n', 'pl in', 'sg in', 'sg in']",1
+3324,PER,"['sg n', 'pl in']",8
+2382,ORG,"['sg n', 'pl in']",2
+421,LOC,"['sg n', 'pl in']",1
+2383,ORG,"['sg n', 'pl kom']",2
+3325,PER,"['sg n', 'pl kom']",23
+3326,PER,"['sg n', 'pl n', '', 'sg el']",1
+3327,PER,"['sg n', 'pl n', '', 'sg n']",1
+2384,ORG,"['sg n', 'pl n', '']",3
+3328,PER,"['sg n', 'pl n', '']",1
+2385,ORG,"['sg n', 'pl n', '?', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2386,ORG,"['sg n', 'pl n', '?', 'sg n']",1
+3329,PER,"['sg n', 'pl n', '?']",4
+2387,ORG,"['sg n', 'pl n', '?']",1
+2388,ORG,"['sg n', 'pl n', 'pl g']",1
+3330,PER,"['sg n', 'pl n', 'pl n']",1
+2389,ORG,"['sg n', 'pl n', 'pl n']",2
+2390,ORG,"['sg n', 'pl n', 'pl p']",1
+3331,PER,"['sg n', 'pl n', 'sg abl']",1
+3332,PER,"['sg n', 'pl n', 'sg ad']",1
+2391,ORG,"['sg n', 'pl n', 'sg el']",1
+2392,ORG,"['sg n', 'pl n', 'sg g', 'sg tr']",1
+3333,PER,"['sg n', 'pl n', 'sg g']",18
+2393,ORG,"['sg n', 'pl n', 'sg g']",10
+3334,PER,"['sg n', 'pl n', 'sg kom']",1
+2394,ORG,"['sg n', 'pl n', 'sg n', '']",2
+2395,ORG,"['sg n', 'pl n', 'sg n', 'pl n', 'sg n']",1
+2396,ORG,"['sg n', 'pl n', 'sg n', 'sg el']",1
+2397,ORG,"['sg n', 'pl n', 'sg n', 'sg kom']",1
+2398,ORG,"['sg n', 'pl n', 'sg n', 'sg n', 'sg kom']",1
+2399,ORG,"['sg n', 'pl n', 'sg n', 'sg n']",2
+3335,PER,"['sg n', 'pl n', 'sg n']",32
+2400,ORG,"['sg n', 'pl n', 'sg n']",30
+3336,PER,"['sg n', 'pl n']",754
+2401,ORG,"['sg n', 'pl n']",129
+422,LOC,"['sg n', 'pl n']",3
+2402,ORG,"['sg n', 'pl p', 'sg all']",1
+2403,ORG,"['sg n', 'pl p', 'sg el']",1
+3337,PER,"['sg n', 'pl p', 'sg n']",1
+3338,PER,"['sg n', 'pl p']",71
+2404,ORG,"['sg n', 'pl p']",24
+3339,PER,"['sg n', 'pl ter']",5
+3340,PER,"['sg n', 'pl tr']",2
+2405,ORG,"['sg n', 's', 'sg g', 'sg g']",1
+2406,ORG,"['sg n', 's']",2
+3341,PER,"['sg n', 's']",3
+2407,ORG,"['sg n', 'sg ab', '']",1
+2408,ORG,"['sg n', 'sg ab', 'sg g']",6
+3342,PER,"['sg n', 'sg ab']",8
+2409,ORG,"['sg n', 'sg ab']",9
+3343,PER,"['sg n', 'sg abl', '?']",1
+2410,ORG,"['sg n', 'sg abl', 'sg el']",1
+3344,PER,"['sg n', 'sg abl', 'sg es']",1
+2411,ORG,"['sg n', 'sg abl', 'sg g']",3
+3345,PER,"['sg n', 'sg abl', 'sg n', 'sg all']",1
+3346,PER,"['sg n', 'sg abl', 'sg n', 'sg n']",1
+2412,ORG,"['sg n', 'sg abl']",33
+3347,PER,"['sg n', 'sg abl']",626
+423,LOC,"['sg n', 'sg abl']",2
+2413,ORG,"['sg n', 'sg ad', '', 'sg in']",1
+2414,ORG,"['sg n', 'sg ad', '']",2
+2415,ORG,"['sg n', 'sg ad', '?']",1
+3348,PER,"['sg n', 'sg ad', 'sg es']",1
+2416,ORG,"['sg n', 'sg ad', 'sg g', 'sg all']",1
+2417,ORG,"['sg n', 'sg ad', 'sg g', 'sg in']",1
+424,LOC,"['sg n', 'sg ad', 'sg g']",1
+2418,ORG,"['sg n', 'sg ad', 'sg g']",2
+3349,PER,"['sg n', 'sg ad', 'sg g']",2
+2419,ORG,"['sg n', 'sg ad', 'sg in']",3
+2420,ORG,"['sg n', 'sg ad', 'sg n', 'sg n']",1
+3350,PER,"['sg n', 'sg ad', 'sg n']",3
+2421,ORG,"['sg n', 'sg ad', 'sg n']",1
+3351,PER,"['sg n', 'sg ad']",926
+425,LOC,"['sg n', 'sg ad']",22
+2422,ORG,"['sg n', 'sg ad']",74
+2423,ORG,"['sg n', 'sg all', '', 'sg all']",1
+2424,ORG,"['sg n', 'sg all', '']",3
+2425,ORG,"['sg n', 'sg all', '?', 'sg g']",1
+2426,ORG,"['sg n', 'sg all', 'adt']",1
+2427,ORG,"['sg n', 'sg all', 'sg all', 'sg all']",1
+2428,ORG,"['sg n', 'sg all', 'sg el']",1
+3352,PER,"['sg n', 'sg all', 'sg g']",1
+2429,ORG,"['sg n', 'sg all', 'sg in']",1
+2430,ORG,"['sg n', 'sg all', 'sg n', 'sg g']",1
+3353,PER,"['sg n', 'sg all', 'sg n', 'sg n']",1
+426,LOC,"['sg n', 'sg all']",20
+2431,ORG,"['sg n', 'sg all']",141
+3354,PER,"['sg n', 'sg all']",1070
+3355,PER,"['sg n', 'sg el', '', 'sg n']",1
+2432,ORG,"['sg n', 'sg el', '']",5
+2433,ORG,"['sg n', 'sg el', '?', '']",1
+2434,ORG,"['sg n', 'sg el', 'pl g', 'pl g']",1
+2435,ORG,"['sg n', 'sg el', 'sg all']",1
+2436,ORG,"['sg n', 'sg el', 'sg el']",2
+2437,ORG,"['sg n', 'sg el', 'sg g', 'sg ill']",1
+2438,ORG,"['sg n', 'sg el', 'sg g']",5
+3356,PER,"['sg n', 'sg el', 'sg n', 'sg g']",1
+2439,ORG,"['sg n', 'sg el', 'sg n', 'sg g']",3
+2440,ORG,"['sg n', 'sg el', 'sg n', 'sg n']",2
+3357,PER,"['sg n', 'sg el', 'sg n', 'sg n']",6
+3358,PER,"['sg n', 'sg el', 'sg n', 'sg ter']",1
+3359,PER,"['sg n', 'sg el', 'sg n']",1
+3360,PER,"['sg n', 'sg el']",977
+427,LOC,"['sg n', 'sg el']",18
+2441,ORG,"['sg n', 'sg el']",213
+2442,ORG,"['sg n', 'sg es', 'sg g', 'sg el']",1
+3361,PER,"['sg n', 'sg es', 'sg g']",1
+2443,ORG,"['sg n', 'sg es', 'sg g']",3
+3362,PER,"['sg n', 'sg es', 'sg n']",1
+3363,PER,"['sg n', 'sg es']",21
+3364,PER,"['sg n', 'sg g', '', '', 'da', '', '']",1
+3365,PER,"['sg n', 'sg g', '', '', 'sg g']",1
+3366,PER,"['sg n', 'sg g', '', '', 'sg n']",2
+3367,PER,"['sg n', 'sg g', '', 'sg all']",1
+2444,ORG,"['sg n', 'sg g', '', 'sg g', 'sg el', 'sg in']",1
+2445,ORG,"['sg n', 'sg g', '', 'sg g', 'sg el']",1
+2446,ORG,"['sg n', 'sg g', '', 'sg g', 'sg g', '?']",2
+2447,ORG,"['sg n', 'sg g', '', 'sg g', 'sg g']",2
+2448,ORG,"['sg n', 'sg g', '', 'sg g', 'sg n']",1
+2449,ORG,"['sg n', 'sg g', '', 'sg g']",4
+3368,PER,"['sg n', 'sg g', '', 'sg n', 'sg n']",1
+3369,PER,"['sg n', 'sg g', '', 'sg n']",1
+2450,ORG,"['sg n', 'sg g', '', 'sg n']",1
+2451,ORG,"['sg n', 'sg g', '']",33
+3370,PER,"['sg n', 'sg g', '']",3
+2452,ORG,"['sg n', 'sg g', '?', '', '?', '']",1
+2453,ORG,"['sg n', 'sg g', '?', '', '?', '?', 'sg n']",1
+2454,ORG,"['sg n', 'sg g', '?', '', '?', 'sg n']",1
+2455,ORG,"['sg n', 'sg g', '?', '', 'pl g', 'sg n']",1
+2456,ORG,"['sg n', 'sg g', '?', '', 'pl g', 'sg tr']",1
+2457,ORG,"['sg n', 'sg g', '?', '', 'sg g']",1
+3371,PER,"['sg n', 'sg g', '?', '', 'sg n']",1
+2458,ORG,"['sg n', 'sg g', '?', '', 'sg n']",1
+2459,ORG,"['sg n', 'sg g', '?', '']",9
+2460,ORG,"['sg n', 'sg g', '?', '?']",1
+2461,ORG,"['sg n', 'sg g', '?', 'sg g']",5
+2462,ORG,"['sg n', 'sg g', '?', 'sg n', 'sg g', 'sg n']",1
+2463,ORG,"['sg n', 'sg g', '?', 'sg n', 'sg in']",1
+2464,ORG,"['sg n', 'sg g', '?', 'sg n', 'sg n']",1
+2465,ORG,"['sg n', 'sg g', '?', 'sg n']",3
+3372,PER,"['sg n', 'sg g', '?', 'sg n']",1
+3373,PER,"['sg n', 'sg g', '?']",7
+2466,ORG,"['sg n', 'sg g', '?']",86
+2467,ORG,"['sg n', 'sg g', 'adt', 'sg g']",2
+2468,ORG,"['sg n', 'sg g', 'adt']",19
+3374,PER,"['sg n', 'sg g', 'adt']",1
+428,LOC,"['sg n', 'sg g', 'adt']",1
+2469,ORG,"['sg n', 'sg g', 'pl all']",2
+2470,ORG,"['sg n', 'sg g', 'pl el']",4
+2471,ORG,"['sg n', 'sg g', 'pl g', 'pl g', 'sg in']",1
+2472,ORG,"['sg n', 'sg g', 'pl g', 'pl g']",1
+2473,ORG,"['sg n', 'sg g', 'pl g', 'sg el']",1
+2474,ORG,"['sg n', 'sg g', 'pl g', 'sg g', 'sg g', 'sg g']",1
+2475,ORG,"['sg n', 'sg g', 'pl g', 'sg g']",1
+2476,ORG,"['sg n', 'sg g', 'pl g', 'sg n']",1
+2477,ORG,"['sg n', 'sg g', 'pl g']",8
+2478,ORG,"['sg n', 'sg g', 'pl in']",2
+2479,ORG,"['sg n', 'sg g', 'pl n']",8
+2480,ORG,"['sg n', 'sg g', 'pl p']",2
+2481,ORG,"['sg n', 'sg g', 'sg abl', 'sg g']",1
+2482,ORG,"['sg n', 'sg g', 'sg abl']",9
+3375,PER,"['sg n', 'sg g', 'sg ad']",1
+2483,ORG,"['sg n', 'sg g', 'sg ad']",6
+2484,ORG,"['sg n', 'sg g', 'sg all', 'sg all']",1
+2485,ORG,"['sg n', 'sg g', 'sg all', 'sg g']",1
+2486,ORG,"['sg n', 'sg g', 'sg all']",23
+429,LOC,"['sg n', 'sg g', 'sg all']",1
+2487,ORG,"['sg n', 'sg g', 'sg el', 'sg el']",3
+2488,ORG,"['sg n', 'sg g', 'sg el', 'sg g']",2
+430,LOC,"['sg n', 'sg g', 'sg el', 'sg g']",1
+3376,PER,"['sg n', 'sg g', 'sg el']",2
+2489,ORG,"['sg n', 'sg g', 'sg el']",36
+2490,ORG,"['sg n', 'sg g', 'sg g', '', 'sg g', 'sg g']",1
+2491,ORG,"['sg n', 'sg g', 'sg g', '', 'sg g']",1
+2492,ORG,"['sg n', 'sg g', 'sg g', '?', '?']",1
+2493,ORG,"['sg n', 'sg g', 'sg g', '?', 'sg g', 'sg g']",1
+2494,ORG,"['sg n', 'sg g', 'sg g', '?', 'sg g']",1
+2495,ORG,"['sg n', 'sg g', 'sg g', '?']",4
+2496,ORG,"['sg n', 'sg g', 'sg g', 'adt']",1
+2497,ORG,"['sg n', 'sg g', 'sg g', 'pl n']",1
+2498,ORG,"['sg n', 'sg g', 'sg g', 'sg el']",2
+2499,ORG,"['sg n', 'sg g', 'sg g', 'sg g', 'sg g', 'sg n']",1
+2500,ORG,"['sg n', 'sg g', 'sg g', 'sg g', 'sg g']",3
+2501,ORG,"['sg n', 'sg g', 'sg g', 'sg g', 'sg n']",2
+2502,ORG,"['sg n', 'sg g', 'sg g', 'sg g']",26
+3377,PER,"['sg n', 'sg g', 'sg g', 'sg g']",3
+2503,ORG,"['sg n', 'sg g', 'sg g', 'sg in']",8
+3378,PER,"['sg n', 'sg g', 'sg g', 'sg n', '?', '', 'sg n']",1
+2504,ORG,"['sg n', 'sg g', 'sg g', 'sg n', 'sg g']",1
+2505,ORG,"['sg n', 'sg g', 'sg g', 'sg n']",8
+431,LOC,"['sg n', 'sg g', 'sg g']",4
+2506,ORG,"['sg n', 'sg g', 'sg g']",258
+3379,PER,"['sg n', 'sg g', 'sg g']",53
+2507,ORG,"['sg n', 'sg g', 'sg ill', 'sg g']",1
+2508,ORG,"['sg n', 'sg g', 'sg ill']",6
+2509,ORG,"['sg n', 'sg g', 'sg in', '']",2
+2510,ORG,"['sg n', 'sg g', 'sg in', '?']",1
+2511,ORG,"['sg n', 'sg g', 'sg in', 'sg g']",1
+2512,ORG,"['sg n', 'sg g', 'sg in', 'sg in']",7
+432,LOC,"['sg n', 'sg g', 'sg in']",3
+3380,PER,"['sg n', 'sg g', 'sg in']",1
+2513,ORG,"['sg n', 'sg g', 'sg in']",78
+2514,ORG,"['sg n', 'sg g', 'sg kom', '']",1
+2515,ORG,"['sg n', 'sg g', 'sg kom']",14
+3381,PER,"['sg n', 'sg g', 'sg kom']",2
+2516,ORG,"['sg n', 'sg g', 'sg n', '', 'sg n']",1
+2517,ORG,"['sg n', 'sg g', 'sg n', '']",2
+2518,ORG,"['sg n', 'sg g', 'sg n', '?', 'sg n']",1
+2519,ORG,"['sg n', 'sg g', 'sg n', '?']",3
+2520,ORG,"['sg n', 'sg g', 'sg n', 'sg ad']",1
+2521,ORG,"['sg n', 'sg g', 'sg n', 'sg g', 'sg g', 'sg g']",1
+3382,PER,"['sg n', 'sg g', 'sg n', 'sg g']",2
+2522,ORG,"['sg n', 'sg g', 'sg n', 'sg g']",3
+2523,ORG,"['sg n', 'sg g', 'sg n', 'sg in']",1
+2524,ORG,"['sg n', 'sg g', 'sg n', 'sg n', 'sg el']",1
+2525,ORG,"['sg n', 'sg g', 'sg n', 'sg n', 'sg n', 'sg g', 'sg n']",1
+2526,ORG,"['sg n', 'sg g', 'sg n', 'sg n', 'sg n', 'sg g']",1
+2527,ORG,"['sg n', 'sg g', 'sg n', 'sg n', 'sg n']",1
+2528,ORG,"['sg n', 'sg g', 'sg n', 'sg n']",15
+3383,PER,"['sg n', 'sg g', 'sg n', 'sg n']",6
+2529,ORG,"['sg n', 'sg g', 'sg n', 'sg p']",1
+2530,ORG,"['sg n', 'sg g', 'sg n']",178
+3384,PER,"['sg n', 'sg g', 'sg n']",54
+433,LOC,"['sg n', 'sg g', 'sg n']",1
+2531,ORG,"['sg n', 'sg g', 'sg p', 'sg p']",1
+3385,PER,"['sg n', 'sg g', 'sg p']",1
+2532,ORG,"['sg n', 'sg g', 'sg p']",5
+434,LOC,"['sg n', 'sg g', 'sg p']",1
+3386,PER,"['sg n', 'sg g']",31984
+2533,ORG,"['sg n', 'sg g']",3005
+435,LOC,"['sg n', 'sg g']",181
+2534,ORG,"['sg n', 'sg ill', 'sg g', 'sg g', 'sg n']",1
+436,LOC,"['sg n', 'sg ill']",7
+3387,PER,"['sg n', 'sg ill']",75
+2535,ORG,"['sg n', 'sg ill']",17
+2536,ORG,"['sg n', 'sg in', '']",15
+2537,ORG,"['sg n', 'sg in', '?', 'sg in']",1
+2538,ORG,"['sg n', 'sg in', '?', 'sg n']",1
+2539,ORG,"['sg n', 'sg in', '?']",2
+3388,PER,"['sg n', 'sg in', '?']",1
+2540,ORG,"['sg n', 'sg in', 'pl g', 'sg in']",1
+2541,ORG,"['sg n', 'sg in', 'sg all']",2
+2542,ORG,"['sg n', 'sg in', 'sg g', 'sg g']",1
+2543,ORG,"['sg n', 'sg in', 'sg g', 'sg in']",1
+2544,ORG,"['sg n', 'sg in', 'sg g', 'sg kom']",1
+3389,PER,"['sg n', 'sg in', 'sg g']",3
+2545,ORG,"['sg n', 'sg in', 'sg g']",10
+2546,ORG,"['sg n', 'sg in', 'sg in', '', 'sg g', 'sg g']",1
+3390,PER,"['sg n', 'sg in', 'sg in']",1
+2547,ORG,"['sg n', 'sg in', 'sg in']",6
+2548,ORG,"['sg n', 'sg in', 'sg kom']",1
+2549,ORG,"['sg n', 'sg in', 'sg n', '']",1
+2550,ORG,"['sg n', 'sg in', 'sg n', 'sg el']",1
+3391,PER,"['sg n', 'sg in', 'sg n', 'sg g']",1
+2551,ORG,"['sg n', 'sg in', 'sg n', 'sg in']",1
+2552,ORG,"['sg n', 'sg in', 'sg n', 'sg n']",1
+3392,PER,"['sg n', 'sg in', 'sg n', 'sg n']",2
+3393,PER,"['sg n', 'sg in', 'sg n']",16
+2553,ORG,"['sg n', 'sg in', 'sg n']",8
+2554,ORG,"['sg n', 'sg in', 'sg p', 'sg n']",1
+2555,ORG,"['sg n', 'sg in']",334
+3394,PER,"['sg n', 'sg in']",406
+437,LOC,"['sg n', 'sg in']",68
+3395,PER,"['sg n', 'sg kom', '', '?', 'sg n']",1
+3396,PER,"['sg n', 'sg kom', 'sg el']",1
+2556,ORG,"['sg n', 'sg kom', 'sg g', 'sg ad']",1
+2557,ORG,"['sg n', 'sg kom', 'sg g', 'sg all']",1
+2558,ORG,"['sg n', 'sg kom', 'sg g', 'sg g', 'sg g']",1
+2559,ORG,"['sg n', 'sg kom', 'sg g', 'sg g']",1
+3397,PER,"['sg n', 'sg kom', 'sg g', 'sg n']",1
+3398,PER,"['sg n', 'sg kom', 'sg g']",11
+2560,ORG,"['sg n', 'sg kom', 'sg g']",3
+2561,ORG,"['sg n', 'sg kom', 'sg in']",2
+2562,ORG,"['sg n', 'sg kom', 'sg n', '?']",1
+2563,ORG,"['sg n', 'sg kom', 'sg n', 'sg g']",1
+3399,PER,"['sg n', 'sg kom', 'sg n', 'sg g']",2
+3400,PER,"['sg n', 'sg kom', 'sg n']",1
+438,LOC,"['sg n', 'sg kom']",4
+3401,PER,"['sg n', 'sg kom']",3197
+2564,ORG,"['sg n', 'sg kom']",149
+3402,PER,"['sg n', 'sg n', '', '', '?', '', '']",1
+3403,PER,"['sg n', 'sg n', '', '', '?', 'sg n']",1
+3404,PER,"['sg n', 'sg n', '', '', 'sg n', '?', 'sg g']",1
+2565,ORG,"['sg n', 'sg n', '', '', 'sg n', '?']",1
+2566,ORG,"['sg n', 'sg n', '', '', 'sg n', 'sg g']",1
+3405,PER,"['sg n', 'sg n', '', '', 'sg n', 'sg g']",1
+2567,ORG,"['sg n', 'sg n', '', '', 'sg n', 'sg n']",1
+2568,ORG,"['sg n', 'sg n', '', '', 'sg n']",1
+3406,PER,"['sg n', 'sg n', '', '', 'sg n']",1
+2569,ORG,"['sg n', 'sg n', '', '']",3
+3407,PER,"['sg n', 'sg n', '', '']",4
+2570,ORG,"['sg n', 'sg n', '', '?', '']",1
+3408,PER,"['sg n', 'sg n', '', '?', '?', 'sg g']",1
+2571,ORG,"['sg n', 'sg n', '', '?', 'sg n', 'sg n']",2
+2572,ORG,"['sg n', 'sg n', '', '?', 'sg n']",1
+3409,PER,"['sg n', 'sg n', '', '?']",12
+2573,ORG,"['sg n', 'sg n', '', '?']",12
+3410,PER,"['sg n', 'sg n', '', 'pl n']",2
+2574,ORG,"['sg n', 'sg n', '', 'sg all']",2
+2575,ORG,"['sg n', 'sg n', '', 'sg el']",1
+2576,ORG,"['sg n', 'sg n', '', 'sg g', '', 'sg kom']",1
+3411,PER,"['sg n', 'sg n', '', 'sg g', 'sg g']",1
+2577,ORG,"['sg n', 'sg n', '', 'sg g']",6
+3412,PER,"['sg n', 'sg n', '', 'sg n', '', 'sg n']",1
+2578,ORG,"['sg n', 'sg n', '', 'sg n', '']",1
+3413,PER,"['sg n', 'sg n', '', 'sg n', '?', 'sg n']",2
+2579,ORG,"['sg n', 'sg n', '', 'sg n', '?']",1
+3414,PER,"['sg n', 'sg n', '', 'sg n', 'sg g']",1
+2580,ORG,"['sg n', 'sg n', '', 'sg n', 'sg in']",1
+3415,PER,"['sg n', 'sg n', '', 'sg n', 'sg n', 'sg in', 'sg n', 'sg n']",1
+2581,ORG,"['sg n', 'sg n', '', 'sg n', 'sg n']",3
+3416,PER,"['sg n', 'sg n', '', 'sg n']",41
+2582,ORG,"['sg n', 'sg n', '', 'sg n']",26
+439,LOC,"['sg n', 'sg n', '', 'sg n']",1
+3417,PER,"['sg n', 'sg n', '', 'sg p']",1
+2583,ORG,"['sg n', 'sg n', '']",147
+3418,PER,"['sg n', 'sg n', '']",10
+2584,ORG,"['sg n', 'sg n', '?', '', '?', 'sg in']",1
+2585,ORG,"['sg n', 'sg n', '?', '', '?']",1
+3419,PER,"['sg n', 'sg n', '?', '', 'sg g']",1
+3420,PER,"['sg n', 'sg n', '?', '', 'sg n']",4
+2586,ORG,"['sg n', 'sg n', '?', '']",18
+2587,ORG,"['sg n', 'sg n', '?', '?', '', '?', '', '?']",1
+2588,ORG,"['sg n', 'sg n', '?', '?', 'sg kom']",1
+2589,ORG,"['sg n', 'sg n', '?', '?', 'sg n']",1
+2590,ORG,"['sg n', 'sg n', '?', '?']",3
+2591,ORG,"['sg n', 'sg n', '?', 'adt']",2
+2592,ORG,"['sg n', 'sg n', '?', 'pl g']",1
+2593,ORG,"['sg n', 'sg n', '?', 'pl n']",1
+2594,ORG,"['sg n', 'sg n', '?', 'pl p']",1
+2595,ORG,"['sg n', 'sg n', '?', 'sg all']",1
+2596,ORG,"['sg n', 'sg n', '?', 'sg el', '', '?', '', 'pl n', 'sg n']",1
+2597,ORG,"['sg n', 'sg n', '?', 'sg el']",6
+2598,ORG,"['sg n', 'sg n', '?', 'sg g', '', 'sg n', 'sg n']",1
+2599,ORG,"['sg n', 'sg n', '?', 'sg g', 'sg g']",2
+2600,ORG,"['sg n', 'sg n', '?', 'sg g', 'sg kom']",1
+2601,ORG,"['sg n', 'sg n', '?', 'sg g', 'sg n']",1
+2602,ORG,"['sg n', 'sg n', '?', 'sg g']",4
+3421,PER,"['sg n', 'sg n', '?', 'sg g']",7
+2603,ORG,"['sg n', 'sg n', '?', 'sg in']",3
+3422,PER,"['sg n', 'sg n', '?', 'sg in']",1
+2604,ORG,"['sg n', 'sg n', '?', 'sg kom']",1
+2605,ORG,"['sg n', 'sg n', '?', 'sg n', '', 'sg n']",1
+2606,ORG,"['sg n', 'sg n', '?', 'sg n', '']",8
+2607,ORG,"['sg n', 'sg n', '?', 'sg n', '?', 'sg n', 'sg n']",1
+2608,ORG,"['sg n', 'sg n', '?', 'sg n', 'sg n', '']",1
+2609,ORG,"['sg n', 'sg n', '?', 'sg n', 'sg n', '?', 'sg n', '']",1
+2610,ORG,"['sg n', 'sg n', '?', 'sg n', 'sg n', 'sg n']",3
+2611,ORG,"['sg n', 'sg n', '?', 'sg n', 'sg n']",6
+3423,PER,"['sg n', 'sg n', '?', 'sg n', 'sg n']",3
+2612,ORG,"['sg n', 'sg n', '?', 'sg n']",50
+3424,PER,"['sg n', 'sg n', '?', 'sg n']",39
+440,LOC,"['sg n', 'sg n', '?', 'sg n']",1
+2613,ORG,"['sg n', 'sg n', '?']",174
+3425,PER,"['sg n', 'sg n', '?']",209
+441,LOC,"['sg n', 'sg n', '?']",2
+2614,ORG,"['sg n', 'sg n', 'adt', '', '?']",2
+3426,PER,"['sg n', 'sg n', 'adt']",10
+2615,ORG,"['sg n', 'sg n', 'adt']",26
+2616,ORG,"['sg n', 'sg n', 'pl abl']",2
+2617,ORG,"['sg n', 'sg n', 'pl el']",1
+3427,PER,"['sg n', 'sg n', 'pl el']",7
+2618,ORG,"['sg n', 'sg n', 'pl es']",1
+2619,ORG,"['sg n', 'sg n', 'pl g', '?']",2
+2620,ORG,"['sg n', 'sg n', 'pl g', 'sg el']",1
+2621,ORG,"['sg n', 'sg n', 'pl g', 'sg g']",1
+2622,ORG,"['sg n', 'sg n', 'pl g', 'sg n', 'sg g']",1
+2623,ORG,"['sg n', 'sg n', 'pl g']",9
+3428,PER,"['sg n', 'sg n', 'pl g']",2
+3429,PER,"['sg n', 'sg n', 'pl kom']",1
+2624,ORG,"['sg n', 'sg n', 'pl n', '']",2
+2625,ORG,"['sg n', 'sg n', 'pl n', '?', '']",1
+2626,ORG,"['sg n', 'sg n', 'pl n', 'sg n', '']",1
+2627,ORG,"['sg n', 'sg n', 'pl n', 'sg n', 'sg n']",1
+2628,ORG,"['sg n', 'sg n', 'pl n', 'sg n']",2
+2629,ORG,"['sg n', 'sg n', 'pl n']",18
+3430,PER,"['sg n', 'sg n', 'pl n']",33
+3431,PER,"['sg n', 'sg n', 'pl p', '']",1
+3432,PER,"['sg n', 'sg n', 'pl p', 'sg n']",1
+2630,ORG,"['sg n', 'sg n', 'pl p']",1
+3433,PER,"['sg n', 'sg n', 'pl p']",3
+3434,PER,"['sg n', 'sg n', 'pl ter']",1
+2631,ORG,"['sg n', 'sg n', 's', 'sg g']",1
+3435,PER,"['sg n', 'sg n', 'sg ab']",1
+2632,ORG,"['sg n', 'sg n', 'sg abl', 'sg g']",1
+2633,ORG,"['sg n', 'sg n', 'sg abl']",10
+3436,PER,"['sg n', 'sg n', 'sg abl']",9
+2634,ORG,"['sg n', 'sg n', 'sg ad']",14
+3437,PER,"['sg n', 'sg n', 'sg ad']",19
+2635,ORG,"['sg n', 'sg n', 'sg all', '']",2
+2636,ORG,"['sg n', 'sg n', 'sg all', 'sg g', 'sg g']",1
+2637,ORG,"['sg n', 'sg n', 'sg all', 'sg g']",5
+2638,ORG,"['sg n', 'sg n', 'sg all', 'sg n', 'sg n', 'sg n', '', 'sg el', '']",1
+2639,ORG,"['sg n', 'sg n', 'sg all']",249
+3438,PER,"['sg n', 'sg n', 'sg all']",29
+2640,ORG,"['sg n', 'sg n', 'sg el', '']",2
+2641,ORG,"['sg n', 'sg n', 'sg el', '?']",1
+2642,ORG,"['sg n', 'sg n', 'sg el', 'sg g']",1
+2643,ORG,"['sg n', 'sg n', 'sg el']",43
+3439,PER,"['sg n', 'sg n', 'sg el']",65
+442,LOC,"['sg n', 'sg n', 'sg el']",1
+3440,PER,"['sg n', 'sg n', 'sg es']",9
+2644,ORG,"['sg n', 'sg n', 'sg g', '', '?', 'sg n']",1
+2645,ORG,"['sg n', 'sg n', 'sg g', '', 'sg el']",1
+2646,ORG,"['sg n', 'sg n', 'sg g', '']",4
+2647,ORG,"['sg n', 'sg n', 'sg g', '?', '', 'sg n', '', 'sg n', 'sg g', '?']",1
+2648,ORG,"['sg n', 'sg n', 'sg g', '?', 'sg g']",3
+2649,ORG,"['sg n', 'sg n', 'sg g', '?', 'sg p']",1
+2650,ORG,"['sg n', 'sg n', 'sg g', '?']",22
+3441,PER,"['sg n', 'sg n', 'sg g', '?']",1
+2651,ORG,"['sg n', 'sg n', 'sg g', 'pl g', 'sg n']",1
+2652,ORG,"['sg n', 'sg n', 'sg g', 'pl n']",1
+2653,ORG,"['sg n', 'sg n', 'sg g', 'sg ad']",1
+2654,ORG,"['sg n', 'sg n', 'sg g', 'sg all']",2
+2655,ORG,"['sg n', 'sg n', 'sg g', 'sg el', 'sg el']",1
+443,LOC,"['sg n', 'sg n', 'sg g', 'sg el']",1
+2656,ORG,"['sg n', 'sg n', 'sg g', 'sg el']",21
+2657,ORG,"['sg n', 'sg n', 'sg g', 'sg g', '?']",1
+2658,ORG,"['sg n', 'sg n', 'sg g', 'sg g', 'sg g', 'sg n']",1
+2659,ORG,"['sg n', 'sg n', 'sg g', 'sg g', 'sg g']",3
+2660,ORG,"['sg n', 'sg n', 'sg g', 'sg g', 'sg n']",3
+2661,ORG,"['sg n', 'sg n', 'sg g', 'sg g']",32
+3442,PER,"['sg n', 'sg n', 'sg g', 'sg g']",2
+2662,ORG,"['sg n', 'sg n', 'sg g', 'sg ill']",1
+2663,ORG,"['sg n', 'sg n', 'sg g', 'sg in']",8
+3443,PER,"['sg n', 'sg n', 'sg g', 'sg n']",5
+2664,ORG,"['sg n', 'sg n', 'sg g', 'sg n']",19
+3444,PER,"['sg n', 'sg n', 'sg g', 'sg p']",1
+444,LOC,"['sg n', 'sg n', 'sg g']",3
+3445,PER,"['sg n', 'sg n', 'sg g']",643
+2665,ORG,"['sg n', 'sg n', 'sg g']",487
+2666,ORG,"['sg n', 'sg n', 'sg ill']",3
+3446,PER,"['sg n', 'sg n', 'sg ill']",9
+2667,ORG,"['sg n', 'sg n', 'sg in', '']",2
+2668,ORG,"['sg n', 'sg n', 'sg in', 'sg n']",1
+445,LOC,"['sg n', 'sg n', 'sg in']",4
+2669,ORG,"['sg n', 'sg n', 'sg in']",58
+3447,PER,"['sg n', 'sg n', 'sg in']",8
+2670,ORG,"['sg n', 'sg n', 'sg kom', 'sg g']",1
+3448,PER,"['sg n', 'sg n', 'sg kom']",59
+2671,ORG,"['sg n', 'sg n', 'sg kom']",22
+2672,ORG,"['sg n', 'sg n', 'sg n', '', '']",1
+2673,ORG,"['sg n', 'sg n', 'sg n', '', '?', '', '?', '', 'sg n']",1
+2674,ORG,"['sg n', 'sg n', 'sg n', '', '?', '', '?']",14
+2675,ORG,"['sg n', 'sg n', 'sg n', '', '?', '', 'sg n', '', '?', '', '?']",2
+2676,ORG,"['sg n', 'sg n', 'sg n', '', '?', '', 'sg n']",5
+2677,ORG,"['sg n', 'sg n', 'sg n', '', '?']",140
+3449,PER,"['sg n', 'sg n', 'sg n', '', 'sg ad']",1
+2678,ORG,"['sg n', 'sg n', 'sg n', '', 'sg g']",1
+2679,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n', '', '?', '', '?']",2
+2680,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n', '', '?']",2
+2681,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n', '', 'b']",1
+2682,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n', '?']",5
+2683,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n', 'sg n']",1
+3450,PER,"['sg n', 'sg n', 'sg n', '', 'sg n']",3
+2684,ORG,"['sg n', 'sg n', 'sg n', '', 'sg n']",4
+2685,ORG,"['sg n', 'sg n', 'sg n', '']",30
+2686,ORG,"['sg n', 'sg n', 'sg n', '?', '', 'sg n', 'sg n']",1
+2687,ORG,"['sg n', 'sg n', 'sg n', '?', '']",4
+2688,ORG,"['sg n', 'sg n', 'sg n', '?', '?']",1
+2689,ORG,"['sg n', 'sg n', 'sg n', '?', 'sg ad']",1
+2690,ORG,"['sg n', 'sg n', 'sg n', '?', 'sg n', '']",2
+2691,ORG,"['sg n', 'sg n', 'sg n', '?', 'sg n']",2
+3451,PER,"['sg n', 'sg n', 'sg n', '?', 'sg n']",3
+2692,ORG,"['sg n', 'sg n', 'sg n', '?']",35
+3452,PER,"['sg n', 'sg n', 'sg n', '?']",8
+2693,ORG,"['sg n', 'sg n', 'sg n', 'pl n']",4
+3453,PER,"['sg n', 'sg n', 'sg n', 'pl n']",2
+2694,ORG,"['sg n', 'sg n', 'sg n', 'pl p']",2
+3454,PER,"['sg n', 'sg n', 'sg n', 'sg ad']",1
+2695,ORG,"['sg n', 'sg n', 'sg n', 'sg ad']",1
+2696,ORG,"['sg n', 'sg n', 'sg n', 'sg all']",3
+3455,PER,"['sg n', 'sg n', 'sg n', 'sg all']",2
+2697,ORG,"['sg n', 'sg n', 'sg n', 'sg el']",4
+3456,PER,"['sg n', 'sg n', 'sg n', 'sg el']",4
+3457,PER,"['sg n', 'sg n', 'sg n', 'sg es']",2
+2698,ORG,"['sg n', 'sg n', 'sg n', 'sg g', '', 'sg g', '?']",1
+2699,ORG,"['sg n', 'sg n', 'sg n', 'sg g', '?', '']",1
+2700,ORG,"['sg n', 'sg n', 'sg n', 'sg g', '?', 'sg n']",1
+2701,ORG,"['sg n', 'sg n', 'sg n', 'sg g', '?']",1
+2702,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'pl g']",1
+2703,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg ad']",1
+2704,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg el']",1
+2705,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg g', 'sg g', '?', 'sg g', 'sg g']",1
+3458,PER,"['sg n', 'sg n', 'sg n', 'sg g', 'sg g', 'sg g', 'sg n', 'sg n']",1
+2706,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg g', 'sg g']",1
+2707,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg g']",5
+2708,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg in']",1
+2709,ORG,"['sg n', 'sg n', 'sg n', 'sg g', 'sg n']",1
+3459,PER,"['sg n', 'sg n', 'sg n', 'sg g']",36
+2710,ORG,"['sg n', 'sg n', 'sg n', 'sg g']",35
+2711,ORG,"['sg n', 'sg n', 'sg n', 'sg ill']",1
+2712,ORG,"['sg n', 'sg n', 'sg n', 'sg in']",8
+2713,ORG,"['sg n', 'sg n', 'sg n', 'sg kom']",1
+3460,PER,"['sg n', 'sg n', 'sg n', 'sg kom']",5
+2714,ORG,"['sg n', 'sg n', 'sg n', 'sg n', '', 'sg n', '']",1
+2715,ORG,"['sg n', 'sg n', 'sg n', 'sg n', '']",4
+2716,ORG,"['sg n', 'sg n', 'sg n', 'sg n', '?', 'sg g']",2
+3461,PER,"['sg n', 'sg n', 'sg n', 'sg n', '?', 'sg n']",1
+2717,ORG,"['sg n', 'sg n', 'sg n', 'sg n', '?']",3
+2718,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg all']",3
+2719,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg g']",1
+3462,PER,"['sg n', 'sg n', 'sg n', 'sg n', 'sg g']",1
+2720,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg kom']",1
+2721,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', '', 'sg n']",1
+2722,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', '?', 'sg n']",1
+2723,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg g']",1
+2724,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2725,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+3463,PER,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+3464,PER,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",3
+2726,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n', 'sg n']",1
+2727,ORG,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n']",11
+3465,PER,"['sg n', 'sg n', 'sg n', 'sg n', 'sg n']",9
+2728,ORG,"['sg n', 'sg n', 'sg n', 'sg n']",147
+3466,PER,"['sg n', 'sg n', 'sg n', 'sg n']",260
+3467,PER,"['sg n', 'sg n', 'sg n', 'sg p']",4
+3468,PER,"['sg n', 'sg n', 'sg n', 'sg ter']",2
+2729,ORG,"['sg n', 'sg n', 'sg n']",2090
+3469,PER,"['sg n', 'sg n', 'sg n']",2360
+446,LOC,"['sg n', 'sg n', 'sg n']",3
+2730,ORG,"['sg n', 'sg n', 'sg p', 'sg g']",1
+2731,ORG,"['sg n', 'sg n', 'sg p', 'sg in']",1
+3470,PER,"['sg n', 'sg n', 'sg p', 'sg n']",1
+2732,ORG,"['sg n', 'sg n', 'sg p', 'sg p']",1
+447,LOC,"['sg n', 'sg n', 'sg p']",1
+2733,ORG,"['sg n', 'sg n', 'sg p']",13
+3471,PER,"['sg n', 'sg n', 'sg p']",25
+2734,ORG,"['sg n', 'sg n', 'sg ter']",1
+3472,PER,"['sg n', 'sg n', 'sg ter']",3
+2735,ORG,"['sg n', 'sg n']",6454
+448,LOC,"['sg n', 'sg n']",142
+3473,PER,"['sg n', 'sg n']",119914
+2736,ORG,"['sg n', 'sg p', '']",1
+3474,PER,"['sg n', 'sg p', '?']",1
+2737,ORG,"['sg n', 'sg p', 'sg el']",1
+2738,ORG,"['sg n', 'sg p', 'sg g', '?']",1
+2739,ORG,"['sg n', 'sg p', 'sg g', 'tud', 'sg el']",1
+2740,ORG,"['sg n', 'sg p', 'sg g']",1
+3475,PER,"['sg n', 'sg p', 'sg g']",2
+3476,PER,"['sg n', 'sg p', 'sg kom']",1
+2741,ORG,"['sg n', 'sg p', 'sg n', 'sg all']",1
+3477,PER,"['sg n', 'sg p', 'sg n', 'sg n']",1
+2742,ORG,"['sg n', 'sg p', 'sg n', 'sg n']",1
+2743,ORG,"['sg n', 'sg p', 'sg n']",2
+3478,PER,"['sg n', 'sg p', 'sg n']",4
+3479,PER,"['sg n', 'sg p']",1699
+449,LOC,"['sg n', 'sg p']",15
+2744,ORG,"['sg n', 'sg p']",150
+450,LOC,"['sg n', 'sg ter']",2
+2745,ORG,"['sg n', 'sg ter']",7
+3480,PER,"['sg n', 'sg ter']",133
+2746,ORG,"['sg n', 'sg tr', '']",1
+3481,PER,"['sg n', 'sg tr']",41
+2747,ORG,"['sg n', 'sg tr']",4
+3482,PER,"['sg n', 'ta']",1
+3483,PER,"['sg n', 'ti']",2
+2748,ORG,"['sg n', 'tud', 'sg g']",2
+451,LOC,['sg n'],23077
+2749,ORG,['sg n'],18025
+3484,PER,['sg n'],116054
+2750,ORG,"['sg p', '', 'pl n', '', 'sg n']",1
+452,LOC,"['sg p', '', 'sg ad']",1
+453,LOC,"['sg p', '', 'sg g', '?']",1
+3485,PER,"['sg p', '', 'sg g']",1
+2751,ORG,"['sg p', '', 'sg g']",1
+454,LOC,"['sg p', '', 'sg g']",1
+2752,ORG,"['sg p', '', 'sg n']",2
+3486,PER,"['sg p', '', 'sg n']",5
+3487,PER,"['sg p', '', 'sg p']",2
+2753,ORG,"['sg p', '']",3
+3488,PER,"['sg p', '']",2
+2754,ORG,"['sg p', '?', 'sg g']",1
+2755,ORG,"['sg p', '?', 'sg n']",1
+455,LOC,"['sg p', '?', 'sg n']",1
+2756,ORG,"['sg p', '?']",7
+3489,PER,"['sg p', '?']",3
+2757,ORG,"['sg p', 'adt']",3
+3490,PER,"['sg p', 'adt']",1
+3491,PER,"['sg p', 'pl el']",1
+2758,ORG,"['sg p', 'pl g', 'adt']",1
+2759,ORG,"['sg p', 'pl g', 'sg g']",1
+2760,ORG,"['sg p', 'pl n', 'sg n']",1
+2761,ORG,"['sg p', 'pl n']",1
+3492,PER,"['sg p', 'pl n']",1
+3493,PER,"['sg p', 'sg abl']",4
+456,LOC,"['sg p', 'sg ad', 'sg g']",1
+3494,PER,"['sg p', 'sg all']",3
+457,LOC,"['sg p', 'sg el']",2
+3495,PER,"['sg p', 'sg el']",1
+2762,ORG,"['sg p', 'sg el']",6
+2763,ORG,"['sg p', 'sg g', 'sg abl']",1
+2764,ORG,"['sg p', 'sg g', 'sg all']",1
+2765,ORG,"['sg p', 'sg g', 'sg g']",3
+2766,ORG,"['sg p', 'sg g', 'sg in']",3
+2767,ORG,"['sg p', 'sg g', 'sg n']",1
+2768,ORG,"['sg p', 'sg g', 'sg p']",1
+3496,PER,"['sg p', 'sg g']",118
+458,LOC,"['sg p', 'sg g']",7
+2769,ORG,"['sg p', 'sg g']",34
+459,LOC,"['sg p', 'sg ill']",1
+3497,PER,"['sg p', 'sg in']",3
+460,LOC,"['sg p', 'sg in']",6
+2770,ORG,"['sg p', 'sg in']",7
+3498,PER,"['sg p', 'sg kom', 'sg g']",1
+2771,ORG,"['sg p', 'sg kom']",3
+3499,PER,"['sg p', 'sg kom']",12
+461,LOC,"['sg p', 'sg kom']",1
+2772,ORG,"['sg p', 'sg n', '', '', '']",1
+2773,ORG,"['sg p', 'sg n', '', 'sg el']",1
+2774,ORG,"['sg p', 'sg n', '', 'sg n']",1
+3500,PER,"['sg p', 'sg n', '?', 'sg n']",1
+2775,ORG,"['sg p', 'sg n', '?']",5
+2776,ORG,"['sg p', 'sg n', 'sg all']",1
+2777,ORG,"['sg p', 'sg n', 'sg in']",1
+2778,ORG,"['sg p', 'sg n', 'sg n', 'sg g']",1
+3501,PER,"['sg p', 'sg n', 'sg n', 'sg g']",1
+2779,ORG,"['sg p', 'sg n', 'sg n', 'sg n']",1
+2780,ORG,"['sg p', 'sg n', 'sg n']",8
+3502,PER,"['sg p', 'sg n', 'sg n']",5
+2781,ORG,"['sg p', 'sg n', 'sg p']",1
+3503,PER,"['sg p', 'sg n', 'sg p']",2
+2782,ORG,"['sg p', 'sg n']",29
+462,LOC,"['sg p', 'sg n']",2
+3504,PER,"['sg p', 'sg n']",148
+2783,ORG,"['sg p', 'sg p', 'sg in']",1
+2784,ORG,"['sg p', 'sg p', 'sg p']",1
+3505,PER,"['sg p', 'sg p']",8
+463,LOC,"['sg p', 'sg p']",4
+2785,ORG,"['sg p', 'sg p']",36
+3506,PER,"['sg p', 'sg ter']",1
+464,LOC,['sg p'],3137
+2786,ORG,['sg p'],717
+3507,PER,['sg p'],3380
+2787,ORG,"['sg ter', 'sg el']",1
+3508,PER,"['sg ter', 'sg g']",1
+3509,PER,"['sg ter', 'sg kom']",1
+465,LOC,"['sg ter', 'sg n']",2
+2788,ORG,"['sg ter', 'sg n']",2
+3510,PER,"['sg ter', 'sg n']",8
+466,LOC,['sg ter'],185
+3511,PER,['sg ter'],135
+2789,ORG,['sg ter'],16
+3512,PER,"['sg tr', '']",1
+2790,ORG,"['sg tr', 'sg all']",1
+2791,ORG,"['sg tr', 'sg g']",2
+2792,ORG,"['sg tr', 'sg n']",2
+2793,ORG,"['sg tr', 'sg tr']",1
+2794,ORG,['sg tr'],13
+467,LOC,['sg tr'],87
+3513,PER,['sg tr'],48
+3514,PER,['sid'],1
+3515,PER,"['sime', 'sg g']",2
+2795,ORG,"['sime', 'sg g']",1
+3516,PER,"['sime', 'sg kom']",1
+3517,PER,"['sime', 'sg n']",1
+3518,PER,['sime'],1
+2796,ORG,"['sin', 'adt']",1
+2797,ORG,"['sin', 'sg abl']",1
+2798,ORG,"['sin', 'sg ad', 'sg in']",1
+3519,PER,"['sin', 'sg all']",1
+3520,PER,"['sin', 'sg g']",1
+2799,ORG,"['sin', 'sg g']",1
+3521,PER,"['sin', 'sg n']",1
+3522,PER,"['sin', 'sg ter']",1
+3523,PER,['sin'],5
+468,LOC,"['takse', '']",1
+3524,PER,"['takse', 'sg g']",1
+2800,ORG,"['takse', 'sg g']",1
+3525,PER,['takse'],4
+3526,PER,"['te', 'sg p']",1
+3527,PER,['te'],1
+3528,PER,"['ti', 'sg g']",1
+2801,ORG,"['ti', 'sg g']",1
+3529,PER,"['ti', 'sg n']",1
+3530,PER,['ti'],1
+2802,ORG,"['tud', 'pl g', 'sg g']",2
+2803,ORG,"['tud', 'pl in']",1
+2804,ORG,"['tud', 'sg all']",3
+2805,ORG,"['tud', 'sg el']",1
+2806,ORG,"['tud', 'sg g', 'sg abl']",3
+2807,ORG,"['tud', 'sg g', 'sg all']",3
+2808,ORG,"['tud', 'sg g', 'sg el']",1
+2809,ORG,"['tud', 'sg g', 'sg g', 'sg g', 'sg g', 'sg g']",2
+2810,ORG,"['tud', 'sg g', 'sg g', 'sg g']",3
+2811,ORG,"['tud', 'sg g', 'sg g', 'sg n']",3
+2812,ORG,"['tud', 'sg g', 'sg g']",56
+2813,ORG,"['tud', 'sg g', 'sg in']",2
+2814,ORG,"['tud', 'sg g', 'sg n', '', 'sg n', '', 'sg n']",1
+2815,ORG,"['tud', 'sg g', 'sg n', '?', 'sg in']",1
+2816,ORG,"['tud', 'sg g', 'sg n', 'sg g']",1
+2817,ORG,"['tud', 'sg g', 'sg n']",52
+2818,ORG,"['tud', 'sg g']",16
+2819,ORG,"['tud', 'sg in']",3
+2820,ORG,"['tud', 'sg n', '?', 'sg g']",1
+2821,ORG,"['tud', 'sg n', 'sg n']",3
+2822,ORG,"['tud', 'sg n']",2
+2823,ORG,"['vad', 'sg g']",1
+469,LOC,['vad'],1
+3531,PER,['vad'],2
